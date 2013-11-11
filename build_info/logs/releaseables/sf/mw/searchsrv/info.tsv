@@ -1,0 +1,110 @@
+/epoc32/data/z/private/10003a3f/apps/cpixrotlog_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/cpixrotlog_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/101f875a/import/20029ab8.rsc	resource	armv5_urel
+/epoc32/data/z/private/101f875a/import/20029ab8.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202be9/20029AB8.txt	export	
+/epoc32/data/z/resource/cpix/analyzer.loc	export	
+/epoc32/data/z/resource/cpix/thaidict.sm	export	
+/epoc32/include/platform/mw/ccpixindexer.h	export	
+/epoc32/include/platform/mw/ccpixsearcher.h	export	
+/epoc32/include/platform/mw/cdocumentfield.h	export	
+/epoc32/include/platform/mw/cindexingplugin.h	export	
+/epoc32/include/platform/mw/common.h	export	
+/epoc32/include/platform/mw/contentinfodbcommon.h	export	
+/epoc32/include/platform/mw/contentinfodbupdate.h	export	
+/epoc32/include/platform/mw/cpixcommon.h	export	
+/epoc32/include/platform/mw/cpixcontentinfodbdef.h	export	
+/epoc32/include/platform/mw/cpixcontentinfodbread.h	export	
+/epoc32/include/platform/mw/cpixdocument.h	export	
+/epoc32/include/platform/mw/cpixdocumentfield.h	export	
+/epoc32/include/platform/mw/cpixmaindefs.h	export	
+/epoc32/include/platform/mw/cpixsearcher.h	export	
+/epoc32/include/platform/mw/cpixwatchdogcommon.h	export	
+/epoc32/include/platform/mw/csearchdocument.h	export	
+/epoc32/include/platform/mw/delayedcallback.h	export	
+/epoc32/include/platform/mw/fileharvesterdefs.h	export	
+/epoc32/include/platform/mw/harvesterserverlogger.h	export	
+/epoc32/include/platform/mw/indevicecfg.h	export	
+/epoc32/include/platform/mw/mcpixdatabaseobserver.h	export	
+/epoc32/include/platform/mw/mcpixsearcherobserver.h	export	
+/epoc32/include/platform/mw/messageharvesterdefs.h	export	
+/epoc32/include/platform/mw/mindexingpluginobserver.h	export	
+/epoc32/include/platform/mw/rsearchserversession.h	export	
+/epoc32/include/platform/mw/searchserverdefs.h	export	
+/epoc32/include/platform/mw/searchserverlogger.h	export	
+/epoc32/release/armv5/lib/CPixHarvesterPluginInterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CPixHarvesterPluginInterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CPixHarvesterPluginInterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CPixHarvesterPluginInterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CPixSearchClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CPixSearchClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CPixSearchClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CPixSearchClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpixsearch.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpixsearch.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpixsearch{00010000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpixsearch{00010000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/CPixHarvesterPluginInterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CPixHarvesterPluginInterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CPixSearchClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CPixSearchClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CPixSearchServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/CPixSearchServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixrotlog.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixrotlog.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixsearch.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixsearch.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixwatchdog.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixwatchdog.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcpix.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcpixtools.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/libqautils.lib	build	armv5_udeb
+/epoc32/release/armv5/urel/CPixHarvesterPluginInterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CPixHarvesterPluginInterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CPixSearchClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CPixSearchClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CPixSearchServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/CPixSearchServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixrotlog.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cpixrotlog.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixsearch.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixsearch.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixwatchdog.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cpixwatchdog.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/libcpix.lib	build	armv5_urel
+/epoc32/release/armv5/urel/libcpixtools.lib	build	armv5_urel
+/epoc32/release/armv5/urel/libqautils.lib	build	armv5_urel
+/epoc32/release/winscw/udeb/CPixHarvesterPluginInterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CPixHarvesterPluginInterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CPixSearchClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CPixSearchClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CPixSearchServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixrotlog.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixsearch.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixsearch.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixwatchdog.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcpix.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcpixtools.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libqautils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/cpixrotlog_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f875a/import/20029ab8.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/cpix/analyzer.loc	export	
+/epoc32/release/winscw/udeb/z/resource/cpix/thaidict.sm	export	
+/epoc32/release/winscw/urel/CPixHarvesterPluginInterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CPixHarvesterPluginInterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CPixSearchClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CPixSearchClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CPixSearchServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/CPixSearchServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixrotlog.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cpixrotlog.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixsearch.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixsearch.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixwatchdog.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cpixwatchdog.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/libcpix.lib	build	winscw_urel
+/epoc32/release/winscw/urel/libcpixtools.lib	build	winscw_urel
+/epoc32/release/winscw/urel/libqautils.lib	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/cpixrotlog_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/101f875a/import/20029ab8.rsc	resource	winscw_udeb
+/epoc32/winscw/c/private/10202be9/20029AB8.txt	export	

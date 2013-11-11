@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="calendarwidget" level="apps" levels="build app" long-name="Calendar Widget">
+<collection name="calendarwidget_info" long-name="Calendar Widget Info" level="build">
+<component name="calendarwidget_rom" long-name="Calendar Widget ROM" introduced="^4" filter="dfs_build" purpose="optional">
+<!-- remove subdirs and put exports into a real bld.inf  -->
+<unit bldFile="/sf/app/calendarwidget/." proFile="calendarwidget.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="calendarwidgetinstaller" long-name="Calendar Widget Installer" level="build">
+<!-- collection is really a component, need to move down a directory -->
+<component name="calendarwidgetinstaller_build" long-name="Calendar Widget Installer Build" introduced="^4" filter="dfs_build" purpose="optional" class="placeholder">
+<!--  built by calendarwidget_rom
+	  <unit bldFile="calendarwidgetinstaller" qt:qmakeArgs="-r" qt:proFile="calendarwidgetinstaller.pro"/> -->
+</component>
+</collection>
+<collection name="calendarwidgetplugin" long-name="Calendar Widget Plugin" level="app">
+<!-- collection is really a component, need to move down a directory -->
+<component name="calendarwidgetplugin_build" long-name="Calendar Widget Plugin Build" introduced="^4" filter="dfs_build" purpose="optional" plugin="Y" class="placeholder">
+<!--  built by calendarwidget_rom
+	  <unit bldFile="calendarwidgetplugin" qt:qmakeArgs="-r" qt:proFile="calendarwidgetplugin.pro"/> -->
+</component>
+<component name="calendarwidgetplugin_test" long-name="Calendar Widget Plugin Test" introduced="^4" filter="dfs_build" purpose="optional">
+<unit bldFile="/sf/app/calendarwidget/calendarwidgetplugin/tsrc" proFile="tsrc.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

@@ -1,0 +1,741 @@
+/epoc32/data/z/resource/cntmodel/cntmodel.rsc	resource	armv5_urel
+/epoc32/data/z/resource/cntmodel/cntmodel.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cntmatchlog.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cntmatchlog.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cntphone.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cntphone.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cntvcard.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cntvcard.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/qtmobility_stub.sis	export	
+/epoc32/include/app/QContact	export	
+/epoc32/include/app/QContactAbstractRequest	export	
+/epoc32/include/app/QContactAction	export	
+/epoc32/include/app/QContactActionDescriptor	export	
+/epoc32/include/app/QContactActionFactory	export	
+/epoc32/include/app/QContactActionFilter	export	
+/epoc32/include/app/QContactAddress	export	
+/epoc32/include/app/QContactAnniversary	export	
+/epoc32/include/app/QContactAvatar	export	
+/epoc32/include/app/QContactBirthday	export	
+/epoc32/include/app/QContactChangeLogFilter	export	
+/epoc32/include/app/QContactChangeSet	export	
+/epoc32/include/app/QContactDetail	export	
+/epoc32/include/app/QContactDetailDefinition	export	
+/epoc32/include/app/QContactDetailDefinitionFetchRequest	export	
+/epoc32/include/app/QContactDetailDefinitionRemoveRequest	export	
+/epoc32/include/app/QContactDetailDefinitionSaveRequest	export	
+/epoc32/include/app/QContactDetailFieldDefinition	export	
+/epoc32/include/app/QContactDetailFilter	export	
+/epoc32/include/app/QContactDetailRangeFilter	export	
+/epoc32/include/app/QContactDisplayLabel	export	
+/epoc32/include/app/QContactEmailAddress	export	
+/epoc32/include/app/QContactFamily	export	
+/epoc32/include/app/QContactFetchHint	export	
+/epoc32/include/app/QContactFetchRequest	export	
+/epoc32/include/app/QContactFilter	export	
+/epoc32/include/app/QContactGender	export	
+/epoc32/include/app/QContactGeoLocation	export	
+/epoc32/include/app/QContactGlobalPresence	export	
+/epoc32/include/app/QContactGuid	export	
+/epoc32/include/app/QContactId	export	
+/epoc32/include/app/QContactIntersectionFilter	export	
+/epoc32/include/app/QContactInvalidFilter	export	
+/epoc32/include/app/QContactLocalIdFetchRequest	export	
+/epoc32/include/app/QContactLocalIdFilter	export	
+/epoc32/include/app/QContactManager	export	
+/epoc32/include/app/QContactManagerEngine	export	
+/epoc32/include/app/QContactManagerEngineFactory	export	
+/epoc32/include/app/QContactName	export	
+/epoc32/include/app/QContactNickname	export	
+/epoc32/include/app/QContactNote	export	
+/epoc32/include/app/QContactOnlineAccount	export	
+/epoc32/include/app/QContactOrganization	export	
+/epoc32/include/app/QContactPhoneNumber	export	
+/epoc32/include/app/QContactPresence	export	
+/epoc32/include/app/QContactRelationship	export	
+/epoc32/include/app/QContactRelationshipFetchRequest	export	
+/epoc32/include/app/QContactRelationshipFilter	export	
+/epoc32/include/app/QContactRelationshipRemoveRequest	export	
+/epoc32/include/app/QContactRelationshipSaveRequest	export	
+/epoc32/include/app/QContactRemoveRequest	export	
+/epoc32/include/app/QContactRingtone	export	
+/epoc32/include/app/QContactSaveRequest	export	
+/epoc32/include/app/QContactSortOrder	export	
+/epoc32/include/app/QContactSyncTarget	export	
+/epoc32/include/app/QContactTag	export	
+/epoc32/include/app/QContactThumbnail	export	
+/epoc32/include/app/QContactTimestamp	export	
+/epoc32/include/app/QContactType	export	
+/epoc32/include/app/QContactUnionFilter	export	
+/epoc32/include/app/QContactUrl	export	
+/epoc32/include/app/QVersitContactExporter	export	
+/epoc32/include/app/QVersitContactExporterDetailHandler	export	
+/epoc32/include/app/QVersitContactExporterDetailHandlerV2	export	
+/epoc32/include/app/QVersitContactHandler	export	
+/epoc32/include/app/QVersitContactHandlerFactory	export	
+/epoc32/include/app/QVersitContactImporter	export	
+/epoc32/include/app/QVersitContactImporterPropertyHandler	export	
+/epoc32/include/app/QVersitContactImporterPropertyHandlerV2	export	
+/epoc32/include/app/QVersitDefaultResourceHandler	export	
+/epoc32/include/app/QVersitDocument	export	
+/epoc32/include/app/QVersitProperty	export	
+/epoc32/include/app/QVersitReader	export	
+/epoc32/include/app/QVersitResourceHandler	export	
+/epoc32/include/app/QVersitWriter	export	
+/epoc32/include/app/qcontact.h	export	
+/epoc32/include/app/qcontactabstractrequest.h	export	
+/epoc32/include/app/qcontactaction.h	export	
+/epoc32/include/app/qcontactactiondescriptor.h	export	
+/epoc32/include/app/qcontactactionfactory.h	export	
+/epoc32/include/app/qcontactactionfilter.h	export	
+/epoc32/include/app/qcontactaddress.h	export	
+/epoc32/include/app/qcontactanniversary.h	export	
+/epoc32/include/app/qcontactavatar.h	export	
+/epoc32/include/app/qcontactbirthday.h	export	
+/epoc32/include/app/qcontactchangelogfilter.h	export	
+/epoc32/include/app/qcontactchangeset.h	export	
+/epoc32/include/app/qcontactdetail.h	export	
+/epoc32/include/app/qcontactdetaildefinition.h	export	
+/epoc32/include/app/qcontactdetaildefinitionfetchrequest.h	export	
+/epoc32/include/app/qcontactdetaildefinitionremoverequest.h	export	
+/epoc32/include/app/qcontactdetaildefinitionsaverequest.h	export	
+/epoc32/include/app/qcontactdetailfielddefinition.h	export	
+/epoc32/include/app/qcontactdetailfilter.h	export	
+/epoc32/include/app/qcontactdetailrangefilter.h	export	
+/epoc32/include/app/qcontactdetails.h	export	
+/epoc32/include/app/qcontactdisplaylabel.h	export	
+/epoc32/include/app/qcontactemailaddress.h	export	
+/epoc32/include/app/qcontactfamily.h	export	
+/epoc32/include/app/qcontactfetchhint.h	export	
+/epoc32/include/app/qcontactfetchrequest.h	export	
+/epoc32/include/app/qcontactfilter.h	export	
+/epoc32/include/app/qcontactfilters.h	export	
+/epoc32/include/app/qcontactgender.h	export	
+/epoc32/include/app/qcontactgeolocation.h	export	
+/epoc32/include/app/qcontactglobalpresence.h	export	
+/epoc32/include/app/qcontactguid.h	export	
+/epoc32/include/app/qcontactid.h	export	
+/epoc32/include/app/qcontactintersectionfilter.h	export	
+/epoc32/include/app/qcontactinvalidfilter.h	export	
+/epoc32/include/app/qcontactlocalidfetchrequest.h	export	
+/epoc32/include/app/qcontactlocalidfilter.h	export	
+/epoc32/include/app/qcontactmanager.h	export	
+/epoc32/include/app/qcontactmanagerengine.h	export	
+/epoc32/include/app/qcontactmanagerenginefactory.h	export	
+/epoc32/include/app/qcontactname.h	export	
+/epoc32/include/app/qcontactnickname.h	export	
+/epoc32/include/app/qcontactnote.h	export	
+/epoc32/include/app/qcontactonlineaccount.h	export	
+/epoc32/include/app/qcontactorganization.h	export	
+/epoc32/include/app/qcontactphonenumber.h	export	
+/epoc32/include/app/qcontactpresence.h	export	
+/epoc32/include/app/qcontactrelationship.h	export	
+/epoc32/include/app/qcontactrelationshipfetchrequest.h	export	
+/epoc32/include/app/qcontactrelationshipfilter.h	export	
+/epoc32/include/app/qcontactrelationshipremoverequest.h	export	
+/epoc32/include/app/qcontactrelationshipsaverequest.h	export	
+/epoc32/include/app/qcontactremoverequest.h	export	
+/epoc32/include/app/qcontactrequests.h	export	
+/epoc32/include/app/qcontactringtone.h	export	
+/epoc32/include/app/qcontactsaverequest.h	export	
+/epoc32/include/app/qcontactsortorder.h	export	
+/epoc32/include/app/qcontactsynctarget.h	export	
+/epoc32/include/app/qcontacttag.h	export	
+/epoc32/include/app/qcontactthumbnail.h	export	
+/epoc32/include/app/qcontacttimestamp.h	export	
+/epoc32/include/app/qcontacttype.h	export	
+/epoc32/include/app/qcontactunionfilter.h	export	
+/epoc32/include/app/qcontacturl.h	export	
+/epoc32/include/app/qtcontacts.h	export	
+/epoc32/include/app/qtcontactsglobal.h	export	
+/epoc32/include/app/qversitcontactexporter.h	export	
+/epoc32/include/app/qversitcontacthandler.h	export	
+/epoc32/include/app/qversitcontactimporter.h	export	
+/epoc32/include/app/qversitdocument.h	export	
+/epoc32/include/app/qversitproperty.h	export	
+/epoc32/include/app/qversitreader.h	export	
+/epoc32/include/app/qversitresourcehandler.h	export	
+/epoc32/include/app/qversitwriter.h	export	
+/epoc32/include/cntdb.h	export	
+/epoc32/include/cntdbobs.h	export	
+/epoc32/include/cntdef.h	export	
+/epoc32/include/cntdef.hrh	export	
+/epoc32/include/cntfield.h	export	
+/epoc32/include/cntfilt.h	export	
+/epoc32/include/cntfldst.h	export	
+/epoc32/include/cntitem.h	export	
+/epoc32/include/cntmodel.rh	export	
+/epoc32/include/cntmodel.rsg	resource	armv5_urel
+/epoc32/include/cntmodel.rsg	resource	winscw_udeb
+/epoc32/include/cntsync.h	export	
+/epoc32/include/cntvcard.h	export	
+/epoc32/include/cntview.h	export	
+/epoc32/include/cntviewbase.h	export	
+/epoc32/include/cntviewfindconfig.h	export	
+/epoc32/include/cntviewfindconfig.inl	export	
+/epoc32/include/cntviewsortplugin.h	export	
+/epoc32/include/cntviewstore.h	export	
+/epoc32/include/epoc32/include/contactbackendsdefs.h	export	
+/epoc32/include/mw/QAbstractAudioDeviceInfo	export	
+/epoc32/include/mw/QAbstractAudioInput	export	
+/epoc32/include/mw/QAbstractAudioOutput	export	
+/epoc32/include/mw/QAbstractSecuritySession	export	
+/epoc32/include/mw/QAbstractVideoBuffer	export	
+/epoc32/include/mw/QAbstractVideoSurface	export	
+/epoc32/include/mw/QAccelerometer	export	
+/epoc32/include/mw/QAccelerometerFilter	export	
+/epoc32/include/mw/QAccelerometerReading	export	
+/epoc32/include/mw/QAmbientLightFilter	export	
+/epoc32/include/mw/QAmbientLightReading	export	
+/epoc32/include/mw/QAmbientLightSensor	export	
+/epoc32/include/mw/QAudioCaptureSource	export	
+/epoc32/include/mw/QAudioDeviceInfo	export	
+/epoc32/include/mw/QAudioEncoderControl	export	
+/epoc32/include/mw/QAudioEncoderSettings	export	
+/epoc32/include/mw/QAudioEndpointSelector	export	
+/epoc32/include/mw/QAudioFormat	export	
+/epoc32/include/mw/QAudioInput	export	
+/epoc32/include/mw/QAudioOutput	export	
+/epoc32/include/mw/QAudioSystemPlugin	export	
+/epoc32/include/mw/QCompass	export	
+/epoc32/include/mw/QCompassFilter	export	
+/epoc32/include/mw/QCompassReading	export	
+/epoc32/include/mw/QGeoAreaMonitor	export	
+/epoc32/include/mw/QGeoCoordinate	export	
+/epoc32/include/mw/QGeoPositionInfo	export	
+/epoc32/include/mw/QGeoPositionInfoSource	export	
+/epoc32/include/mw/QGeoSatelliteInfo	export	
+/epoc32/include/mw/QGeoSatelliteInfoSource	export	
+/epoc32/include/mw/QGraphicsVideoItem	export	
+/epoc32/include/mw/QImageEncoderControl	export	
+/epoc32/include/mw/QImageEncoderSettings	export	
+/epoc32/include/mw/QLocalMediaPlaylistProvider	export	
+/epoc32/include/mw/QMagnetometer	export	
+/epoc32/include/mw/QMagnetometerFilter	export	
+/epoc32/include/mw/QMagnetometerReading	export	
+/epoc32/include/mw/QMediaBindableInterface	export	
+/epoc32/include/mw/QMediaContainerControl	export	
+/epoc32/include/mw/QMediaContent	export	
+/epoc32/include/mw/QMediaControl	export	
+/epoc32/include/mw/QMediaImageViewer	export	
+/epoc32/include/mw/QMediaObject	export	
+/epoc32/include/mw/QMediaPlayer	export	
+/epoc32/include/mw/QMediaPlayerControl	export	
+/epoc32/include/mw/QMediaPlaylist	export	
+/epoc32/include/mw/QMediaPlaylistControl	export	
+/epoc32/include/mw/QMediaPlaylistIOPlugin	export	
+/epoc32/include/mw/QMediaPlaylistNavigator	export	
+/epoc32/include/mw/QMediaPlaylistProvider	export	
+/epoc32/include/mw/QMediaPlaylistReader	export	
+/epoc32/include/mw/QMediaPlaylistSourceControl	export	
+/epoc32/include/mw/QMediaPlaylistWriter	export	
+/epoc32/include/mw/QMediaRecorder	export	
+/epoc32/include/mw/QMediaRecorderControl	export	
+/epoc32/include/mw/QMediaResource	export	
+/epoc32/include/mw/QMediaService	export	
+/epoc32/include/mw/QMediaServiceProvider	export	
+/epoc32/include/mw/QMediaServiceProviderHint	export	
+/epoc32/include/mw/QMediaServiceProviderPlugin	export	
+/epoc32/include/mw/QMediaStreamsControl	export	
+/epoc32/include/mw/QMediaTimeInterval	export	
+/epoc32/include/mw/QMediaTimeRange	export	
+/epoc32/include/mw/QMessage	export	
+/epoc32/include/mw/QMessageAccount	export	
+/epoc32/include/mw/QMessageAccountFilter	export	
+/epoc32/include/mw/QMessageAccountId	export	
+/epoc32/include/mw/QMessageAccountSortOrder	export	
+/epoc32/include/mw/QMessageAddress	export	
+/epoc32/include/mw/QMessageContentContainer	export	
+/epoc32/include/mw/QMessageContentContainerId	export	
+/epoc32/include/mw/QMessageFilter	export	
+/epoc32/include/mw/QMessageFolder	export	
+/epoc32/include/mw/QMessageFolderFilter	export	
+/epoc32/include/mw/QMessageFolderId	export	
+/epoc32/include/mw/QMessageFolderSortOrder	export	
+/epoc32/include/mw/QMessageId	export	
+/epoc32/include/mw/QMessageManager	export	
+/epoc32/include/mw/QMessageService	export	
+/epoc32/include/mw/QMessageSortOrder	export	
+/epoc32/include/mw/QMessageStore	export	
+/epoc32/include/mw/QMetaDataReaderControl	export	
+/epoc32/include/mw/QMetaDataWriterControl	export	
+/epoc32/include/mw/QNetworkConfiguration	export	
+/epoc32/include/mw/QNetworkConfigurationManager	export	
+/epoc32/include/mw/QNetworkSession	export	
+/epoc32/include/mw/QNmeaPositionInfoSource	export	
+/epoc32/include/mw/QOrientationFilter	export	
+/epoc32/include/mw/QOrientationReading	export	
+/epoc32/include/mw/QOrientationSensor	export	
+/epoc32/include/mw/QProximityFilter	export	
+/epoc32/include/mw/QProximityReading	export	
+/epoc32/include/mw/QProximitySensor	export	
+/epoc32/include/mw/QRadioTuner	export	
+/epoc32/include/mw/QRadioTunerControl	export	
+/epoc32/include/mw/QRotationFilter	export	
+/epoc32/include/mw/QRotationReading	export	
+/epoc32/include/mw/QRotationSensor	export	
+/epoc32/include/mw/QSensor	export	
+/epoc32/include/mw/QSensorBackend	export	
+/epoc32/include/mw/QSensorBackendFactory	export	
+/epoc32/include/mw/QSensorFilter	export	
+/epoc32/include/mw/QSensorManager	export	
+/epoc32/include/mw/QSensorPluginInterface	export	
+/epoc32/include/mw/QSensorReading	export	
+/epoc32/include/mw/QServiceContext	export	
+/epoc32/include/mw/QServiceFilter	export	
+/epoc32/include/mw/QServiceInterfaceDescriptor	export	
+/epoc32/include/mw/QServiceManager	export	
+/epoc32/include/mw/QServicePluginInterface	export	
+/epoc32/include/mw/QSystemDeviceInfo	export	
+/epoc32/include/mw/QSystemDisplayInfo	export	
+/epoc32/include/mw/QSystemInfo	export	
+/epoc32/include/mw/QSystemNetworkInfo	export	
+/epoc32/include/mw/QSystemScreenSaver	export	
+/epoc32/include/mw/QSystemStorageInfo	export	
+/epoc32/include/mw/QTapFilter	export	
+/epoc32/include/mw/QTapReading	export	
+/epoc32/include/mw/QTapSensor	export	
+/epoc32/include/mw/QValueSpacePublisher	export	
+/epoc32/include/mw/QValueSpaceSubscriber	export	
+/epoc32/include/mw/QVideoDeviceControl	export	
+/epoc32/include/mw/QVideoEncoderControl	export	
+/epoc32/include/mw/QVideoEncoderSettings	export	
+/epoc32/include/mw/QVideoFrame	export	
+/epoc32/include/mw/QVideoRendererControl	export	
+/epoc32/include/mw/QVideoSurfaceFormat	export	
+/epoc32/include/mw/QVideoWidget	export	
+/epoc32/include/mw/QVideoWidgetControl	export	
+/epoc32/include/mw/QVideoWindowControl	export	
+/epoc32/include/mw/qabstractsecuritysession.h	export	
+/epoc32/include/mw/qabstractvideobuffer.h	export	
+/epoc32/include/mw/qabstractvideobuffer_p.h	export	
+/epoc32/include/mw/qabstractvideosurface.h	export	
+/epoc32/include/mw/qabstractvideosurface_p.h	export	
+/epoc32/include/mw/qaccelerometer.h	export	
+/epoc32/include/mw/qambientlightsensor.h	export	
+/epoc32/include/mw/qaudio.h	export	
+/epoc32/include/mw/qaudiocapturesource.h	export	
+/epoc32/include/mw/qaudiodeviceinfo.h	export	
+/epoc32/include/mw/qaudioencodercontrol.h	export	
+/epoc32/include/mw/qaudioendpointselector.h	export	
+/epoc32/include/mw/qaudioformat.h	export	
+/epoc32/include/mw/qaudioinput.h	export	
+/epoc32/include/mw/qaudiooutput.h	export	
+/epoc32/include/mw/qaudiosystem.h	export	
+/epoc32/include/mw/qaudiosystemplugin.h	export	
+/epoc32/include/mw/qcompass.h	export	
+/epoc32/include/mw/qgeoareamonitor.h	export	
+/epoc32/include/mw/qgeocoordinate.h	export	
+/epoc32/include/mw/qgeopositioninfo.h	export	
+/epoc32/include/mw/qgeopositioninfosource.h	export	
+/epoc32/include/mw/qgeosatelliteinfo.h	export	
+/epoc32/include/mw/qgeosatelliteinfosource.h	export	
+/epoc32/include/mw/qgraphicsvideoitem.h	export	
+/epoc32/include/mw/qimageencodercontrol.h	export	
+/epoc32/include/mw/qimagevideobuffer_p.h	export	
+/epoc32/include/mw/qlocalmediaplaylistprovider.h	export	
+/epoc32/include/mw/qmagnetometer.h	export	
+/epoc32/include/mw/qmediabindableinterface.h	export	
+/epoc32/include/mw/qmediacontainercontrol.h	export	
+/epoc32/include/mw/qmediacontent.h	export	
+/epoc32/include/mw/qmediacontrol.h	export	
+/epoc32/include/mw/qmediaencodersettings.h	export	
+/epoc32/include/mw/qmediaimageviewer.h	export	
+/epoc32/include/mw/qmediaobject.h	export	
+/epoc32/include/mw/qmediaplayer.h	export	
+/epoc32/include/mw/qmediaplayercontrol.h	export	
+/epoc32/include/mw/qmediaplaylist.h	export	
+/epoc32/include/mw/qmediaplaylistcontrol.h	export	
+/epoc32/include/mw/qmediaplaylistioplugin.h	export	
+/epoc32/include/mw/qmediaplaylistnavigator.h	export	
+/epoc32/include/mw/qmediaplaylistprovider.h	export	
+/epoc32/include/mw/qmediaplaylistsourcecontrol.h	export	
+/epoc32/include/mw/qmediarecorder.h	export	
+/epoc32/include/mw/qmediarecordercontrol.h	export	
+/epoc32/include/mw/qmediaresource.h	export	
+/epoc32/include/mw/qmediaservice.h	export	
+/epoc32/include/mw/qmediaserviceprovider.h	export	
+/epoc32/include/mw/qmediaserviceproviderplugin.h	export	
+/epoc32/include/mw/qmediastreamscontrol.h	export	
+/epoc32/include/mw/qmediatimerange.h	export	
+/epoc32/include/mw/qmemoryvideobuffer_p.h	export	
+/epoc32/include/mw/qmessage.h	export	
+/epoc32/include/mw/qmessageaccount.h	export	
+/epoc32/include/mw/qmessageaccountfilter.h	export	
+/epoc32/include/mw/qmessageaccountid.h	export	
+/epoc32/include/mw/qmessageaccountsortorder.h	export	
+/epoc32/include/mw/qmessageaddress.h	export	
+/epoc32/include/mw/qmessagecontentcontainer.h	export	
+/epoc32/include/mw/qmessagecontentcontainerid.h	export	
+/epoc32/include/mw/qmessagedatacomparator.h	export	
+/epoc32/include/mw/qmessagefilter.h	export	
+/epoc32/include/mw/qmessagefolder.h	export	
+/epoc32/include/mw/qmessagefolderfilter.h	export	
+/epoc32/include/mw/qmessagefolderid.h	export	
+/epoc32/include/mw/qmessagefoldersortorder.h	export	
+/epoc32/include/mw/qmessageglobal.h	export	
+/epoc32/include/mw/qmessageid.h	export	
+/epoc32/include/mw/qmessagemanager.h	export	
+/epoc32/include/mw/qmessageservice.h	export	
+/epoc32/include/mw/qmessagesortorder.h	export	
+/epoc32/include/mw/qmetadatareadercontrol.h	export	
+/epoc32/include/mw/qmetadatawritercontrol.h	export	
+/epoc32/include/mw/qmobilityglobal.h	export	
+/epoc32/include/mw/qnetworkconfigmanager.h	export	
+/epoc32/include/mw/qnetworkconfiguration.h	export	
+/epoc32/include/mw/qnetworksession.h	export	
+/epoc32/include/mw/qnmeapositioninfosource.h	export	
+/epoc32/include/mw/qorientationsensor.h	export	
+/epoc32/include/mw/qproximitysensor.h	export	
+/epoc32/include/mw/qradiotuner.h	export	
+/epoc32/include/mw/qradiotunercontrol.h	export	
+/epoc32/include/mw/qrotationsensor.h	export	
+/epoc32/include/mw/qsensor.h	export	
+/epoc32/include/mw/qsensorbackend.h	export	
+/epoc32/include/mw/qsensormanager.h	export	
+/epoc32/include/mw/qsensorplugin.h	export	
+/epoc32/include/mw/qservice.h	export	
+/epoc32/include/mw/qservicecontext.h	export	
+/epoc32/include/mw/qservicefilter.h	export	
+/epoc32/include/mw/qserviceinterfacedescriptor.h	export	
+/epoc32/include/mw/qservicemanager.h	export	
+/epoc32/include/mw/qserviceplugininterface.h	export	
+/epoc32/include/mw/qsoundeffect.h	export	
+/epoc32/include/mw/qsysteminfo.h	export	
+/epoc32/include/mw/qtapsensor.h	export	
+/epoc32/include/mw/qtimestamp	export	
+/epoc32/include/mw/qtmedianamespace.h	export	
+/epoc32/include/mw/qvaluespace.h	export	
+/epoc32/include/mw/qvaluespacepublisher.h	export	
+/epoc32/include/mw/qvaluespacesubscriber.h	export	
+/epoc32/include/mw/qvideodevicecontrol.h	export	
+/epoc32/include/mw/qvideoencodercontrol.h	export	
+/epoc32/include/mw/qvideoframe.h	export	
+/epoc32/include/mw/qvideorenderercontrol.h	export	
+/epoc32/include/mw/qvideosurfaceformat.h	export	
+/epoc32/include/mw/qvideowidget.h	export	
+/epoc32/include/mw/qvideowidgetcontrol.h	export	
+/epoc32/include/mw/qvideowindowcontrol.h	export	
+/epoc32/include/platform/app/cntconvertercallback.h	export	
+/epoc32/include/platform/app/cntdb_internal.h	export	
+/epoc32/include/platform/app/cntphonenumparser.h	export	
+/epoc32/include/platform/app/cntsyncecom.h	export	
+/epoc32/include/platform/app/cntviewsortpluginbase.h	export	
+/epoc32/release/armv5/lib/QtBearer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtBearer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtBearer{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtBearer{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtContacts.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtContacts.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtContacts{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtContacts{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtLocation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtLocation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtLocation{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtLocation{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtMessaging.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtMessaging.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtMessaging{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtMessaging{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtMultimediaKit.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtMultimediaKit.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtMultimediaKit{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtMultimediaKit{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtPublishSubscribe.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtPublishSubscribe.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtPublishSubscribe{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtPublishSubscribe{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSensors.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSensors.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSensors{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSensors{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtServiceFramework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtServiceFramework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtServiceFramework{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtServiceFramework{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSystemInfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSystemInfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSystemInfo{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSystemInfo{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtVersit.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtVersit.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtVersit{00010003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtVersit{00010003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntplsql.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntplsql.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntplsql{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntplsql{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntview.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntview.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntview{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntview{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtcontacts_symbian.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtcontacts_symbian.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtcontacts_symbiansim.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtcontacts_symbiansim.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtcontacts_symbiansim{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtcontacts_symbiansim{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtcontacts_symbian{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtcontacts_symbian{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmultimediakit_m3u.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmultimediakit_m3u.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmultimediakit_m3u{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmultimediakit_m3u{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmultimediakit_mmfengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmultimediakit_mmfengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmultimediakit_mmfengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmultimediakit_mmfengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmultimediakit_xarecordservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmultimediakit_xarecordservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmultimediakit_xarecordservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmultimediakit_xarecordservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtsensors_generic.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtsensors_generic.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtsensors_generic{00000101}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtsensors_generic{00000101}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtsensors_sym.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtsensors_sym.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtsensors_sym{00010000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtsensors_sym{00010000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtversit_backuphandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtversit_backuphandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtversit_backuphandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtversit_backuphandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/QtBearer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtBearer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtContacts.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtContacts.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtLocation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtLocation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtMessaging.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtMessaging.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtMultimediaKit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtMultimediaKit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtPublishSubscribe.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtPublishSubscribe.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSensors.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSensors.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtServiceFramework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtServiceFramework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSystemInfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSystemInfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtVersit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtVersit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntmatchlog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntmatchlog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntphone.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntphone.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntplsql.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntplsql.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntvcard.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntvcard.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qpspathmapperserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/qpspathmapperserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsfwdatabasemanagerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsfwdatabasemanagerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtcontacts_symbian.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtcontacts_symbian.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtcontacts_symbiansim.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtcontacts_symbiansim.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmultimediakit_m3u.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmultimediakit_m3u.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmultimediakit_mmfengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmultimediakit_mmfengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmultimediakit_xarecordservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmultimediakit_xarecordservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtsensors_generic.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtsensors_generic.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtsensors_sym.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtsensors_sym.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtversit_backuphandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtversit_backuphandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/QtBearer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtBearer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtContacts.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtContacts.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtLocation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtLocation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtMessaging.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtMessaging.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtMultimediaKit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtMultimediaKit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtPublishSubscribe.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtPublishSubscribe.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtSensors.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtSensors.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtServiceFramework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtServiceFramework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtSystemInfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtSystemInfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtVersit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtVersit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntmatchlog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntmatchlog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntphone.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntphone.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntplsql.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntplsql.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cntsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntvcard.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntvcard.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qpspathmapperserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/qpspathmapperserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/qsfwdatabasemanagerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/qsfwdatabasemanagerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtcontacts_symbian.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtcontacts_symbian.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtcontacts_symbiansim.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtcontacts_symbiansim.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtmultimediakit_m3u.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtmultimediakit_m3u.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtmultimediakit_mmfengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtmultimediakit_mmfengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtmultimediakit_xarecordservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtmultimediakit_xarecordservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtsensors_generic.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtsensors_generic.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtsensors_sym.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtsensors_sym.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtversit_backuphandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtversit_backuphandler.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/QtBearer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtBearer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtContacts.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtContacts.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtLocation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtLocation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtMessaging.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtMessaging.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtMultimediaKit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtMultimediaKit.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtPublishSubscribe.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtPublishSubscribe.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSensors.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSensors.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtServiceFramework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtServiceFramework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSystemInfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSystemInfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtVersit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtVersit.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntmatchlog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntphone.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntplsql.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntplsql.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntvcard.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntview.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qpspathmapperserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/qsfwdatabasemanagerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtcontacts_symbian.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtcontacts_symbian.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtcontacts_symbiansim.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtcontacts_symbiansim.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmultimediakit_m3u.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmultimediakit_m3u.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmultimediakit_mmfengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmultimediakit_mmfengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmultimediakit_xarecordservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmultimediakit_xarecordservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtsensors_generic.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtsensors_generic.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtsensors_sym.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtsensors_sym.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtversit_backuphandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtversit_backuphandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/cntmodel/cntmodel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cntmatchlog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cntphone.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cntvcard.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/QtBearer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtBearer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtContacts.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtContacts.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtLocation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtLocation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtMessaging.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtMessaging.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtMultimediaKit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtMultimediaKit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtPublishSubscribe.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtPublishSubscribe.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtSensors.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtSensors.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtServiceFramework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtServiceFramework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtSystemInfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtSystemInfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtVersit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtVersit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntmatchlog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntmatchlog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntphone.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntphone.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntplsql.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntplsql.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cntsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntvcard.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntvcard.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qpspathmapperserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/qpspathmapperserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/qsfwdatabasemanagerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/qsfwdatabasemanagerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtcontacts_symbian.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtcontacts_symbian.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtcontacts_symbiansim.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtcontacts_symbiansim.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtmultimediakit_m3u.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtmultimediakit_m3u.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtmultimediakit_mmfengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtmultimediakit_mmfengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtmultimediakit_xarecordservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtmultimediakit_xarecordservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtsensors_generic.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtsensors_generic.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtsensors_sym.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtsensors_sym.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtversit_backuphandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtversit_backuphandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/cntmodel/cntmodel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cntmatchlog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cntphone.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cntvcard.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/uda_content/confml/qtmobility.confml	export	
+/epoc32/rom/config/assets/uda_content/content/sis/qtmobility.sisx	export	
+/epoc32/rom/config/assets/uda_content/implml/qtmobility_copy.implml	export	
+/epoc32/rom/include/cntmatchlog.iby	export	
+/epoc32/rom/include/cntmodel.iby	export	
+/epoc32/rom/include/cntplsql.iby	export	
+/epoc32/rom/include/core/mw/qtmobility.iby	export	
+/epoc32/tools/makefile_templates/qt/qtmobilityconfig.xml	export	
+/epoc32/tools/makefile_templates/qt/qtmobilityheaders.flm	export	
+/epoc32/tools/makefile_templates/qt/qtservice.meta	export	
+/epoc32/tools/makefile_templates/qt/qtservice.mk	export	
+/epoc32/tools/qt/mkspecs/features/mobility.prf	export	
+/epoc32/tools/qt/mkspecs/features/mobilityconfig.prf	export	
+/epoc32/tools/qt/mkspecs/features/symbian/qtservice.prf	export	
+/epoc32/tools/servicedbgen	export	
+/epoc32/tools/servicedbgen.exe	export	

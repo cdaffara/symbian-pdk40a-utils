@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="boardsupport" level="hw" levels="bsp test 2 3 config" long-name="Board Support">
+<collection name="emulator" long-name="Emulator" level="bsp">
+<component name="emulatorbsp" long-name="Emulator BSP" purpose="optional">
+<unit bldFile="/sf/os/boardsupport/emulator/emulatorbsp" mrp="/sf/os/boardsupport/emulator/emulatorbsp/base_wins.mrp"/>
+</component>
+</collection>
+<collection name="haitest" long-name="HAI Test Suites" level="test">
+<component name="bspsvs" long-name="BSP Verification Suite" introduced="^2" purpose="development">
+<unit mrp="/sf/os/boardsupport/haitest/bspsvs/group/bspsvs.mrp"/>
+</component>
+</collection>
+<collection name="boardsupport_info" long-name="Board Support Info" level="config">
+<component name="boardsupport_metadata" long-name="Board Support Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/boardsupport/boardsupport_info/boardsupport_metadata/boardsupport_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

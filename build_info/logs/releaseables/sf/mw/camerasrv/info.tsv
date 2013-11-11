@@ -1,0 +1,58 @@
+/epoc32/data/z/resource/plugins/camccontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/camccontroller.rsc	resource	winscw_udeb
+/epoc32/include/platform/mw/CCMRMediaRecorder.h	export	
+/epoc32/include/platform/mw/CCMRMediaRecorderObserver.h	export	
+/epoc32/include/platform/mw/CCMRMediaSink.h	export	
+/epoc32/include/platform/mw/CamC3GPDataSink.h	export	
+/epoc32/include/platform/mw/CamC3GPDataSinkObserver.h	export	
+/epoc32/include/platform/mw/ECamColorToneCustomInterface.h	export	
+/epoc32/include/platform/mw/imagingconfigmanager.h	export	
+/epoc32/release/armv5/lib/CamcMediaRecorder.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CamcMediaRecorder.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CamcMediaRecorder{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CamcMediaRecorder{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/camc3gpsink.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/camc3gpsink.dso	build	armv5_urel
+/epoc32/release/armv5/lib/camc3gpsink{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/camc3gpsink{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imagingconfigmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imagingconfigmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imagingconfigmanager{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imagingconfigmanager{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/CAMCCONTROLLER.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CAMCCONTROLLER.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CamcMediaRecorder.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CamcMediaRecorder.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/camc3gpsink.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/camc3gpsink.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagingconfigmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagingconfigmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/CAMCCONTROLLER.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CAMCCONTROLLER.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CamcMediaRecorder.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CamcMediaRecorder.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/camc3gpsink.dll	build	armv5_urel
+/epoc32/release/armv5/urel/camc3gpsink.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imagingconfigmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imagingconfigmanager.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/CAMCCONTROLLER.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CamcMediaRecorder.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CamcMediaRecorder.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/camc3gpsink.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/camc3gpsink.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagingconfigmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagingconfigmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/camccontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/CAMCCONTROLLER.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CAMCCONTROLLER.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CamcMediaRecorder.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CamcMediaRecorder.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/camc3gpsink.dll	build	winscw_urel
+/epoc32/release/winscw/urel/camc3gpsink.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imagingconfigmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imagingconfigmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/camccontroller.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/imagingconfigmanager.confml	export	
+/epoc32/rom/config/assets/s60/implml/imagingconfigmanager_10282EDC.crml	export	
+/epoc32/rom/include/core/mw/CamcorderMMFPlugin.iby	export	
+/epoc32/rom/include/core/mw/imagingconfigmanager.iby	export	

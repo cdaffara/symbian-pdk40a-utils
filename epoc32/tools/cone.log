@@ -1,0 +1,362 @@
+2010-10-13 00:34:15,868 INFO    : cone
+Runtime info:
+ConE version:    1.1.5
+Python version:  2.5.4 (r254:67916, Jan 29 2009, 12:02:11) [MSC v.1310 32 bit (Intel)]
+Platform:        win32
+Executable:      C:\Apps\Python25\python.exe
+Command line:    C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\\scripts\cone_tool.py generate -p \epoc32\rom\config -o \epoc32\data\z -c symbianos_root.confml -v 5
+Working dir:     y:\epoc32\tools
+Script location: c:\symbian\tools\pdt_1.7\cone\cone\2.5\lib\cone_scripts-1.0-py2.5.egg\EGG-INFO\scripts
+2010-10-13 00:34:15,868 DEBUG   : cone
+sys.path contents:
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\scripts
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\setuptools-0.6c11-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\cone-1.1.5-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\lxml-2.2.2-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\simplejson-2.0.9-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\jinja2-2.1.1-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\conecommandplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\conecontentplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\conecrmlplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\conegenconfmlplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\conehcrplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\coneimageplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\coneruleplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\conetemplateplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\conethemeplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\cone_scripts-1.0-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib\projectconvertplugin-0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\2.5\PyXML-0.8.4-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\2.5\4Suite_XML-1.0.2-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\2.5\lxml-1.3.5-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\setuptools-0.6c5-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\Amara-1.2.0.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\coverage-2.85-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\docutils-0.5-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\epydoc-3.0beta1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\Jinja-1.2-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\Jinja2-2.2.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\nose-0.11.1-py2.6.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\mocker-0.10.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\path-2.2-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\pygments-0.10-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\simplejson-1.9.1-py2.5-win32.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\sphinx-0.5.1-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common\psyco-1.6-py2.5.egg
+C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\lib
+y:\epoc32\tools
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\2.5
+C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common
+C:\Symbian\Tools\PDT_1.7\helium\tools\common\python\lib
+C:\Symbian\Tools\PDT_1.7\helium\tools\common\python\scripts
+C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\external\python\lib\2.5
+C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\tools\common\python\lib
+C:\apps\Raptor2.15.2\python
+C:\WINDOWS\system32\python25.zip
+C:\Apps\Python25\DLLs
+C:\Apps\Python25\lib
+C:\Apps\Python25\lib\plat-win
+C:\Apps\Python25\lib\lib-tk
+C:\Apps\Python25
+C:\Apps\Python25\lib\site-packages
+C:\Apps\Python25\lib\site-packages\win32
+C:\Apps\Python25\lib\site-packages\win32\lib
+C:\Apps\Python25\lib\site-packages\Pythonwin
+C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\external\python\lib\2.5
+C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\tools\common\python\lib
+2010-10-13 00:34:15,868 DEBUG   : cone
+PATH: C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\\scripts;C:\Symbian\Tools\PDT_1.7\helium\runtime\\ant_1.7;C:\Symbian\Tools\PDT_1.7\helium\runtime\\7zip;C:\Symbian\Tools\PDT_1.7\helium\runtime\\unzip;C:\Symbian\Tools\PDT_1.7\helium\runtime\\jre\bin;C:\Symbian\Tools\PDT_1.7\helium\runtime\\ant_1.7\bin;\epoc32\gcc\bin;C:\apps\Raptor2.15.2\bin;/bin;C:\apps\depends;C:\apps\SourceryG++Lite\bin;C:\Apps\arm\RVCT\Programs\2.2\686\win_32-pentium;C:\apps\Perl\site\bin;C:\apps\Perl\bin;C:\Apps\Python25\;C:\Program Files\HP\NCU;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\apps\arm\Utilities\FLEXlm\9.2\release\win_32-pentium;C:\apps\arm\bin\win_32-pentium;\epoc32\tools;C:\Apps\Mercurial\;C:\apps\junction;C:\apps\curl_7.18.2;C:\apps\7-zip;c:\apps\av;C:\apps\MSVC6\VC98\bin;C:\apps\MSVC6\Common\Tools;C:\apps\MSVC6\Common\Tools\WinNT;C:\apps\MSVC6\Common\MSDev98\Bin;c:\bin;\epoc32\tools;C:\Symbian\Tools\PDT_1.7;C:\Symbian\Tools\PDT_1.7\raptor\bin;C:\Symbian\Tools\PDT_1.7\helium;C:\Symbian\Tools\PDT_1.7\ConE;C:\Symbian\Tools\PDT_1.7\utilities\bin;C:\Symbian\Tools\PDT_1.7\bootstrap;C:\Symbian\Tools\PDT_1.7\helium\runtime\7zip;C:\Symbian\Tools\PDT_1.7\Carbide.c++\x86Build\Symbian_Tools\Command_Line_Tools;\epoc32\tools;\epoc32\gcc\bin;\epoc32\tools\build;\epoc32\rombuild;C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\external\unxutils;C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\external\Subversion\bin;C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\external\graphviz\bin;\tools;\tools\ncp_tools;C:\APPS\ctc
+2010-10-13 00:34:15,868 DEBUG   : cone
+PYTHONPATH: C:\Symbian\Tools\PDT_1.7\ConE\cone\2.5\\lib;;C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\2.5;C:\Symbian\Tools\PDT_1.7\helium\external\python\lib\common;C:\Symbian\Tools\PDT_1.7\helium\tools\common\python\lib;C:\Symbian\Tools\PDT_1.7\helium\tools\common\python\scripts;C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\external\python\lib\2.5;C:\Symbian\Tools\PDT_1.7\helium\extensions\nokia\tools\common\python\lib;C:\apps\Raptor2.15.2\python
+2010-10-13 00:34:15,947 DEBUG   : cone
+FileStorage path \epoc32\rom\config
+2010-10-13 00:34:16,040 WARNING : cone
+Encountered option with no value
+2010-10-13 00:34:16,040 WARNING : cone
+Invalid child <Element {http://www.s60.com/xml/confml/1}option at 11c51c0> in Access Point
+2010-10-13 00:34:16,588 INFO    : cone
+Warning: Feature 'KCRUidSystemLocaleSettings.LocaleDLLs.LocaleDLLname' for data in confml/apputils.confml not found.
+2010-10-13 00:34:16,588 INFO    : cone
+Warning: Feature 'KCRUidSystemLocaleSettings.LocaleDLLs.LocaleDLLname' for data in confml/apputils.confml not found.
+2010-10-13 00:34:16,588 INFO    : cone
+Warning: Feature 'KCRUidSystemLocaleSettings.LocaleDLLs.LocaleDLLname' for data in confml/apputils.confml not found.
+2010-10-13 00:34:16,588 INFO    : cone
+Warning: Feature 'KCRUidSystemLocaleSettings.LocaleDLLs.LocaleDLLname' for data in confml/apputils.confml not found.
+2010-10-13 00:34:16,588 INFO    : cone
+Warning: Feature 'MissedAlarmNotification' for data in confml/calendar.confml not found.
+2010-10-13 00:34:16,604 INFO    : cone
+Warning: Feature 'MaxNumberEvents' for data in confml/eventlogger.confml not found.
+2010-10-13 00:34:16,604 INFO    : cone
+Warning: Feature 'MaxRecentListSize' for data in confml/eventlogger.confml not found.
+2010-10-13 00:34:16,604 INFO    : cone
+Warning: Feature 'MaxEventAge' for data in confml/eventlogger.confml not found.
+2010-10-13 00:34:16,604 INFO    : cone
+Warning: Feature 'ContactMatchCount' for data in confml/eventlogger.confml not found.
+2010-10-13 00:34:16,604 INFO    : cone
+Warning: Feature 'ContactNameFormat' for data in confml/eventlogger.confml not found.
+2010-10-13 00:34:16,697 INFO    : cone
+Warning: Feature 'DSTAutoUpdate' for data in confml/timezoneserver.confml not found.
+2010-10-13 00:34:16,697 INFO    : cone
+Warning: Feature 'ZimeZoneKey' for data in confml/timezoneserver.confml not found.
+2010-10-13 00:34:16,697 INFO    : cone
+Warning: Feature 'DefaultHomeTimeZoneKey' for data in confml/timezoneserver.confml not found.
+2010-10-13 00:34:16,697 INFO    : cone
+Warning: Feature 'DefaultInterestTimeZoneKey' for data in confml/timezoneserver.confml not found.
+2010-10-13 00:34:16,697 INFO    : cone
+Warning: Feature 'DefaultRecent1TimeZoneKey' for data in confml/timezoneserver.confml not found.
+2010-10-13 00:34:16,697 INFO    : cone
+Warning: Feature 'DefaultRecent2TimeZoneKey' for data in confml/timezoneserver.confml not found.
+2010-10-13 00:34:16,729 INFO    : cone
+Warning: Feature 'KCRUidUSBBatteryChargingSettings.BatteryChargingNegotiationEnabled' for data in confml/usbmanager.confml not found.
+2010-10-13 00:34:16,729 INFO    : cone
+Layer filter []
+2010-10-13 00:34:16,759 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/commandml/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'commandml'
+2010-10-13 00:34:16,776 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/content/2' loaded from egg 'cone.plugins.implmlreaders' entry point 'contentml_2'
+2010-10-13 00:34:16,776 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/content/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'contentml_1'
+2010-10-13 00:34:16,776 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/cenrep/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'crml'
+2010-10-13 00:34:16,806 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/genconfml/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'gcfml'
+2010-10-13 00:34:16,806 DEBUG   : cone
+Reader class for XML namespace 'http://www.symbianfoundation.org/xml/hcrml/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'hcrml'
+2010-10-13 00:34:16,822 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/imageml/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'imageml'
+2010-10-13 00:34:16,822 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/ruleml/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'ruleml_1'
+2010-10-13 00:34:16,822 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/ruleml/2' loaded from egg 'cone.plugins.implmlreaders' entry point 'ruleml_2'
+2010-10-13 00:34:16,838 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/templateml/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'templateml'
+2010-10-13 00:34:16,838 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/thememl/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'thememl'
+2010-10-13 00:34:16,854 DEBUG   : cone
+Reader class for XML namespace 'http://www.s60.com/xml/convertprojectml/1' loaded from egg 'cone.plugins.implmlreaders' entry point 'convertprojectml'
+2010-10-13 00:34:16,931 INFO    : cone
+Supported implementation file extensions: ['implml', 'commandml', 'content', 'contentml', 'content', 'contentml', 'crml', 'gcfml', 'hcrml', 'imageml', 'ruleml', 'ruleml', 'templateml', 'thememl', 'convertprojectml']
+2010-10-13 00:34:16,931 INFO    : cone
+Generating phase 'pre', 0 implementation(s)
+2010-10-13 00:34:16,931 INFO    : cone
+Generating phase 'normal', 49 implementation(s)
+2010-10-13 00:34:16,931 INFO    : cone
+49 implementation(s) after filtering for phase 'normal'
+2010-10-13 00:34:16,931 INFO    : cone
+Generating output...
+2010-10-13 00:34:16,931 DEBUG   : cone.crml(assets/symbianos/implml/agpslocationmgr_10281d44.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10281d44.txt'...
+2010-10-13 00:34:16,931 DEBUG   : cone.crml(assets/symbianos/implml/agpspositioningmodule_101fe98c.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101fe98c.txt'...
+2010-10-13 00:34:16,931 DEBUG   : cone.crml(assets/symbianos/implml/apparchitecture_1028583d.crml)
+Generating file '\epoc32\data\z\private\10202BE9\1028583d.txt'...
+2010-10-13 00:34:16,931 DEBUG   : cone.crml(assets/symbianos/implml/apparchitecture_closedcontentextinfo_10003a3f.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10003a3f.txt'...
+2010-10-13 00:34:16,931 DEBUG   : cone.crml(assets/symbianos/implml/appinstallconfig_2002cff6.crml)
+Generating file '\epoc32\data\z\private\10202BE9\2002cff6.txt'...
+2010-10-13 00:34:16,931 DEBUG   : cone.crml(assets/symbianos/implml/apputils_100048aa.crml)
+Generating file '\epoc32\data\z\private\10202BE9\100048aa.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/bluetoothgpspsy_101fe999.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101FE999.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/bluetoothgpspsy_102869c1.crml)
+Generating file '\epoc32\data\z\private\10202BE9\102869c1.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/bookmarksupport_10205af8.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10205af8.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/bookmarksupport_10205af9.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10205af9.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/bookmarksupport_10205afa.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10205afa.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/bookmarksupport_10205afb.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10205afb.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/calendar_10003a5b.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10003a5b.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/ctsy_102029A2.crml)
+Generating file '\epoc32\data\z\private\10202BE9\102029A2.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/ctsy_10282826.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10282826.txt'...
+2010-10-13 00:34:16,947 DEBUG   : cone.crml(assets/symbianos/implml/ctsy_10282827.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10282827.txt'...
+2010-10-13 00:34:16,963 DEBUG   : cone.crml(assets/symbianos/implml/ctsy_10282DFE.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10282DFE.txt'...
+2010-10-13 00:34:16,963 DEBUG   : cone.crml(assets/symbianos/implml/defaultproxy_101f7a7f.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101F7A7F.txt'...
+2010-10-13 00:34:16,963 DEBUG   : cone.crml(assets/symbianos/implml/eventlogger_101f401d.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101f401d.txt'...
+2010-10-13 00:34:16,963 DEBUG   : cone.crml(assets/symbianos/implml/gpspositioningmodule_101fe98a.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101fe98a.txt'...
+2010-10-13 00:34:16,963 DEBUG   : cone.crml(assets/symbianos/implml/hwresourceclientfmtx_20008ea6.crml)
+Generating file '\epoc32\data\z\private\10202BE9\20008EA6.txt'...
+2010-10-13 00:34:16,963 DEBUG   : cone.crml(assets/symbianos/implml/hwresourcesandenhancements_10200c8b.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10200C8B.txt'...
+2010-10-13 00:34:16,963 DEBUG   : cone.crml(assets/symbianos/implml/hwresourcesandenhancements_10200c8c.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10200C8C.txt'...
+2010-10-13 00:34:16,979 DEBUG   : cone.crml(assets/symbianos/implml/hwresourcesandenhancements_10200c8d.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10200C8D.txt'...
+2010-10-13 00:34:16,979 DEBUG   : cone.crml(assets/symbianos/implml/hwresourcesandenhancements_10205043.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10205043.txt'...
+2010-10-13 00:34:16,979 DEBUG   : cone.crml(assets/symbianos/implml/hwresourcesandenhancements_1020506a.crml)
+Generating file '\epoc32\data\z\private\10202BE9\1020506A.txt'...
+2010-10-13 00:34:16,979 DEBUG   : cone.crml(assets/symbianos/implml/locationsettings_101f500c.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101f500c.txt'...
+2010-10-13 00:34:16,979 DEBUG   : cone.crml(assets/symbianos/implml/locationsettings_1028224b.crml)
+Generating file '\epoc32\data\z\private\10202BE9\1028224b.txt'...
+2010-10-13 00:34:16,993 DEBUG   : cone.crml(assets/symbianos/implml/locationsettings_10282266.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10282266.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/messagingconfig_10285a25.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10285a25.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/mmssettings_10202d4c.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10202d4c.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/msgsrvnstore_10274556.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10274556.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/mtp_imagedp_2001fca2.crml)
+Generating file '\epoc32\data\z\private\10202BE9\2001FCA2.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/mtpframework_10282fcc.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10282fcc.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/networkpositioningmodule_101fe98e.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101fe98e.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/securityconfig_2002b28b.crml)
+Generating file '\epoc32\data\z\private\10202BE9\2002b28b.txt'...
+2010-10-13 00:34:17,009 DEBUG   : cone.crml(assets/symbianos/implml/simulationpsy_101f7a81.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101F7A81.txt'...
+2010-10-13 00:34:17,026 DEBUG   : cone.crml(assets/symbianos/implml/sipframework_101f413c.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101f413c.txt'...
+2010-10-13 00:34:17,026 DEBUG   : cone.crml(assets/symbianos/implml/sipframework_101fed88.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101fed88.txt'...
+2010-10-13 00:34:17,026 DEBUG   : cone.crml(assets/symbianos/implml/sipframework_10282ee7.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10282ee7.txt'...
+2010-10-13 00:34:17,026 DEBUG   : cone.crml(assets/symbianos/implml/sipframework_2001f889.crml)
+Generating file '\epoc32\data\z\private\10202BE9\2001f889.txt'...
+2010-10-13 00:34:17,026 DEBUG   : cone.crml(assets/symbianos/implml/smsmtm_1000102c.crml)
+Generating file '\epoc32\data\z\private\10202BE9\1000102c.txt'...
+2010-10-13 00:34:17,040 DEBUG   : cone.crml(assets/symbianos/implml/suplprotocolmodule_10285aa8.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10285aa8.txt'...
+2010-10-13 00:34:17,040 DEBUG   : cone.crml(assets/symbianos/implml/suplproxyprotocolmodule_102871ed.crml)
+Generating file '\epoc32\data\z\private\10202BE9\102871ED.txt'...
+2010-10-13 00:34:17,056 DEBUG   : cone.crml(assets/symbianos/implml/sysutil_10205056.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10205056.txt'...
+2010-10-13 00:34:17,056 DEBUG   : cone.crml(assets/symbianos/implml/timezoneserver_1020383e.crml)
+Generating file '\epoc32\data\z\private\10202BE9\1020383e.txt'...
+2010-10-13 00:34:17,056 DEBUG   : cone.crml(assets/symbianos/implml/usbmanager_101fe1db.crml)
+Generating file '\epoc32\data\z\private\10202BE9\101fe1db.txt'...
+2010-10-13 00:34:17,072 DEBUG   : cone.crml(assets/symbianos/implml/usbmanager_10208dd7.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10208dd7.txt'...
+2010-10-13 00:34:17,072 ERROR   : cone
+Impl CrmlImpl(ref='assets/symbianos/implml/usbmanager_10208dd7.crml', type='crml', index=0) raised an exception: NotFound("Feature 'KCRUidUSBBatteryChargingSettings.BatteryChargingNegotiationEnabled' not found.",)
+2010-10-13 00:34:17,072 DEBUG   : cone
+Traceback (most recent call last):
+  File "build\bdist.win32\egg\cone\public\plugin.py", line 988, in execute
+    _member(*args)
+  File "build\bdist.win32\egg\CRMLPlugin\crml_impl.py", line 47, in generate
+    data = writer.get_cenrep_txt_data(self.repository).encode('UTF-16')
+  File "build\bdist.win32\egg\CRMLPlugin\crml_writer.py", line 88, in get_cenrep_txt_data
+    cenrep_entries.extend(self.get_cenrep_entries(key))
+  File "build\bdist.win32\egg\CRMLPlugin\crml_writer.py", line 215, in get_cenrep_entries
+    feature = self._get_feature(key.ref)
+  File "build\bdist.win32\egg\CRMLPlugin\crml_writer.py", line 479, in _get_feature
+    return self.configuration.get_default_view().get_feature(ref)
+  File "build\bdist.win32\egg\cone\public\api.py", line 1261, in get_feature
+    raise exceptions.NotFound("Feature '%s' not found." % ref)
+NotFound: Feature 'KCRUidUSBBatteryChargingSettings.BatteryChargingNegotiationEnabled' not found.
+
+2010-10-13 00:34:17,072 DEBUG   : cone.crml(assets/symbianos/implml/usbmanager_10285c46.crml)
+Generating file '\epoc32\data\z\private\10202BE9\10285c46.txt'...
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/agpspositioningmodule_101fe98c.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/suplproxyprotocolmodule_102871ed.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/bluetoothgpspsy_102869c1.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/calendar_10003a5b.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/mtp_imagedp_2001fca2.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/sipframework_10282ee7.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/agpslocationmgr_10281d44.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/smsmtm_1000102c.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/bookmarksupport_10205af8.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/hwresourcesandenhancements_1020506a.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/ctsy_10282826.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/ctsy_102029A2.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/apparchitecture_closedcontentextinfo_10003a3f.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/usbmanager_101fe1db.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/bookmarksupport_10205afb.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/hwresourcesandenhancements_10205043.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/hwresourceclientfmtx_20008ea6.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/sysutil_10205056.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/bluetoothgpspsy_101fe999.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/messagingconfig_10285a25.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/sipframework_101fed88.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/usbmanager_10208dd7.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/locationsettings_101f500c.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/mtpframework_10282fcc.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/mmssettings_10202d4c.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/msgsrvnstore_10274556.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/eventlogger_101f401d.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/apputils_100048aa.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/gpspositioningmodule_101fe98a.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/hwresourcesandenhancements_10200c8b.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/networkpositioningmodule_101fe98e.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/appinstallconfig_2002cff6.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/locationsettings_10282266.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/defaultproxy_101f7a7f.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/locationsettings_1028224b.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/ctsy_10282827.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/timezoneserver_1020383e.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/bookmarksupport_10205afa.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/sipframework_2001f889.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/sipframework_101f413c.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/hwresourcesandenhancements_10200c8d.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/bookmarksupport_10205af9.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/usbmanager_10285c46.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/ctsy_10282DFE.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/securityconfig_2002b28b.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/apparchitecture_1028583d.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/suplprotocolmodule_10285aa8.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/hwresourcesandenhancements_10200c8c.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Adding impl CrmlImpl(ref='assets/symbianos/implml/simulationpsy_101f7a81.crml', type='crml', index=0)
+2010-10-13 00:34:17,072 INFO    : cone
+Generating phase 'post', 0 implementation(s)

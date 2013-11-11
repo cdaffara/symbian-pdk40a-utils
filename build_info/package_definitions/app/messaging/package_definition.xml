@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="messaging" level="apps" span="2" levels="plugin eng base app api" long-name="Messaging Apps">
+<collection name="msg_plat" long-name="Messaging Apps Platform APIs" level="api">
+<component name="messaging_media_resolver_api" long-name="Messaging Media Resolver API" filter="s60" purpose="optional" class="api"/>
+<component name="mms_application_api" long-name="MMS Application API" filter="s60" purpose="optional" class="api"/>
+<component name="mms_codec_client_api" long-name="MMS Codec Client API" filter="s60" purpose="optional" class="api"/>
+<component name="mms_conformance_api" long-name="MMS Conformance API" filter="s60" purpose="optional" class="api"/>
+<component name="mms_engine_settings_api" long-name="MMS Engine Settings API" filter="s60" purpose="optional" class="api"/>
+<component name="mms_server_settings_api" long-name="MMS Server Settings API" filter="s60" purpose="optional" class="api"/>
+<component name="conversation_services_client_api" long-name="Conversation Services Client API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="conversation_services_plugin_api" long-name="Conversation Services Plugin API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="conversation_services_utilities_api" long-name="Conversation Services Utilities API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="shareui_api" long-name="Share UI API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="messaging_history_api" long-name="Messaging History API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="msg_plat_build" long-name="Messaging Apps Platform APIs Build" introduced="^4" filter="s60" purpose="optional" class="api">
+<!-- break this up into the above units and replace their base attributes with bldFile, etc -->
+<unit bldFile="/sf/app/messaging/msg_plat" proFile="msg_plat.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="msg_pub" long-name="Messaging Apps Public APIs" level="api">
+<component name="mms_client_mtm_api" long-name="MMS Client MTM API" filter="s60" purpose="optional" class="api"/>
+<component name="msg_smil_dtd_api" long-name="Messaging SMIL DTD API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="msg_pub_build" long-name="Messaging Apps Public APIs Build" introduced="^4" filter="s60" purpose="optional" class="api">
+<!-- break this up into the above units and replace their base attributes with bldFile, etc -->
+<unit bldFile="/sf/app/messaging/msg_pub" proFile="msg_pub.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="mobilemessaging" long-name="Mobile Messaging" level="plugin">
+<component name="smsmtm" long-name="SMS MTM" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/messaging/mobilemessaging/smsmtm/group" mrp="/sf/app/messaging/mobilemessaging/smsmtm/group/messaging_sms.mrp"/>
+</component>
+</collection>
+<collection name="messagingappbase" long-name="Messaging App Base" level="base">
+<component name="messagingappbase_build" long-name="Messaging App Base Build" introduced="^4" filter="s60" purpose="optional">
+<!-- break this up into the below components -->
+<unit bldFile="/sf/app/messaging/messagingappbase" proFile="messagingappbase.pro" qmakeArgs="-r"/>
+</component>
+<component name="msgmedia" long-name="Message Media" filter="s60" purpose="optional"/>
+<component name="smilparser" long-name="SMIL Parser" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingappbase/smilparser/GROUP" mrp="/sf/app/messaging/messagingappbase/smilparser/GROUP/messaging_gmxml.mrp"/>
+</component>
+<component name="obexmtms" long-name="OBEX MTMs" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/messaging/messagingappbase/obexmtms/Group" mrp="/sf/app/messaging/messagingappbase/obexmtms/Group/messaging_obex.mrp"/>
+</component>
+</collection>
+<collection name="mmsengine" long-name="MMS Engine" level="eng">
+<component name="mmsconninit" long-name="MMS Connection Initiator" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmsconninit/bld"/> -->
+</component>
+<component name="genutils" long-name="General Utils" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/genutils/bld"/> -->
+</component>
+<component name="mmsserversettings" long-name="MMS Server Settings" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmsserversettings/bld"/> -->
+</component>
+<component name="mmsmessage" long-name="MMS Message" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmsmessage/bld"/> -->
+</component>
+<component name="mmshttptransport" long-name="MMS HTTP Transport" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmshttptransport/bld"/> -->
+</component>
+<component name="mmscodec" long-name="MMS Codec" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmscodec/bld"/> -->
+</component>
+<component name="mmsserver" long-name="MMS Server" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmsserver/bld"/> -->
+</component>
+<component name="clientmtm" long-name="MMS Client MTM" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="mmsengine/clientmtm/bld"/> -->
+</component>
+<component name="mmswatcher" long-name="MMS Watcher" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmswatcher/bld"/> -->
+</component>
+<component name="mmspushhandler" long-name="MMS Push Handler" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmspushhandler/bld"/> -->
+</component>
+<component name="applicationadapter" long-name="MMS Application Adapter" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/applicationadapter/bld"/> -->
+</component>
+<component name="mmscodecclient" long-name="MMS Codec Client" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="mmsengine/mmscodecclient/bld"/> -->
+</component>
+<component name="mmssettings" long-name="MMS Settings" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/app/messaging/mmsengine/mmssettings/group" mrp="/sf/app/messaging/mmsengine/mmssettings/group/messaging_mmssettings.mrp"/>
+</component>
+<component name="mmsconf" long-name="MMS Configuration" purpose="optional">
+<unit bldFile="/sf/app/messaging/mmsengine/mmsconf" mrp="/sf/app/messaging/mmsengine/mmsconf/messaging_mmssettings-config.mrp"/>
+</component>
+<component name="mmsengine_build" long-name="MMS Engine Build" filter="s60" purpose="optional">
+<!-- this should be broken up into the individual other components -->
+<unit bldFile="/sf/app/messaging/mmsengine" proFile="mmsengine.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="messagingapp" long-name="Messaging Application" level="app">
+<component name="messaging_conf" long-name="Messaging Application Configuration" introduced="^4" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/app/messaging/messagingapp/conf" proFile="messaging_conf.pro" qmakeArgs="-r"/>
+</component>
+<component name="msgutils" long-name="Messaging Utils" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/msgutils" proFile="msgutils.pro" qmakeArgs="-r"/>
+</component>
+<component name="msgappfw" long-name="Messaging Application Framework" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/msgappfw" proFile="msgappfw.pro" qmakeArgs="-r"/>
+</component>
+<component name="msgsettings" long-name="Messaging Settings" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/msgsettings" proFile="msgsettings.pro" qmakeArgs="-r"/>
+</component>
+<component name="msgnotifications" long-name="Messaging Notifications" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/msgnotifications" proFile="msgnotifications.pro" qmakeArgs="-r"/>
+</component>
+<component name="smartmessaging" long-name="Smart Messaging" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/smartmessaging" proFile="smartmessaging.pro" qmakeArgs="-r"/>
+</component>
+<component name="shareui" long-name="Shared UI" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/shareui" proFile="shareui.pro" qmakeArgs="-r"/>
+</component>
+<component name="msgui" long-name="Messaging UI" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/msgui" proFile="msgui.pro" qmakeArgs="-r"/>
+</component>
+<component name="msgservices" long-name="Messaging Services" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/messaging/messagingapp/msgservices" proFile="msgservices.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="email" long-name="Email" level="plugin">
+<!-- use commonemail instead -->
+<component name="pop3andsmtpmtm" long-name="POP3 and SMTP MTM" deprecated="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/messaging/email/pop3andsmtpmtm/group" mrp="/sf/app/messaging/email/pop3andsmtpmtm/group/messaging_email.mrp"/>
+</component>
+<component name="imap4mtm" long-name="IMAP4 MTM" introduced="9.2" deprecated="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/messaging/email/imap4mtm/group" mrp="/sf/app/messaging/email/imap4mtm/group/messaging_email_imap.mrp"/>
+</component>
+</collection>
+<collection name="messaging_info" long-name="Messaging Apps Info" level="api">
+<component name="messaging_metadata" long-name="Messaging Apps Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/app/messaging/messaging_info/messaging_metadata/messaging_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

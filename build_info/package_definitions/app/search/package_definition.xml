@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="search" level="apps" levels="eng base app api" long-name="Search Apps">
+<collection name="search_info" long-name="Search Info" level="base">
+<component name="search_build" long-name="Search Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/search/group"/>
+</component>
+</collection>
+<collection name="search_plat" long-name="Search Platform Interfaces" level="api">
+<component name="search_plat_build" long-name="Search Platform Interfaces Build" introduced="^4" purpose="optional" class="api">
+<unit bldFile="/sf/app/search/search_plat" proFile="search_plat.pro"/>
+</component>
+</collection>
+<collection name="onlinesearchproviders" long-name="Online Search Providers" level="eng">
+<component name="onlinesearchproviders_build" long-name="Online Search Providers Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/search/onlinesearchproviders" proFile="onlinesearchproviders.pro"/>
+</component>
+</collection>
+<collection name="search_harvesterplugins" long-name="Search Harvester Plugins" level="base">
+<component name="search_qtemailfetcher" long-name="Search Qt Email Fetcher" introduced="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/search/harvesterplugins/messaging/email/qtemailfetcher" proFile="qtemailfetcher.pro"/>
+</component>
+</collection>
+<collection name="searchui" long-name="Search UI" level="app">
+<component name="searchui_build" long-name="Search UI Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/search/searchui" proFile="searchui.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

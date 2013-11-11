@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="adaptation" long-name="Adaptation" levels="low mw high">
+   <block name="stubs" level="high" span="2" levels="adaptation plugin mid engine" long-name="Stubs">
+<collection name="audiostubs" long-name="Audio Stubs" level="adaptation">
+<component name="devsoundextensions_stubs" long-name="Devsound Extensions Stubs" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/audiostubs/devsoundextensions_stubs/group"/>
+</component>
+<component name="fmradiotunercontrolstub" long-name="FM Radio Tuner Control Stub" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/audiostubs/fmradiotunercontrolstub/group"/>
+</component>
+</collection>
+<collection name="drm_stubs" long-name="DRM Stubs" level="plugin">
+<component name="drm_stubs_build" long-name="DRM Stubs Build" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/drm_stubs/group"/>
+</component>
+</collection>
+<collection name="ocrsrv_stub" long-name="OCR Services Stub" level="mid">
+<component name="ocrsrv_stub_build" long-name="OCR Services Stub Build" filter="!dfs_build" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/ocrsrv_stub/group"/>
+</component>
+</collection>
+<collection name="omasuplasnconverterstubimpl" long-name="OMA SUPL ASN Converter Stub Implementation" level="plugin">
+<component name="omasuplasnconverterstubimpl_build" long-name="OMA SUPL ASN Converter Stub Implementation Build" filter="!dfs_build" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/omasuplasnconverterstubimpl/group"/>
+</component>
+</collection>
+<collection name="posmsgpluginreferenceimpl" long-name="POS Message Plugin Reference Implementation" level="plugin">
+<component name="posmsgpluginreferenceimpl_build" long-name="POS Message Plugin Reference Implementation Build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/posmsgpluginreferenceimpl/group"/>
+</component>
+</collection>
+<collection name="srsfenginestub" long-name="SRSF Engine Stub" level="engine">
+<component name="srsfenginestub_build" long-name="SRSF Engine Stub Build" filter="stubs" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/srsfenginestub/group"/>
+</component>
+</collection>
+<collection name="power_save_display_mode_stub" long-name="Power Save Display Mode Stub" level="plugin">
+<component name="power_save_display_mode_stub_build" long-name="Power Save Display Mode Stub Build" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/power_save_display_mode_stub/group"/>
+</component>
+</collection>
+<collection name="systemswstubs" long-name="System Software Stubs" level="adaptation">
+<component name="ddcaccessstub" long-name="DDC Access Stub" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/ddcaccessstub/group"/>
+</component>
+<component name="tvoutconfig" long-name="TV Out Config" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/TVOutConfig/group" filter="oem_build"/>
+</component>
+<component name="accessorypolicyreference" long-name="Accessory Policy Reference" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/accessorypolicyreference/group" filter="oem_build"/>
+</component>
+<component name="asyreference" long-name="ASY Reference" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/asyreference/group" filter="oem_build"/>
+</component>
+<component name="examplecommonisc" long-name="Example Common ISC" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/examplecommonisc/group" filter="oem_build"/>
+</component>
+<component name="exampledsy" long-name="Example DSY" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/exampledsy/group" filter="oem_build"/>
+</component>
+<component name="featuremanagerstub" long-name="Feature Manager Stub" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/featuremanagerstub/group" filter="oem_build"/>
+</component>
+<component name="hwrmstubplugins" long-name="Hardware Resource Manager Stub Plugins" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/hwrmstubplugins/group" filter="oem_build"/>
+</component>
+<component name="hwrmhapticsstubplugin" long-name="Hardware Resource Manager Haptics Stub Plugin" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/hwrmhapticsstubplugin/group" filter="oem_build"/>
+</component>
+<component name="sensorchannelsreference" long-name="Sensor Channels Reference" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/sensorchannelsreference/group" filter="oem_build"/>
+</component>
+<component name="ssyreference" long-name="SSY Reference" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/ssyreference/group" filter="oem_build"/>
+</component>
+<component name="startupadaptationstub" long-name="Startup Adaptation Stub" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/startupadaptationstub/group" filter="oem_build"/>
+</component>
+<component name="tiltcompensationstub" long-name="Tilt Compensation Stub" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/tiltcompensationstub/group" filter="oem_build"/>
+</component>
+<component name="tvoutbehaviour" long-name="TV Out Behaviour" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/tvoutbehaviour/group" filter="oem_build"/>
+</component>
+<component name="wiredbearerreference" long-name="Wired Bearer Reference" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/systemswstubs/wiredbearerreference/group" filter="oem_build"/>
+</component>
+</collection>
+<collection name="tactileclickplugin_stub" long-name="Tactile Click Plugin Stub" level="engine">
+<component name="tactileclickplugin_stub_build" long-name="Tactile Click Plugin Stub Build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/stubs/tactileclickplugin_stub/group"/>
+</component>
+</collection>
+<collection name="wlanhwinit_stub" long-name="WLAN Hardware Init Stub" level="mid">
+<component name="wlanhwinit_stub_build" long-name="WLAN Hardware Init Stub Build" purpose="optional">
+<unit bldFile="/sf/adaptation/stubs/wlanhwinit_stub/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

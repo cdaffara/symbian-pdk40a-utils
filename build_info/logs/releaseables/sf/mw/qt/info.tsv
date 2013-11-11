@@ -1,0 +1,444 @@
+/epoc32/data/qt/sis/sqlite3.sis	export	
+/epoc32/data/qt/sis/sqlite3_selfsigned.sis	export	
+/epoc32/data/z/resource/apps/s60main.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/s60main.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/plugins/bearer/qsymbianbearer.qtplugin	export	
+/epoc32/data/z/system/install/qt_stub.sis	export	
+/epoc32/include/data_caging_paths.prf	export	
+/epoc32/include/platform_paths.prf	export	
+/epoc32/include/s60main.rsg	resource	armv5_urel
+/epoc32/include/s60main.rsg	resource	winscw_udeb
+/epoc32/include/stdapis/sqlite3.h	export	
+/epoc32/release/armv5/lib/QtCore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtCore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtCore{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtCore{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtDeclarative.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtDeclarative.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtDeclarative{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtDeclarative{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtGui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtGui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtGui{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtGui{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtMultimedia.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtMultimedia.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtMultimedia{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtMultimedia{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtNetwork.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtNetwork.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtNetwork{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtNetwork{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtOpenVG.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtOpenVG.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtOpenVG{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtOpenVG{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtScript.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtScript.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtScript{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtScript{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSql.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSql.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSql{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSql{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSvg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSvg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtSvg{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtSvg{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtTest.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtTest.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtTest{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtTest{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtXml.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtXml.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtXmlPatterns.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtXmlPatterns.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtXmlPatterns{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtXmlPatterns{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/QtXml{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/QtXml{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonon{00040400}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonon{00040400}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qcncodecs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qcncodecs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qcncodecs{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qcncodecs{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qgif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qgif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qgif{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qgif{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qico.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qico.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qico{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qico{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qjpcodecs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qjpcodecs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qjpcodecs{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qjpcodecs{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qjpeg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qjpeg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qjpeg{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qjpeg{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qkrcodecs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qkrcodecs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qkrcodecs{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qkrcodecs{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmlfolderlistmodelplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmlfolderlistmodelplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmlfolderlistmodelplugin{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmlfolderlistmodelplugin{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmlgesturesplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmlgesturesplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmlgesturesplugin{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmlgesturesplugin{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmlparticlesplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmlparticlesplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmlparticlesplugin{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmlparticlesplugin{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmng.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmng.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qmng{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qmng{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qsvg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qsvg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qsvgicon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qsvgicon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qsvgicon{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qsvgicon{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qsvg{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qsvg{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qsymbianbearer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qsymbianbearer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qsymbianbearer{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qsymbianbearer{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtiff.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtiff.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtiff{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtiff{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtracegraphicssystem.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtracegraphicssystem.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtracegraphicssystem{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtracegraphicssystem{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtwcodecs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtwcodecs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtwcodecs{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtwcodecs{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qvggraphicssystem.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qvggraphicssystem.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qvggraphicssystem{00040700}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qvggraphicssystem{00040700}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sqlite3.dso	export	
+/epoc32/release/armv5/lib/sqlite3.lib	export	
+/epoc32/release/armv5/lib/sqlite3{00060003}.dso	export	
+/epoc32/release/armv5/lib/sqlite3{00060003}.lib	export	
+/epoc32/release/armv5/udeb/QtCore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtCore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtDeclarative.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtDeclarative.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtGui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtGui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtMultimedia.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtMultimedia.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtNetwork.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtNetwork.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtOpenVG.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtOpenVG.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtScript.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtScript.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSql.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSql.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSvg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtSvg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtTest.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtTest.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtXml.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtXml.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtXmlPatterns.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/QtXmlPatterns.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qcncodecs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qcncodecs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qgif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qgif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qico.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qico.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qjpcodecs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qjpcodecs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qjpeg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qjpeg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qkrcodecs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qkrcodecs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmlfolderlistmodelplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmlfolderlistmodelplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmlgesturesplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmlgesturesplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmlparticlesplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmlparticlesplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmng.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qmng.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsvg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsvg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsvgicon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsvgicon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsymbianbearer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qsymbianbearer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtiff.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtiff.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmain.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtracegraphicssystem.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtracegraphicssystem.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qts60plugin_3_1.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qts60plugin_3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qts60plugin_3_2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qts60plugin_3_2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qts60plugin_5_0.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qts60plugin_5_0.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtwcodecs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtwcodecs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qvggraphicssystem.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qvggraphicssystem.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlite3.dll	export	
+/epoc32/release/armv5/udeb/sqlite3.dll.map	export	
+/epoc32/release/armv5/udeb/sqlite3.sym	export	
+/epoc32/release/armv5/urel/QtCore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtCore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtDeclarative.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtDeclarative.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtGui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtGui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtMultimedia.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtMultimedia.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtNetwork.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtNetwork.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtOpenVG.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtOpenVG.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtScript.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtScript.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtSql.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtSql.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtSvg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtSvg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtTest.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtTest.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtXml.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtXml.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/QtXmlPatterns.dll	build	armv5_urel
+/epoc32/release/armv5/urel/QtXmlPatterns.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phonon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qcncodecs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qcncodecs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qgif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qgif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qico.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qico.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qjpcodecs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qjpcodecs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qjpeg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qjpeg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qkrcodecs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qkrcodecs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qmlfolderlistmodelplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qmlfolderlistmodelplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qmlgesturesplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qmlgesturesplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qmlparticlesplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qmlparticlesplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qmng.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qmng.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qsvg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qsvg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qsvgicon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qsvgicon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qsymbianbearer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qsymbianbearer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtiff.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtiff.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtmain.lib	build	armv5_urel
+/epoc32/release/armv5/urel/qtracegraphicssystem.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtracegraphicssystem.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qts60plugin_3_1.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qts60plugin_3_1.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qts60plugin_3_2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qts60plugin_3_2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qts60plugin_5_0.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qts60plugin_5_0.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtwcodecs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtwcodecs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qvggraphicssystem.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qvggraphicssystem.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sqlite3.dll	export	
+/epoc32/release/armv5/urel/sqlite3.dll.map	export	
+/epoc32/release/armv6/udeb/sqlite3.dll	export	
+/epoc32/release/armv6/udeb/sqlite3.dll.map	export	
+/epoc32/release/armv6/udeb/sqlite3.sym	export	
+/epoc32/release/armv6/urel/sqlite3.dll	export	
+/epoc32/release/armv6/urel/sqlite3.dll.map	export	
+/epoc32/release/winscw/udeb/QtCore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtCore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtDeclarative.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtDeclarative.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtGui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtGui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtMultimedia.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtMultimedia.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtNetwork.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtNetwork.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtOpenVG.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtOpenVG.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtScript.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtScript.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSql.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSql.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSvg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtSvg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtTest.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtTest.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtXml.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtXml.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtXmlPatterns.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/QtXmlPatterns.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qcncodecs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qcncodecs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qgif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qgif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qico.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qico.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qjpcodecs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qjpcodecs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qjpeg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qjpeg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qkrcodecs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qkrcodecs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmlfolderlistmodelplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmlfolderlistmodelplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmlgesturesplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmlgesturesplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmlparticlesplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmlparticlesplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmng.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qmng.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qsvg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qsvg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qsvgicon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qsvgicon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qsymbianbearer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qsymbianbearer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtiff.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtiff.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmain.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtracegraphicssystem.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtracegraphicssystem.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qts60plugin_3_1.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qts60plugin_3_2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qts60plugin_5_0.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtwcodecs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtwcodecs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qvggraphicssystem.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qvggraphicssystem.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqlite3.dll	export	
+/epoc32/release/winscw/udeb/sqlite3.lib	export	
+/epoc32/release/winscw/udeb/z/resource/apps/s60main.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/QtCore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtCore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtDeclarative.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtDeclarative.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtGui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtGui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtMultimedia.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtMultimedia.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtNetwork.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtNetwork.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtOpenVG.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtOpenVG.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtScript.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtScript.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtSql.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtSql.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtSvg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtSvg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtTest.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtTest.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtXml.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtXml.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/QtXmlPatterns.dll	build	winscw_urel
+/epoc32/release/winscw/urel/QtXmlPatterns.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phonon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qcncodecs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qcncodecs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qgif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qgif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qico.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qico.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qjpcodecs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qjpcodecs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qjpeg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qjpeg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qkrcodecs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qkrcodecs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qmlfolderlistmodelplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qmlfolderlistmodelplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qmlgesturesplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qmlgesturesplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qmlparticlesplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qmlparticlesplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qmng.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qmng.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qsvg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qsvg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qsvgicon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qsvgicon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qsymbianbearer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qsymbianbearer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtiff.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtiff.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtmain.lib	build	winscw_urel
+/epoc32/release/winscw/urel/qtracegraphicssystem.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtracegraphicssystem.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qts60plugin_3_1.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qts60plugin_3_1.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qts60plugin_3_2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qts60plugin_3_2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qts60plugin_5_0.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qts60plugin_5_0.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtwcodecs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtwcodecs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qvggraphicssystem.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qvggraphicssystem.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sqlite3.dll	export	
+/epoc32/release/winscw/urel/sqlite3.dll.map	export	
+/epoc32/release/winscw/urel/z/resource/apps/s60main.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/uda_content/confml/qt.confml	export	
+/epoc32/rom/config/assets/uda_content/content/sis/qt.sisx	export	
+/epoc32/rom/config/assets/uda_content/implml/qt_copy.implml	export	
+/epoc32/rom/include/core/mw/qt.iby	export	
+/epoc32/rom/include/core/mw/sqlite3.iby	export	
+/epoc32/rom/include/customervariant/app/qtdemoapps.iby	export	
+/epoc32/tools/createpackage.bat	export	
+/epoc32/tools/createpackage.pl	export	
+/epoc32/tools/lrelease.exe	build	tools2_rel
+/epoc32/tools/makefile_templates/qt/qmake_emulator_deployment.flm	export	
+/epoc32/tools/makefile_templates/qt/qmake_extra_pre_targetdep.flm	export	
+/epoc32/tools/makefile_templates/qt/qmake_post_link.flm	export	
+/epoc32/tools/makefile_templates/qt/qmake_store_build.flm	export	
+/epoc32/tools/makefile_templates/qt/qt.xml	export	
+/epoc32/tools/makefile_templates/qt/qtconfig.flm	export	
+/epoc32/tools/makefile_templates/qt/qtconfig.meta	export	
+/epoc32/tools/makefile_templates/qt/qtconfig.mk	export	
+/epoc32/tools/makefile_templates/qt/qtconfig.xml	export	
+/epoc32/tools/makefile_templates/qt/ts2qm.flm	export	
+/epoc32/tools/moc.exe	build	tools2_rel
+/epoc32/tools/patch_capabilities.bat	export	
+/epoc32/tools/patch_capabilities.pl	export	
+/epoc32/tools/qmake.exe	build	tools2_rel
+/epoc32/tools/qt.conf	export	
+/epoc32/tools/qt/mkspecs/features/environment.prf	export	
+/epoc32/tools/rcc.exe	build	tools2_rel
+/epoc32/tools/uic.exe	build	tools2_rel
+/epoc32/winscw/c/resource/qt/plugins/bearer/qsymbianbearer.qtplugin	export	

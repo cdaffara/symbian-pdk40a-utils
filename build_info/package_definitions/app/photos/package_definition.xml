@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="photos" level="apps" levels="util support ui app" long-name="Photos">
+<collection name="photos_group" long-name="Photos Group" level="support">
+<component name="photos_group_build" long-name="Photos Group Build" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="group" qt:proFile="group.pro"/> -->
+</component>
+</collection>
+<collection name="photos_loggers" long-name="Photos Loggers" level="util">
+<component name="photos_loggerqt" long-name="Photos Logger Qt" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="loggers/loggerqt" qt:proFile="loggerqt.pro"/> -->
+</component>
+</collection>
+<collection name="photos_commonutilities" long-name="Photos Common Utilities" level="util">
+<component name="photos_externalutility" long-name="Photos External Utility" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="commonutilities/externalutility" qt:proFile="externalutility.pro"/> -->
+</component>
+<component name="imagedecoderwrapper" long-name="Image Decoder Wrapper" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="commonutilities/imagedecoderwrapper" qt:proFile="imagedecoderwrapper.pro"/> -->
+</component>
+</collection>
+<collection name="photos_ui" long-name="Photos UI" level="ui">
+<!-- need to move exports from ui.pro into separate .pro or bld.inf -->
+<component name="detailscustomwidget" long-name="Details Custom Widget" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ui/detailscustomwidget " qt:proFile="detailscustomwidget .pro"/> -->
+</component>
+<component name="photos_uiengine" long-name="Photos UI Engine" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ui/uiengine" qt:proFile="uiengine.pro"/> -->
+</component>
+<component name="photos_commandhandlers" long-name="Photos Command Handlers" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ui/commandhandlers" qt:proFile="commandhandlers.pro"/> -->
+</component>
+<component name="photos_viewutilities" long-name="Photos View Utilities" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ui/viewutilities" qt:proFile="commandhandlers.pro"/> -->
+</component>
+<component name="photos_widgets" long-name="Photos Widgets" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ui/widgets" qt:proFile="widgets.pro"/> -->
+</component>
+<component name="photos_views" long-name="Photos Views" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ui/views" qt:proFile="views.pro"/> -->
+</component>
+<component name="photos_viewmanagement" long-name="Photos View Management" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ui/viewmanagement" qt:proFile="viewmanagement.pro"/> -->
+</component>
+</collection>
+<collection name="photos_main" long-name="Photos Main" level="support">
+<component name="photos_main_build" long-name="Photos Main Build" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="main" qt:proFile="main.pro"/> -->
+</component>
+</collection>
+<collection name="gallery" long-name="Gallery" level="ui">
+<component name="gallery_build" long-name="Gallery Build" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="gallery" qt:proFile="gallery.pro"/> -->
+</component>
+</collection>
+<collection name="imageviewerapp" long-name="Image Viewer App" level="support">
+<component name="imageviewerapp_build" long-name="Image Viewer App Build" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="imageviewerapp" qt:proFile="imageviewerapp.pro"/> -->
+</component>
+</collection>
+<collection name="photos_info" long-name="Photos Info" level="support">
+<component name="photos_build" long-name="Photos Build" introduced="^4" filter="s60" purpose="optional">
+<!--  split this up into the above components  -->
+<unit bldFile="/sf/app/photos/." proFile="photos.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

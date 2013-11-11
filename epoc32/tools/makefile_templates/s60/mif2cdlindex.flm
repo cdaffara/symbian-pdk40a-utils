@@ -1,0 +1,87 @@
+# mif2cdlindex.flm
+#
+# Copyright (c) 2007-2008 Nokia Ltd. All rights reserved.
+#
+# Header file exporting Function Like Makefile (FLM)
+# The file destinations  relative to EPOCROOT
+
+## Parameters that are expected:
+# TARGETFILE Avkon2mifheader_inst.cpp
+# GENPATH 
+# MIFFILE avkon2.mif
+# DLLNAME Avkon2MifHeader
+# DLLUID 0x102827CF
+
+## Default values for .mif files to get picked up
+# armv5
+# MIFDIR $(EPOCROOT)/epoc32/data/Z/resource/apps for armv5 or # MIFDIR $(EPOCROOT)epoc32/data/Z/resource/apps or 
+# winscw
+# MIFDIR:=$(EPOCROOT)/epoc32/release/winscw/$(CFG)/z/resource/apps
+
+CREATABLEPATHS:=
+CLEANTARGETS:=
+
+ifeq ($(MIFDIR),)
+  ifeq ($(PLATFORM),ARMV5) 
+    MIFDIR:=$(EPOCROOT)/epoc32/data/Z/resource/apps
+  else
+  ifeq ($(PLATFORM),WINSCW)
+    MIFDIR:=$(EPOCROOT)/epoc32/release/winscw/$(CFG)/z/resource/apps
+  endif
+  endif  
+endif
+
+# Check if all the inputs are present
+$(if $(TARGETFILE),,$(error Must define TARGETFILE))
+$(if $(GENPATH),,$(error Must define GENPATH))
+$(if $(MIFFILE),,$(error Must define MIFFILE))
+$(if $(DLLNAME),,$(error Must define DLLNAME))
+$(if $(DLLUID),,$(error Must define DLLUID))
+
+ifneq ($(GENPATH),)
+DATAPATH:=$(subst //,/,$(EXTENSION_ROOT)/$(GENPATH))
+endif
+
+CREATABLEPATHS:=$(DATAPATH)
+TARGETSRCFILE:=$(subst //,/,$(DATAPATH)/$(TARGETFILE))
+MIFPATH:=$(subst //,/,$(MIFDIR)/$(MIFFILE))
+
+MIF2CDLDEBUG:=0
+ifeq ($(strip $(MIF2CDLDEBUG)),1)
+$(info <DATAPATH datapath='$(DATAPATH)'/>)
+$(info <EXTENSION_ROOT extension_root='$(EXTENSION_ROOT)'/>)
+$(info <MIF2CDL mif2cdl='$(MIF2CDL)'/>)
+$(info <MIFPATH mifpath='$(MIFPATH)'/>)
+$(info <TARGETSRCFILE targetsrcfile='$(TARGETSRCFILE)'/>)
+endif
+
+RELEASEABLES:=$(TARGETSRCFILE)
+CLEANTARGETS:=$(TARGETSRCFILE)
+
+MIFGUARD:=$(call sanitise,TARGET_$(TARGETSRCFILE))
+
+define generatesrcfile
+$(MIFGUARD):=1
+
+BITMAP:: $(RELEASEABLES)
+
+$(TARGETSRCFILE): $(MIFPATH) $(MIF2CDL)
+	$(call startrule,generatesrc,FORCESUCCESS) \
+	$(MIF2CDL) -p$(DATAPATH) -s $(MIFPATH) $(DLLNAME) $(DLLUID) \
+	$(call endrule,generatesrc)
+
+endef
+
+
+ifeq ($($(MIFGUARD)),)
+$(eval -$(call generatesrcfile))
+endif
+
+# Create dirs
+$(call makepath,$(CREATABLEPATHS))
+
+## Clean up
+$(eval $(call GenerateStandardCleanTarget,$(CLEANTARGETS)))
+
+# for the abld -what target
+$(eval $(call whatmacro,$(RELEASEABLES),WHATBITMAP))

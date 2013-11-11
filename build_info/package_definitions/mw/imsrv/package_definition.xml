@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="imsrv" level="specific" levels="plugin framework server generic specific" long-name="Instant Messaging and Presence Services">
+<collection name="imsrv_plat" long-name="Instant Messaging and Presence Services Platform Interfaces" level="specific">
+<component name="ximp_core_data_model_api" long-name="XIMP Core Data Model API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_core_data_model_api/group"/>
+</component>
+<component name="ximp_presence_protocol_plugin_host_api" long-name="XIMP Presence Protocol Plug-in Host API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_presence_protocol_plugin_host_api/group"/>
+</component>
+<component name="ximp_presence_data_model_api" long-name="XIMP Presence Data Model API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_presence_data_model_api/group"/>
+</component>
+<component name="ximp_presence_protocol_plugin_api" long-name="XIMP Presence Protocol Plug-in API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_presence_protocol_plugin_api/group"/>
+</component>
+<component name="ximp_presence_management_api" long-name="XIMP Presence Management API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_presence_management_api/group"/>
+</component>
+<component name="ximp_core_protocol_plugin_host_api" long-name="XIMP Core Protocol Plug-in Host API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_core_protocol_plugin_host_api/group"/>
+</component>
+<component name="ximp_core_management_api" long-name="XIMP Core Management API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_core_management_api/group"/>
+</component>
+<component name="ximp_presence_base_api" long-name="XIMP Presence Base API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_presence_base_api/group"/>
+</component>
+<component name="ximp_core_protocol_plugin_api" long-name="XIMP Core Protocol Plug-in API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_core_protocol_plugin_api/group"/>
+</component>
+<component name="ximp_core_base_api" long-name="XIMP Core Base API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_core_base_api/group"/>
+</component>
+<component name="ximp_presence_cache_api" long-name="XIMP Presence Cache API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_presence_cache_api/group"/>
+</component>
+<component name="ximp_core_feature_plugin_api" long-name="XIMP Core Feature Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_core_feature_plugin_api/group"/>
+</component>
+<component name="ximp_im_protocol_plugin_host_api" long-name="XIMP IM Protocol Plugin Host API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_im_protocol_plugin_host_api/group"/>
+</component>
+<component name="ximp_im_data_model_api" long-name="XIMP IM Data Model API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_im_data_model_api/group"/>
+</component>
+<component name="ximp_im_protocol_plugin_api" long-name="XIMP IM Protocol Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_im_protocol_plugin_api/group"/>
+</component>
+<component name="ximp_im_management_api" long-name="XIMP IM Management API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_im_management_api/group"/>
+</component>
+<component name="ximp_im_base_api" long-name="XIMP IM Base API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_im_base_api/group"/>
+</component>
+<component name="ximp_search_protocol_plugin_host_api" long-name="XIMP Search Protocol Plugin Host API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_search_protocol_plugin_host_api/group"/>
+</component>
+<component name="ximp_search_data_model_api" long-name="XIMP Search Data Model API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_search_data_model_api/group"/>
+</component>
+<component name="ximp_search_protocol_plugin_api" long-name="XIMP search Protocol Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_search_protocol_plugin_api/group"/>
+</component>
+<component name="ximp_search_management_api" long-name="XIMP Search Management API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_search_management_api/group"/>
+</component>
+<component name="ximp_search_base_api" long-name="XIMP Search Base API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/ximp_search_base_api/group"/>
+</component>
+<component name="xmpp_settings_api" long-name="XMPP Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/xmpp_settings_api/group"/>
+</component>
+<component name="im_cache_client_api" long-name="IM Cache Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/im_cache_client_api/group"/>
+</component>
+<component name="im_cache_server_api" long-name="IM Cache Server API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/im_cache_server_api/group"/>
+</component>
+<component name="presence_avabilitytext" long-name="Presence Availability Text" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imsrv/imsrv_plat/presence_avabilitytext/group"/>
+</component>
+</collection>
+<collection name="ximpfw" long-name="XIMP Framework" level="framework">
+<!-- collection is really a component. Needs to be moved down a directory -->
+<component name="ximpfw_build" long-name="XIMP Framework Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imsrv/ximpfw/group"/>
+</component>
+</collection>
+<collection name="imservices" long-name="IM Services" level="generic">
+<component name="imfeatureplugin" long-name="IM Feature Plugin" introduced="^2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/imsrv/imservices/imfeatureplugin/group"/>
+</component>
+<component name="searchfeatureplugin" long-name="Search Feature Plugin" introduced="^2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/imsrv/imservices/searchfeatureplugin/group"/>
+</component>
+<component name="xmppsettingsapi" long-name="XMPP Settings API" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imsrv/imservices/xmppsettingsapi/group"/>
+</component>
+<component name="xmppsettingsfetcher" long-name="XMPP Settings Fetcher" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imsrv/imservices/xmppsettingsfetcher/group"/>
+</component>
+<component name="instantmessagingcache" long-name="Instant Messaging Cache" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imsrv/imservices/instantmessagingcache/group"/>
+</component>
+</collection>
+<collection name="brandingserver" long-name="Branding Server" level="specific">
+<!-- collection is really a component. Needs to be moved down a directory -->
+<component name="brandingserver_build" long-name="Branding Server Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imsrv/brandingserver/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

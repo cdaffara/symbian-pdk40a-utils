@@ -1,0 +1,707 @@
+/epoc32/data/z/private/10202be9/1020e334.txt	export	
+/epoc32/data/z/private/102828dd/backup_registration.xml	export	
+/epoc32/data/z/resource/plugins/imdatamodelhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/imdatamodelhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/imecomhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/imecomhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/imoperationshook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/imoperationshook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/improcessorhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/improcessorhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/presencecacheecomhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/presencecacheecomhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/presencedatamodelhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/presencedatamodelhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/presenceecomhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/presenceecomhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/searchdatamodelhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/searchdatamodelhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/searchecomhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/searchecomhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/searchoperationshook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/searchoperationshook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/searchprocessorhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/searchprocessorhook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ximpecomhook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ximpecomhook.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/imcachestub.sis	export	
+/epoc32/data/z/system/install/imfeaturepluginstub.sis	export	
+/epoc32/include/platform/mw/apidataobjfactoryaccessor.h	export	
+/epoc32/include/platform/mw/apidataobjfactoryaccessor.inl	export	
+/epoc32/include/platform/mw/avabilitytext.h	export	
+/epoc32/include/platform/mw/bselementfactory.h	export	
+/epoc32/include/platform/mw/cbsbitmap.h	export	
+/epoc32/include/platform/mw/cbsfactory.h	export	
+/epoc32/include/platform/mw/cimcachefactory.h	export	
+/epoc32/include/platform/mw/cinstantmsgindicator.h	export	
+/epoc32/include/platform/mw/cprotocolimfeatures.h	export	
+/epoc32/include/platform/mw/cprotocolimfeatures.inl	export	
+/epoc32/include/platform/mw/devicepresenceinfo.h	export	
+/epoc32/include/platform/mw/eventcodec.h	export	
+/epoc32/include/platform/mw/imaccesscontrollist.h	export	
+/epoc32/include/platform/mw/imcachedefs.h	export	
+/epoc32/include/platform/mw/imconversation.h	export	
+/epoc32/include/platform/mw/imconversationevent.h	export	
+/epoc32/include/platform/mw/imconversationinfo.h	export	
+/epoc32/include/platform/mw/imdatamodelifids.hrh	export	
+/epoc32/include/platform/mw/imdlluids.hrh	export	
+/epoc32/include/platform/mw/imerrors.hrh	export	
+/epoc32/include/platform/mw/imfeatures.h	export	
+/epoc32/include/platform/mw/imfeatures.inl	export	
+/epoc32/include/platform/mw/imgroup.h	export	
+/epoc32/include/platform/mw/imgroupevent.h	export	
+/epoc32/include/platform/mw/imgroupinfo.h	export	
+/epoc32/include/platform/mw/iminvitation.h	export	
+/epoc32/include/platform/mw/iminvitationevent.h	export	
+/epoc32/include/platform/mw/iminvitationinfo.h	export	
+/epoc32/include/platform/mw/immanagementifids.hrh	export	
+/epoc32/include/platform/mw/imobjectfactory.h	export	
+/epoc32/include/platform/mw/imoperationdefs.h	export	
+/epoc32/include/platform/mw/improtocolpluginhostifids.hrh	export	
+/epoc32/include/platform/mw/improtocolpluginifids.hrh	export	
+/epoc32/include/platform/mw/imsearch.h	export	
+/epoc32/include/platform/mw/imsearchelement.h	export	
+/epoc32/include/platform/mw/imsearchevent.h	export	
+/epoc32/include/platform/mw/imsearchinfo.h	export	
+/epoc32/include/platform/mw/mbsaccess.h	export	
+/epoc32/include/platform/mw/mbsbackuprestorestateobserver.h	export	
+/epoc32/include/platform/mw/mbsbrandchangeobserver.h	export	
+/epoc32/include/platform/mw/mbselement.h	export	
+/epoc32/include/platform/mw/mbsupdater.h	export	
+/epoc32/include/platform/mw/mimcacheaccessor.h	export	
+/epoc32/include/platform/mw/mimcacheeventhandler.h	export	
+/epoc32/include/platform/mw/mimcacheupdater.h	export	
+/epoc32/include/platform/mw/ownpresenceevent.h	export	
+/epoc32/include/platform/mw/personpresenceinfo.h	export	
+/epoc32/include/platform/mw/prescachereadhandler.h	export	
+/epoc32/include/platform/mw/prescachewritehandler.h	export	
+/epoc32/include/platform/mw/presenceauthorization.h	export	
+/epoc32/include/platform/mw/presenceblockinfo.h	export	
+/epoc32/include/platform/mw/presenceblocklistevent.h	export	
+/epoc32/include/platform/mw/presencebuddyinfo.h	export	
+/epoc32/include/platform/mw/presencebuddyinfolist.h	export	
+/epoc32/include/platform/mw/presencecachereader.h	export	
+/epoc32/include/platform/mw/presencecachereader.inl	export	
+/epoc32/include/platform/mw/presencecachewriter.h	export	
+/epoc32/include/platform/mw/presencecachewriter.inl	export	
+/epoc32/include/platform/mw/presencedatamodelifids.hrh	export	
+/epoc32/include/platform/mw/presenceerrors.hrh	export	
+/epoc32/include/platform/mw/presencefeatures.h	export	
+/epoc32/include/platform/mw/presencefeatures.inl	export	
+/epoc32/include/platform/mw/presencegrantrequestinfo.h	export	
+/epoc32/include/platform/mw/presencegrantrequestlistevent.h	export	
+/epoc32/include/platform/mw/presenceinfo.h	export	
+/epoc32/include/platform/mw/presenceinfofield.h	export	
+/epoc32/include/platform/mw/presenceinfofieldcollection.h	export	
+/epoc32/include/platform/mw/presenceinfofieldvaluebinary.h	export	
+/epoc32/include/platform/mw/presenceinfofieldvalueenum.h	export	
+/epoc32/include/platform/mw/presenceinfofieldvaluetext.h	export	
+/epoc32/include/platform/mw/presenceinfofilter.h	export	
+/epoc32/include/platform/mw/presencemanagementifids.hrh	export	
+/epoc32/include/platform/mw/presenceobjectfactory.h	export	
+/epoc32/include/platform/mw/presenceprotocolpluginhostifids.hrh	export	
+/epoc32/include/platform/mw/presenceprotocolpluginifids.hrh	export	
+/epoc32/include/platform/mw/presencepublishing.h	export	
+/epoc32/include/platform/mw/presencewatcherinfo.h	export	
+/epoc32/include/platform/mw/presencewatcherlistevent.h	export	
+/epoc32/include/platform/mw/presencewatching.h	export	
+/epoc32/include/platform/mw/presentitygroupcontentevent.h	export	
+/epoc32/include/platform/mw/presentitygroupinfo.h	export	
+/epoc32/include/platform/mw/presentitygrouplistevent.h	export	
+/epoc32/include/platform/mw/presentitygroupmemberinfo.h	export	
+/epoc32/include/platform/mw/presentitygroups.h	export	
+/epoc32/include/platform/mw/presentitypresenceevent.h	export	
+/epoc32/include/platform/mw/protocoldatahost.h	export	
+/epoc32/include/platform/mw/protocoldatahost.inl	export	
+/epoc32/include/platform/mw/protocolimconversation.h	export	
+/epoc32/include/platform/mw/protocolimconversationdatahost.h	export	
+/epoc32/include/platform/mw/protocolimdatahost.h	export	
+/epoc32/include/platform/mw/protocolimdatahost.inl	export	
+/epoc32/include/platform/mw/protocolimfeatures.h	export	
+/epoc32/include/platform/mw/protocolimfeatures.inl	export	
+/epoc32/include/platform/mw/protocolimgroup.h	export	
+/epoc32/include/platform/mw/protocolimgroupdatahost.h	export	
+/epoc32/include/platform/mw/protocoliminvitation.h	export	
+/epoc32/include/platform/mw/protocoliminvitationdatahost.h	export	
+/epoc32/include/platform/mw/protocolimpluginhost.h	export	
+/epoc32/include/platform/mw/protocolimsearch.h	export	
+/epoc32/include/platform/mw/protocolimsearchdatahost.h	export	
+/epoc32/include/platform/mw/protocolpresenceauthorization.h	export	
+/epoc32/include/platform/mw/protocolpresenceauthorizationdatahost.h	export	
+/epoc32/include/platform/mw/protocolpresencedatahost.h	export	
+/epoc32/include/platform/mw/protocolpresencefeatures.h	export	
+/epoc32/include/platform/mw/protocolpresencepublishing.h	export	
+/epoc32/include/platform/mw/protocolpresencepublishingdatahost.h	export	
+/epoc32/include/platform/mw/protocolpresencewatching.h	export	
+/epoc32/include/platform/mw/protocolpresencewatchingdatahost.h	export	
+/epoc32/include/platform/mw/protocolpresentitygroups.h	export	
+/epoc32/include/platform/mw/protocolpresentitygroupsdatahost.h	export	
+/epoc32/include/platform/mw/protocolsearch.h	export	
+/epoc32/include/platform/mw/protocolsearchdatahost.h	export	
+/epoc32/include/platform/mw/protocolsearchfeature.h	export	
+/epoc32/include/platform/mw/protocolsearchfeaturedatahost.h	export	
+/epoc32/include/platform/mw/protocolsearchpluginhost.h	export	
+/epoc32/include/platform/mw/rbsobjowningptrarray.h	export	
+/epoc32/include/platform/mw/rbsobjowningptrarray.inl	export	
+/epoc32/include/platform/mw/search.h	export	
+/epoc32/include/platform/mw/searchdatamodelifids.hrh	export	
+/epoc32/include/platform/mw/searchdlluids.hrh	export	
+/epoc32/include/platform/mw/searchelement.h	export	
+/epoc32/include/platform/mw/searcherrors.hrh	export	
+/epoc32/include/platform/mw/searchevent.h	export	
+/epoc32/include/platform/mw/searchfeature.h	export	
+/epoc32/include/platform/mw/searchfeature.inl	export	
+/epoc32/include/platform/mw/searchinfo.h	export	
+/epoc32/include/platform/mw/searchkeyinfo.h	export	
+/epoc32/include/platform/mw/searchkeysevent.h	export	
+/epoc32/include/platform/mw/searchmanagementifids.hrh	export	
+/epoc32/include/platform/mw/searchobjectfactory.h	export	
+/epoc32/include/platform/mw/searchoperationdefs.h	export	
+/epoc32/include/platform/mw/searchprotocolpluginhostifids.hrh	export	
+/epoc32/include/platform/mw/searchprotocolpluginifids.hrh	export	
+/epoc32/include/platform/mw/servicepresenceinfo.h	export	
+/epoc32/include/platform/mw/tbselementiterator.h	export	
+/epoc32/include/platform/mw/ximpapidataobjbase.h	export	
+/epoc32/include/platform/mw/ximpapieventbase.h	export	
+/epoc32/include/platform/mw/ximpapiobjbase.h	export	
+/epoc32/include/platform/mw/ximpbase.h	export	
+/epoc32/include/platform/mw/ximpbase.inl	export	
+/epoc32/include/platform/mw/ximpbaseifids.hrh	export	
+/epoc32/include/platform/mw/ximpclient.h	export	
+/epoc32/include/platform/mw/ximpclient.inl	export	
+/epoc32/include/platform/mw/ximpcontext.h	export	
+/epoc32/include/platform/mw/ximpcontextclientinfo.h	export	
+/epoc32/include/platform/mw/ximpcontextinternal.h	export	
+/epoc32/include/platform/mw/ximpcontextobserver.h	export	
+/epoc32/include/platform/mw/ximpcontextstate.h	export	
+/epoc32/include/platform/mw/ximpcontextstateevent.h	export	
+/epoc32/include/platform/mw/ximpdatamodelifids.hrh	export	
+/epoc32/include/platform/mw/ximpdatasubscriptionstate.h	export	
+/epoc32/include/platform/mw/ximperrors.hrh	export	
+/epoc32/include/platform/mw/ximpfeatureinfo.h	export	
+/epoc32/include/platform/mw/ximpfeaturepluginifids.hrh	export	
+/epoc32/include/platform/mw/ximphost.h	export	
+/epoc32/include/platform/mw/ximphoststates.h	export	
+/epoc32/include/platform/mw/ximpidentity.h	export	
+/epoc32/include/platform/mw/ximpidentityimp.h	export	
+/epoc32/include/platform/mw/ximpitemparentbase.h	export	
+/epoc32/include/platform/mw/ximpmanagementifids.hrh	export	
+/epoc32/include/platform/mw/ximpobjectcollection.h	export	
+/epoc32/include/platform/mw/ximpobjectfactory.h	export	
+/epoc32/include/platform/mw/ximpobjecthelpers.h	export	
+/epoc32/include/platform/mw/ximpobjecthelpers.inl	export	
+/epoc32/include/platform/mw/ximpoperationbase.h	export	
+/epoc32/include/platform/mw/ximpoperationdefs.h	export	
+/epoc32/include/platform/mw/ximpoperationfactory1.h	export	
+/epoc32/include/platform/mw/ximpoperationfactory1.inl	export	
+/epoc32/include/platform/mw/ximppanics.h	export	
+/epoc32/include/platform/mw/ximpprotocolconnection.h	export	
+/epoc32/include/platform/mw/ximpprotocolconnectionhost.h	export	
+/epoc32/include/platform/mw/ximpprotocolconnectionhostobserver.h	export	
+/epoc32/include/platform/mw/ximpprotocolinfo.h	export	
+/epoc32/include/platform/mw/ximpprotocolplugin.h	export	
+/epoc32/include/platform/mw/ximpprotocolpluginbase.h	export	
+/epoc32/include/platform/mw/ximpprotocolpluginbase.inl	export	
+/epoc32/include/platform/mw/ximpprotocolpluginhost.h	export	
+/epoc32/include/platform/mw/ximpprotocolpluginhostifids.hrh	export	
+/epoc32/include/platform/mw/ximpprotocolpluginifids.hrh	export	
+/epoc32/include/platform/mw/ximpprotocolrequestcompleteevent.h	export	
+/epoc32/include/platform/mw/ximppsccontext.h	export	
+/epoc32/include/platform/mw/ximprbufhelpers.h	export	
+/epoc32/include/platform/mw/ximprequestcompleteevent.h	export	
+/epoc32/include/platform/mw/ximprequestidbuilder.h	export	
+/epoc32/include/platform/mw/ximprestrictedobjectcollection.h	export	
+/epoc32/include/platform/mw/ximpserviceinfo.h	export	
+/epoc32/include/platform/mw/ximpstatus.h	export	
+/epoc32/include/platform/mw/ximpsubscriptionitem.h	export	
+/epoc32/include/platform/mw/ximpsubscriptionitembase.h	export	
+/epoc32/include/platform/mw/xmppparams.h	export	
+/epoc32/include/platform/mw/xmppservicesettingsapi.h	export	
+/epoc32/include/platform/mw/xmppsettingsapicommon.h	export	
+/epoc32/release/armv5/lib/bsclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bsclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imcacheclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imcacheclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imcacheclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imcacheclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imdatamodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imdatamodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imdatamodelhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imdatamodelhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imdatamodelhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imdatamodelhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imdatamodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imdatamodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imecomhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imecomhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imecomhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imecomhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/immanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/immanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/immanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/immanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imoperation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imoperation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imoperationshook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imoperationshook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imoperationshook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imoperationshook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imoperation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imoperation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/improcessor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/improcessor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/improcessorhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/improcessorhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/improcessorhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/improcessorhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/improcessor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/improcessor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jabbersettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jabbersettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jabbersettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jabbersettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheecomhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheecomhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheecomhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheecomhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencedatamodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencedatamodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencedatamodelhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencedatamodelhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencedatamodelhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencedatamodelhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencedatamodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencedatamodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presenceecomhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presenceecomhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presenceecomhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presenceecomhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencemanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencemanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencemanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencemanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presenceoperation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presenceoperation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presenceoperation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presenceoperation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchdatamodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchdatamodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchdatamodelhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchdatamodelhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchdatamodelhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchdatamodelhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchdatamodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchdatamodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchecomhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchecomhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchecomhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchecomhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchoperation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchoperation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchoperationshook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchoperationshook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchoperationshook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchoperationshook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchoperation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchoperation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchprocessor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchprocessor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchprocessorhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchprocessorhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchprocessorhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchprocessorhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchprocessor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchprocessor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpdatamodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpdatamodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpdatamodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpdatamodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpoperations.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpoperations.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpoperations{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpoperations{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpprocessor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpprocessor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpprocessor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpprocessor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpsrvclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpsrvclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximpsrvclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximpsrvclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximputils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximputils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ximputils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ximputils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmppsettingsfetcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmppsettingsfetcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmppsettingsfetcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmppsettingsfetcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/bsclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsimport.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsimport.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsinstall.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsinstall.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imcacheclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imcacheclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imcacheserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/imcacheserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imdatamodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imdatamodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imdatamodelhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imdatamodelhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imecomhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imecomhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/immanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/immanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imoperation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imoperation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imoperationshook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imoperationshook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/improcessor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/improcessor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/improcessorhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/improcessorhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/jabbersettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/jabbersettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheecomhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheecomhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencedatamodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencedatamodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencedatamodelhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencedatamodelhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presenceecomhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presenceecomhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencemanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencemanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presenceoperation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presenceoperation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchdatamodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchdatamodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchdatamodelhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchdatamodelhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchecomhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchecomhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchoperation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchoperation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchoperationshook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchoperationshook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchprocessor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchprocessor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchprocessorhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchprocessorhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpdatamodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpdatamodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpecomhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpecomhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpoperations.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpoperations.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpprocessor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpprocessor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximprootserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximprootserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpsrvclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximpsrvclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximputils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ximputils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmppsettingsfetcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmppsettingsfetcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/bsclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bsclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bsimport.exe	build	armv5_urel
+/epoc32/release/armv5/urel/bsimport.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/bsinstall.exe	build	armv5_urel
+/epoc32/release/armv5/urel/bsinstall.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/bsserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/bsserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/imcacheclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imcacheclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imcacheserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/imcacheserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/imdatamodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imdatamodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imdatamodelhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imdatamodelhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imecomhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imecomhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/immanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/immanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imoperation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imoperation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imoperationshook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imoperationshook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/improcessor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/improcessor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/improcessorhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/improcessorhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/jabbersettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/jabbersettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheecomhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheecomhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencedatamodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencedatamodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencedatamodelhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencedatamodelhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presenceecomhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presenceecomhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencemanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencemanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presenceoperation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presenceoperation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchdatamodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchdatamodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchdatamodelhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchdatamodelhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchecomhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchecomhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchoperation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchoperation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchoperationshook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchoperationshook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchprocessor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchprocessor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchprocessorhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchprocessorhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximpdatamodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ximpdatamodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximpecomhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ximpecomhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximpmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ximpmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximpoperations.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ximpoperations.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximpprocessor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ximpprocessor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximprootserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ximprootserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximpserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ximpserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximpsrvclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ximpsrvclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ximputils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ximputils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmppsettingsfetcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmppsettingsfetcher.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/bsclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsimport.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsinstall.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/imcacheclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imcacheclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imcacheserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/imdatamodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imdatamodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imdatamodelhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imdatamodelhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imecomhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imecomhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/immanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/immanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imoperation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imoperation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imoperationshook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imoperationshook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/improcessor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/improcessor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/improcessorhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/improcessorhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/jabbersettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jabbersettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheecomhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheecomhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencedatamodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencedatamodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencedatamodelhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencedatamodelhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presenceecomhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presenceecomhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencemanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencemanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presenceoperation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presenceoperation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchdatamodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchdatamodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchdatamodelhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchdatamodelhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchecomhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchecomhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchoperation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchoperation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchoperationshook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchoperationshook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchprocessor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchprocessor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchprocessorhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchprocessorhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpdatamodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpdatamodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpecomhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpoperations.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpoperations.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpprocessor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpprocessor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximprootserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpsrvclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximpsrvclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximputils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ximputils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmppsettingsfetcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmppsettingsfetcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202be9/1020e334.txt	export	
+/epoc32/release/winscw/udeb/z/private/102828dd/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/imdatamodelhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/imecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/imoperationshook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/improcessorhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/presencecacheecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/presencedatamodelhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/presenceecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/searchdatamodelhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/searchecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/searchoperationshook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/searchprocessorhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ximpecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/bsclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bsclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bsimport.exe	build	winscw_urel
+/epoc32/release/winscw/urel/bsimport.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/bsinstall.exe	build	winscw_urel
+/epoc32/release/winscw/urel/bsinstall.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/bsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/bsserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/imcacheclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imcacheclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imcacheserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/imcacheserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/imdatamodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imdatamodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imdatamodelhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imdatamodelhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imecomhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imecomhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/immanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/immanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imoperation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imoperation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imoperationshook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imoperationshook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/improcessor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/improcessor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/improcessorhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/improcessorhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/jabbersettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/jabbersettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheecomhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheecomhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencedatamodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencedatamodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencedatamodelhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencedatamodelhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presenceecomhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presenceecomhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencemanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencemanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presenceoperation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presenceoperation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchdatamodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchdatamodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchdatamodelhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchdatamodelhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchecomhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchecomhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchoperation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchoperation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchoperationshook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchoperationshook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchprocessor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchprocessor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchprocessorhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchprocessorhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximpdatamodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ximpdatamodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximpecomhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ximpecomhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximpmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ximpmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximpoperations.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ximpoperations.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximpprocessor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ximpprocessor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximprootserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ximprootserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximpserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ximpserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximpsrvclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ximpsrvclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ximputils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ximputils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmppsettingsfetcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmppsettingsfetcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10202be9/1020e334.txt	export	
+/epoc32/release/winscw/urel/z/private/102828dd/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/imdatamodelhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/imecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/imoperationshook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/improcessorhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/presencecacheecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/presencedatamodelhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/presenceecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/searchdatamodelhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/searchecomhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/searchoperationshook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/searchprocessorhook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ximpecomhook.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/mw/brandingserver.iby	export	
+/epoc32/rom/include/core/mw/imfeatureplugin.iby	export	
+/epoc32/rom/include/core/mw/instantmessagingcache.iby	export	
+/epoc32/rom/include/core/mw/searchfeatureplugin.iby	export	
+/epoc32/rom/include/core/mw/ximpfw.iby	export	
+/epoc32/rom/include/core/mw/xmppsettingsapi.iby	export	
+/epoc32/rom/include/core/mw/xmppsettingsfetcher.iby	export	

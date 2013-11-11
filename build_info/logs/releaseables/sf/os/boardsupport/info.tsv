@@ -1,0 +1,83 @@
+/epoc32/data/console.bmp	export	
+/epoc32/data/console.ini	export	
+/epoc32/data/media/IRAMLDRV.BIN	export	
+/epoc32/data/media/LFSLDRV.BIN	export	
+/epoc32/data/media/NANDDRVLB.BIN	export	
+/epoc32/data/media/NANDDRVONLD.BIN	export	
+/epoc32/data/media/nanddrv.bin	export	
+/epoc32/engdoc/ethernet/wins_ether_drv_howto.txt	export	
+/epoc32/include/platform/wins/nand/nand_fbr_offset.h	export	
+/epoc32/include/platform/wins/nand/nand_fbr_offset.inc	build	winscw_udeb
+/epoc32/include/platform/wins/nand/nand_fbr_offset.inc	build	winscw_urel
+/epoc32/include/platform/wins/variant.mmh	export	
+/epoc32/include/platform/wins/variantmediadef.h	export	
+/epoc32/include/platform/wins/winscomm.h	export	
+/epoc32/include/platform/wins/winscomm.inl	export	
+/epoc32/include/platform/wins/winsgui.h	export	
+/epoc32/release/tools/udeb/packet.lib	export	
+/epoc32/release/tools/udeb/wpcap.lib	export	
+/epoc32/release/winscw/udeb/btracex.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/display0.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/e32strt.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecdrv.pdd	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecomm.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/econsnogui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/econsnogui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecust.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecust.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ekdata.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ekdata.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ekern.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/epbusv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ethernet.pdd	build	winscw_udeb
+/epoc32/release/winscw/udeb/hal.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hcr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/kc_exe.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/medint.pdd	build	winscw_udeb
+/epoc32/release/winscw/udeb/medlfs.pdd	build	winscw_udeb
+/epoc32/release/winscw/udeb/soundsc.pdd	build	winscw_udeb
+/epoc32/release/winscw/udeb/win_drive.fxt	build	winscw_udeb
+/epoc32/release/winscw/udeb/winsgui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/winsgui.lib	build	winscw_udeb
+/epoc32/release/winscw/urel/btracex.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/btracex.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/display0.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/display0.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/e32strt.exe	build	winscw_urel
+/epoc32/release/winscw/urel/e32strt.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecdrv.pdd	build	winscw_urel
+/epoc32/release/winscw/urel/ecdrv.pdd.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecomm.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/ecomm.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/econsnogui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/econsnogui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecust.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ecust.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ekdata.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ekdata.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ekern.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ekern.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/epbusv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epbusv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ethernet.pdd	build	winscw_urel
+/epoc32/release/winscw/urel/ethernet.pdd.map	build	winscw_urel
+/epoc32/release/winscw/urel/hal.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hal.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hcr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hcr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/kc_exe.lib	build	winscw_urel
+/epoc32/release/winscw/urel/medint.pdd	build	winscw_urel
+/epoc32/release/winscw/urel/medint.pdd.map	build	winscw_urel
+/epoc32/release/winscw/urel/medlfs.pdd	build	winscw_urel
+/epoc32/release/winscw/urel/medlfs.pdd.map	build	winscw_urel
+/epoc32/release/winscw/urel/soundsc.pdd	build	winscw_urel
+/epoc32/release/winscw/urel/soundsc.pdd.map	build	winscw_urel
+/epoc32/release/winscw/urel/win_drive.fxt	build	winscw_urel
+/epoc32/release/winscw/urel/win_drive.fxt.map	build	winscw_urel
+/epoc32/release/winscw/urel/winsgui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/winsgui.dll.map	build	winscw_urel
+/epoc32/tools/epoc.bat	export	
+/epoc32/tools/epoc.pl	export	
+/epoc32/tools/eshell.bat	export	
+/epoc32/tools/eshell.pl	export	
+/epoc32/tools/winpcap.exe	export	

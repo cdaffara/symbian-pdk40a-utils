@@ -1,0 +1,148 @@
+/epoc32/data/z/private/10003a3f/import/apps/smfserver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/smfserver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/smfsettings_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/smfsettings_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/smfserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/smfserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/smfsettings.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/smfsettings.rsc	resource	winscw_udeb
+/epoc32/include/SettingsConstants.h	export	
+/epoc32/include/parser.h	export	
+/epoc32/include/parserrunnable.h	export	
+/epoc32/include/qjson_export.h	export	
+/epoc32/include/qobjecthelper.h	export	
+/epoc32/include/serializer.h	export	
+/epoc32/include/serializerrunnable.h	export	
+/epoc32/include/smfactions.h	export	
+/epoc32/include/smfactivityfetcher.h	export	
+/epoc32/include/smfactivityfetcherplugin.h	export	
+/epoc32/include/smfalbum.h	export	
+/epoc32/include/smfartists.h	export	
+/epoc32/include/smfclient.h	export	
+/epoc32/include/smfclientglobal.h	export	
+/epoc32/include/smfcomment.h	export	
+/epoc32/include/smfcontact.h	export	
+/epoc32/include/smfcontactfetcher.h	export	
+/epoc32/include/smfcontactfetcherplugin.h	export	
+/epoc32/include/smfcredmgrclient.h	export	
+/epoc32/include/smfcredmgrclientdatastruct.h	export	
+/epoc32/include/smfcredmgrclientglobal.h	export	
+/epoc32/include/smfcredmgrcommon.h	export	
+/epoc32/include/smfevent.h	export	
+/epoc32/include/smfeventsfetcher.h	export	
+/epoc32/include/smfeventsfetcherplugin.h	export	
+/epoc32/include/smfgallery.h	export	
+/epoc32/include/smfgalleryplugin.h	export	
+/epoc32/include/smfglobal.h	export	
+/epoc32/include/smfgroup.h	export	
+/epoc32/include/smflocation.h	export	
+/epoc32/include/smflyrics.h	export	
+/epoc32/include/smflyricsserviceplugin.h	export	
+/epoc32/include/smfmusic.h	export	
+/epoc32/include/smfmusicfingerprint.h	export	
+/epoc32/include/smfmusicprofile.h	export	
+/epoc32/include/smfmusicrating.h	export	
+/epoc32/include/smfmusicsearchplugin.h	export	
+/epoc32/include/smfmusicserviceplugin.h	export	
+/epoc32/include/smfobserver.h	export	
+/epoc32/include/smfpicture.h	export	
+/epoc32/include/smfpicturealbum.h	export	
+/epoc32/include/smfplaylist.h	export	
+/epoc32/include/smfplaylistserviceplugin.h	export	
+/epoc32/include/smfpluginbase.h	export	
+/epoc32/include/smfpluginutil.h	export	
+/epoc32/include/smfpost.h	export	
+/epoc32/include/smfpostprovider.h	export	
+/epoc32/include/smfpostproviderplugin.h	export	
+/epoc32/include/smfprovider.h	export	
+/epoc32/include/smfproviderbase.h	export	
+/epoc32/include/smfrelationmgr.h	export	
+/epoc32/include/smfserver.rsg	resource	armv5_urel
+/epoc32/include/smfserver.rsg	resource	winscw_udeb
+/epoc32/include/smfsettings.rsg	resource	armv5_urel
+/epoc32/include/smfsettings.rsg	resource	winscw_udeb
+/epoc32/include/smfsubtitle.h	export	
+/epoc32/include/smftrackinfo.h	export	
+/epoc32/include/smfurl.h	export	
+/epoc32/include/smfutils.h	export	
+/epoc32/release/armv5/lib/qjson.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qjson.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qjson{00000701}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qjson{00000701}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smfclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smfclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smfclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smfclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smfcommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smfcommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smfcommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smfcommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smfcredmgrclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smfcredmgrclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smfcredmgrclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smfcredmgrclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/SMFSettings.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SMFSettings.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qjson.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qjson.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfcommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfcommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfcredmgrclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfcredmgrclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfcredmgrcommon.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfcredmgrserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfcredmgrserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/smfserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/SMFSettings.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SMFSettings.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/qjson.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qjson.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/smfclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/smfclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/smfcommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/smfcommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/smfcredmgrclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/smfcredmgrclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/smfcredmgrcommon.lib	build	armv5_urel
+/epoc32/release/armv5/urel/smfcredmgrserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/smfcredmgrserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/smfserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/smfserver.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/SMFSettings.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/qjson.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qjson.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfcommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfcredmgrclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfcredmgrclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfcredmgrcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfcredmgrserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/smfserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/smfserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/smfsettings_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/smfserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/smfsettings.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/SMFSettings.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SMFSettings.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/qjson.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qjson.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/smfclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/smfclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/smfcommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/smfcommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/smfcredmgrclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/smfcredmgrclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/smfcredmgrcommon.lib	build	winscw_urel
+/epoc32/release/winscw/urel/smfcredmgrserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/smfcredmgrserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/smfserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/smfserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/smfserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/smfsettings_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/smfserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/smfsettings.rsc	resource	winscw_udeb

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="rndtools" level="services" levels="support generic test util" long-name="R&amp;D tools">
+<collection name="creator" long-name="Creator" level="support">
+<!-- collection is really a component. Should move down a directory -->
+<component name="creator_build" long-name="Creator Tool" filter="s60" purpose="development" class="tool">
+<unit bldFile="/sf/app/rndtools/creator" proFile="creator.pro"/>
+</component>
+</collection>
+<collection name="filebrowser" long-name="File Browser" level="util">
+<!-- collection is really a component. Should move down a directory -->
+<component name="filebrowser_build" long-name="File Browser Build" filter="s60" purpose="development" class="tool">
+<unit bldFile="/sf/app/rndtools/filebrowser" proFile="filebrowser.pro"/>
+</component>
+</collection>
+<collection name="launcher" long-name="Launcher" level="util">
+<!-- collection is really a component. Should move down a directory -->
+<component name="launcher_build" long-name="Launcher Utility" filter="s60" purpose="development" class="tool">
+<unit bldFile="/sf/app/rndtools/launcher" proFile="launcher.pro"/>
+</component>
+</collection>
+<collection name="loadgen" long-name="Load Generator" level="test">
+<!-- collection is really a component. Should move down a directory -->
+<component name="loadgen_build" long-name="Load Generator Application" filter="s60" purpose="development" class="tool">
+<unit bldFile="/sf/app/rndtools/loadgen" proFile="loadgen.pro"/>
+</component>
+</collection>
+<collection name="perfmon" long-name="Performance Monitor" level="test">
+<!-- collection is really a component. Should move down a directory -->
+<component name="perfmon_build" long-name="Performance Monitor Tool" filter="s60" purpose="development" class="tool">
+<unit bldFile="/sf/app/rndtools/perfmon" proFile="perfmon.pro"/>
+</component>
+</collection>
+<collection name="piprofilerui" long-name="Performance Investigator Profiler UI" level="generic">
+<!-- collection is really a component. Should move down a directory -->
+<component name="piprofilerui_build" long-name="Performance Investigator Profiler UI Build" introduced="^4" filter="s60" purpose="development">
+<unit bldFile="/sf/app/rndtools/piprofilerui" proFile="piprofilerui.pro"/>
+</component>
+</collection>
+<collection name="screengrabber" long-name="Screen Grabber" level="util">
+<!-- collection is really a component. Should move down a directory -->
+<component name="screengrabber_build" long-name="ScreenGrabber" filter="s60" purpose="development" class="tool">
+<unit bldFile="/sf/app/rndtools/screengrabber" proFile="screengrabber.pro"/>
+</component>
+</collection>
+<collection name="memspyui" long-name="Memspy UI" level="generic">
+<!-- collection is really a component. Should move down a directory -->
+<component name="memspyui_build" long-name="Memspy UI Application" filter="s60" purpose="development" class="tool">
+<unit bldFile="/sf/app/rndtools/memspyui" proFile="memspyui.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

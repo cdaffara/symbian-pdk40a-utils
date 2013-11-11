@@ -1,0 +1,1003 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/vmbxcpplugin.qtplugin	export	
+/epoc32/data/z/private/10000850/backup_registration.xml	export	
+/epoc32/data/z/private/10003a3f/import/apps/keysequencerecognitionservice_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/keysequencerecognitionservice_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/satapp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/satapp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/100058F5/backup_registration.xml	export	
+/epoc32/data/z/private/1000A859/backup_registration.xml	export	
+/epoc32/data/z/private/10282e7e/backup_registration.xml	export	
+/epoc32/data/z/private/200286d2/backup_registration.xml	export	
+/epoc32/data/z/resource/apps/keysequencerecognitionservice.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/keysequencerecognitionservice.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/satapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/satapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/cbsserver.r01	resource	armv5_urel
+/epoc32/data/z/resource/cbsserver.r01	resource	winscw_udeb
+/epoc32/data/z/resource/cbsserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/cbsserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/phoneserver.r01	resource	armv5_urel
+/epoc32/data/z/resource/phoneserver.r01	resource	winscw_udeb
+/epoc32/data/z/resource/phoneserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/phoneserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/callcontrolcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/callcontrolcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/closechannelcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/closechannelcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/displaytextcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/displaytextcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/getchannelstatuscmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/getchannelstatuscmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/getinkeycmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/getinkeycmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/getinputcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/getinputcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/languagenotificationcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/languagenotificationcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/launchbrowsercmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/launchbrowsercmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mosmcontrolcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mosmcontrolcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/openchannelcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/openchannelcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/playtonecmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/playtonecmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/providelocalinfocmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/providelocalinfocmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/receivedatacmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/receivedatacmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/refreshcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/refreshcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/refreshrequiredcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/refreshrequiredcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/selectitemcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/selectitemcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senddatacmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senddatacmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senddtmfcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senddtmfcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sendsmcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sendsmcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sendsscmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sendsscmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sendussdcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sendussdcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/setupcallcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/setupcallcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/setupeventlistcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/setupeventlistcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/setupidlemodetextcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/setupidlemodetextcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/setupmenucmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/setupmenucmd.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/simsessionendcmd.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/simsessionendcmd.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/SatServer_stub.sis	export	
+/epoc32/data/z/system/install/aiwdialdata_stub.sis	export	
+/epoc32/data/z/system/install/callprovider_stub.sis	export	
+/epoc32/data/z/system/install/cbsclient_stub.sis	export	
+/epoc32/data/z/system/install/cbsmcnclient_stub.sis	export	
+/epoc32/data/z/system/install/cbsserver_stub.sis	export	
+/epoc32/data/z/system/install/cce_stub.sis	export	
+/epoc32/data/z/system/install/cenrepdatabase_stub.sis	export	
+/epoc32/data/z/system/install/dialpad_stub.sis	export	
+/epoc32/data/z/system/install/dosenpolicy_stub.sis	export	
+/epoc32/data/z/system/install/keysequencerecognitionservice_stub.sis	export	
+/epoc32/data/z/system/install/networkhandling_stub.sis	export	
+/epoc32/data/z/system/install/phoneclient_stub.sis	export	
+/epoc32/data/z/system/install/phonecmdhandler_stub.sis	export	
+/epoc32/data/z/system/install/phoneparser_stub.sis	export	
+/epoc32/data/z/system/install/phoneserver_stub.sis	export	
+/epoc32/data/z/system/install/phonesettings_stub.sis	export	
+/epoc32/data/z/system/install/psetwrapper_stub.sis	export	
+/epoc32/data/z/system/install/psuinotes_stub.sis	export	
+/epoc32/data/z/system/install/satapp_stub.sis	export	
+/epoc32/data/z/system/install/spsbackuphelper_stub.sis	export	
+/epoc32/data/z/system/install/spsettings_stub.sis	export	
+/epoc32/data/z/system/install/sssettings_stub.sis	export	
+/epoc32/data/z/system/install/sssettingswrapper_stub.sis	export	
+/epoc32/data/z/system/install/telephonyservice_stub.sis	export	
+/epoc32/data/z/system/install/vmbxcpplugin_stub.sis	export	
+/epoc32/data/z/system/install/vmbxengine_stub.sis	export	
+/epoc32/data/z/system/install/xqtelephonyservice_stub.sis	export	
+/epoc32/include/ZSYSTEM/install/vmbxcpplugin_stub.sis	export	
+/epoc32/include/cbsserver.rsg	resource	armv5_urel
+/epoc32/include/cbsserver.rsg	resource	winscw_udeb
+/epoc32/include/keysequencerecognitionservice.rsg	resource	armv5_urel
+/epoc32/include/keysequencerecognitionservice.rsg	resource	winscw_udeb
+/epoc32/include/phoneserver.rsg	resource	armv5_urel
+/epoc32/include/phoneserver.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/SecondaryDisplay/secondarydisplaysatapi.h	export	
+/epoc32/include/platform/mw/aiwdialdata.h	export	
+/epoc32/include/platform/mw/aiwdialdataext.h	export	
+/epoc32/include/platform/mw/callinformation.h	export	
+/epoc32/include/platform/mw/callremotepartyinformation.h	export	
+/epoc32/include/platform/mw/callremotepartyinformation.inl	export	
+/epoc32/include/platform/mw/cbscommontypes.h	export	
+/epoc32/include/platform/mw/cbsmcncommon.h	export	
+/epoc32/include/platform/mw/cbsmcnpanic.h	export	
+/epoc32/include/platform/mw/ccallinfoiter.h	export	
+/epoc32/include/platform/mw/ccallinformation.h	export	
+/epoc32/include/platform/mw/ccallinfos.inl	export	
+/epoc32/include/platform/mw/ccallremotepartyinfoiter.h	export	
+/epoc32/include/platform/mw/ccallremotepartyinformation.h	export	
+/epoc32/include/platform/mw/ccbsmcnlistener.h	export	
+/epoc32/include/platform/mw/ccbsmessageclient.h	export	
+/epoc32/include/platform/mw/ccce.h	export	
+/epoc32/include/platform/mw/cccecallparameters.h	export	
+/epoc32/include/platform/mw/cccpcallparameters.h	export	
+/epoc32/include/platform/mw/cconvergedcallprovider.h	export	
+/epoc32/include/platform/mw/cconvergedcallprovider.inl	export	
+/epoc32/include/platform/mw/ccpdefs.h	export	
+/epoc32/include/platform/mw/cenrepdatabaseproperty.h	export	
+/epoc32/include/platform/mw/cenrepdatabaseutil.h	export	
+/epoc32/include/platform/mw/cmcn.h	export	
+/epoc32/include/platform/mw/cmcntopicarray.h	export	
+/epoc32/include/platform/mw/cnwsession.h	export	
+/epoc32/include/platform/mw/cphcltbaseimageparams.h	export	
+/epoc32/include/platform/mw/cphcltcallnotify.h	export	
+/epoc32/include/platform/mw/cphcltcommandhandler.h	export	
+/epoc32/include/platform/mw/cphcltdialdata.h	export	
+/epoc32/include/platform/mw/cphcltemergencycall.h	export	
+/epoc32/include/platform/mw/cphcltimagehandler.h	export	
+/epoc32/include/platform/mw/cphcltimageparams.h	export	
+/epoc32/include/platform/mw/cphcltmessenger.h	export	
+/epoc32/include/platform/mw/cphcltussd.h	export	
+/epoc32/include/platform/mw/cphcltussdint.h	export	
+/epoc32/include/platform/mw/cphcltussdsatclient.h	export	
+/epoc32/include/platform/mw/cphonegsmemergencynumberhandler.h	export	
+/epoc32/include/platform/mw/cphonegsmhandlerbase.h	export	
+/epoc32/include/platform/mw/cphonegsmhandlercontainer.h	export	
+/epoc32/include/platform/mw/cphonegsmmanufacturerhandler.h	export	
+/epoc32/include/platform/mw/cphonegsmmischandler.h	export	
+/epoc32/include/platform/mw/cphonegsmoptioncontainerbase.h	export	
+/epoc32/include/platform/mw/cphonegsmparserbase.h	export	
+/epoc32/include/platform/mw/cphonegsmparserresult.h	export	
+/epoc32/include/platform/mw/cphonegsmparserresult.inl	export	
+/epoc32/include/platform/mw/cphonegsmpcnprocedurehandler.h	export	
+/epoc32/include/platform/mw/cphonegsmphonenumberhandler.h	export	
+/epoc32/include/platform/mw/cphonegsmsimcontrolhandler.h	export	
+/epoc32/include/platform/mw/cphonegsmsscallhandler.h	export	
+/epoc32/include/platform/mw/cphonegsmsshandler.h	export	
+/epoc32/include/platform/mw/cphonevoipnumberhandler.h	export	
+/epoc32/include/platform/mw/cvoicemailbox.h	export	
+/epoc32/include/platform/mw/cvoicemailboxentry.h	export	
+/epoc32/include/platform/mw/defaultemergencynumberscrkeys.h	export	
+/epoc32/include/platform/mw/dialpad.h	export	
+/epoc32/include/platform/mw/dialpadkeyhandler.h	export	
+/epoc32/include/platform/mw/dialpadvtkeyhandler.h	export	
+/epoc32/include/platform/mw/icmapi.h	export	
+/epoc32/include/platform/mw/loc/sc/cbsserver.loc	export	
+/epoc32/include/platform/mw/loc/sc/phoneserver.loc	export	
+/epoc32/include/platform/mw/mcall.h	export	
+/epoc32/include/platform/mw/mcallinformationobserver.h	export	
+/epoc32/include/platform/mw/mcallremotepartyinfo.h	export	
+/epoc32/include/platform/mw/mcallremotepartyinfoobserver.h	export	
+/epoc32/include/platform/mw/mcbsmcnobserver.h	export	
+/epoc32/include/platform/mw/mccecall.h	export	
+/epoc32/include/platform/mw/mccecallobserver.h	export	
+/epoc32/include/platform/mw/mcceconferencecall.h	export	
+/epoc32/include/platform/mw/mcceconferencecallobserver.h	export	
+/epoc32/include/platform/mw/mccecscall.h	export	
+/epoc32/include/platform/mw/mccedtmfinterface.h	export	
+/epoc32/include/platform/mw/mccedtmfobserver.h	export	
+/epoc32/include/platform/mw/mcceextensioninterface.h	export	
+/epoc32/include/platform/mw/mcceextensionobserver.h	export	
+/epoc32/include/platform/mw/mcceforwardinterface.h	export	
+/epoc32/include/platform/mw/mcceobserver.h	export	
+/epoc32/include/platform/mw/mccessobserver.h	export	
+/epoc32/include/platform/mw/mccetransferinterface.h	export	
+/epoc32/include/platform/mw/mccpcall.h	export	
+/epoc32/include/platform/mw/mccpcallobserver.h	export	
+/epoc32/include/platform/mw/mccpconferencecall.h	export	
+/epoc32/include/platform/mw/mccpconferencecallobserver.h	export	
+/epoc32/include/platform/mw/mccpcscall.h	export	
+/epoc32/include/platform/mw/mccpcsobserver.h	export	
+/epoc32/include/platform/mw/mccpdtmfobserver.h	export	
+/epoc32/include/platform/mw/mccpdtmfprovider.h	export	
+/epoc32/include/platform/mw/mccpemergencycall.h	export	
+/epoc32/include/platform/mw/mccpextensionobserver.h	export	
+/epoc32/include/platform/mw/mccpextensionprovider.h	export	
+/epoc32/include/platform/mw/mccpforwardobserver.h	export	
+/epoc32/include/platform/mw/mccpforwardprovider.h	export	
+/epoc32/include/platform/mw/mccpobserver.h	export	
+/epoc32/include/platform/mw/mccpssobserver.h	export	
+/epoc32/include/platform/mw/mccptransferobserver.h	export	
+/epoc32/include/platform/mw/mccptransferprovider.h	export	
+/epoc32/include/platform/mw/mphcltcomhandrequestobserver.h	export	
+/epoc32/include/platform/mw/mphcltdialemergencyrequestobserver.h	export	
+/epoc32/include/platform/mw/mphcltdialrequestobserver.h	export	
+/epoc32/include/platform/mw/mphcltemergencycallobserver.h	export	
+/epoc32/include/platform/mw/mpsetbarringobs.h	export	
+/epoc32/include/platform/mw/mpsetcallbarring.h	export	
+/epoc32/include/platform/mw/mpsetcalldiverting.h	export	
+/epoc32/include/platform/mw/mpsetcallwaiting.h	export	
+/epoc32/include/platform/mw/mpsetcallwaitingobs.h	export	
+/epoc32/include/platform/mw/mpsetcli.h	export	
+/epoc32/include/platform/mw/mpsetcliobserver.h	export	
+/epoc32/include/platform/mw/mpsetdivertobs.h	export	
+/epoc32/include/platform/mw/mpsetnetworkinfoobs.h	export	
+/epoc32/include/platform/mw/mpsetnetworkmode.h	export	
+/epoc32/include/platform/mw/mpsetnetworkmodeobs.h	export	
+/epoc32/include/platform/mw/mpsetnetworkselect.h	export	
+/epoc32/include/platform/mw/mpsetrequestobs.h	export	
+/epoc32/include/platform/mw/msatrefreshobserver.h	export	
+/epoc32/include/platform/mw/mspnotifychangeobserver.h	export	
+/epoc32/include/platform/mw/msssettingsobserver.h	export	
+/epoc32/include/platform/mw/msssettingsrefreshobserver.h	export	
+/epoc32/include/platform/mw/mvoicemailboxobserver.h	export	
+/epoc32/include/platform/mw/networkhandlingdomainpskeys.h	export	
+/epoc32/include/platform/mw/networkhandlingproxy.h	export	
+/epoc32/include/platform/mw/nwdefs.h	export	
+/epoc32/include/platform/mw/nwhandlingengine.h	export	
+/epoc32/include/platform/mw/phclttypes.h	export	
+/epoc32/include/platform/mw/phcltutils.h	export	
+/epoc32/include/platform/mw/phoneclientserverdomainpskeys.h	export	
+/epoc32/include/platform/mw/phoneclientserverdomainpstypes.h	export	
+/epoc32/include/platform/mw/phonegsmparser.h	export	
+/epoc32/include/platform/mw/psetcallbarring.h	export	
+/epoc32/include/platform/mw/psetcallbarringwrapper.h	export	
+/epoc32/include/platform/mw/psetcalldiverting.h	export	
+/epoc32/include/platform/mw/psetcalldivertingwrapper.h	export	
+/epoc32/include/platform/mw/psetcallwaiting.h	export	
+/epoc32/include/platform/mw/psetcallwaitingwrapper.h	export	
+/epoc32/include/platform/mw/psetcli.h	export	
+/epoc32/include/platform/mw/psetcliwrapper.h	export	
+/epoc32/include/platform/mw/psetconstants.h	export	
+/epoc32/include/platform/mw/psetcontainer.h	export	
+/epoc32/include/platform/mw/psetcsp.h	export	
+/epoc32/include/platform/mw/psetnetwork.h	export	
+/epoc32/include/platform/mw/psetnetworkwrapper.h	export	
+/epoc32/include/platform/mw/psetrefreshhandler.h	export	
+/epoc32/include/platform/mw/psetsaobserver.h	export	
+/epoc32/include/platform/mw/psetwrapper.h	export	
+/epoc32/include/platform/mw/psetwrappertypes.h	export	
+/epoc32/include/platform/mw/psuiconstants.h	export	
+/epoc32/include/platform/mw/psuidivertnotehandler.h	export	
+/epoc32/include/platform/mw/psuilocalisation.h	export	
+/epoc32/include/platform/mw/psuinotes.h	export	
+/epoc32/include/platform/mw/psuiwaitingnotehandler.h	export	
+/epoc32/include/platform/mw/rcbsmcnsession.h	export	
+/epoc32/include/platform/mw/rcustomerserviceprofilecache.h	export	
+/epoc32/include/platform/mw/rmcnsubsession.h	export	
+/epoc32/include/platform/mw/rphcltserver.h	export	
+/epoc32/include/platform/mw/rsatrefresh.h	export	
+/epoc32/include/platform/mw/rsatservice.h	export	
+/epoc32/include/platform/mw/rsatsession.h	export	
+/epoc32/include/platform/mw/rsssettings.h	export	
+/epoc32/include/platform/mw/satdomainpskeys.h	export	
+/epoc32/include/platform/mw/spdefinitions.h	export	
+/epoc32/include/platform/mw/spentry.h	export	
+/epoc32/include/platform/mw/spnotifychange.h	export	
+/epoc32/include/platform/mw/spproperty.h	export	
+/epoc32/include/platform/mw/spsettings.h	export	
+/epoc32/include/platform/mw/spsettingsvoiputils.h	export	
+/epoc32/include/platform/mw/sssettingswrapper.h	export	
+/epoc32/include/platform/mw/sssettingswrappertypes.h	export	
+/epoc32/include/platform/mw/tsaticoninfo.h	export	
+/epoc32/include/platform/mw/voicemailboxdefs.h	export	
+/epoc32/include/platform/mw/voicemailboxdomaincrkeys.h	export	
+/epoc32/include/platform/mw/xqcallinfo.h	export	
+/epoc32/include/platform/mw/xqcallremotepartyinfo.h	export	
+/epoc32/include/platform/qt/translations/satapp.ts	export	
+/epoc32/include/satapp.rsg	resource	armv5_urel
+/epoc32/include/satapp.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/CbsClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CbsClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CbsClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CbsClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CbsMcnClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CbsMcnClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CbsMcnClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CbsMcnClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CbsServer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CbsServer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CbsServer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CbsServer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatEventMonitors.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatEventMonitors.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatEventMonitors{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatEventMonitors{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatInternalClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatInternalClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatInternalClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatInternalClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatSystemState.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatSystemState.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SatSystemState{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SatSystemState{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aiwdialdata.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aiwdialdata.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aiwdialdata{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aiwdialdata{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/callprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/callprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/callprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/callprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cce.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cce.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cce{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cce{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cenrepdatabase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cenrepdatabase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cenrepdatabase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cenrepdatabase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dialpad.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dialpad.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dialpad{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dialpad{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dosenpolicy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dosenpolicy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dosenpolicy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dosenpolicy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/networkhandling.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/networkhandling.dso	build	armv5_urel
+/epoc32/release/armv5/lib/networkhandling{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/networkhandling{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonecmdhandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonecmdhandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonecmdhandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonecmdhandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonesettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonesettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonesettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonesettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/psetwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/psetwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/psetwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/psetwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/psuinotes.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/psuinotes.dso	build	armv5_urel
+/epoc32/release/armv5/lib/psuinotes{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/psuinotes{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/satengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/satengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/satengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/satengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/satshellcntrl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/satshellcntrl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/satshellcntrl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/satshellcntrl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/serviceprovidersettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/serviceprovidersettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/serviceprovidersettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/serviceprovidersettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sosenpolicy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sosenpolicy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sosenpolicy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sosenpolicy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sssettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sssettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sssettingswrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sssettingswrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sssettingswrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sssettingswrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sssettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sssettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telephonyservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telephonyservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telephonyservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telephonyservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vmbxcpplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vmbxcpplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vmbxcpplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vmbxcpplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vmbxengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vmbxengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vmbxengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vmbxengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqtelephonyservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqtelephonyservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqtelephonyservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqtelephonyservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/CallControlCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CallControlCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CbsClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CbsClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CbsMcnClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CbsMcnClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CbsServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/CbsServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CloseChannelCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CloseChannelCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DisplayTextCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DisplayTextCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/GetChannelStatusCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/GetChannelStatusCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/GetInkeyCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/GetInkeyCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/GetInputCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/GetInputCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/LanguageNotificationCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/LanguageNotificationCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/LaunchBrowserCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/LaunchBrowserCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MoSmControlCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MoSmControlCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/OpenChannelCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/OpenChannelCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PlayToneCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PlayToneCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProvideLocalInfoCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProvideLocalInfoCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ReceiveDataCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ReceiveDataCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RefreshCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RefreshCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RefreshRequiredCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RefreshRequiredCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatEventMonitors.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatEventMonitors.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatInternalClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatInternalClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatSystemState.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SatSystemState.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SelectItemCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SelectItemCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendDataCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendDataCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendDtmfCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendDtmfCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendSmCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendSmCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendSsCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendSsCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendUssdCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendUssdCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpCallCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpCallCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpEventListCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpEventListCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpIdleModeTextCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpIdleModeTextCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpMenuCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SetUpMenuCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SimSessionEndCmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SimSessionEndCmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aiwdialdata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aiwdialdata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/callprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/callprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cce.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cce.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cenrepdatabase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cenrepdatabase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dialpad.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dialpad.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dosenpolicy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dosenpolicy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/keysequencerecognitionservice.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/keysequencerecognitionservice.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/networkhandling.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/networkhandling.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonecmdhandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonecmdhandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonesettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonesettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/psetwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/psetwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/psuinotes.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/psuinotes.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/satapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/satapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/satengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/satengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/satshellcntrl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/satshellcntrl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/serviceprovidersettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/serviceprovidersettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sosenpolicy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sosenpolicy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/spsbackuphelper.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/spsbackuphelper.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sssettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sssettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sssettingswrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sssettingswrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/telephonyservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/telephonyservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vmbxcpplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vmbxcpplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vmbxengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vmbxengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqtelephonyservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqtelephonyservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/CallControlCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CallControlCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CbsClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CbsClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CbsMcnClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CbsMcnClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CbsServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/CbsServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/CloseChannelCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CloseChannelCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DisplayTextCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DisplayTextCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/GetChannelStatusCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/GetChannelStatusCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/GetInkeyCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/GetInkeyCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/GetInputCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/GetInputCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/LanguageNotificationCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/LanguageNotificationCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/LaunchBrowserCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/LaunchBrowserCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MoSmControlCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MoSmControlCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/OpenChannelCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/OpenChannelCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PlayToneCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PlayToneCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ProvideLocalInfoCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ProvideLocalInfoCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ReceiveDataCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ReceiveDataCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RefreshCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RefreshCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RefreshRequiredCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RefreshRequiredCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SatClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SatClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SatEventMonitors.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SatEventMonitors.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SatInternalClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SatInternalClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SatServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SatServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SatSystemState.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SatSystemState.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SelectItemCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SelectItemCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SendDataCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SendDataCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SendDtmfCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SendDtmfCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SendSmCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SendSmCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SendSsCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SendSsCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SendUssdCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SendUssdCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpCallCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpCallCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpEventListCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpEventListCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpIdleModeTextCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpIdleModeTextCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpMenuCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SetUpMenuCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SimSessionEndCmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SimSessionEndCmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aiwdialdata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aiwdialdata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/callprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/callprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cce.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cce.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cenrepdatabase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cenrepdatabase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dialpad.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dialpad.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dosenpolicy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dosenpolicy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/keysequencerecognitionservice.exe	build	armv5_urel
+/epoc32/release/armv5/urel/keysequencerecognitionservice.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/networkhandling.dll	build	armv5_urel
+/epoc32/release/armv5/urel/networkhandling.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonecmdhandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phonecmdhandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/phoneserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonesettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phonesettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/psetwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/psetwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/psuinotes.dll	build	armv5_urel
+/epoc32/release/armv5/urel/psuinotes.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/satapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/satapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/satengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/satengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/satshellcntrl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/satshellcntrl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/serviceprovidersettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/serviceprovidersettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sosenpolicy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sosenpolicy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/spsbackuphelper.exe	build	armv5_urel
+/epoc32/release/armv5/urel/spsbackuphelper.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sssettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sssettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sssettingswrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sssettingswrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/telephonyservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/telephonyservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vmbxcpplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vmbxcpplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vmbxengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vmbxengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqtelephonyservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqtelephonyservice.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/CallControlCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CbsClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CbsClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CbsMcnClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CbsMcnClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CbsServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/CloseChannelCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DisplayTextCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/GetChannelStatusCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/GetInkeyCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/GetInputCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/LanguageNotificationCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/LaunchBrowserCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MoSmControlCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/OpenChannelCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PlayToneCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ProvideLocalInfoCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ReceiveDataCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RefreshCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RefreshRequiredCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatEventMonitors.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatEventMonitors.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatInternalClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatInternalClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatSystemState.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SatSystemState.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SelectItemCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SendDataCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SendDtmfCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SendSmCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SendSsCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SendUssdCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SetUpCallCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SetUpEventListCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SetUpIdleModeTextCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SetUpMenuCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SimSessionEndCmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aiwdialdata.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aiwdialdata.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/callprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/callprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cce.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cce.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cenrepdatabase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cenrepdatabase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dialpad.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dialpad.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dosenpolicy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dosenpolicy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/keysequencerecognitionservice.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/networkhandling.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/networkhandling.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonecmdhandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonecmdhandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonesettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonesettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/psetwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/psetwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/psuinotes.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/psuinotes.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/satapp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/satengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/satengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/satshellcntrl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/satshellcntrl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/serviceprovidersettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/serviceprovidersettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sosenpolicy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sosenpolicy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/spsbackuphelper.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sssettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sssettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sssettingswrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sssettingswrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/telephonyservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/telephonyservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/vmbxcpplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vmbxcpplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/vmbxengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vmbxengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqtelephonyservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqtelephonyservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10000850/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/keysequencerecognitionservice_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/satapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100058F5/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/1000A859/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10282e7e/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/200286d2/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/keysequencerecognitionservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/satapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/cbsserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/cbsserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/phoneserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/phoneserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/callcontrolcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/closechannelcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/displaytextcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/getchannelstatuscmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/getinkeycmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/getinputcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/languagenotificationcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/launchbrowsercmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mosmcontrolcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/openchannelcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/playtonecmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/providelocalinfocmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/receivedatacmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/refreshcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/refreshrequiredcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/selectitemcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senddatacmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senddtmfcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sendsmcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sendsscmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sendussdcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/setupcallcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/setupeventlistcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/setupidlemodetextcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/setupmenucmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/simsessionendcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/CallControlCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CallControlCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CbsClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CbsClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CbsMcnClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CbsMcnClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CbsServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/CbsServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/CloseChannelCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CloseChannelCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DisplayTextCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DisplayTextCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/GetChannelStatusCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/GetChannelStatusCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/GetInkeyCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/GetInkeyCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/GetInputCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/GetInputCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/LanguageNotificationCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/LanguageNotificationCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/LaunchBrowserCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/LaunchBrowserCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MoSmControlCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MoSmControlCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/OpenChannelCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/OpenChannelCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PlayToneCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PlayToneCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ProvideLocalInfoCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ProvideLocalInfoCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ReceiveDataCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ReceiveDataCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RefreshCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RefreshCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RefreshRequiredCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RefreshRequiredCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SatClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SatClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SatEventMonitors.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SatEventMonitors.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SatInternalClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SatInternalClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SatServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SatServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SatSystemState.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SatSystemState.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SelectItemCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SelectItemCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SendDataCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SendDataCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SendDtmfCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SendDtmfCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SendSmCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SendSmCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SendSsCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SendSsCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SendUssdCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SendUssdCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpCallCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpCallCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpEventListCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpEventListCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpIdleModeTextCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpIdleModeTextCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpMenuCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SetUpMenuCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SimSessionEndCmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SimSessionEndCmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aiwdialdata.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aiwdialdata.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/callprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/callprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cce.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cce.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cenrepdatabase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cenrepdatabase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dialpad.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dialpad.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dosenpolicy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dosenpolicy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/keysequencerecognitionservice.exe	build	winscw_urel
+/epoc32/release/winscw/urel/keysequencerecognitionservice.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/networkhandling.dll	build	winscw_urel
+/epoc32/release/winscw/urel/networkhandling.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonecmdhandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phonecmdhandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/phoneserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonesettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phonesettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/psetwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/psetwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/psuinotes.dll	build	winscw_urel
+/epoc32/release/winscw/urel/psuinotes.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/satapp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/satapp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/satengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/satengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/satshellcntrl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/satshellcntrl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/serviceprovidersettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/serviceprovidersettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sosenpolicy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sosenpolicy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/spsbackuphelper.exe	build	winscw_urel
+/epoc32/release/winscw/urel/spsbackuphelper.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sssettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sssettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sssettingswrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sssettingswrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/telephonyservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/telephonyservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vmbxcpplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vmbxcpplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vmbxengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vmbxengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqtelephonyservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqtelephonyservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10000850/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/keysequencerecognitionservice_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/satapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/100058F5/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/1000A859/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10282e7e/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/200286d2/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/keysequencerecognitionservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/satapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/cbsserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/cbsserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/phoneserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/phoneserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/callcontrolcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/closechannelcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/displaytextcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/getchannelstatuscmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/getinkeycmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/getinputcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/languagenotificationcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/launchbrowsercmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mosmcontrolcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/openchannelcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/playtonecmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/providelocalinfocmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/receivedatacmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/refreshcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/refreshrequiredcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/selectitemcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senddatacmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senddtmfcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sendsmcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sendsscmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sendussdcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/setupcallcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/setupeventlistcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/setupidlemodetextcmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/setupmenucmd.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/simsessionendcmd.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/cbsserver.confml	export	
+/epoc32/rom/config/assets/s60/confml/sat.confml	export	
+/epoc32/rom/config/assets/s60/confml/spsettings.confml	export	
+/epoc32/rom/config/assets/s60/confml/telephonyservices.confml	export	
+/epoc32/rom/config/assets/s60/confml/voicemailbox.confml	export	
+/epoc32/rom/config/assets/s60/implml/cbsserver_1020298F.crml	export	
+/epoc32/rom/config/assets/s60/implml/cbsserver_102078EE.crml	export	
+/epoc32/rom/config/assets/s60/implml/sat_102078E1.crml	export	
+/epoc32/rom/config/assets/s60/implml/spsettings_10282E7F.crml	export	
+/epoc32/rom/config/assets/s60/implml/telephonyservices_102029ac.crml	export	
+/epoc32/rom/config/assets/s60/implml/telephonyservices_102078f1.crml	export	
+/epoc32/rom/config/assets/s60/implml/voicemailbox_101F874F.crml	export	
+/epoc32/rom/include/core/app/phonesettings.iby	export	
+/epoc32/rom/include/core/app/sssettings.iby	export	
+/epoc32/rom/include/core/mw/aiwdialdata.iby	export	
+/epoc32/rom/include/core/mw/callprovider.iby	export	
+/epoc32/rom/include/core/mw/cbsserver.iby	export	
+/epoc32/rom/include/core/mw/cce.iby	export	
+/epoc32/rom/include/core/mw/cenrepdatabase.iby	export	
+/epoc32/rom/include/core/mw/dialpad.iby	export	
+/epoc32/rom/include/core/mw/enpolicy.iby	export	
+/epoc32/rom/include/core/mw/keysequencerecognitionservice.iby	export	
+/epoc32/rom/include/core/mw/networkhandling.iby	export	
+/epoc32/rom/include/core/mw/phoneclient.iby	export	
+/epoc32/rom/include/core/mw/phonecmdhandler.iby	export	
+/epoc32/rom/include/core/mw/phoneparser.iby	export	
+/epoc32/rom/include/core/mw/phoneserver.iby	export	
+/epoc32/rom/include/core/mw/psetwrapper.iby	export	
+/epoc32/rom/include/core/mw/psuinotes.iby	export	
+/epoc32/rom/include/core/mw/satapp.iby	export	
+/epoc32/rom/include/core/mw/satserver.iby	export	
+/epoc32/rom/include/core/mw/spsettings.iby	export	
+/epoc32/rom/include/core/mw/sssettingswrapper.iby	export	
+/epoc32/rom/include/core/mw/telephonyservice.iby	export	
+/epoc32/rom/include/core/mw/vmbxcpplugin.iby	export	
+/epoc32/rom/include/core/mw/vmbxengine.iby	export	
+/epoc32/rom/include/core/mw/xqtelephonyservice.iby	export	
+/epoc32/rom/include/language/mw/CbsServerResources.iby	export	
+/epoc32/rom/include/language/mw/keysequencerecognitionservice_resources.iby	export	
+/epoc32/rom/include/language/mw/vmbxresources.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/vmbxcpplugin.qtplugin	export	
+/sf/mw/phonesrv/inc/CbsCommon.h	export	
+/sf/mw/phonesrv/inc/CbsServerInternalPSKeys.h	export	
+/sf/mw/phonesrv/inc/MSatShellController.h	export	
+/sf/mw/phonesrv/inc/RCbs.h	export	
+/sf/mw/phonesrv/inc/RCbsSettings.h	export	
+/sf/mw/phonesrv/inc/RCbsTopicCollection.h	export	
+/sf/mw/phonesrv/inc/RCbsTopicList.h	export	
+/sf/mw/phonesrv/inc/RCbsTopicMessages.h	export	
+/sf/mw/phonesrv/inc/SATInternalPSKeys.h	export	
+/sf/mw/phonesrv/inc/aiwinternaldialdata.h	export	
+/sf/mw/phonesrv/inc/cemergencynumberpolicy.h	export	
+/sf/mw/phonesrv/inc/csssettingsrefreshcontainer.h	export	
+/sf/mw/phonesrv/inc/msatuiadapter.h	export	
+/sf/mw/phonesrv/inc/msatuiobserver.h	export	
+/sf/mw/phonesrv/inc/msssettingsrefreshhandler.h	export	
+/sf/mw/phonesrv/inc/qtphonesrvlog.h	export	
+/sf/mw/phonesrv/inc/rsatuisession.h	export	
+/sf/mw/phonesrv/inc/telservicesinternalcrkeys.h	export	
+/sf/mw/phonesrv/inc/telservicesvariant.hrh	export	
+/sf/mw/phonesrv/phoneclientserver/inc/cphcltdialer.h	export	
+/sf/mw/phonesrv/phoneclientserver/inc/cphcltextphonebase.h	export	
+/sf/mw/phonesrv/phoneclientserver/inc/cphcltextphonedialdata.h	export	
+/sf/mw/phonesrv/phoneclientserver/inc/mphcltextphoneobserver.h	export	
+/sf/mw/phonesrv/phoneclientserver/inc/rphcltemergencycall.h	export	

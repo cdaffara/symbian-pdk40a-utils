@@ -1,0 +1,640 @@
+/Epoc32/Data/z/System/Data/DevSoundAdaptationStub/sample1.wav	export	
+/Epoc32/winscw/c/sample1.wav	export	
+/epoc32/RELEASE/winscw/UDEB/Z/private/100012a5/DBS_10205030_accpolicydb.db	export	
+/epoc32/RELEASE/winscw/UDEB/Z/private/101f7a02/HWRMLightsPolicy.ini	export	
+/epoc32/RELEASE/winscw/UDEB/Z/private/101f7a02/HWRMVibraPolicy.ini	export	
+/epoc32/RELEASE/winscw/UREL/Z/private/100012a5/DBS_10205030_accpolicydb.db	export	
+/epoc32/RELEASE/winscw/UREL/Z/private/101f7a02/HWRMLightsPolicy.ini	export	
+/epoc32/RELEASE/winscw/UREL/Z/private/101f7a02/HWRMVibraPolicy.ini	export	
+/epoc32/data/z/Resource/DevSound/fixedsequence.rsc	resource	armv5_urel
+/epoc32/data/z/Resource/DevSound/fixedsequence.rsc	resource	winscw_udeb
+/epoc32/data/z/private/100012a5/DBS_10205030_accpolicydb.db	export	
+/epoc32/data/z/private/10202be9/1020507E.txt	export	
+/epoc32/data/z/private/1020507E/reference/SsyReferenceConfig.xml	export	
+/epoc32/data/z/resource/plugins/asnimplementation.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/asyreferenceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cistubplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cistubplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposomasuplposrefapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposomasuplposrefapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/featmgrstubplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hapticsadaptation.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hwrmstubplugins.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmfaudioserverfactorystub.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmfaudioserverfactorystub.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ssyreferenceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/startupadaptationstub.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wiredbearerreference.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wmdrmagent.rsc	export	
+/epoc32/include/fixedsequence.rsg	resource	armv5_urel
+/epoc32/include/fixedsequence.rsg	resource	winscw_udeb
+/epoc32/include/platform/AccPolPropGenericID.h	export	
+/epoc32/include/platform/AccPolProprietaryNameValuePairs.h	export	
+/epoc32/include/platform/power_save_display_mode.h	export	
+/epoc32/include/platform/sensrvproprietarychannels.h	export	
+/epoc32/include/platform/sensrvproprietarydatatypes.h	export	
+/epoc32/include/platform/sensrvproprietaryproperties.h	export	
+/epoc32/release/armv5/lib/AacDecoderConfigCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AacDecoderConfigCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AacDecoderConfigCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AacDecoderConfigCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AddedDevSoundControlCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AddedDevSoundControlCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AddedDevSoundControlCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AddedDevSoundControlCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioEqualizerCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioEqualizerCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioEqualizerCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioEqualizerCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioInputCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioInputCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioInputCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioInputCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioOutputCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioOutputCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioOutputCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioOutputCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BassBoostCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BassBoostCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BassBoostCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BassBoostCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CustomInterfaceProxyFactory.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CustomInterfaceProxyFactory.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CustomInterfaceProxyFactory{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CustomInterfaceProxyFactory{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DistanceAttenuationCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DistanceAttenuationCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DistanceAttenuationCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DistanceAttenuationCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EAacPlusDecoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EAacPlusDecoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EAacPlusDecoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EAacPlusDecoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EnvironmentalReverbCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EnvironmentalReverbCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EnvironmentalReverbCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EnvironmentalReverbCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ErrorConcealmentIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ErrorConcealmentIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ErrorConcealmentIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ErrorConcealmentIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FMRadioTunerControl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FMRadioTunerControl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FMRadioTunerControl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FMRadioTunerControl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G711DecoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G711DecoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G711DecoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G711DecoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G711EncoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G711EncoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G711EncoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G711EncoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G729DecoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G729DecoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G729DecoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G729DecoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G729EncoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G729EncoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/G729EncoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/G729EncoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IlbcDecoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IlbcDecoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IlbcDecoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IlbcDecoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IlbcEncoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IlbcEncoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IlbcEncoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IlbcEncoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ListenerDopplerCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ListenerDopplerCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ListenerDopplerCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ListenerDopplerCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ListenerLocationCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ListenerLocationCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ListenerLocationCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ListenerLocationCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ListenerOrientationCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ListenerOrientationCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ListenerOrientationCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ListenerOrientationCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/LoudnessCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/LoudnessCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/LoudnessCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/LoudnessCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MessageHandlerFactory.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MessageHandlerFactory.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MessageHandlerFactory{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MessageHandlerFactory{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MmfDevSoundAdaptation_Stub.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MmfDevSoundAdaptation_Stub.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MmfDevSoundAdaptation_Stub{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MmfDevSoundAdaptation_Stub{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Ra8DecoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Ra8DecoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Ra8DecoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Ra8DecoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RestrictedAudioOutputCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RestrictedAudioOutputCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RestrictedAudioOutputCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RestrictedAudioOutputCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoomLevelCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoomLevelCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoomLevelCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoomLevelCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SbcEncoderIntfcCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SbcEncoderIntfcCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SbcEncoderIntfcCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SbcEncoderIntfcCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SourceDopplerCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SourceDopplerCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SourceDopplerCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SourceDopplerCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SourceLocationCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SourceLocationCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SourceLocationCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SourceLocationCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SourceOrientationCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SourceOrientationCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SourceOrientationCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SourceOrientationCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SpeechEncoderConfigCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SpeechEncoderConfigCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SpeechEncoderConfigCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SpeechEncoderConfigCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/StereoWideningCI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/StereoWideningCI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/StereoWideningCI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/StereoWideningCI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WmaDecoderIntfcCI_Stub.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WmaDecoderIntfcCI_Stub.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WmaDecoderIntfcCI_Stub{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WmaDecoderIntfcCI_Stub{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cameseutility.dso	export	
+/epoc32/release/armv5/lib/cameseutility.lib	export	
+/epoc32/release/armv5/lib/cameseutility{000a0000}.dso	export	
+/epoc32/release/armv5/lib/cameseutility{000a0000}.lib	export	
+/epoc32/release/armv5/lib/mmfaudioserverfactorystub.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmfaudioserverfactorystub.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmfaudioserverfactorystub{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmfaudioserverfactorystub{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocrsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocrsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocrsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocrsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/power_save_display_mode.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/power_save_display_mode.dso	build	armv5_urel
+/epoc32/release/armv5/lib/power_save_display_mode{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/power_save_display_mode{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactileclickplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactileclickplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactileclickplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactileclickplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlanhwinit.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlanhwinit.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlanhwinit{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlanhwinit{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmdla.dso	export	
+/epoc32/release/armv5/lib/wmdrmdla.lib	export	
+/epoc32/release/armv5/lib/wmdrmdla{000a0000}.dso	export	
+/epoc32/release/armv5/lib/wmdrmdla{000a0000}.lib	export	
+/epoc32/release/armv5/lib/wmdrmkeystorage.dso	export	
+/epoc32/release/armv5/lib/wmdrmkeystorage.lib	export	
+/epoc32/release/armv5/lib/wmdrmkeystorage{000a0000}.dso	export	
+/epoc32/release/armv5/lib/wmdrmpd.dso	export	
+/epoc32/release/armv5/lib/wmdrmpd.lib	export	
+/epoc32/release/armv5/lib/wmdrmpd{000a0000}.dso	export	
+/epoc32/release/armv5/udeb/AacDecoderConfigCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AacDecoderConfigCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AddedDevSoundControlCI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AddedDevSoundControlCI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioEqualizerCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioEqualizerCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioInputCI_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioInputCI_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioOutputCI_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioOutputCI_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BassBoostCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BassBoostCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CustomInterfaceProxyFactory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CustomInterfaceProxyFactory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DistanceAttenuationCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DistanceAttenuationCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/EAacPlusDecoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/EAacPlusDecoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/EnvironmentalReverbCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/EnvironmentalReverbCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ErrorConcealmentIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ErrorConcealmentIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FMRadioTunerControl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FMRadioTunerControl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/G711DecoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/G711DecoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/G711EncoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/G711EncoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/G729DecoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/G729DecoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/G729EncoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/G729EncoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/IlbcDecoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/IlbcDecoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/IlbcEncoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/IlbcEncoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ListenerDopplerCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ListenerDopplerCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ListenerLocationCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ListenerLocationCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ListenerOrientationCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ListenerOrientationCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/LoudnessCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/LoudnessCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageHandlerFactory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageHandlerFactory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MmfDevSoundAdaptation_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MmfDevSoundAdaptation_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Ra8DecoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/Ra8DecoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RestrictedAudioOutputCI_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RestrictedAudioOutputCI_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoomLevelCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoomLevelCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SbcEncoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SbcEncoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SourceDopplerCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SourceDopplerCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SourceLocationCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SourceLocationCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SourceOrientationCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SourceOrientationCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SpeechEncoderConfigCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SpeechEncoderConfigCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/StereoWideningCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/StereoWideningCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WmaDecoderIntfcCI_Stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WmaDecoderIntfcCI_Stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cameseutility.dll	export	
+/epoc32/release/armv5/udeb/cistubplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cistubplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplposrefapp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplposrefapp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmfaudioserverfactorystub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmfaudioserverfactorystub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocrsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocrsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/power_save_display_mode_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/power_save_display_mode_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileclickplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileclickplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanhwinit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanhwinit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmagent.dll	export	
+/epoc32/release/armv5/udeb/wmdrmdla.dll	export	
+/epoc32/release/armv5/udeb/wmdrmkeystorage.dll	export	
+/epoc32/release/armv5/udeb/wmdrmpd.dll	export	
+/epoc32/release/armv5/urel/AacDecoderConfigCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AacDecoderConfigCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AddedDevSoundControlCI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AddedDevSoundControlCI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AudioEqualizerCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AudioEqualizerCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AudioInputCI_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AudioInputCI_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AudioOutputCI_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AudioOutputCI_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BassBoostCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BassBoostCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CustomInterfaceProxyFactory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CustomInterfaceProxyFactory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DistanceAttenuationCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DistanceAttenuationCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/EAacPlusDecoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/EAacPlusDecoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/EnvironmentalReverbCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/EnvironmentalReverbCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ErrorConcealmentIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ErrorConcealmentIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FMRadioTunerControl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FMRadioTunerControl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/G711DecoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/G711DecoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/G711EncoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/G711EncoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/G729DecoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/G729DecoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/G729EncoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/G729EncoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/IlbcDecoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/IlbcDecoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/IlbcEncoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/IlbcEncoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ListenerDopplerCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ListenerDopplerCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ListenerLocationCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ListenerLocationCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ListenerOrientationCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ListenerOrientationCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/LoudnessCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/LoudnessCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MessageHandlerFactory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MessageHandlerFactory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MmfDevSoundAdaptation_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MmfDevSoundAdaptation_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/Ra8DecoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/Ra8DecoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RestrictedAudioOutputCI_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RestrictedAudioOutputCI_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RoomLevelCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RoomLevelCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SbcEncoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SbcEncoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SourceDopplerCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SourceDopplerCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SourceLocationCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SourceLocationCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SourceOrientationCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SourceOrientationCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SpeechEncoderConfigCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SpeechEncoderConfigCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/StereoWideningCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/StereoWideningCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WmaDecoderIntfcCI_Stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WmaDecoderIntfcCI_Stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cameseutility.dll	export	
+/epoc32/release/armv5/urel/cistubplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cistubplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplposrefapp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplposrefapp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmfaudioserverfactorystub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmfaudioserverfactorystub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ocrsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ocrsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/power_save_display_mode_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/power_save_display_mode_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactileclickplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactileclickplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlanhwinit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlanhwinit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmagent.dll	export	
+/epoc32/release/armv5/urel/wmdrmdla.dll	export	
+/epoc32/release/armv5/urel/wmdrmkeystorage.dll	export	
+/epoc32/release/armv5/urel/wmdrmpd.dll	export	
+/epoc32/release/winscw/udeb/ASYReferencePlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AacDecoderConfigCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AacDecoderConfigCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AddedDevSoundControlCI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AddedDevSoundControlCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AsnImplementation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioEqualizerCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioEqualizerCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioInputCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioInputCI_stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioOutputCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioOutputCI_stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BassBoostCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/BassBoostCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CustomInterfaceProxyFactory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CustomInterfaceProxyFactory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DistanceAttenuationCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DistanceAttenuationCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/EAacPlusDecoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/EAacPlusDecoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/EnvironmentalReverbCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/EnvironmentalReverbCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ErrorConcealmentIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ErrorConcealmentIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FMRadioTunerControl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FMRadioTunerControl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FeatMgrStubPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/G711DecoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/G711DecoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/G711EncoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/G711EncoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/G729DecoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/G729DecoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/G729EncoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/G729EncoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HWRMStubPlugins.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/IlbcDecoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/IlbcDecoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/IlbcEncoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/IlbcEncoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ListenerDopplerCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ListenerDopplerCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ListenerLocationCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ListenerLocationCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ListenerOrientationCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ListenerOrientationCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/LoudnessCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/LoudnessCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MessageHandlerFactory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MessageHandlerFactory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MmfDevSoundAdaptation_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MmfDevSoundAdaptation_Stub.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/Ra8DecoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/Ra8DecoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RestrictedAudioOutputCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RestrictedAudioOutputCI_stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoomLevelCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoomLevelCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SbcEncoderIntfcCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SbcEncoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SourceDopplerCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SourceDopplerCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SourceLocationCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SourceLocationCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SourceOrientationCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SourceOrientationCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SpeechEncoderConfigCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SpeechEncoderConfigCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/StereoWideningCI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/StereoWideningCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/TvOutConfig.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/TvOutConfig.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WiredBearerReference.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WmaDecoderIntfcCI_Stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WmaDecoderIntfcCI_Stub.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cameseutility.dll	export	
+/epoc32/release/winscw/udeb/cameseutility.lib	export	
+/epoc32/release/winscw/udeb/cistubplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ddc_access.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ddc_access.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposomasuplposrefapp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hapticsadaptation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmfaudioserverfactorystub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmfaudioserverfactorystub.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocrsrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocrsrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/power_save_display_mode.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/power_save_display_mode_stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ssyreferenceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/startupadaptationstub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactileclickplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactileclickplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tiltcompensation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tiltcompensation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tvoutbehaviour.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tvoutbehaviour.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlanhwinit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlanhwinit.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmagent.dll	export	
+/epoc32/release/winscw/udeb/wmdrmdla.dll	export	
+/epoc32/release/winscw/udeb/wmdrmdla.lib	export	
+/epoc32/release/winscw/udeb/wmdrmkeystorage.dll	export	
+/epoc32/release/winscw/udeb/wmdrmkeystorage.lib	export	
+/epoc32/release/winscw/udeb/wmdrmpd.dll	export	
+/epoc32/release/winscw/udeb/wmdrmpd.lib	export	
+/epoc32/release/winscw/udeb/z/Resource/DevSound/fixedsequence.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202be9/1020507E.txt	export	
+/epoc32/release/winscw/udeb/z/private/1020507E/reference/SsyReferenceConfig.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/asnimplementation.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/asyreferenceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cistubplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposomasuplposrefapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/featmgrstubplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hapticsadaptation.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hwrmstubplugins.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmfaudioserverfactorystub.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ssyreferenceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/startupadaptationstub.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wiredbearerreference.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wmdrmagent.rsc	export	
+/epoc32/release/winscw/urel/ASYReferencePlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ASYReferencePlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AacDecoderConfigCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AacDecoderConfigCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AddedDevSoundControlCI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AddedDevSoundControlCI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AsnImplementation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AsnImplementation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AudioEqualizerCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AudioEqualizerCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AudioInputCI_stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AudioInputCI_stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AudioOutputCI_stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AudioOutputCI_stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BassBoostCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BassBoostCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CustomInterfaceProxyFactory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CustomInterfaceProxyFactory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DistanceAttenuationCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DistanceAttenuationCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/EAacPlusDecoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/EAacPlusDecoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/EnvironmentalReverbCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/EnvironmentalReverbCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ErrorConcealmentIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ErrorConcealmentIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FMRadioTunerControl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FMRadioTunerControl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FeatMgrStubPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FeatMgrStubPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/G711DecoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/G711DecoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/G711EncoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/G711EncoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/G729DecoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/G729DecoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/G729EncoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/G729EncoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HWRMStubPlugins.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HWRMStubPlugins.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/IlbcDecoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/IlbcDecoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/IlbcEncoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/IlbcEncoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ListenerDopplerCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ListenerDopplerCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ListenerLocationCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ListenerLocationCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ListenerOrientationCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ListenerOrientationCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/LoudnessCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/LoudnessCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MessageHandlerFactory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MessageHandlerFactory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MmfDevSoundAdaptation_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MmfDevSoundAdaptation_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/Ra8DecoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/Ra8DecoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RestrictedAudioOutputCI_stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RestrictedAudioOutputCI_stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RoomLevelCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RoomLevelCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SbcEncoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SbcEncoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SourceDopplerCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SourceDopplerCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SourceLocationCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SourceLocationCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SourceOrientationCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SourceOrientationCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SpeechEncoderConfigCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SpeechEncoderConfigCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/StereoWideningCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/StereoWideningCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/TvOutConfig.dll	build	winscw_urel
+/epoc32/release/winscw/urel/TvOutConfig.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WiredBearerReference.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WiredBearerReference.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WmaDecoderIntfcCI_Stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WmaDecoderIntfcCI_Stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cameseutility.dll	export	
+/epoc32/release/winscw/urel/cistubplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cistubplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ddc_access.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ddc_access.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplposrefapp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplposrefapp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hapticsadaptation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hapticsadaptation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmfaudioserverfactorystub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmfaudioserverfactorystub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ocrsrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ocrsrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/power_save_display_mode_stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/power_save_display_mode_stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ssyreferenceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ssyreferenceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/startupadaptationstub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/startupadaptationstub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactileclickplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactileclickplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tiltcompensation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tiltcompensation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tvoutbehaviour.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tvoutbehaviour.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlanhwinit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlanhwinit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmagent.dll	export	
+/epoc32/release/winscw/urel/wmdrmdla.dll	export	
+/epoc32/release/winscw/urel/wmdrmkeystorage.dll	export	
+/epoc32/release/winscw/urel/wmdrmpd.dll	export	
+/epoc32/release/winscw/urel/z/Resource/DevSound/fixedsequence.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10202be9/1020507E.txt	export	
+/epoc32/release/winscw/urel/z/private/1020507E/reference/SsyReferenceConfig.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/asnimplementation.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/asyreferenceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cistubplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposomasuplposrefapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/featmgrstubplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hapticsadaptation.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hwrmstubplugins.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmfaudioserverfactorystub.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ssyreferenceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/startupadaptationstub.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wiredbearerreference.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wmdrmagent.rsc	export	
+/epoc32/rom/include/core/mw/wmdrmkeystorage_dist.iby	export	
+/epoc32/rom/include/core/mw/wmdrmpd_dist.iby	export	
+/epoc32/rom/include/core/os/ASYReference.iby	export	
+/epoc32/rom/include/core/os/AccRefPolicy.iby	export	
+/epoc32/rom/include/core/os/WiredBearerReference.iby	export	
+/epoc32/rom/include/core/os/ssyreference.iby	export	
+/epoc32/rom/include/core/stubs/HWRMStubPlugins.iby	export	
+/epoc32/rom/include/core/stubs/featmgrstubplugin.iby	export	
+/epoc32/rom/include/core/stubs/startupadaptationstub.iby	export	
+/epoc32/rom/include/core/stubs/tactileclickpluginstub.iby	export	
+/epoc32/rom/include/core/stubs/wlanhwinit.iby	export	
+/epoc32/winscw/c/private/1020504A/AccPolCapRules.ini	export	
+/epoc32/winscw/c/private/1020504A/AccPolGIDInt.dat	export	
+/epoc32/winscw/c/private/1020504A/rules.dat	export	

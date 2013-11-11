@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="jrt" level="services" levels="util generic rt ui" long-name="Java Runtime">
+<collection name="jrt_plat" long-name="JRT Platform Interfaces" level="ui">
+<component name="java_registry_api" long-name="Java Registry API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/jrt/jrt_plat/java_registry_api/build"/>
+</component>
+<component name="java_env_info_api" long-name="Java Environment Info API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/jrt/jrt_plat/java_env_info_api/build"/>
+</component>
+<component name="java_debug_api" long-name="Java Debug API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/jrt/jrt_plat/java_debug_api/build"/>
+</component>
+</collection>
+<collection name="build_nativejava" long-name="Build Native Java">
+<component name="nativejava" long-name="Build Native Java" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/jrt/build"/>
+</component>
+</collection>
+<collection name="javacommons" long-name="Java Commons" level="generic">
+<component name="javacommons_build" long-name="Java Commons Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/jrt/javacommons" proFile="javacommons.pro"/>
+</component>
+</collection>
+<collection name="javaruntimes" long-name="Java Runtimes" level="rt">
+<component name="javaruntimes_build" long-name="Java Runtimes Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/jrt/javaruntimes" proFile="javaruntimes.pro"/>
+</component>
+</collection>
+<collection name="javauis" long-name="Java UIs" level="ui">
+<component name="javauis_build" long-name="Java UIs Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/jrt/javauis" proFile="javauis.pro"/>
+</component>
+</collection>
+<collection name="javamanager" long-name="Java Manager" level="generic">
+<component name="javamanager_build" long-name="Java Manager Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/jrt/javamanager" proFile="javamanager.pro"/>
+</component>
+</collection>
+<collection name="javatools" long-name="Java Tools" level="util">
+<component name="javatools_build" long-name="Java Tools Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/jrt/javatools" proFile="javatools.pro"/>
+</component>
+</collection>
+<collection name="javaextensions" long-name="Java Extensions" level="generic">
+<component name="javaextensions_build" long-name="Java Extensions Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/jrt/javaextensions" proFile="javaextensions.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

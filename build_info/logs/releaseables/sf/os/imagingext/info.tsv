@@ -1,0 +1,58 @@
+/epoc32/data/z/Resource/ICL/101f862d_extra.rsc	resource	armv5_urel
+/epoc32/data/z/Resource/ICL/101f862d_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/jp2kcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/jp2kcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/ExifLib.sis	export	
+/epoc32/data/z/system/install/ImageAdaptationExtensions_stub.sis	export	
+/epoc32/data/z/system/install/JP2KCodec.sis	export	
+/epoc32/include/101f862d_extra.rsg	resource	armv5_urel
+/epoc32/include/101f862d_extra.rsg	resource	winscw_udeb
+/epoc32/include/ExifModify.h	export	
+/epoc32/include/ExifRead.h	export	
+/epoc32/include/ExifTag.h	export	
+/epoc32/include/platform/ECamOrientationCustomInterface2.h	export	
+/epoc32/include/platform/ECamUIOrientationOverrideCustomAPI.h	export	
+/epoc32/include/platform/IclExtJpegApi.h	export	
+/epoc32/include/platform/JP2KImageData.h	export	
+/epoc32/include/platform/JP2KUids.hrh	export	
+/epoc32/include/platform/ch324annexkdefinedencoderconfigdataci.h	export	
+/epoc32/include/platform/ecamfacetrackingcustomapi.h	export	
+/epoc32/include/platform/ecamusecasehintcustomapi.h	export	
+/epoc32/release/armv5/lib/ExifLib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ExifLib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ExifLib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ExifLib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IclExtJpegApi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IclExtJpegApi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IclExtJpegApi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IclExtJpegApi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/ExifLib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ExifLib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/IclExtJpegApi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/IclExtJpegApi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/JP2KCodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/JP2KCodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/ExifLib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ExifLib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/IclExtJpegApi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/IclExtJpegApi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/JP2KCodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/JP2KCodec.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/ExifLib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ExifLib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/IclExtJpegApi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/IclExtJpegApi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/JP2KCodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/Resource/ICL/101f862d_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/jp2kcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/ExifLib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ExifLib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/IclExtJpegApi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/IclExtJpegApi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/JP2KCodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/JP2KCodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/Resource/ICL/101f862d_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/jp2kcodec.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/os/ExifLib.iby	export	
+/epoc32/rom/include/core/os/IclExtJpegApi.iby	export	
+/epoc32/rom/include/core/os/JP2KCodec.iby	export	

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="remoteconn" level="generic" levels="plugin framework server generic specific" long-name="Remote Connectivity">
+<collection name="remoteconn_plat" long-name="Remote Connectivity Platform Interfaces" level="specific">
+<component name="dialup_connection_status_api" long-name="Dialup Connection Status API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/remoteconn/remoteconn_plat/dialup_connection_status_api/group"/>
+</component>
+<component name="dun_secondary_display_notification_api" long-name="Dialup Secondary Display Notification API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/remoteconn/remoteconn_plat/dun_secondary_display_notification_api/group"/>
+</component>
+<component name="generic_hid_api" long-name="Generic HID API" filter="s60" purpose="optional" class="api">
+<!-- Missing? <meta rel="Api" href="remoteconn_plat/generic_hid_api/generic_hid_api.metaxml"/> -->
+<unit bldFile="/sf/mw/remoteconn/remoteconn_plat/generic_hid_api/group"/>
+</component>
+<component name="locod_bearer_plugin_api" long-name="Local Connectivity Daemon Bearer Plugin API" filter="s60" purpose="optional" class="api">
+<!-- Missing? <meta rel="Api" href="remoteconn_plat/locod_bearer_plugin_api/locod_bearer_plugin_api.metaxml"/> -->
+<unit bldFile="/sf/mw/remoteconn/remoteconn_plat/locod_bearer_plugin_api/group"/>
+</component>
+<component name="locod_service_plugin_api" long-name="Local Connectivity Daemon Service Plugin API" filter="s60" purpose="optional" class="api">
+<!-- Missing? <meta rel="Api" href="remoteconn_plat/locod_service_plugin_api/locod_service_plugin_api.metaxml"/> -->
+<unit bldFile="/sf/mw/remoteconn/remoteconn_plat/locod_service_plugin_api/group"/>
+</component>
+</collection>
+<collection name="localconnectivityservice" long-name="Local Connectivity Service" level="server">
+<component name="locod" long-name="Local Connectivity Daemon" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/localconnectivityservice/locod/group"/>
+</component>
+<component name="dun" long-name="Dial-Up Networking" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/localconnectivityservice/dun/group"/>
+</component>
+<component name="generichid" long-name="Generic Human-Interface Device" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/localconnectivityservice/generichid/group"/>
+</component>
+<component name="headset" long-name="Headset" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/localconnectivityservice/headset/group"/>
+</component>
+</collection>
+<collection name="mtptransports" long-name="MTP Transports" level="plugin">
+<component name="mtpusbtransport" long-name="MTP USB Transport" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/remoteconn/mtptransports/mtpusbtransport/group" mrp="/sf/mw/remoteconn/mtptransports/mtpusbtransport/group/mtp_usbsic.mrp"/>
+</component>
+<component name="mtpptpiptransport" long-name="MTP PTP-IP Transport" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/remoteconn/mtptransports/mtpptpiptransport/group" mrp="/sf/mw/remoteconn/mtptransports/mtpptpiptransport/group/mtp_ptpip.mrp"/>
+</component>
+</collection>
+<collection name="mtpfws" long-name="MTP Frameworks" level="framework">
+<component name="mtpfw" long-name="MTP Framework" introduced="^2" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/mtpfws/mtpfw/group" mrp="/sf/mw/remoteconn/mtpfws/mtpfw/group/mtp_framework.mrp"/>
+</component>
+<component name="devdpextn" long-name="MTP Device Provider Extension" introduced="^4" purpose="optional">
+<!-- can't have a component inside another component. Need to move to mtpfws/devdpextn/group -->
+<unit bldFile="/sf/mw/remoteconn/mtpfws/mtpfw/dataproviders/devdp/devdpextn/group"/>
+</component>
+</collection>
+<collection name="mtpdataproviders" long-name="MTP Data Providers" level="generic">
+<component name="mtpfileandfolderdp" long-name="MTP File and Folder Provider" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/remoteconn/mtpdataproviders/mtpfileandfolderdp/group" mrp="/sf/mw/remoteconn/mtpdataproviders/mtpfileandfolderdp/group/mtp_filedp.mrp"/>
+</component>
+<component name="mtpimagedp" long-name="MTP Image Data Provider" introduced="^3" filter="gt" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/remoteconn/mtpdataproviders/mtpimagedp/group" mrp="/sf/mw/remoteconn/mtpdataproviders/mtpimagedp/group/mtp_imagedp.mrp"/>
+</component>
+<component name="mtppictbridgedp" long-name="MTP PictBridge Data Provider" introduced="^3" filter="gt" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/remoteconn/mtpdataproviders/mtppictbridgedp/group" mrp="/sf/mw/remoteconn/mtpdataproviders/mtppictbridgedp/group/mtp_pictbridgedp.mrp"/>
+</component>
+<component name="pictbridgeengine" long-name="MTP PictBridge Engine" introduced="^4" filter="s60" purpose="optional">
+<!-- can't have a component inside another component. Need to move to mtpdataproviders/pictbridgeengine/group -->
+<unit bldFile="/sf/mw/remoteconn/mtpdataproviders/mtppictbridgedp/pictbridgeengine/group"/>
+</component>
+<component name="mtpplaybackcontroldp" long-name="MTP Playback Control Data Provider" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/remoteconn/mtpdataproviders/mtpplaybackcontroldp/group" mrp="/sf/mw/remoteconn/mtpdataproviders/mtpplaybackcontroldp/group/mtp_playbackcontroldp.mrp"/>
+</component>
+</collection>
+<collection name="backupandrestore" long-name="Backup and Restore" level="specific">
+<component name="backupengine" long-name="Backup Engine" introduced="9.0" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/backupandrestore/backupengine/group" mrp="/sf/mw/remoteconn/backupandrestore/backupengine/group/connectivity_backupengine.mrp"/>
+</component>
+</collection>
+<collection name="obex" long-name="OBEX" level="generic">
+<component name="obexprotocol" long-name="OBEX Protocol" introduced="9.1" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/obex/obexprotocol/group" mrp="/sf/mw/remoteconn/obex/obexprotocol/group/obex.mrp"/>
+</component>
+<component name="obexextensionapi" long-name="OBEX Extension API" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/mw/remoteconn/obex/obexextensionapi/group" mrp="/sf/mw/remoteconn/obex/obexextensionapi/group/obex_extensionapis.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

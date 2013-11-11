@@ -1,0 +1,1090 @@
+/epoc32/data/1028312b.rsc	resource	armv5_urel
+/epoc32/data/1028312b.rsc	resource	winscw_udeb
+/epoc32/data/C/resource/qt/plugins/controlpanel/possettingsplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/positioningsettings/poslocationservices.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/positioningsettings/pospsysettings.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/positioningsettings/possuplsettings.qtplugin	export	
+/epoc32/data/z/private/100012a5/policy/101fe978.spd	export	
+/epoc32/data/z/private/101fdf81/backup_registration.xml	export	
+/epoc32/data/z/private/101fdf81/eposlmserver.rsc	resource	armv5_urel
+/epoc32/data/z/private/101fdf81/eposlmserver.rsc	resource	winscw_udeb
+/epoc32/data/z/private/102073ca/backup_registration.xml	export	
+/epoc32/data/z/private/1027509E/backup_registration.xml	export	
+/epoc32/data/z/private/1028312B/backup_registration.xml	export	
+/epoc32/data/z/resource/apps/eposlmglcategories.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/epos_omasuplprovhandlerres.r01	resource	armv5_urel
+/epoc32/data/z/resource/epos_omasuplprovhandlerres.r01	resource	winscw_udeb
+/epoc32/data/z/resource/epos_omasuplprovhandlerres.rsc	resource	armv5_urel
+/epoc32/data/z/resource/epos_omasuplprovhandlerres.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eposlmasyncops.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eposlmasyncops.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eposlmcompactdblevel.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eposlmcompactdblevel.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eposlmdefaultdbname.r01	resource	armv5_urel
+/epoc32/data/z/resource/eposlmdefaultdbname.r01	resource	winscw_udeb
+/epoc32/data/z/resource/eposlmdefaultdbname.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eposlmdefaultdbname.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eposlmglobalcategories.r01	resource	armv5_urel
+/epoc32/data/z/resource/eposlmglobalcategories.r01	resource	winscw_udeb
+/epoc32/data/z/resource/eposlmglobalcategories.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eposlmglobalcategories.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nla_agpspositioner.r01	resource	armv5_urel
+/epoc32/data/z/resource/nla_agpspositioner.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nla_agpspositioner.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nla_agpspositioner.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nla_gpspositioner.r01	resource	armv5_urel
+/epoc32/data/z/resource/nla_gpspositioner.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nla_gpspositioner.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nla_gpspositioner.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nla_nbppositioner.r01	resource	armv5_urel
+/epoc32/data/z/resource/nla_nbppositioner.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nla_nbppositioner.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nla_nbppositioner.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nlanpppsy_name.r01	resource	armv5_urel
+/epoc32/data/z/resource/nlanpppsy_name.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nlanpppsy_name.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nlanpppsy_name.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/epos_omasuplprovhandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/epos_omasuplprovhandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/epos_omasuplsyncmldm.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/epos_omasuplsyncmldm.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/epos_omasuplwaplistener.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/epos_omasuplwaplistener.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposlmconverter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposlmconverter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposlmdbmanprov.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposlmdbmanprov.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposlmlocalaccessprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposlmlocalaccessprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposlmlocaldbmanprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposlmlocaldbmanprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposlmlocalsearchprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposlmlocalsearchprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposlmrecognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposlmrecognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposomasuplprotocolhandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposomasuplprotocolhandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposomasuplprotocolhandler1.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposomasuplprotocolhandler1.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eposomasuplprotocolhandler2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eposomasuplprotocolhandler2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lbssupltiapiimplementation.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lbssupltiapiimplementation.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lbtcontextsourceplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lbtcontextsourceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lbtserverlogic.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lbtserverlogic.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lbtstrategy.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lbtstrategy.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/locverifierdlg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/locverifierdlg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ltcellidmovdet.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ltcellidmovdet.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nlanpppsy.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nlanpppsy.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nlasuplpsy.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nlasuplpsy.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/posrevgeocodeplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/posrevgeocodeplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/lbtstub.sis	export	
+/epoc32/data/z/system/install/locationlandmarksstub.sis	export	
+/epoc32/data/z/system/install/locationsuplfwstub.sis	export	
+/epoc32/data/z/system/install/npppsystub.sis	export	
+/epoc32/data/z/system/install/omasuplprotocolhandlerstub.sis	export	
+/epoc32/data/z/system/install/posindicator_stub.sis	export	
+/epoc32/data/z/system/install/possettings_stub.sis	export	
+/epoc32/data/z/system/install/privacydialogs_stub.sis	export	
+/epoc32/data/z/system/install/suplpsystub.sis	export	
+/epoc32/include/epos_omasuplprovhandlerres.rsg	resource	armv5_urel
+/epoc32/include/epos_omasuplprovhandlerres.rsg	resource	winscw_udeb
+/epoc32/include/eposlmasyncops.rsg	resource	armv5_urel
+/epoc32/include/eposlmasyncops.rsg	resource	winscw_udeb
+/epoc32/include/eposlmcompactdblevel.rsg	resource	armv5_urel
+/epoc32/include/eposlmcompactdblevel.rsg	resource	winscw_udeb
+/epoc32/include/eposlmdefaultdbname.rsg	resource	armv5_urel
+/epoc32/include/eposlmdefaultdbname.rsg	resource	winscw_udeb
+/epoc32/include/eposlmglcategories.mbg	bitmap	armv5_urel
+/epoc32/include/eposlmglcategories.mbg	bitmap	winscw_udeb
+/epoc32/include/eposlmserver.rsg	resource	armv5_urel
+/epoc32/include/eposlmserver.rsg	resource	winscw_udeb
+/epoc32/include/inc/posgeoaddress.h	export	
+/epoc32/include/inc/posindicatorglobal.h	export	
+/epoc32/include/inc/posindicatorinfo.h	export	
+/epoc32/include/inc/posindicatorserverconst.h	export	
+/epoc32/include/inc/posreversegeocodeinterface.h	export	
+/epoc32/include/inc/posreversegeocodeinterface.hrh	export	
+/epoc32/include/mw/CSatelliteInfoUI.h	export	
+/epoc32/include/mw/EPos_CPosLandmark.h	export	
+/epoc32/include/mw/EPos_CPosLandmarkCategory.h	export	
+/epoc32/include/mw/EPos_CPosLandmarkDatabase.h	export	
+/epoc32/include/mw/EPos_CPosLandmarkEncoder.h	export	
+/epoc32/include/mw/EPos_CPosLandmarkParser.h	export	
+/epoc32/include/mw/EPos_CPosLandmarkSearch.h	export	
+/epoc32/include/mw/EPos_CPosLmAreaCriteria.h	export	
+/epoc32/include/mw/EPos_CPosLmCatNameCriteria.h	export	
+/epoc32/include/mw/EPos_CPosLmCategoryCriteria.h	export	
+/epoc32/include/mw/EPos_CPosLmCategoryManager.h	export	
+/epoc32/include/mw/EPos_CPosLmCompositeCriteria.h	export	
+/epoc32/include/mw/EPos_CPosLmDatabaseManager.h	export	
+/epoc32/include/mw/EPos_CPosLmDatabaseManagerPluginBase.h	export	
+/epoc32/include/mw/EPos_CPosLmDisplayData.h	export	
+/epoc32/include/mw/EPos_CPosLmDisplayItem.h	export	
+/epoc32/include/mw/EPos_CPosLmIdListCriteria.h	export	
+/epoc32/include/mw/EPos_CPosLmItemIterator.h	export	
+/epoc32/include/mw/EPos_CPosLmMultiDbSearch.h	export	
+/epoc32/include/mw/EPos_CPosLmNearestCriteria.h	export	
+/epoc32/include/mw/EPos_CPosLmOperation.h	export	
+/epoc32/include/mw/EPos_CPosLmOperation.inl	export	
+/epoc32/include/mw/EPos_CPosLmPartialReadParameters.h	export	
+/epoc32/include/mw/EPos_CPosLmSearchCriteria.h	export	
+/epoc32/include/mw/EPos_CPosLmTextCriteria.h	export	
+/epoc32/include/mw/EPos_HPosLmDatabaseInfo.h	export	
+/epoc32/include/mw/EPos_Landmarks.h	export	
+/epoc32/include/mw/EPos_TPosLmDatabaseEvent.h	export	
+/epoc32/include/mw/EPos_TPosLmDatabaseSettings.h	export	
+/epoc32/include/mw/EPos_TPosLmSortPref.h	export	
+/epoc32/include/mw/epos_cposlandmarkdatabaseextended.h	export	
+/epoc32/include/mw/epos_poslandmarkserialization.h	export	
+/epoc32/include/mw/epos_poslmcategoryserialization.h	export	
+/epoc32/include/mw/lbt.h	export	
+/epoc32/include/mw/lbtcommon.h	export	
+/epoc32/include/mw/lbterrors.h	export	
+/epoc32/include/mw/lbtgeoareabase.h	export	
+/epoc32/include/mw/lbtgeocell.h	export	
+/epoc32/include/mw/lbtgeocircle.h	export	
+/epoc32/include/mw/lbtgeohybrid.h	export	
+/epoc32/include/mw/lbtgeorect.h	export	
+/epoc32/include/mw/lbtlisttriggeroptions.h	export	
+/epoc32/include/mw/lbtserver.h	export	
+/epoc32/include/mw/lbtsessiontrigger.h	export	
+/epoc32/include/mw/lbtstartuptrigger.h	export	
+/epoc32/include/mw/lbttriggerchangeevent.h	export	
+/epoc32/include/mw/lbttriggerchangeeventnotifier.h	export	
+/epoc32/include/mw/lbttriggerchangeeventobserver.h	export	
+/epoc32/include/mw/lbttriggerconditionarea.h	export	
+/epoc32/include/mw/lbttriggerconditionbase.h	export	
+/epoc32/include/mw/lbttriggerdynamicinfo.h	export	
+/epoc32/include/mw/lbttriggerentry.h	export	
+/epoc32/include/mw/lbttriggerfilterbase.h	export	
+/epoc32/include/mw/lbttriggerfilterbyarea.h	export	
+/epoc32/include/mw/lbttriggerfilterbyattribute.h	export	
+/epoc32/include/mw/lbttriggerfiltercomposite.h	export	
+/epoc32/include/mw/lbttriggerfiringeventnotifier.h	export	
+/epoc32/include/mw/lbttriggerfiringeventobserver.h	export	
+/epoc32/include/mw/lbttriggerinfo.h	export	
+/epoc32/include/mw/lbttriggeringsystemsettings.h	export	
+/epoc32/include/mw/lbttriggeringsystemsettingschangeeventnotifier.h	export	
+/epoc32/include/mw/lbttriggeringsystemsettingschangeeventobserver.h	export	
+/epoc32/include/nla_agpspositioner.rsg	resource	armv5_urel
+/epoc32/include/nla_agpspositioner.rsg	resource	winscw_udeb
+/epoc32/include/nla_gpspositioner.rsg	resource	armv5_urel
+/epoc32/include/nla_gpspositioner.rsg	resource	winscw_udeb
+/epoc32/include/nla_nbppositioner.rsg	resource	armv5_urel
+/epoc32/include/nla_nbppositioner.rsg	resource	winscw_udeb
+/epoc32/include/nlanpppsy_name.rsg	resource	armv5_urel
+/epoc32/include/nlanpppsy_name.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/EPos_CPosPrivacyNotifier.h	export	
+/epoc32/include/platform/mw/EPos_LmCatDef.hrh	export	
+/epoc32/include/platform/mw/EPos_LmCatDef.rh	export	
+/epoc32/include/platform/mw/epos_comasuplasnbase.h	export	
+/epoc32/include/platform/mw/epos_comasuplasnmessagebase.h	export	
+/epoc32/include/platform/mw/epos_comasuplauthrequest.h	export	
+/epoc32/include/platform/mw/epos_comasuplauthresponse.h	export	
+/epoc32/include/platform/mw/epos_comasuplend.h	export	
+/epoc32/include/platform/mw/epos_comasuplendver2.h	export	
+/epoc32/include/platform/mw/epos_comasuplinit.h	export	
+/epoc32/include/platform/mw/epos_comasuplinitver2.h	export	
+/epoc32/include/platform/mw/epos_comasupllocationid.h	export	
+/epoc32/include/platform/mw/epos_comasupllocationidver2.h	export	
+/epoc32/include/platform/mw/epos_comasuplnotification.h	export	
+/epoc32/include/platform/mw/epos_comasuplnotificationver2.h	export	
+/epoc32/include/platform/mw/epos_comasuplpos.h	export	
+/epoc32/include/platform/mw/epos_comasuplposinit.h	export	
+/epoc32/include/platform/mw/epos_comasuplposinitver2.h	export	
+/epoc32/include/platform/mw/epos_comasuplreport.h	export	
+/epoc32/include/platform/mw/epos_comasuplresponse.h	export	
+/epoc32/include/platform/mw/epos_comasuplresponsever2.h	export	
+/epoc32/include/platform/mw/epos_comasuplsessionid.h	export	
+/epoc32/include/platform/mw/epos_comasuplsetcapabilitiesver2.h	export	
+/epoc32/include/platform/mw/epos_comasuplstart.h	export	
+/epoc32/include/platform/mw/epos_comasuplstartver2.h	export	
+/epoc32/include/platform/mw/epos_comasupltriggeredresponse.h	export	
+/epoc32/include/platform/mw/epos_comasupltriggeredstart.h	export	
+/epoc32/include/platform/mw/epos_comasupltriggeredstop.h	export	
+/epoc32/include/platform/mw/epos_csuplsettingparams.h	export	
+/epoc32/include/platform/mw/epos_csuplsettings.h	export	
+/epoc32/include/platform/mw/epos_csuplsettingsconstants.h	export	
+/epoc32/include/platform/mw/epos_msuplsessionobserver.h	export	
+/epoc32/include/platform/mw/epos_msuplsettingsobserver.h	export	
+/epoc32/include/platform/mw/epos_omasuplconfigurationkeys.h	export	
+/epoc32/include/platform/mw/epos_suplconstants.h	export	
+/epoc32/include/platform/mw/epos_suplgeocellinfo.h	export	
+/epoc32/include/platform/mw/epos_suplnetwork.h	export	
+/epoc32/include/platform/mw/epos_suplparameters.h	export	
+/epoc32/include/platform/mw/epos_suplterminal.h	export	
+/epoc32/include/platform/mw/epos_suplterminalconstants.h	export	
+/epoc32/include/platform/mw/epos_suplterminalerrors.h	export	
+/epoc32/include/platform/mw/epos_suplterminalparams.h	export	
+/epoc32/include/platform/mw/epos_suplterminalqop.h	export	
+/epoc32/include/platform/mw/epos_suplterminaltrigger.h	export	
+/epoc32/include/platform/mw/epos_tomasuplecellinfo.h	export	
+/epoc32/include/platform/mw/epos_tomasuplposmethod.h	export	
+/epoc32/include/platform/mw/epos_tomasuplqop.h	export	
+/epoc32/include/platform/mw/lbtmanager.h	export	
+/epoc32/include/platform/mw/lbtstatuspskeys.h	export	
+/epoc32/include/platform/mw/lbttriggeringsystemmanagementsettings.h	export	
+/epoc32/include/platform/mw/lbttriggeringsystemstatus.h	export	
+/epoc32/include/platform/mw/lbttriggermanageruiinfo.h	export	
+/epoc32/include/platform/mw/loc/sc/epos_omasuplprovhandler.loc	export	
+/epoc32/include/platform/mw/loc/sc/eposlmdefaultdbname_en.loc	export	
+/epoc32/include/platform/mw/loc/sc/eposlmglobalcategories_en.loc	export	
+/epoc32/include/platform/mw/loc/sc/nla_agpspositioner.loc	export	
+/epoc32/include/platform/mw/loc/sc/nla_gpspositioner.loc	export	
+/epoc32/include/platform/mw/loc/sc/nla_nbppositioner.loc	export	
+/epoc32/include/platform/mw/loc/sc/nla_npppsy.loc	export	
+/epoc32/include/platform/mw/locationvariationdomaincrkeys.h	export	
+/epoc32/include/platform/mw/mngeocoder.h	export	
+/epoc32/include/platform/mw/npppsyinternalcrkeys.h	export	
+/epoc32/release/armv5/lib/epos_comasuplasnplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_comasuplasnplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_comasuplasnplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_comasuplasnplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_csuplutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_csuplutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_csuplutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_csuplutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_suplnetinitiation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_suplnetinitiation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_suplnetinitiation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_suplnetinitiation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_suplsettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_suplsettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_suplsettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_suplsettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_suplterminitiation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_suplterminitiation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epos_suplterminitiation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epos_suplterminitiation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlandmarks.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlandmarks.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlandmarks_dummy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlandmarks_dummy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlandmarks_dummy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlandmarks_dummy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlandmarks{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlandmarks{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmdbmanlib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmdbmanlib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmdbmanlib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmdbmanlib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmdbreg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmdbreg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmdbreg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmdbreg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmintservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmintservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmintservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmintservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmlocalaccess.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmlocalaccess.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmlocalaccess{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmlocalaccess{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmmultidbsearch.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmmultidbsearch.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmmultidbsearch{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmmultidbsearch{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmsearchlib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmsearchlib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmsearchlib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmsearchlib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmservlib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmservlib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposlmservlib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposlmservlib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler1.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler1.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler1{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler1{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposomasuplprotocolhandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposprvqnif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposprvqnif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eposprvqnif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eposprvqnif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epossuplprotocolhandlerplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epossuplprotocolhandlerplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epossuplprotocolhandlerplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epossuplprotocolhandlerplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbssupltiapiimplementation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbssupltiapiimplementation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbssupltiapiimplementation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbssupltiapiimplementation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtcontainer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtcontainer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtcontainer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtcontainer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtlogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtlogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtlogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtlogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtserverlogicbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtserverlogicbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtserverlogicbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtserverlogicbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtstrategypluginapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtstrategypluginapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbtstrategypluginapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbtstrategypluginapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lbt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lbt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locnotificationclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locnotificationclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locnotificationclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locnotificationclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locnotificationengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locnotificationengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locnotificationengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locnotificationengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ltmvmtdetapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ltmvmtdetapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ltmvmtdetapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ltmvmtdetapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posindicator.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posindicator.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posindicatorhelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posindicatorhelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posindicatorhelper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posindicatorhelper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posindicator{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posindicator{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/poslocationservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/poslocationservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/poslocationservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/poslocationservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pospsysettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pospsysettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pospsysettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pospsysettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posreversegeocodeinterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posreversegeocodeinterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posreversegeocodeinterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posreversegeocodeinterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/possettingsengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/possettingsengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/possettingsengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/possettingsengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/possettingsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/possettingsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/possettingsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/possettingsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/possuplsettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/possuplsettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/possuplsettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/possuplsettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posverificationdialogplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posverificationdialogplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/posverificationdialogplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/posverificationdialogplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/LBTContextSourcePlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/LBTContextSourcePlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_comasuplasnplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_comasuplasnplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_csuplutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_csuplutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasupllistener.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasupllistener.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasuplprovhandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasuplprovhandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasuplsyncmldm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasuplsyncmldm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasuplwaplistener.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_omasuplwaplistener.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_suplnetinitiation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_suplnetinitiation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_suplsettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_suplsettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_suplterminitiation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epos_suplterminitiation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlandmarks.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlandmarks.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlandmarks_dummy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlandmarks_dummy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmconverter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmconverter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmdbmanlib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmdbmanlib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmdbmanprov.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmdbmanprov.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmdbreg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmdbreg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmintservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmintservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocalaccess.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocalaccess.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocalaccessprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocalaccessprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocaldbmanprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocaldbmanprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocalsearchprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmlocalsearchprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmmultidbsearch.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmmultidbsearch.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmrecognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmrecognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmsearchlib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmsearchlib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmservlib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposlmservlib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplprotocolhandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplprotocolhandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplprotocolhandler1.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplprotocolhandler1.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplprotocolhandler2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposomasuplprotocolhandler2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposprvqnif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eposprvqnif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epossuplgateway.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/epossuplgateway.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epossuplprotocolhandlerplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epossuplprotocolhandlerplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbssupltiapiimplementation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbssupltiapiimplementation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtcontainer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtcontainer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtlogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtlogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtserverlogic.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtserverlogic.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtserverlogicbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtserverlogicbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtstrategy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtstrategy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtstrategypluginapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbtstrategypluginapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locnotificationclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/locnotificationclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locnotificationengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/locnotificationengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locnotificationserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/locnotificationserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/locutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locverifierdlg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/locverifierdlg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ltcellidmovdet.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ltcellidmovdet.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ltmvmtdetapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ltmvmtdetapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nlanpppsy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nlanpppsy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nlasuplpsy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nlasuplpsy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/posindicator.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/posindicator.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/posindicatorhelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/posindicatorhelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/posindicatorhelperserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/posindicatorhelperserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/poslocationservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/poslocationservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pospsysettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pospsysettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/posreversegeocodeinterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/posreversegeocodeinterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/posrevgeocodeplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/posrevgeocodeplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/possettingsengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/possettingsengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/possettingsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/possettingsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/possuplsettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/possuplsettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/posverificationdialogplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/posverificationdialogplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/LBTContextSourcePlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/LBTContextSourcePlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_comasuplasnplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_comasuplasnplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_csuplutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_csuplutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasupllistener.exe	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasupllistener.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasuplprovhandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasuplprovhandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasuplsyncmldm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasuplsyncmldm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasuplwaplistener.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_omasuplwaplistener.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_suplnetinitiation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_suplnetinitiation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_suplsettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_suplsettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epos_suplterminitiation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epos_suplterminitiation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlandmarks.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlandmarks.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlandmarks_dummy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlandmarks_dummy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmconverter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmconverter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmdbmanlib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmdbmanlib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmdbmanprov.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmdbmanprov.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmdbreg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmdbreg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmintservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmintservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocalaccess.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocalaccess.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocalaccessprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocalaccessprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocaldbmanprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocaldbmanprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocalsearchprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmlocalsearchprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmmultidbsearch.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmmultidbsearch.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmrecognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmrecognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmsearchlib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmsearchlib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmservlib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposlmservlib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplprotocolhandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplprotocolhandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplprotocolhandler1.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplprotocolhandler1.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplprotocolhandler2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposomasuplprotocolhandler2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eposprvqnif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eposprvqnif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epossuplgateway.exe	build	armv5_urel
+/epoc32/release/armv5/urel/epossuplgateway.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/epossuplprotocolhandlerplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epossuplprotocolhandlerplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbssupltiapiimplementation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbssupltiapiimplementation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtcontainer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbtcontainer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtlogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbtlogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbtmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/lbtserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtserverlogic.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbtserverlogic.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtserverlogicbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbtserverlogicbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtstrategy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbtstrategy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbtstrategypluginapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbtstrategypluginapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locnotificationclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/locnotificationclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locnotificationengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/locnotificationengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locnotificationserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/locnotificationserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/locutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/locutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locverifierdlg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/locverifierdlg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ltcellidmovdet.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ltcellidmovdet.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ltmvmtdetapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ltmvmtdetapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nlanpppsy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nlanpppsy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nlasuplpsy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nlasuplpsy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/posindicator.dll	build	armv5_urel
+/epoc32/release/armv5/urel/posindicator.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/posindicatorhelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/posindicatorhelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/posindicatorhelperserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/posindicatorhelperserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/poslocationservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/poslocationservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pospsysettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pospsysettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/posreversegeocodeinterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/posreversegeocodeinterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/posrevgeocodeplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/posrevgeocodeplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/possettingsengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/possettingsengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/possettingsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/possettingsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/possuplsettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/possuplsettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/posverificationdialogplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/posverificationdialogplugin.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/1028312b.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/LBTContextSourcePlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_comasuplasnplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_comasuplasnplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_csuplutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_csuplutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_omasupllistener.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_omasuplprovhandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_omasuplsyncmldm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_omasuplwaplistener.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_suplnetinitiation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_suplnetinitiation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_suplsettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_suplsettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_suplterminitiation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epos_suplterminitiation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlandmarks.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlandmarks.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlandmarks_dummy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlandmarks_dummy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmconverter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmdbmanlib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmdbmanlib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmdbmanprov.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmdbreg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmdbreg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmintservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmintservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmlocalaccess.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmlocalaccess.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmlocalaccessprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmlocaldbmanprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmlocalsearchprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmmultidbsearch.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmmultidbsearch.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmrecognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmsearchlib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmsearchlib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmservlib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposlmservlib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposomasuplprotocolhandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposomasuplprotocolhandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposomasuplprotocolhandler1.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposomasuplprotocolhandler1.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposomasuplprotocolhandler2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposomasuplprotocolhandler2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposprvqnif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eposprvqnif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/epossuplgateway.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/epossuplprotocolhandlerplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epossuplprotocolhandlerplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbssupltiapiimplementation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbssupltiapiimplementation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtcontainer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtcontainer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtlogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtlogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtserverlogic.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtserverlogicbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtserverlogicbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtstrategy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtstrategypluginapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbtstrategypluginapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locnotificationclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/locnotificationclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locnotificationengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/locnotificationengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locnotificationserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/locutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/locutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locverifierdlg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ltcellidmovdet.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ltmvmtdetapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ltmvmtdetapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nlanpppsy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nlasuplpsy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/posindicator.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/posindicator.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/posindicatorhelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/posindicatorhelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/posindicatorhelperserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/poslocationservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/poslocationservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pospsysettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pospsysettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/posreversegeocodeinterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/posreversegeocodeinterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/posrevgeocodeplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/possettingsengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/possettingsengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/possettingsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/possettingsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/possuplsettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/possuplsettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/posverificationdialogplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/posverificationdialogplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/101fe978.spd	export	
+/epoc32/release/winscw/udeb/z/private/101fdf81/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101fdf81/eposlmserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/102073ca/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/1027509E/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/1028312B/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/eposlmglcategories.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/epos_omasuplprovhandlerres.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/epos_omasuplprovhandlerres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eposlmasyncops.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eposlmcompactdblevel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eposlmdefaultdbname.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eposlmdefaultdbname.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eposlmglobalcategories.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eposlmglobalcategories.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nla_agpspositioner.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nla_agpspositioner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nla_gpspositioner.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nla_gpspositioner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nla_nbppositioner.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nla_nbppositioner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nlanpppsy_name.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nlanpppsy_name.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/epos_omasuplprovhandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/epos_omasuplsyncmldm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/epos_omasuplwaplistener.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposlmconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposlmdbmanprov.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposlmlocalaccessprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposlmlocaldbmanprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposlmlocalsearchprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposlmrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposomasuplprotocolhandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposomasuplprotocolhandler1.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eposomasuplprotocolhandler2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lbssupltiapiimplementation.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lbtcontextsourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lbtserverlogic.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lbtstrategy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/locverifierdlg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ltcellidmovdet.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nlanpppsy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nlasuplpsy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/posrevgeocodeplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/1028312b.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/LBTContextSourcePlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/LBTContextSourcePlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_comasuplasnplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_comasuplasnplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_csuplutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_csuplutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasupllistener.exe	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasupllistener.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasuplprovhandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasuplprovhandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasuplsyncmldm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasuplsyncmldm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasuplwaplistener.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_omasuplwaplistener.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_suplnetinitiation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_suplnetinitiation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_suplsettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_suplsettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epos_suplterminitiation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epos_suplterminitiation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlandmarks.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlandmarks.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlandmarks_dummy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlandmarks_dummy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmconverter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmconverter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmdbmanlib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmdbmanlib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmdbmanprov.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmdbmanprov.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmdbreg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmdbreg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmintservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmintservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocalaccess.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocalaccess.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocalaccessprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocalaccessprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocaldbmanprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocaldbmanprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocalsearchprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmlocalsearchprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmmultidbsearch.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmmultidbsearch.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmrecognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmrecognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmsearchlib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmsearchlib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmservlib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposlmservlib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplprotocolhandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplprotocolhandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplprotocolhandler1.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplprotocolhandler1.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplprotocolhandler2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposomasuplprotocolhandler2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eposprvqnif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eposprvqnif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epossuplgateway.exe	build	winscw_urel
+/epoc32/release/winscw/urel/epossuplgateway.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/epossuplprotocolhandlerplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epossuplprotocolhandlerplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbssupltiapiimplementation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbssupltiapiimplementation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtcontainer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbtcontainer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtlogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbtlogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbtmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/lbtserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtserverlogic.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbtserverlogic.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtserverlogicbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbtserverlogicbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtstrategy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbtstrategy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbtstrategypluginapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbtstrategypluginapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locnotificationclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/locnotificationclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locnotificationengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/locnotificationengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locnotificationserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/locnotificationserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/locutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/locutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locverifierdlg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/locverifierdlg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ltcellidmovdet.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ltcellidmovdet.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ltmvmtdetapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ltmvmtdetapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nlanpppsy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nlanpppsy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nlasuplpsy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nlasuplpsy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/posindicator.dll	build	winscw_urel
+/epoc32/release/winscw/urel/posindicator.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/posindicatorhelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/posindicatorhelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/posindicatorhelperserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/posindicatorhelperserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/poslocationservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/poslocationservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pospsysettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pospsysettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/posreversegeocodeinterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/posreversegeocodeinterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/posrevgeocodeplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/posrevgeocodeplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/possettingsengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/possettingsengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/possettingsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/possettingsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/possuplsettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/possuplsettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/posverificationdialogplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/posverificationdialogplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/100012a5/policy/101fe978.spd	export	
+/epoc32/release/winscw/urel/z/private/101fdf81/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101fdf81/eposlmserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/102073ca/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/1027509E/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/1028312B/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/eposlmglcategories.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/epos_omasuplprovhandlerres.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/epos_omasuplprovhandlerres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eposlmasyncops.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eposlmcompactdblevel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eposlmdefaultdbname.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eposlmdefaultdbname.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eposlmglobalcategories.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eposlmglobalcategories.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nla_agpspositioner.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nla_agpspositioner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nla_gpspositioner.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nla_gpspositioner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nla_nbppositioner.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nla_nbppositioner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nlanpppsy_name.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nlanpppsy_name.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/epos_omasuplprovhandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/epos_omasuplsyncmldm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/epos_omasuplwaplistener.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposlmconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposlmdbmanprov.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposlmlocalaccessprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposlmlocaldbmanprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposlmlocalsearchprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposlmrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposomasuplprotocolhandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposomasuplprotocolhandler1.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eposomasuplprotocolhandler2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lbssupltiapiimplementation.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lbtcontextsourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lbtserverlogic.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lbtstrategy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/locverifierdlg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ltcellidmovdet.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nlanpppsy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nlasuplpsy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/posrevgeocodeplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/landmarks.confml	export	
+/epoc32/rom/config/assets/s60/confml/lbtsettings.confml	export	
+/epoc32/rom/config/assets/s60/confml/locationsuplfw.confml	export	
+/epoc32/rom/config/assets/s60/confml/loclocalvariation.confml	export	
+/epoc32/rom/config/assets/s60/confml/npppsy.confml	export	
+/epoc32/rom/config/assets/s60/confml/omasuplconfigparam.confml	export	
+/epoc32/rom/config/assets/s60/confml/positioningsettings.confml	export	
+/epoc32/rom/config/assets/s60/confml/suplpsktlsusage.confml	export	
+/epoc32/rom/config/assets/s60/confml/suplpsy.confml	export	
+/epoc32/rom/config/assets/s60/confml/suplsettings.confml	export	
+/epoc32/rom/config/assets/s60/confml/suplsettings_productconfig.confml	export	
+/epoc32/rom/config/assets/s60/implml/landmarks_101fe99b.crml	export	
+/epoc32/rom/config/assets/s60/implml/lbtsettings_1028312F.crml	export	
+/epoc32/rom/config/assets/s60/implml/locationsuplfw_102073D2.crml	export	
+/epoc32/rom/config/assets/s60/implml/loclocalvariation_20022D83.crml	export	
+/epoc32/rom/config/assets/s60/implml/npppsy_10206915.crml	export	
+/epoc32/rom/config/assets/s60/implml/omasuplconfigparam_102750A0.crml	export	
+/epoc32/rom/config/assets/s60/implml/positioningsettings_2002E685.crml	export	
+/epoc32/rom/config/assets/s60/implml/suplpsktlsusage_2001B2C9.crml	export	
+/epoc32/rom/config/assets/s60/implml/suplpsy_10206913.crml	export	
+/epoc32/rom/config/assets/s60/implml/suplsettings_102073D6.crml	export	
+/epoc32/rom/config/assets/s60/implml/suplsettings_productconfig_2001FCB9.crml	export	
+/epoc32/rom/include/core/mw/LocationLandmarks.iby	export	
+/epoc32/rom/include/core/mw/LocationLandmarksStub.iby	export	
+/epoc32/rom/include/core/mw/lbsqueryandnotification.iby	export	
+/epoc32/rom/include/core/mw/lbssupltiapiimplementation.iby	export	
+/epoc32/rom/include/core/mw/lbtcontextsourceplugin.iby	export	
+/epoc32/rom/include/core/mw/locationsuplfw.iby	export	
+/epoc32/rom/include/core/mw/locationsuplfwstub.iby	export	
+/epoc32/rom/include/core/mw/locationtriggering.iby	export	
+/epoc32/rom/include/core/mw/locationtriggeringstub.iby	export	
+/epoc32/rom/include/core/mw/nla_npppsy.iby	export	
+/epoc32/rom/include/core/mw/nla_npppsystub.iby	export	
+/epoc32/rom/include/core/mw/nla_suplpsy.iby	export	
+/epoc32/rom/include/core/mw/nla_suplpsystub.iby	export	
+/epoc32/rom/include/core/mw/omasuplprotocolhandler.iby	export	
+/epoc32/rom/include/core/mw/omasuplprotocolhandlerstub.iby	export	
+/epoc32/rom/include/core/mw/posindicator.iby	export	
+/epoc32/rom/include/core/mw/posindicatorstub.iby	export	
+/epoc32/rom/include/core/mw/possettings.iby	export	
+/epoc32/rom/include/core/mw/privacydialogs.iby	export	
+/epoc32/rom/include/language/mw/locationlandmarks_resources.iby	export	
+/epoc32/rom/include/language/mw/nla_npppsy_resources.iby	export	
+/epoc32/rom/include/language/mw/omasuplprotocolhandler_resource.iby	export	
+/epoc32/rom/include/language/mw/possettings_resources.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/possettingsplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/positioningsettings/poslocationservices.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/positioningsettings/pospsysettings.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/positioningsettings/possuplsettings.qtplugin	export	
+/sf/mw/locationsrv/landmarks/inc/EPos_CPosLmDatabaseIterator.h	export	
+/sf/mw/locationsrv/landmarks/inc/EPos_CPosLmDbRegistry.h	export	
+/sf/mw/locationsrv/landmarks/inc/EPos_LandmarksDbManagerUids.hrh	export	
+/sf/mw/locationsrv/landmarks/inc/EPos_LandmarksErrors.h	export	
+/sf/mw/locationsrv/landmarks/inc/EPos_LandmarksUids.hrh	export	
+/sf/mw/locationsrv/landmarks/inc/EPos_PosLmDbInfoExtension.h	export	
+/sf/mw/locationsrv/landmarks/inc/EPos_PosLmImplExtension.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmcompactdatabase.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmdiskutilities.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmglobalcategoryreader.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmlocalcategorymanager.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmlocaldatabase.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmlocaldbaccess.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmlocaloperation.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmresourcereader.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_cposlmsettingshandler.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_landmarkdatabasestructure.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_landmarkssearchuids.hrh	export	
+/sf/mw/locationsrv/landmarks/inc/epos_mposlmdatabasefastcounters.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmcategoryhandler.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmdatabaseutility.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmdisplaydatahandler.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmfilefinder.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmlandmarkhandler.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmlongtextcolhandler.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmsearchimplextension.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmservercommon.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmserverdefs.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_poslmtrealcompare.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_rposlandmarkserver.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_rposlmlocalnameindex.h	export	
+/sf/mw/locationsrv/landmarks/inc/epos_rposlmlocalnameindex.inl	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtcontainer.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtcontainerextendedtriggerinfo.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtcontainerlistoptions.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtcontainertriggerentry.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtcontainertriggerfilter.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtcontainerupdatefilter.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtlisttriggerobserver.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtlogger.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtloggerimpl.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtmovementdetector.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtmovementdetector.hrh	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtsecuritypolicy.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtserverconsts.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtserverlogicbase.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtstrategybase.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtstrategytriggeringsupervisionsettings.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtstrategytriggeringsystemstatus.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbtterminalptrholder.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbttriggerchangeobserver.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbttriggeringsettingskeys.h	export	
+/sf/mw/locationsrv/locationtriggering/inc/lbttriggeringsupervisionobserver.h	export	
+/sf/mw/locationsrv/supl/inc/epos_comasuplproductconfigcrkeys.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplcommunicationmanager.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplconnection.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplprotocolmanagerbase.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplserverprivatecrkeys.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplsessionbase.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplsettingextensionparams.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplsettingsinternal.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplsettingsinternalconstants.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csuplsettingsinternalcrkeys.h	export	
+/sf/mw/locationsrv/supl/inc/epos_csupltrace.h	export	
+/sf/mw/locationsrv/supl/inc/epos_msuplpacketnotifier.h	export	
+/sf/mw/locationsrv/supl/inc/epos_msuplpacketreceiver.h	export	
+/sf/mw/locationsrv/supl/inc/epos_psktlsusageprivatecrkeys.h	export	
+/sf/mw/locationsrv/supl/inc/epos_suplgeocellinfo.h	export	
+/sf/mw/locationsrv/supl/inc/epos_suplterminalinternal.h	export	
+/sf/mw/locationsrv/supl/locationomasuplprotocolhandler/inc/epos_comasuplcommonconfig.h	export	
+/sf/mw/locationsrv/supl/locationomasuplprotocolhandler/inc/epos_comasupldeinitializer.h	export	
+/sf/mw/locationsrv/supl/locationomasuplprotocolhandler/inc/epos_comasuplinitilizeobserver.h	export	
+/sf/mw/locationsrv/supl/locationomasuplprotocolhandler/inc/epos_comasuplprotocolmanager.h	export	
+/sf/mw/locationsrv/supl/locationomasuplprotocolhandler/inc/epos_comasuplsettings.h	export	
+/sf/mw/locationsrv/supl/locationomasuplprotocolhandler/inc/epos_omasuplconstants.h	export	

@@ -1,0 +1,5 @@
+/epoc32/include/platform/mw/mpxmediavideodefs.h	export	
+/epoc32/include/platform/mw/mpxvideoplaybackdefs.h	export	
+/epoc32/include/platform/mw/vcxmyvideosdefs.h	export	
+/epoc32/include/platform/mw/vcxmyvideosuids.h	export	
+/epoc32/include/platform/mw/videoplayeruid.hrh	export	

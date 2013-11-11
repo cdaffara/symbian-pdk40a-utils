@@ -1,0 +1,171 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/videosettingsplugin.qtplugin	export	
+/epoc32/data/z/private/10003a3f/import/apps/videoplayer_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/videoplayer_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/videoplayer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/videoplayer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/hb/splashml/videos.docml	export	
+/epoc32/data/z/resource/hb/splashml/videos.splashml	export	
+/epoc32/data/z/resource/mpsettingsropmodel.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mpsettingsropmodel.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpsettropmodel.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpsettropmodel.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpxvideohelixplayback.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpxvideohelixplayback.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/vcxmyvideoscollectionplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/vcxmyvideoscollectionplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/videocollectionview.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/videocollectionview.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/videofiledetailsview.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/videofiledetailsview.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/videoplaybackviewplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/videoplaybackviewplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/videoplayer_stub.sis	export	
+/epoc32/include/mpsettingsropmodel.rsg	resource	armv5_urel
+/epoc32/include/mpsettingsropmodel.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/myvideosindicator.h	export	
+/epoc32/include/platform/app/myvideosindicator.hrh	export	
+/epoc32/include/platform/app/myvideosindicator.inl	export	
+/epoc32/include/platform/app/videoplayeractivationmessage.h	export	
+/epoc32/include/platform/app/videoplayercustommessage.h	export	
+/epoc32/include/videoplayer.rsg	resource	armv5_urel
+/epoc32/include/videoplayer.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/videocollectionwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videocollectionwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videocollectionwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videocollectionwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoplaybackview.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoplaybackview.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoplaybackview{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoplaybackview{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoplayerengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoplayerengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoplayerengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoplayerengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videosettingsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videosettingsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videosettingsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videosettingsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/mpsettropmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpsettropmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxvideohelixplayback.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxvideohelixplayback.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vcxmyvideoscollectionplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vcxmyvideoscollectionplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videocollectionview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videocollectionview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videocollectionwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videocollectionwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videofiledetailsview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videofiledetailsview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplaybackview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplaybackview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplaybackviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplaybackviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplayer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplayer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplayerengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplayerengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videosettingsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videosettingsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/mpsettropmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpsettropmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxvideohelixplayback.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxvideohelixplayback.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vcxmyvideoscollectionplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vcxmyvideoscollectionplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videocollectionview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videocollectionview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videocollectionwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videocollectionwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videofiledetailsview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videofiledetailsview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videoplaybackview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videoplaybackview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videoplaybackviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videoplaybackviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videoplayer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/videoplayer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/videoplayerengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videoplayerengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videosettingsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videosettingsplugin.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/mpsettropmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxvideohelixplayback.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vcxmyvideoscollectionplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videocollectionview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videocollectionwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videocollectionwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videofiledetailsview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplaybackview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplaybackview.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplaybackviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplayer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplayerengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplayerengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videosettingsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videosettingsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/videoplayer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/videoplayer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/videos.docml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/videos.splashml	export	
+/epoc32/release/winscw/udeb/z/resource/mpsettingsropmodel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpsettropmodel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpxvideohelixplayback.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/vcxmyvideoscollectionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/videocollectionview.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/videofiledetailsview.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/videoplaybackviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/mpsettropmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpsettropmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxvideohelixplayback.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxvideohelixplayback.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vcxmyvideoscollectionplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vcxmyvideoscollectionplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videocollectionview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videocollectionview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videocollectionwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videocollectionwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videofiledetailsview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videofiledetailsview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videoplaybackview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videoplaybackview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videoplaybackviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videoplaybackviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videoplayer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/videoplayer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/videoplayerengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videoplayerengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videosettingsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videosettingsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/videoplayer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/videoplayer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mpsettingsropmodel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpsettropmodel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpxvideohelixplayback.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/vcxmyvideoscollectionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/videocollectionview.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/videofiledetailsview.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/videoplaybackviewplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/mediasettings.confml	export	
+/epoc32/rom/config/assets/s60/confml/mpxvideopbplugins.confml	export	
+/epoc32/rom/config/assets/s60/confml/videolistview.confml	export	
+/epoc32/rom/config/assets/s60/confml/videoplayerservicelist.confml	export	
+/epoc32/rom/config/assets/s60/confml/videoscollection.confml	export	
+/epoc32/rom/config/assets/s60/implml/mediasettings_101F880B.crml	export	
+/epoc32/rom/config/assets/s60/implml/mpxvideopbplugins_101f880a.crml	export	
+/epoc32/rom/config/assets/s60/implml/videolistview_2002BC63.crml	export	
+/epoc32/rom/config/assets/s60/implml/videoscollection_2001B2A9.crml	export	
+/epoc32/rom/include/core/app/mpsettropmodel.iby	export	
+/epoc32/rom/include/core/app/mpsettropmodelrsc.iby	export	
+/epoc32/rom/include/core/app/mpxmyvideoscollection.iby	export	
+/epoc32/rom/include/core/app/mpxvideohelixplugin.iby	export	
+/epoc32/rom/include/core/app/videocollectionview.iby	export	
+/epoc32/rom/include/core/app/videocollectionwrapper.iby	export	
+/epoc32/rom/include/core/app/videofiledetailsview.iby	export	
+/epoc32/rom/include/core/app/videoplaybackview.iby	export	
+/epoc32/rom/include/core/app/videoplaybackviewplugin.iby	export	
+/epoc32/rom/include/core/app/videoplayer.iby	export	
+/epoc32/rom/include/core/app/videoplayerengine.iby	export	
+/epoc32/rom/include/core/app/videosettingsplugin.iby	export	
+/epoc32/rom/include/language/app/videoplayerresources.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/videosettingsplugin.qtplugin	export	

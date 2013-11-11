@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="xmlsrv" level="services" levels="plugin server framework generic specific" long-name="XML Services">
+<collection name="xmlsrv_plat" long-name="XML Services Platform Interfaces" level="specific">
+<component name="xml_encryption_api" long-name="XML Encryption API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/xmlsrv/xmlsrv_plat/xml_encryption_api/group"/>
+</component>
+<component name="xml_signature_api" long-name="XML Signature API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/xmlsrv/xmlsrv_plat/xml_signature_api/group"/>
+</component>
+<component name="xml_security_engine_utils_api" long-name="XML Security Engine Utils API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/xmlsrv/xmlsrv_plat/xml_security_engine_utils_api/group"/>
+</component>
+<component name="cxml_library_api" long-name="cXml Library API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/xmlsrv/xmlsrv_plat/cxml_library_api/group"/>
+</component>
+<component name="xml_parser_api" long-name="XML Parser API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/xmlsrv/xmlsrv_plat/xml_parser_api/group"/>
+</component>
+</collection>
+<collection name="xmlsecurityengine" long-name="XML Security Engine" level="framework">
+<component name="xmlseccertman" long-name="XML Security Certificate Manager" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xmlsecurityengine/xmlseccertman/group"/>
+</component>
+<component name="xmlsec" long-name="XML Security" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xmlsecurityengine/xmlsec/group"/>
+</component>
+<component name="xmlseccrypto" long-name="XML Security Crypto" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xmlsecurityengine/xmlseccrypto/group"/>
+</component>
+<component name="xmlsecwrapper" long-name="XML Security Wrapper" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xmlsecurityengine/xmlsecwrapper/group"/>
+</component>
+</collection>
+<collection name="xml" long-name="XML" level="generic">
+<component name="xmlfw" long-name="XML Framework" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xml/xmlfw/group" mrp="/sf/os/xmlsrv/xml/xmlfw/group/syslibs_xml.mrp" filter="!test"/>
+</component>
+<component name="libxml2libs" long-name="Libxml2 Libraries" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xml/libxml2libs/group" mrp="/sf/os/xmlsrv/xml/libxml2libs/group/syslibs_libxml2.mrp" filter="!test"/>
+</component>
+<component name="legacyminidomparser" long-name="Legacy Mini-DOM Parser" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xml/legacyminidomparser/GROUP" mrp="/sf/os/xmlsrv/xml/legacyminidomparser/GROUP/syslibs_legacyminidomparser.mrp" filter="!test"/>
+</component>
+<component name="xmldomandxpath" long-name="XML DOM and XPath" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xml/xmldomandxpath/group" mrp="/sf/os/xmlsrv/xml/xmldomandxpath/group/syslibs_xmldom.mrp" filter="!test"/>
+</component>
+<component name="xmlexpatparser" long-name="XML Expat Parser" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/xmlsrv/xml/xmlexpatparser/group" mrp="/sf/os/xmlsrv/xml/xmlexpatparser/group/syslibs_xmlparser.mrp" filter="!test"/>
+</component>
+<component name="xmllibxml2parser" long-name="XML Libxml2 Parser" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/xmlsrv/xml/xmllibxml2parser/group" mrp="/sf/os/xmlsrv/xml/xmllibxml2parser/group/syslibs_xmlparser2.mrp" filter="!test"/>
+</component>
+<component name="wbxmlparser" long-name="WBXML Parser" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/xmlsrv/xml/wbxmlparser/group" mrp="/sf/os/xmlsrv/xml/wbxmlparser/group/syslibs_wbxmlparser.mrp" filter="!test"/>
+</component>
+<component name="cxmllibrary" long-name="cXml Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xml/cxmllibrary/group"/>
+</component>
+<component name="xmlparser" long-name="XML Interface" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/xmlsrv/xml/xmlparser/group"/>
+</component>
+</collection>
+<collection name="xmlsrv_info" long-name="XML Services Info" level="specific">
+<component name="xmlsrv_metadata" long-name="XML Services Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/xmlsrv/xmlsrv_info/xmlsrv_metadata/xmlsrv_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

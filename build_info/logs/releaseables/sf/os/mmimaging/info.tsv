@@ -1,0 +1,488 @@
+/epoc32/data/z/resource/icl/101f45ae_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45ae_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45b1_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45b1_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45b5_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45b5_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45c0_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45c0_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45c7_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45c7_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45ca_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45ca_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45cd_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45cd_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45d0_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45d0_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45d3_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45d3_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f45d6_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f45d6_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/icl/101f7c51_extra.rsc	resource	armv5_urel
+/epoc32/data/z/resource/icl/101f7c51_extra.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/bitmaptransformsrefplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/bitmaptransformsrefplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/bmpcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/bmpcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/gifcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/gifcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/iclwrapperimagedisplay.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/iclwrapperimagedisplay.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/icocodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/icocodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/imageconversionresolver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/imageconversionresolver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/imagedisplayresolver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/imagedisplayresolver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/imagetransformresolver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/imagetransformresolver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/jpegcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/jpegcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mbmcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mbmcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mngimagedisplay.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mngimagedisplay.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/otacodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/otacodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pngcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pngcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recicl.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recicl.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tiffcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tiffcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wbmpcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wbmpcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wmfcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wmfcodec.rsc	resource	winscw_udeb
+/epoc32/include/101f45ae_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45ae_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45b1_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45b1_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45b5_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45b5_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45c0_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45c0_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45c7_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45c7_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45ca_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45ca_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45cd_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45cd_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45d0_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45d0_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45d3_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45d3_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f45d6_extra.rsg	resource	armv5_urel
+/epoc32/include/101f45d6_extra.rsg	resource	winscw_udeb
+/epoc32/include/101f7c51_extra.rsg	resource	armv5_urel
+/epoc32/include/101f7c51_extra.rsg	resource	winscw_udeb
+/epoc32/include/bitmaptransforms.h	export	
+/epoc32/include/bitmaptransforms.inl	export	
+/epoc32/include/bitmtrans/bitmtranspanic.h	export	
+/epoc32/include/bitmtrans/bitmtransuids.hrh	export	
+/epoc32/include/exifutility.h	export	
+/epoc32/include/gifscaler.h	export	
+/epoc32/include/icl/exifimagedisplay.hrh	export	
+/epoc32/include/icl/exifimagedisplayext.h	export	
+/epoc32/include/icl/geniclimagedisplay.hrh	export	
+/epoc32/include/icl/icl_propertyuids.h	export	
+/epoc32/include/icl/icl_propertyuids.hrh	export	
+/epoc32/include/icl/icl_uids.hrh	export	
+/epoc32/include/icl/icl_uids_const.hrh	export	
+/epoc32/include/icl/icl_uids_def.hrh	export	
+/epoc32/include/icl/imagecodec.h	export	
+/epoc32/include/icl/imagecodecdata.h	export	
+/epoc32/include/icl/imageconstruct.h	export	
+/epoc32/include/icl/imageconversionextension.h	export	
+/epoc32/include/icl/imageconversionextensionintf.h	export	
+/epoc32/include/icl/imagedata.h	export	
+/epoc32/include/icl/imagedisplay.hrh	export	
+/epoc32/include/icl/imagedisplaypaniccodes.h	export	
+/epoc32/include/icl/imagedisplayplugin.h	export	
+/epoc32/include/icl/imagedisplaypluginext.h	export	
+/epoc32/include/icl/imageplugin.h	export	
+/epoc32/include/icl/imageprocessor.h	export	
+/epoc32/include/icl/imagetransform.hrh	export	
+/epoc32/include/icl/imagetransformpaniccodes.h	export	
+/epoc32/include/icl/imagetransformplugin.h	export	
+/epoc32/include/icl/imagetransformpluginext.h	export	
+/epoc32/include/icl/mngimagedisplay.hrh	export	
+/epoc32/include/icl/orientationtransformextension.h	export	
+/epoc32/include/icl/overlaytransformextension.h	export	
+/epoc32/include/icl/squeezetransformextension.h	export	
+/epoc32/include/iclexif.h	export	
+/epoc32/include/iclexifimageframe.h	export	
+/epoc32/include/imageconversion.h	export	
+/epoc32/include/imagedisplay.h	export	
+/epoc32/include/imageframe.h	export	
+/epoc32/include/imageframeconst.h	export	
+/epoc32/include/imageframeconst.hrh	export	
+/epoc32/include/imageframeformats.hrh	export	
+/epoc32/include/imageprocessor/imageprocessor.h	export	
+/epoc32/include/imageprocessor/imageprocessor_uids.hrh	export	
+/epoc32/include/imageprocessor/imageprocessoreffect.h	export	
+/epoc32/include/imageprocessor/imageprocessorinputinfo.h	export	
+/epoc32/include/imageprocessor/imageprocessorobserver.h	export	
+/epoc32/include/imageprocessor/imageprocessoroutputinfo.h	export	
+/epoc32/include/imageprocessor/imageprocessoroverlay.h	export	
+/epoc32/include/imageprocessor/imageprocessorpreview.h	export	
+/epoc32/include/imageprocessor/imageprocessorprogressinfo.h	export	
+/epoc32/include/imagetransform.h	export	
+/epoc32/include/mdaimageconverter.h	export	
+/epoc32/include/panorama/panorama.h	export	
+/epoc32/include/panorama/panoramauids.hrh	export	
+/epoc32/include/platform/bitmtrans/bitmtransplugin.h	export	
+/epoc32/include/platform/icl/geniclimagedisplayext.h	export	
+/epoc32/include/platform/icl/imagecodecdef.h	export	
+/epoc32/include/platform/icl/jpegyuvdecoder.h	export	
+/epoc32/include/platform/iclrecognizerutil.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessorinputinfointf.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessoroutputinfointf.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessoroverlayintf.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessorplugin.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessorplugineffect.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessorpluginobserver.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessorpreviewintf.h	export	
+/epoc32/include/platform/imageprocessor/imageprocessorprogressinfointf.h	export	
+/epoc32/include/platform/panorama/panoramaplugin.h	export	
+/epoc32/release/armv5/lib/bitmaptransforms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bitmaptransforms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bitmaptransforms{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bitmaptransforms{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/exifutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/exifutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/exifutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/exifutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gifscaler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gifscaler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gifscaler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gifscaler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imageconversion.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imageconversion.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imageconversion{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imageconversion{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imagedisplay.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imagedisplay.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imagedisplay{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imagedisplay{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imageprocessor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imageprocessor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imageprocessor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imageprocessor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imagetransform.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imagetransform.dso	build	armv5_urel
+/epoc32/release/armv5/lib/imagetransform{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/imagetransform{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jpegexifplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jpegexifplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jpegexifplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jpegexifplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jpegimageframeplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jpegimageframeplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jpegimageframeplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jpegimageframeplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jpegyuvdecoder.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jpegyuvdecoder.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jpegyuvdecoder{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jpegyuvdecoder{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mediaclientimage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mediaclientimage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mediaclientimage{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mediaclientimage{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/panorama.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/panorama.dso	build	armv5_urel
+/epoc32/release/armv5/lib/panorama{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/panorama{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/bitmaptransforms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bitmaptransforms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bitmaptransformsrefplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bitmaptransformsrefplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bmpcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bmpcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/exiflibstatic.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/exifutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/exifutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gifcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gifcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gifscaler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gifscaler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iclwrapperimagedisplay.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iclwrapperimagedisplay.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/icocodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/icocodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageconversion.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageconversion.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageconversionresolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageconversionresolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagedisplay.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagedisplay.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagedisplayresolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagedisplayresolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageprocessor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageprocessor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageprocessorperf.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagetransform.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagetransform.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagetransformresolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imagetransformresolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegexifplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegexifplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegimageframeplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegimageframeplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegyuvdecoder.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/jpegyuvdecoder.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbmcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbmcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mediaclientimage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mediaclientimage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mngimagedisplay.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mngimagedisplay.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/otacodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/otacodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/panorama.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/panorama.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pngcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pngcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recicl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recicl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tiffcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tiffcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wbmpcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wbmpcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmfcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmfcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/bitmaptransforms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bitmaptransforms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bitmaptransformsrefplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bitmaptransformsrefplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bmpcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bmpcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/exiflibstatic.lib	build	armv5_urel
+/epoc32/release/armv5/urel/exifutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/exifutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gifcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gifcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gifscaler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gifscaler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iclwrapperimagedisplay.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iclwrapperimagedisplay.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/icocodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/icocodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imageconversion.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imageconversion.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imageconversionresolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imageconversionresolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imagedisplay.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imagedisplay.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imagedisplayresolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imagedisplayresolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imageprocessor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imageprocessor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imageprocessorperf.lib	build	armv5_urel
+/epoc32/release/armv5/urel/imagetransform.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imagetransform.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/imagetransformresolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imagetransformresolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/jpegcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/jpegcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/jpegexifplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/jpegexifplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/jpegimageframeplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/jpegimageframeplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/jpegyuvdecoder.dll	build	armv5_urel
+/epoc32/release/armv5/urel/jpegyuvdecoder.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mbmcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mbmcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mediaclientimage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mediaclientimage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mngimagedisplay.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mngimagedisplay.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/otacodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/otacodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/panorama.dll	build	armv5_urel
+/epoc32/release/armv5/urel/panorama.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pngcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pngcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recicl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recicl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tiffcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tiffcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wbmpcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wbmpcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmfcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmfcodec.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/bitmaptransforms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bitmaptransforms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bitmaptransformsrefplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bmpcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/exiflibstatic.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/exifutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/exifutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gifcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gifscaler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gifscaler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iclwrapperimagedisplay.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/icocodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageconversion.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageconversion.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageconversionresolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagedisplay.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagedisplay.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagedisplayresolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageprocessor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageprocessor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageprocessorperf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagetransform.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagetransform.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/imagetransformresolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jpegcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jpegexifplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jpegexifplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/jpegimageframeplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jpegimageframeplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/jpegyuvdecoder.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jpegyuvdecoder.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mbmcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mediaclientimage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mediaclientimage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mngimagedisplay.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/otacodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/panorama.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/panorama.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pngcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/recicl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tiffcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wbmpcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmfcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45ae_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45b1_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45b5_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45c0_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45c7_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45ca_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45cd_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45d0_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45d3_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f45d6_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/icl/101f7c51_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/bitmaptransformsrefplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/bmpcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/gifcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/iclwrapperimagedisplay.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/icocodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/imageconversionresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/imagedisplayresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/imagetransformresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/jpegcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mbmcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mngimagedisplay.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/otacodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pngcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recicl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tiffcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wbmpcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wmfcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/bitmaptransforms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bitmaptransforms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bitmaptransformsrefplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bitmaptransformsrefplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bmpcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bmpcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/exiflibstatic.lib	build	winscw_urel
+/epoc32/release/winscw/urel/exifutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/exifutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gifcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gifcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gifscaler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gifscaler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iclwrapperimagedisplay.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iclwrapperimagedisplay.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/icocodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/icocodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imageconversion.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imageconversion.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imageconversionresolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imageconversionresolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imagedisplay.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imagedisplay.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imagedisplayresolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imagedisplayresolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imageprocessor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imageprocessor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imageprocessorperf.lib	build	winscw_urel
+/epoc32/release/winscw/urel/imagetransform.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imagetransform.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/imagetransformresolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imagetransformresolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/jpegcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/jpegcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/jpegexifplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/jpegexifplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/jpegimageframeplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/jpegimageframeplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/jpegyuvdecoder.dll	build	winscw_urel
+/epoc32/release/winscw/urel/jpegyuvdecoder.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mbmcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mbmcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mediaclientimage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mediaclientimage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mngimagedisplay.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mngimagedisplay.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/otacodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/otacodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/panorama.dll	build	winscw_urel
+/epoc32/release/winscw/urel/panorama.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pngcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pngcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recicl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recicl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tiffcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tiffcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wbmpcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wbmpcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmfcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmfcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/icl/101f45ae_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45b1_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45b5_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45c0_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45c7_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45ca_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45cd_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45d0_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45d3_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f45d6_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/icl/101f7c51_extra.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/bitmaptransformsrefplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/bmpcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/gifcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/iclwrapperimagedisplay.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/icocodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/imageconversionresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/imagedisplayresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/imagetransformresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/jpegcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mbmcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mngimagedisplay.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/otacodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pngcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recicl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tiffcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wbmpcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wmfcodec.rsc	resource	winscw_udeb
+/epoc32/rom/include/MediaSvrConvert.iby	export	
+/epoc32/rom/include/bitmaptransforms.iby	export	
+/epoc32/rom/include/bitmaptransformsplugin.iby	export	
+/epoc32/rom/include/exifutility.iby	export	
+/epoc32/rom/include/gifscaler.iby	export	
+/epoc32/rom/include/iclcodecs.iby	export	
+/epoc32/rom/include/iclwrapperimagedisplay.iby	export	
+/epoc32/rom/include/imageconversion.iby	export	
+/epoc32/rom/include/imagedisplay.iby	export	
+/epoc32/rom/include/imageprocessor.iby	export	
+/epoc32/rom/include/imagetransform.iby	export	
+/epoc32/rom/include/jpegyuvdecoder.iby	export	
+/epoc32/rom/include/mngimagedisplay.iby	export	
+/epoc32/rom/include/panorama.iby	export	

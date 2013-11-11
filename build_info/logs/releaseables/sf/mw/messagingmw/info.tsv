@@ -1,0 +1,919 @@
+/epoc32/data/z/private/10003a3f/apps/msgurlhandler_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/msgurlhandler_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/1000484b/backup_registration.xml	export	
+/epoc32/data/z/private/1000484b/msgcache.ini	export	
+/epoc32/data/z/private/10202be9/10001028.txt	export	
+/epoc32/data/z/private/10202be9/10001029.txt	export	
+/epoc32/data/z/private/10202be9/1000102a.txt	export	
+/epoc32/data/z/private/10202be9/10274556.txt	export	
+/epoc32/data/z/private/10202be9/10285a25.txt	export	
+/epoc32/data/z/resource/apps/msgurlhandler.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/msgurlhandler.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/apps/msgurlhandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/msgurlhandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/msgurlhandler_loc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/msgurlhandler_loc.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/cbcp.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/messaging/bif/cbcp.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/cbcp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/bif/cbcp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/enp.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/messaging/bif/enp.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/enp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/bif/enp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/iacp.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/messaging/bif/iacp.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/iacp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/bif/iacp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/rtp.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/messaging/bif/rtp.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/rtp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/bif/rtp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/vcdp.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/messaging/bif/vcdp.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/vcdp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/bif/vcdp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/vclp.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/messaging/bif/vclp.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/vclp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/bif/vclp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/wapp.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/messaging/bif/wapp.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/messaging/bif/wapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/bif/wapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/msgs.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/msgs.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/msgs.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/msgs.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/sendasserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/sendasserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/wappstr.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/wappstr.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/wappushunknown.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/wappushunknown.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/class0sms.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/class0sms.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/drmstringdict00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/drmstringdict00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lbssuplsmstrigger.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lbssuplsmstrigger.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lbssuplwappush.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lbssuplwappush.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nbswatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nbswatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pushapphandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pushapphandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pushcontenthandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pushcontenthandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pushsecurity.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pushsecurity.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pushwatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pushwatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/roapphandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/roapphandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/roaptcontenthandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/roaptcontenthandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rocontenthandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rocontenthandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sendaseikeditutils.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sendaseikeditutils.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senduiwatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senduiwatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sislcontenthandlers.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sislcontenthandlers.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sl1_0stringdict00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sl1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wapurilookup.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wapurilookup.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wapwatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wapwatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/sendnorm.r01	resource	armv5_urel
+/epoc32/data/z/resource/sendnorm.r01	resource	winscw_udeb
+/epoc32/data/z/resource/sendnorm.rsc	resource	armv5_urel
+/epoc32/data/z/resource/sendnorm.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/aomanagerstub.SIS	export	
+/epoc32/data/z/system/install/stub_senduilauncher.sis	export	
+/epoc32/data/z/system/install/stub_senduiserviceresolver.sis	export	
+/epoc32/include/lbssuplsmstrigger.rsg	resource	armv5_urel
+/epoc32/include/lbssuplsmstrigger.rsg	resource	winscw_udeb
+/epoc32/include/lbssuplwappush.rsg	resource	armv5_urel
+/epoc32/include/lbssuplwappush.rsg	resource	winscw_udeb
+/epoc32/include/msgs.rsg	resource	armv5_urel
+/epoc32/include/msgs.rsg	resource	winscw_udeb
+/epoc32/include/msgurlhandler.mbg	bitmap	armv5_urel
+/epoc32/include/msgurlhandler.mbg	bitmap	winscw_udeb
+/epoc32/include/msgurlhandler.rsg	resource	armv5_urel
+/epoc32/include/msgurlhandler.rsg	resource	winscw_udeb
+/epoc32/include/msgurlhandler_loc.rsg	resource	armv5_urel
+/epoc32/include/msgurlhandler_loc.rsg	resource	winscw_udeb
+/epoc32/include/msvstd.hrh	export	
+/epoc32/include/mtmdef.hrh	export	
+/epoc32/include/mtmuidef.hrh	export	
+/epoc32/include/mtmuidsdef.hrh	export	
+/epoc32/include/mtud.hrh	export	
+/epoc32/include/mw/CMessageAddress.h	export	
+/epoc32/include/mw/CMessageData.h	export	
+/epoc32/include/mw/CSendingServiceInfo.h	export	
+/epoc32/include/mw/SendUiConsts.h	export	
+/epoc32/include/mw/SenduiMtmUids.h	export	
+/epoc32/include/mw/TSendingCapabilities.h	export	
+/epoc32/include/mw/TSendingCapabilities.inl	export	
+/epoc32/include/mw/bif.h	export	
+/epoc32/include/mw/biocmtm.h	export	
+/epoc32/include/mw/biodb.h	export	
+/epoc32/include/mw/bioscmds.h	export	
+/epoc32/include/mw/biouids.h	export	
+/epoc32/include/mw/bsp.h	export	
+/epoc32/include/mw/cbioasyncwaiter.h	export	
+/epoc32/include/mw/cmsvattachment.h	export	
+/epoc32/include/mw/cmsvmimeheaders.h	export	
+/epoc32/include/mw/cmsvplainbodytext.h	export	
+/epoc32/include/mw/cmsvrecipientlist.h	export	
+/epoc32/include/mw/cmsvtechnologytypedefaultmtmsettings.h	export	
+/epoc32/include/mw/csendasaccounts.h	export	
+/epoc32/include/mw/csendasmessagetypes.h	export	
+/epoc32/include/mw/csmsclass0base.h	export	
+/epoc32/include/mw/ipaddr.h	export	
+/epoc32/include/mw/mmsvattachmentmanager.h	export	
+/epoc32/include/mw/mmsvattachmentmanagersync.h	export	
+/epoc32/include/mw/msvapi.h	export	
+/epoc32/include/mw/msventry.h	export	
+/epoc32/include/mw/msventryscheduledata.h	export	
+/epoc32/include/mw/msvfind.h	export	
+/epoc32/include/mw/msvftext.h	export	
+/epoc32/include/mw/msvids.h	export	
+/epoc32/include/mw/msvoffpeaktime.h	export	
+/epoc32/include/mw/msvrcpt.h	export	
+/epoc32/include/mw/msvreg.h	export	
+/epoc32/include/mw/msvruids.h	export	
+/epoc32/include/mw/msvscheduledentry.h	export	
+/epoc32/include/mw/msvschedulepackage.h	export	
+/epoc32/include/mw/msvschedulesend.h	export	
+/epoc32/include/mw/msvschedulesettings.h	export	
+/epoc32/include/mw/msvsenderroraction.h	export	
+/epoc32/include/mw/msvstd.h	export	
+/epoc32/include/mw/msvstore.h	export	
+/epoc32/include/mw/msvsysagentaction.h	export	
+/epoc32/include/mw/msvuids.h	export	
+/epoc32/include/mw/mtclbase.h	export	
+/epoc32/include/mw/mtclreg.h	export	
+/epoc32/include/mw/mtmdef.h	export	
+/epoc32/include/mw/mtmuibas.h	export	
+/epoc32/include/mw/mtmuids.h	export	
+/epoc32/include/mw/mtsr.h	export	
+/epoc32/include/mw/mtud.rh	export	
+/epoc32/include/mw/mtudcbas.h	export	
+/epoc32/include/mw/mtudreg.h	export	
+/epoc32/include/mw/mtuireg.h	export	
+/epoc32/include/mw/mturutils.h	export	
+/epoc32/include/mw/regpsdll.h	export	
+/epoc32/include/mw/rsendas.h	export	
+/epoc32/include/mw/rsendasmessage.h	export	
+/epoc32/include/mw/schedulebaseservermtm.h	export	
+/epoc32/include/mw/schsend.rh	export	
+/epoc32/include/mw/schsend_panic.h	export	
+/epoc32/include/mw/sendas2.h	export	
+/epoc32/include/mw/sendasserver.rh	export	
+/epoc32/include/mw/sendui.h	export	
+/epoc32/include/mw/thttpfields.h	export	
+/epoc32/include/mw/tmsvsystemprogress.h	export	
+/epoc32/include/mw/tsendasclientpanic.h	export	
+/epoc32/include/mw/tsendasmessagetypefilter.h	export	
+/epoc32/include/mw/wappdef.h	export	
+/epoc32/include/platform/gfp.h	export	
+/epoc32/include/platform/loc/sc/msgs.loc	export	
+/epoc32/include/platform/mw/AlwaysOnlineEComInterface.h	export	
+/epoc32/include/platform/mw/AlwaysOnlineEComInterface.inl	export	
+/epoc32/include/platform/mw/AlwaysOnlineManagerClient.h	export	
+/epoc32/include/platform/mw/AlwaysOnlineManagerCommon.h	export	
+/epoc32/include/platform/mw/AlwaysOnlineStatusQueryInterface.h	export	
+/epoc32/include/platform/mw/CSendUiAttachment.h	export	
+/epoc32/include/platform/mw/CSendUiAttachment.inl	export	
+/epoc32/include/platform/mw/CSendingService.h	export	
+/epoc32/include/platform/mw/MsvFactorySettings.h	export	
+/epoc32/include/platform/mw/MtmExtendedCapabilities.hrh	export	
+/epoc32/include/platform/mw/MuiuMsvSingleOpWatcher.h	export	
+/epoc32/include/platform/mw/MuiuServiceUtilities.h	export	
+/epoc32/include/platform/mw/Push/pushdispatcher.h	export	
+/epoc32/include/platform/mw/SendUiDataUtils.h	export	
+/epoc32/include/platform/mw/SendUiFileRightsEngine.h	export	
+/epoc32/include/platform/mw/SendUiOperationWait.h	export	
+/epoc32/include/platform/mw/SendingServiceInterfaceUids.hrh	export	
+/epoc32/include/platform/mw/bifbase.h	export	
+/epoc32/include/platform/mw/bifchangeobserver.h	export	
+/epoc32/include/platform/mw/biftool2.rh	export	
+/epoc32/include/platform/mw/biomessageuids.h	export	
+/epoc32/include/platform/mw/bsp.inl	export	
+/epoc32/include/platform/mw/cmsvbodytext.h	export	
+/epoc32/include/platform/mw/cmsvcopystoreoperation.h	export	
+/epoc32/include/platform/mw/contactmatcher.h	export	
+/epoc32/include/platform/mw/csendaseditutils.h	export	
+/epoc32/include/platform/mw/csendaseditutils.inl	export	
+/epoc32/include/platform/mw/errors/generic/bioerr.ra	export	
+/epoc32/include/platform/mw/errors/generic/bioerr.rls	export	
+/epoc32/include/platform/mw/errors/generic/msgerr.ra	export	
+/epoc32/include/platform/mw/errors/generic/msgerr.rls	export	
+/epoc32/include/platform/mw/fileprotectionresolver.h	export	
+/epoc32/include/platform/mw/iacp.loc	export	
+/epoc32/include/platform/mw/loc/sc/sendnorm.loc	export	
+/epoc32/include/platform/mw/mclient.h	export	
+/epoc32/include/platform/mw/mentact.h	export	
+/epoc32/include/platform/mw/mmssettingsproxybase.h	export	
+/epoc32/include/platform/mw/mmssettingsproxybase.inl	export	
+/epoc32/include/platform/mw/mmsvstoremanager.h	export	
+/epoc32/include/platform/mw/msgerr.h	export	
+/epoc32/include/platform/mw/msgsvgutils.h	export	
+/epoc32/include/platform/mw/msgtextutils.h	export	
+/epoc32/include/platform/mw/msgvoipextension.h	export	
+/epoc32/include/platform/mw/msvapi.inl	export	
+/epoc32/include/platform/mw/msvarray.h	export	
+/epoc32/include/platform/mw/msvenhancesearchsortutil.h	export	
+/epoc32/include/platform/mw/msventry.inl	export	
+/epoc32/include/platform/mw/msvfind.inl	export	
+/epoc32/include/platform/mw/msvftext.inl	export	
+/epoc32/include/platform/mw/msvipc.h	export	
+/epoc32/include/platform/mw/msvipc.inl	export	
+/epoc32/include/platform/mw/msvrcpt.inl	export	
+/epoc32/include/platform/mw/msvreg.inl	export	
+/epoc32/include/platform/mw/msvscheduledentry.inl	export	
+/epoc32/include/platform/mw/msvschedulesend.inl	export	
+/epoc32/include/platform/mw/msvsearchsortoperation.h	export	
+/epoc32/include/platform/mw/msvsearchsortquery.h	export	
+/epoc32/include/platform/mw/msvstd.inl	export	
+/epoc32/include/platform/mw/msvutils.h	export	
+/epoc32/include/platform/mw/mtmconfig.rh	export	
+/epoc32/include/platform/mw/push/ccontenthandlerbase.h	export	
+/epoc32/include/platform/mw/push/ccontenthandlerbase.inl	export	
+/epoc32/include/platform/mw/push/cmultipartbiniterator.h	export	
+/epoc32/include/platform/mw/push/cmultipartiteratorbase.h	export	
+/epoc32/include/platform/mw/push/cmultipartpushmsgentry.h	export	
+/epoc32/include/platform/mw/push/cmultipartpushmsgentry.inl	export	
+/epoc32/include/platform/mw/push/cmultiparttextiterator.h	export	
+/epoc32/include/platform/mw/push/cpushhandlerbase.h	export	
+/epoc32/include/platform/mw/push/cpushhandlerbase.inl	export	
+/epoc32/include/platform/mw/push/csipushmsgentry.h	export	
+/epoc32/include/platform/mw/push/csipushmsgentry.inl	export	
+/epoc32/include/platform/mw/push/cslpushmsgentry.h	export	
+/epoc32/include/platform/mw/push/cslpushmsgentry.inl	export	
+/epoc32/include/platform/mw/push/cunknownpushmsgentry.h	export	
+/epoc32/include/platform/mw/push/cunknownpushmsgentry.inl	export	
+/epoc32/include/platform/mw/push/cwappushmsgutils.h	export	
+/epoc32/include/platform/mw/push/cwappushmsgutils.inl	export	
+/epoc32/include/platform/mw/push/murilistlookup.h	export	
+/epoc32/include/platform/mw/push/pluginkiller.h	export	
+/epoc32/include/platform/mw/push/pushlog.h	export	
+/epoc32/include/platform/mw/push/pushmessage.h	export	
+/epoc32/include/platform/mw/push/sislpushmsgutils.h	export	
+/epoc32/include/platform/mw/push/sislpushmsgutils.inl	export	
+/epoc32/include/platform/mw/push/unknownmimedefs.h	export	
+/epoc32/include/platform/mw/push/wapdecoder.h	export	
+/epoc32/include/platform/mw/pushentry.h	export	
+/epoc32/include/platform/mw/pushentry.inl	export	
+/epoc32/include/platform/mw/regpsdll.inl	export	
+/epoc32/include/platform/mw/senduisingleton.h	export	
+/epoc32/include/platform/mw/tmsvpackednotifierrequest.h	export	
+/epoc32/include/platform/mw/tmsvschedulesettingsutils.h	export	
+/epoc32/include/platform/mw/tnonoperationmtmdata.h	export	
+/epoc32/include/platform/mw/wapp.h	export	
+/epoc32/include/platform/mw/watcher.h	export	
+/epoc32/include/schsend.hrh	export	
+/epoc32/include/sendnorm.rsg	resource	armv5_urel
+/epoc32/include/sendnorm.rsg	resource	winscw_udeb
+/epoc32/include/senduiwatcher.rsg	resource	armv5_urel
+/epoc32/include/senduiwatcher.rsg	resource	winscw_udeb
+/epoc32/include/wappstr.rsg	resource	armv5_urel
+/epoc32/include/wappstr.rsg	resource	winscw_udeb
+/epoc32/include/wappushunknown.rsg	resource	armv5_urel
+/epoc32/include/wappushunknown.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/AlwaysOnlineManagerClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AlwaysOnlineManagerClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AlwaysOnlineManagerClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AlwaysOnlineManagerClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AlwaysOnlineManagerServer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AlwaysOnlineManagerServer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AlwaysOnlineManagerServer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AlwaysOnlineManagerServer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SENDUI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SENDUI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SENDUI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SENDUI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bifu.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bifu.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bifu{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bifu{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bioc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bioc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bioc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bioc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/biodb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/biodb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/biodb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/biodb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bios.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bios.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bios{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bios{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/biowatcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/biowatcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/biowatcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/biowatcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/biut.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/biut.dso	build	armv5_urel
+/epoc32/release/armv5/lib/biut{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/biut{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cbcp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cbcp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cbcp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cbcp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/enp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/enp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/enp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/enp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gfp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gfp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gfp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gfp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iacp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iacp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iacp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iacp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/miscpushmsgutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/miscpushmsgutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/miscpushmsgutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/miscpushmsgutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msgcommonutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msgcommonutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msgcommonutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msgcommonutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msgs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msgs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msgs_autoshutdown.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msgs_autoshutdown.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msgs_autoshutdown{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msgs_autoshutdown{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msgs{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msgs{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtur.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtur.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtur{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtur{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/muiuutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/muiuutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/muiuutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/muiuutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pushmsgentry.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pushmsgentry.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pushmsgentry{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pushmsgentry{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/roaptcontenthandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/roaptcontenthandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/roaptcontenthandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/roaptcontenthandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rocontenthandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rocontenthandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rocontenthandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rocontenthandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/schsend.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/schsend.dso	build	armv5_urel
+/epoc32/release/armv5/lib/schsend{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/schsend{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sendas2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sendas2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sendas2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sendas2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sislpushmsgutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sislpushmsgutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sislpushmsgutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sislpushmsgutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wapp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wapp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wappushmtmclientserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wappushmtmclientserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wappushmtmclientserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wappushmtmclientserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wappushutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wappushutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wappushutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wappushutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wapp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wapp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/watcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/watcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/watcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/watcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/AlwaysOnlineManagerClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AlwaysOnlineManagerClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AlwaysOnlineManagerServer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AlwaysOnlineManagerServer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AlwaysOnlineStarter.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/AlwaysOnlineStarter.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SENDUI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SENDUI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendUiWatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SendUiWatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bifu.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bifu.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bioc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bioc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/biodb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/biodb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bios.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bios.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/biowatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/biowatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/biut.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/biut.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cbcp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cbcp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/class0sms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/class0sms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmstringdict00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmstringdict00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/enp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/enp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gfp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gfp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iacp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iacp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbssuplsmstrigger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbssuplsmstrigger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbssuplwappush.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lbssuplwappush.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/miscpushmsgutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/miscpushmsgutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/msexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgcommonutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgcommonutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgs_autoshutdown.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgs_autoshutdown.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgurlhandler.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgurlhandler.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtur.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtur.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/muiuutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/muiuutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nbswatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nbswatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushapphandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushapphandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushcontenthandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushcontenthandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushmsgentry.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushmsgentry.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushsecurity.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushsecurity.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushwatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pushwatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/roapphandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/roapphandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/roaptcontenthandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/roaptcontenthandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rocontenthandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rocontenthandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/schsend.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/schsend.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/schsendexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/schsendexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sendas2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sendas2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sendaseikeditutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sendaseikeditutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sendasserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sendasserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislcontenthandlers.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislcontenthandlers.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislpushmsgutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislpushmsgutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sl1_0stringdict00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sl1_0stringdict00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wappushmtmclientserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wappushmtmclientserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wappushutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wappushutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapurilookup.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapurilookup.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapwatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapwatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/watcher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/watcher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/AlwaysOnlineManagerClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AlwaysOnlineManagerClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AlwaysOnlineManagerServer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AlwaysOnlineManagerServer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AlwaysOnlineStarter.exe	build	armv5_urel
+/epoc32/release/armv5/urel/AlwaysOnlineStarter.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SENDUI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SENDUI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SendUiWatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SendUiWatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bifu.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bifu.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bioc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bioc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/biodb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/biodb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bios.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bios.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/biowatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/biowatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/biut.dll	build	armv5_urel
+/epoc32/release/armv5/urel/biut.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cbcp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cbcp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/class0sms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/class0sms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmstringdict00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmstringdict00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/enp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/enp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gfp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gfp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iacp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iacp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbssuplsmstrigger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbssuplsmstrigger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lbssuplwappush.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lbssuplwappush.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/miscpushmsgutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/miscpushmsgutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/msexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/msgcommonutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msgcommonutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msgs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msgs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msgs_autoshutdown.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msgs_autoshutdown.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msgurlhandler.exe	build	armv5_urel
+/epoc32/release/armv5/urel/msgurlhandler.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtur.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtur.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/muiuutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/muiuutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nbswatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nbswatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pushapphandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pushapphandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pushcontenthandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pushcontenthandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pushmsgentry.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pushmsgentry.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pushsecurity.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pushsecurity.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pushwatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pushwatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/roapphandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/roapphandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/roaptcontenthandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/roaptcontenthandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rocontenthandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rocontenthandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/schsend.dll	build	armv5_urel
+/epoc32/release/armv5/urel/schsend.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/schsendexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/schsendexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sendas2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sendas2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sendaseikeditutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sendaseikeditutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sendasserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sendasserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sislcontenthandlers.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sislcontenthandlers.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sislpushmsgutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sislpushmsgutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sl1_0stringdict00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sl1_0stringdict00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wapp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wapp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wappushmtmclientserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wappushmtmclientserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wappushutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wappushutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wapurilookup.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wapurilookup.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wapwatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wapwatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/watcher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/watcher.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/AlwaysOnlineManagerClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AlwaysOnlineManagerClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AlwaysOnlineManagerServer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AlwaysOnlineManagerServer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AlwaysOnlineStarter.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SENDUI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SENDUI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SendUiWatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bifu.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bifu.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bioc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bioc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/biodb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/biodb.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bios.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bios.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/biowatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/biowatcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/biut.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/biut.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cbcp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cbcp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/class0sms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmstringdict00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/enp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/enp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gfp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gfp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iacp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iacp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbssuplsmstrigger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lbssuplwappush.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/miscpushmsgutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/miscpushmsgutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/msexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgcommonutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgcommonutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgs_autoshutdown.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgs_autoshutdown.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgurlhandler.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtur.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtur.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/muiuutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/muiuutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nbswatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pushapphandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pushcontenthandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pushmsgentry.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pushmsgentry.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pushsecurity.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pushwatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/roapphandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/roaptcontenthandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/roaptcontenthandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rocontenthandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rocontenthandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/schsend.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/schsend.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/schsendexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sendas2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sendas2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sendaseikeditutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sendasserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sislcontenthandlers.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sislpushmsgutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sislpushmsgutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sl1_0stringdict00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wappushmtmclientserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wappushmtmclientserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wappushutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wappushutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapurilookup.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapwatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/watcher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/watcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/msgurlhandler_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/1000484b/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/1000484b/msgcache.ini	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10001028.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10001029.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/1000102a.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10274556.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10285a25.txt	export	
+/epoc32/release/winscw/udeb/z/resource/apps/msgurlhandler.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/msgurlhandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/msgurlhandler_loc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/cbcp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/cbcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/enp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/enp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/iacp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/iacp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/rtp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/rtp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/vcdp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/vcdp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/vclp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/vclp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/wapp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/bif/wapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/msgs.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/msgs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/sendasserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/wappstr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/wappushunknown.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/class0sms.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/drmstringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lbssuplsmstrigger.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lbssuplwappush.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nbswatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pushapphandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pushcontenthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pushsecurity.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pushwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/roapphandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/roaptcontenthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rocontenthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sendaseikeditutils.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senduiwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sislcontenthandlers.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sl1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wapurilookup.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wapwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/sendnorm.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/sendnorm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/AlwaysOnlineManagerClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AlwaysOnlineManagerClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AlwaysOnlineManagerServer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AlwaysOnlineManagerServer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AlwaysOnlineStarter.exe	build	winscw_urel
+/epoc32/release/winscw/urel/AlwaysOnlineStarter.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SENDUI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SENDUI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SendUiWatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SendUiWatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bifu.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bifu.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bioc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bioc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/biodb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/biodb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bios.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bios.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/biowatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/biowatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/biut.dll	build	winscw_urel
+/epoc32/release/winscw/urel/biut.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cbcp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cbcp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/class0sms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/class0sms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmstringdict00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmstringdict00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/enp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/enp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gfp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gfp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iacp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iacp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbssuplsmstrigger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbssuplsmstrigger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lbssuplwappush.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lbssuplwappush.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/miscpushmsgutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/miscpushmsgutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/msexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/msexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/msgcommonutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/msgcommonutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/msgs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/msgs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/msgs_autoshutdown.dll	build	winscw_urel
+/epoc32/release/winscw/urel/msgs_autoshutdown.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/msgurlhandler.exe	build	winscw_urel
+/epoc32/release/winscw/urel/msgurlhandler.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtur.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtur.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/muiuutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/muiuutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nbswatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nbswatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pushapphandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pushapphandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pushcontenthandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pushcontenthandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pushmsgentry.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pushmsgentry.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pushsecurity.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pushsecurity.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pushwatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pushwatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/roapphandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/roapphandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/roaptcontenthandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/roaptcontenthandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rocontenthandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rocontenthandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/schsend.dll	build	winscw_urel
+/epoc32/release/winscw/urel/schsend.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/schsendexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/schsendexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sendas2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sendas2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sendaseikeditutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sendaseikeditutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sendasserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sendasserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sislcontenthandlers.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sislcontenthandlers.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sislpushmsgutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sislpushmsgutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sl1_0stringdict00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sl1_0stringdict00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wapp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wapp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wappushmtmclientserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wappushmtmclientserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wappushutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wappushutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wapurilookup.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wapurilookup.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wapwatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wapwatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/watcher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/watcher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/msgurlhandler_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/1000484b/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/1000484b/msgcache.ini	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10001028.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10001029.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/1000102a.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10274556.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10285a25.txt	export	
+/epoc32/release/winscw/urel/z/resource/apps/msgurlhandler.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/msgurlhandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/msgurlhandler_loc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/cbcp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/cbcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/enp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/enp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/iacp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/iacp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/rtp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/rtp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/vcdp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/vcdp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/vclp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/vclp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/wapp.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/bif/wapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/msgs.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/msgs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/sendasserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/wappstr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/wappushunknown.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/class0sms.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/drmstringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lbssuplsmstrigger.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lbssuplwappush.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nbswatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pushapphandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pushcontenthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pushsecurity.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pushwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/roapphandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/roaptcontenthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rocontenthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sendaseikeditutils.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senduiwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sislcontenthandlers.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sl1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wapurilookup.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wapwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/sendnorm.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/sendnorm.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/alwaysonline.confml	export	
+/epoc32/rom/config/assets/s60/confml/sendui.confml	export	
+/epoc32/rom/config/assets/s60/implml/alwaysonline_102071F2.crml	export	
+/epoc32/rom/config/assets/s60/implml/sendui_10282823.crml	export	
+/epoc32/rom/config/assets/symbianos/confml/messagingconfig.confml	export	
+/epoc32/rom/config/assets/symbianos/confml/msgsrvnstore.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/messagingconfig_10285a25.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/msgsrvnstore_10274556.crml	export	
+/epoc32/rom/include/bioclass0smsplugin.iby	export	
+/epoc32/rom/include/bionbswatcher.iby	export	
+/epoc32/rom/include/bioparsers.iby	export	
+/epoc32/rom/include/biowapwatcher.iby	export	
+/epoc32/rom/include/core/mw/AlwaysOnline.iby	export	
+/epoc32/rom/include/core/mw/Senduiservices.iby	export	
+/epoc32/rom/include/core/mw/msgcommonutils.iby	export	
+/epoc32/rom/include/core/mw/muiuutils.iby	export	
+/epoc32/rom/include/core/os/messageserver.hby	export	
+/epoc32/rom/include/gtbioengmtm.iby	export	
+/epoc32/rom/include/gtbiomessaging.iby	export	
+/epoc32/rom/include/gtbioutils.iby	export	
+/epoc32/rom/include/gtmessaging.iby	export	
+/epoc32/rom/include/gtmtur.iby	export	
+/epoc32/rom/include/language/mw/SenduiservicesResources.iby	export	
+/epoc32/rom/include/language/os/messageserver_rsc.iby	export	
+/epoc32/rom/include/lbssuplsmstrigger.iby	export	
+/epoc32/rom/include/lbssuplwappush.iby	export	
+/epoc32/rom/include/messageserver.hby	export	
+/epoc32/rom/include/messageserver.iby	export	
+/epoc32/rom/include/miscpushutils.iby	export	
+/epoc32/rom/include/msgurlhandler.iby	export	
+/epoc32/rom/include/rohandler.iby	export	
+/epoc32/rom/include/scheduledsending.iby	export	
+/epoc32/rom/include/sendas2.iby	export	
+/epoc32/rom/include/sislwappush.iby	export	
+/epoc32/rom/include/wappush.iby	export	
+/epoc32/rom/include/wapurilookup.iby	export	
+/epoc32/rom/include/watcher.iby	export	

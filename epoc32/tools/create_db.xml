@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE CreateDatabase [
+<!ELEMENT CreateDatabase (SQLQuery+)>
+<!ELEMENT SQLQuery (#PCDATA)>	
+]>
+<!-- Creation of database for SCR--> 
+
+<CreateDatabase>
+	<SQLQuery>CREATE TABLE SoftwareTypeNames(NameId INTEGER PRIMARY KEY NOT NULL,SoftwareTypeId INTEGER NOT NULL,Locale INTEGER DEFAULT 0,Name TEXT NOT NULL);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_SoftwareTypeNames_SoftwareTypeId ON SoftwareTypeNames(SoftwareTypeId);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_SoftwareTypeNames_Name ON SoftwareTypeNames(Name);</SQLQuery>
+	<SQLQuery>CREATE TABLE SoftwareTypes(SoftwareTypeId INTEGER PRIMARY KEY NOT NULL,SifPluginUid INTEGER,LauncherExecutable TEXT DEFAULT '');</SQLQuery>
+	<SQLQuery>CREATE TABLE CustomAccessList(AccessId INTEGER PRIMARY KEY AUTOINCREMENT,SoftwareTypeId INTEGER NOT NULL,SecureId INTEGER NOT NULL,AccessMode INTEGER DEFAULT 0);</SQLQuery>
+	<SQLQuery>CREATE TABLE MimeTypes(MimeTypeId INTEGER PRIMARY KEY NOT NULL,SoftwareTypeId INTEGER NOT NULL,MimeType TEXT NOT NULL UNIQUE COLLATE NOCASE);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_MimeTypes_SoftwareTypeId ON MimeTypes(SoftwareTypeId);</SQLQuery>
+	<SQLQuery>CREATE TABLE Components(ComponentId INTEGER PRIMARY KEY AUTOINCREMENT,SoftwareTypeId INTEGER NOT NULL,SoftwareTypeName TEXT NOT NULL,Size INTEGER DEFAULT 0,Removable BOOLEAN DEFAULT 1,ScomoState INTEGER DEFAULT 0,DRMProtected INTEGER DEFAULT 0,Hidden INTEGER DEFAULT 0,KnownRevoked INTEGER DEFAULT 0,OriginVerified INTEGER DEFAULT 0,InstalledDrives INTEGER DEFAULT 0,GlobalIdHash INTEGER DEFAULT 0,GlobalId TEXT UNIQUE,Version TEXT,InstallTime TEXT NOT NULL,CompPresence BOOLEAN DEFAULT 1);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_Components_SoftwareTypeId ON Components(SoftwareTypeId);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_Components_GlobalIdIdHash ON Components(GlobalIdHash);</SQLQuery>
+	<SQLQuery>CREATE TABLE ComponentLocalizables(CompLocalId INTEGER PRIMARY KEY AUTOINCREMENT, ComponentId INTEGER DEFAULT 0,Locale INTEGER DEFAULT 0,Name TEXT NOT NULL,Vendor TEXT);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentLocalizables_ComponentId ON ComponentLocalizables(ComponentId);</SQLQuery>
+	<SQLQuery>CREATE TABLE ComponentDependencies(GlobalIdHash INTEGER PRIMARY KEY NOT NULL,DependantGlobalIdHash INTEGER NOT NULL, SupplierGlobalIdHash INTEGER NOT NULL, DependantGlobalId TEXT NOT NULL,SupplierGlobalId TEXT NOT NULL,VersionFrom TEXT, VersionTo TEXT);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentDependencies_DependantGlobalId ON ComponentDependencies(DependantGlobalIdHash);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentDependencies_SupplierGlobalId ON ComponentDependencies(SupplierGlobalIdHash);</SQLQuery>
+	<SQLQuery>CREATE TABLE ComponentsFiles(CmpFileId INTEGER PRIMARY KEY NOT NULL,ComponentId INTEGER NOT NULL,LocationHash INTEGER DEFAULT 0,Location TEXT NOT NULL COLLATE NOCASE);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentsFiles_ComponentId ON ComponentsFiles(ComponentId);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentsFiles_LocationHash ON ComponentsFiles(LocationHash);</SQLQuery>
+	<SQLQuery>CREATE TABLE ComponentProperties(PropertyId INTEGER PRIMARY KEY NOT NULL,Name TEXT NOT NULL COLLATE NOCASE,Locale INTEGER DEFAULT 0,ComponentId INTEGER NOT NULL,IntValue INTEGER,StrValue TEXT,IsStr8Bit BOOLEAN DEFAULT 0);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentProperties_Name ON ComponentProperties(Name);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentProperties_ComponentId ON ComponentProperties(ComponentId);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ComponentProperties_IntValue ON ComponentProperties(IntValue);</SQLQuery>
+	<SQLQuery>CREATE TABLE FileProperties(PropertyId INTEGER PRIMARY KEY NOT NULL,Name TEXT NOT NULL COLLATE NOCASE,CmpFileId INTEGER NOT NULL,IntValue INTEGER,StrValue TEXT, Locale INTEGER DEFAULT 0,IsStr8Bit BOOLEAN DEFAULT 0);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_FileProperties_Name ON FileProperties(Name);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_FileProperties_CmpFileId ON FileProperties(CmpFileId);</SQLQuery>
+	<SQLQuery>CREATE TABLE ScrVersion(MajorVersion INTEGER NOT NULL, MinorVersion INTEGER NOT NULL, BuildNumber INTEGER NOT NULL);</SQLQuery>
+	<SQLQuery>INSERT INTO ScrVersion(MajorVersion, MinorVersion, BuildNumber) VALUES(1, 1, 1);</SQLQuery>
+	<SQLQuery>CREATE TABLE AppRegistrationInfo(AppUid INTEGER PRIMARY KEY NOT NULL,ComponentId INTEGER DEFAULT 0,AppFile TEXT COLLATE NOCASE UNIQUE NOT NULL,TypeId INTEGER NOT NULL,Attributes INTEGER DEFAULT 0,Hidden INTEGER DEFAULT 0,Embeddable INTEGER DEFAULT 0,NewFile INTEGER DEFAULT 0,Launch INTEGER DEFAULT 0,GroupName TEXT COLLATE NOCASE,DefaultScreenNumber INTEGER DEFAULT 0);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_AppRegistrationInfo_AppFile ON AppRegistrationInfo(AppFile);</SQLQuery>
+	<SQLQuery>CREATE TABLE FileOwnershipInfo(FileOwnerInfoId INTEGER PRIMARY KEY AUTOINCREMENT,AppUid INTEGER NOT NULL,FileName TEXT NOT NULL COLLATE NOCASE);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_FileOwnershipInfo_AppUid ON FileOwnershipInfo(AppUid);</SQLQuery>
+	<SQLQuery>CREATE TABLE ServiceInfo(ServiceId INTEGER PRIMARY KEY AUTOINCREMENT,AppUid INTEGER NOT NULL,Uid INTEGER DEFAULT 0);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ServiceInfo_AppUid ON ServiceInfo(AppUid);</SQLQuery>
+	<SQLQuery>CREATE TABLE DataType(DataTypeId INTEGER PRIMARY KEY AUTOINCREMENT,ServiceId INTEGER NOT NULL,Priority INTEGER NOT NULL,Type TEXT NOT NULL COLLATE NOCASE);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_DataType_ServiceId ON DataType(ServiceId);</SQLQuery>
+	<SQLQuery>CREATE TABLE LocalizableAppInfo(LocalAppInfoId INTEGER PRIMARY KEY AUTOINCREMENT,AppUid INTEGER NOT NULL,ShortCaption TEXT COLLATE NOCASE,GroupName TEXT COLLATE NOCASE,Locale INTEGER DEFAULT 0,CaptionAndIconId INTEGER,CONSTRAINT U_AppUid_Locale UNIQUE (AppUid,Locale));</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_LocalizableAppInfo ON LocalizableAppInfo(AppUid,Locale);</SQLQuery>
+	<SQLQuery>CREATE TABLE ViewData(ViewId INTEGER PRIMARY KEY AUTOINCREMENT,LocalAppInfoId INTEGER NOT NULL,Uid INTEGER NOT NULL,ScreenMode INTEGER DEFAULT 0,CaptionAndIconId INTEGER);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_ViewData_LocalAppInfoId ON ViewData(LocalAppInfoId);</SQLQuery>
+	<SQLQuery>CREATE TABLE CaptionAndIconInfo(CaptionAndIconId INTEGER PRIMARY KEY AUTOINCREMENT,Caption TEXT COLLATE NOCASE,NumberOfIcons INTEGER DEFAULT 0,IconFile TEXT COLLATE NOCASE);</SQLQuery>
+	<SQLQuery>CREATE TABLE AppProperties(PropertyId INTEGER PRIMARY KEY AUTOINCREMENT,Name TEXT NOT NULL COLLATE NOCASE,Locale INTEGER DEFAULT 0,AppUid INTEGER NOT NULL,ServiceUid INTEGER DEFAULT 0,IntValue INTEGER,StrValue TEXT,IsStr8Bit BOOLEAN DEFAULT 0,CONSTRAINT U_AppUid_Locale_Name UNIQUE (AppUid,ServiceUid,Locale,Name));</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_AppProperties_AppUid ON AppProperties(AppUid);</SQLQuery>
+	<SQLQuery>CREATE INDEX idx_AppProperties_Name ON AppProperties(Name);</SQLQuery>
+</CreateDatabase>
+

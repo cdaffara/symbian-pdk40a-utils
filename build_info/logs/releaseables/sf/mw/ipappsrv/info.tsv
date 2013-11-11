@@ -1,0 +1,517 @@
+/epoc32/data/z/private/10202be9/102747d2.txt	export	
+/epoc32/data/z/private/10282F04/backup_registration.xml	export	
+/epoc32/data/z/resource/plugins/fctbcp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/fctbcp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/icecandidatehandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/icecandidatehandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccamrplformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccamrplformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccanyplformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccanyplformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccanysourcesink.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccanysourcesink.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccavcplformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccavcplformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmcccontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmcccontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccdtmfplformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccdtmfplformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccfilesourcesink.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccfilesourcesink.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccg711plformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccg711plformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccg729plformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccg729plformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmcch263plformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmcch263plformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccilbcplformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccilbcplformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccredplformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccredplformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccrtpsourcesink.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccrtpsourcesink.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmccvideosourcesink.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmccvideosourcesink.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/natfwsdpprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/natfwsdpprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nattraversalcontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nattraversalcontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmnatfwtraversaladapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/stunplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/stunplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/turnplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/turnplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wpnatfwtraversaladapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wpnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wpnatfwtraversaladapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/wpnatfwtraversaladapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wpnatfwtraversaladapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wpnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/multimediacommscontroller_stub.sis	export	
+/epoc32/data/z/system/install/multimediacommsengine_stub.sis	export	
+/epoc32/include/platform/mw/cnatfwsettingsapi.h	export	
+/epoc32/include/platform/mw/mceamrcodec.h	export	
+/epoc32/include/platform/mw/mceamrwbcodec.h	export	
+/epoc32/include/platform/mw/mceaudiocodec.h	export	
+/epoc32/include/platform/mw/mceaudiostream.h	export	
+/epoc32/include/platform/mw/mceavccodec.h	export	
+/epoc32/include/platform/mw/mcecamerasource.h	export	
+/epoc32/include/platform/mw/mcecncodec.h	export	
+/epoc32/include/platform/mw/mcecodec.h	export	
+/epoc32/include/platform/mw/mcedefs.h	export	
+/epoc32/include/platform/mw/mcedisplaysink.h	export	
+/epoc32/include/platform/mw/mcedtmfcodec.h	export	
+/epoc32/include/platform/mw/mcedtmfobserver.h	export	
+/epoc32/include/platform/mw/mceevent.h	export	
+/epoc32/include/platform/mw/mceeventobserver.h	export	
+/epoc32/include/platform/mw/mcefcmsgexchange.h	export	
+/epoc32/include/platform/mw/mcefcmsgobserver.h	export	
+/epoc32/include/platform/mw/mcefilesink.h	export	
+/epoc32/include/platform/mw/mcefilesource.h	export	
+/epoc32/include/platform/mw/mceg711codec.h	export	
+/epoc32/include/platform/mw/mceg729codec.h	export	
+/epoc32/include/platform/mw/mceh263codec.h	export	
+/epoc32/include/platform/mw/mceilbccodec.h	export	
+/epoc32/include/platform/mw/mceinevent.h	export	
+/epoc32/include/platform/mw/mceineventobserver.h	export	
+/epoc32/include/platform/mw/mceinrefer.h	export	
+/epoc32/include/platform/mw/mceinreferobserver.h	export	
+/epoc32/include/platform/mw/mceinsession.h	export	
+/epoc32/include/platform/mw/mceinsessionobserver.h	export	
+/epoc32/include/platform/mw/mceintransactionobserver.h	export	
+/epoc32/include/platform/mw/mcemanager.h	export	
+/epoc32/include/platform/mw/mcemediasink.h	export	
+/epoc32/include/platform/mw/mcemediasource.h	export	
+/epoc32/include/platform/mw/mcemediastream.h	export	
+/epoc32/include/platform/mw/mcemicsource.h	export	
+/epoc32/include/platform/mw/mceoutevent.h	export	
+/epoc32/include/platform/mw/mceoutrefer.h	export	
+/epoc32/include/platform/mw/mceoutsession.h	export	
+/epoc32/include/platform/mw/mceredcodec.h	export	
+/epoc32/include/platform/mw/mcerefer.h	export	
+/epoc32/include/platform/mw/mcereferobserver.h	export	
+/epoc32/include/platform/mw/mcertpobserver.h	export	
+/epoc32/include/platform/mw/mcertpsink.h	export	
+/epoc32/include/platform/mw/mcertpsource.h	export	
+/epoc32/include/platform/mw/mcesecureinsession.h	export	
+/epoc32/include/platform/mw/mcesecureoutsession.h	export	
+/epoc32/include/platform/mw/mcesecuresession.h	export	
+/epoc32/include/platform/mw/mcesession.h	export	
+/epoc32/include/platform/mw/mcesessionobserver.h	export	
+/epoc32/include/platform/mw/mcespeakersink.h	export	
+/epoc32/include/platform/mw/mcestreambundle.h	export	
+/epoc32/include/platform/mw/mcestreamobserver.h	export	
+/epoc32/include/platform/mw/mcetransactiondatacontainer.h	export	
+/epoc32/include/platform/mw/mcetransactionobserver.h	export	
+/epoc32/include/platform/mw/mcevideocodec.h	export	
+/epoc32/include/platform/mw/mcevideostream.h	export	
+/epoc32/include/platform/mw/mmcccodecinformation.h	export	
+/epoc32/include/platform/mw/mmcccodecinformationfactory.h	export	
+/epoc32/include/platform/mw/mmccctrlobserver.h	export	
+/epoc32/include/platform/mw/mmccevents.h	export	
+/epoc32/include/platform/mw/mmccinterface.h	export	
+/epoc32/include/platform/mw/mmccinterfacedef.h	export	
+/epoc32/include/platform/mw/mmccnetworksettings.h	export	
+/epoc32/include/platform/mw/mmccsecureinterface.h	export	
+/epoc32/include/platform/mw/mmccsrtpcryptoparams.h	export	
+/epoc32/include/platform/mw/mmccsrtpmasterkey.h	export	
+/epoc32/include/platform/mw/mmccsrtpmastersalt.h	export	
+/epoc32/include/platform/mw/mmcctranscoder.h	export	
+/epoc32/include/platform/mw/mnatfwicesettings.h	export	
+/epoc32/include/platform/mw/mnatfwserversettings.h	export	
+/epoc32/include/platform/mw/mnatfwstunsettings.h	export	
+/epoc32/include/platform/mw/mnatfwturnsettings.h	export	
+/epoc32/include/platform/mw/unsafprotocolscrkeys.h	export	
+/epoc32/include/platform/mw/unsafprotocolsinternalcrkeys.h	export	
+/epoc32/include/wpnatfwtraversaladapter.rsg	resource	armv5_urel
+/epoc32/include/wpnatfwtraversaladapter.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/connectionmux.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/connectionmux.dso	build	armv5_urel
+/epoc32/release/armv5/lib/connectionmux{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/connectionmux{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fcpluginengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fcpluginengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fcpluginengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fcpluginengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mceclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mceclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mceclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mceclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccinterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccinterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccinterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccinterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccjitterbuffer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccjitterbuffer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccjitterbuffer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccjitterbuffer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccmultiplexer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccmultiplexer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccmultiplexer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccmultiplexer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccqoscontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccqoscontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccqoscontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccqoscontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccsubcontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccsubcontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmccsubcontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmccsubcontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natconfw.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natconfw.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natconfw{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natconfw{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natfwnatsettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natfwnatsettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natfwnatsettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natfwnatsettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natfwstunclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natfwstunclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natfwstunclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natfwstunclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natfwunsafprotocols.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natfwunsafprotocols.dso	build	armv5_urel
+/epoc32/release/armv5/lib/natfwunsafprotocols{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/natfwunsafprotocols{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/socketmediaconnwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/socketmediaconnwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/socketmediaconnwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/socketmediaconnwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/stunserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/stunserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/stunserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/stunserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/connectionmux.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/connectionmux.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fcpluginengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fcpluginengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fctbcp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fctbcp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/icecandidatehandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/icecandidatehandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mceclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mceclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mceserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mceserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccamrplformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccamrplformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccanyplformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccanyplformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccanysourcesink.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccanysourcesink.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccavcplformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccavcplformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmcccontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmcccontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccdtmfplformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccdtmfplformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccfilesourcesink.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccfilesourcesink.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccg711plformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccg711plformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccg729plformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccg729plformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmcch263plformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmcch263plformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccilbcplformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccilbcplformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccinterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccinterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccjitterbuffer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccjitterbuffer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccmultiplexer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccmultiplexer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccqoscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccqoscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccredplformat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccredplformat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccrtpsourcesink.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccrtpsourcesink.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccsubcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccsubcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccvideosourcesink.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmccvideosourcesink.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/natconfw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/natconfw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwnatsettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwnatsettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwsdpprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwsdpprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwstunclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwstunclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwunsafprotocols.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/natfwunsafprotocols.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nattraversalcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nattraversalcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmnatfwtraversaladapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmnatfwtraversaladapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/socketmediaconnwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/socketmediaconnwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/stunplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/stunplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/stunserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/stunserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/turnplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/turnplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpnatfwtraversaladapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpnatfwtraversaladapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/connectionmux.dll	build	armv5_urel
+/epoc32/release/armv5/urel/connectionmux.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fcpluginengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fcpluginengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fctbcp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fctbcp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/icecandidatehandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/icecandidatehandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mceclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mceclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mceserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mceserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccamrplformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccamrplformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccanyplformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccanyplformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccanysourcesink.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccanysourcesink.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccavcplformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccavcplformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmcccontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmcccontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccdtmfplformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccdtmfplformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccfilesourcesink.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccfilesourcesink.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccg711plformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccg711plformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccg729plformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccg729plformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmcch263plformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmcch263plformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccilbcplformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccilbcplformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccinterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccinterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccjitterbuffer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccjitterbuffer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccmultiplexer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccmultiplexer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccqoscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccqoscontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccredplformat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccredplformat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccrtpsourcesink.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccrtpsourcesink.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccsubcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccsubcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmccvideosourcesink.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmccvideosourcesink.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/natconfw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/natconfw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/natfwnatsettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/natfwnatsettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/natfwsdpprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/natfwsdpprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/natfwstunclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/natfwstunclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/natfwunsafprotocols.dll	build	armv5_urel
+/epoc32/release/armv5/urel/natfwunsafprotocols.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nattraversalcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nattraversalcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmnatfwtraversaladapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmnatfwtraversaladapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/socketmediaconnwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/socketmediaconnwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/stunplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/stunplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/stunserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/stunserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/turnplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/turnplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wpnatfwtraversaladapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wpnatfwtraversaladapter.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/connectionmux.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/connectionmux.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fcpluginengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fcpluginengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fctbcp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/icecandidatehandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mceclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mceclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mceserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccamrplformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccanyplformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccanysourcesink.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccavcplformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmcccontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccdtmfplformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccfilesourcesink.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccg711plformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccg729plformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmcch263plformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccilbcplformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccinterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccinterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccjitterbuffer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccjitterbuffer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccmultiplexer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccmultiplexer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccqoscontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccqoscontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccredplformat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccrtpsourcesink.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccsubcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccsubcontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmccvideosourcesink.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/natconfw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/natconfw.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/natfwnatsettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/natfwnatsettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/natfwsdpprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/natfwstunclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/natfwstunclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/natfwunsafprotocols.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/natfwunsafprotocols.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nattraversalcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmnatfwtraversaladapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/socketmediaconnwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/socketmediaconnwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/stunplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/stunserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/stunserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/turnplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wpnatfwtraversaladapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202be9/102747d2.txt	export	
+/epoc32/release/winscw/udeb/z/private/10282F04/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/fctbcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/icecandidatehandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccamrplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccanyplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccanysourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccavcplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmcccontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccdtmfplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccfilesourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccg711plformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccg729plformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmcch263plformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccilbcplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccredplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccrtpsourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmccvideosourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/natfwsdpprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nattraversalcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/stunplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/turnplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wpnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpnatfwtraversaladapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/connectionmux.dll	build	winscw_urel
+/epoc32/release/winscw/urel/connectionmux.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fcpluginengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fcpluginengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fctbcp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fctbcp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/icecandidatehandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/icecandidatehandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mceclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mceclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mceserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mceserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccamrplformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccamrplformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccanyplformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccanyplformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccanysourcesink.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccanysourcesink.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccavcplformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccavcplformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmcccontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmcccontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccdtmfplformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccdtmfplformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccfilesourcesink.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccfilesourcesink.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccg711plformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccg711plformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccg729plformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccg729plformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmcch263plformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmcch263plformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccilbcplformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccilbcplformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccinterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccinterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccjitterbuffer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccjitterbuffer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccmultiplexer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccmultiplexer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccqoscontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccqoscontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccredplformat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccredplformat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccrtpsourcesink.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccrtpsourcesink.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccsubcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccsubcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmccvideosourcesink.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmccvideosourcesink.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/natconfw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/natconfw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/natfwnatsettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/natfwnatsettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/natfwsdpprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/natfwsdpprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/natfwstunclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/natfwstunclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/natfwunsafprotocols.dll	build	winscw_urel
+/epoc32/release/winscw/urel/natfwunsafprotocols.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nattraversalcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nattraversalcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmnatfwtraversaladapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmnatfwtraversaladapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/socketmediaconnwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/socketmediaconnwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/stunplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/stunplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/stunserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/stunserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/turnplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/turnplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wpnatfwtraversaladapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wpnatfwtraversaladapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10202be9/102747d2.txt	export	
+/epoc32/release/winscw/urel/z/private/10282F04/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/fctbcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/icecandidatehandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccamrplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccanyplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccanysourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccavcplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmcccontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccdtmfplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccfilesourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccg711plformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccg729plformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmcch263plformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccilbcplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccredplformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccrtpsourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmccvideosourcesink.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/natfwsdpprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nattraversalcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/stunplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/turnplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wpnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpnatfwtraversaladapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpnatfwtraversaladapter.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/mw/dmnatfwtraversaladapter.iby	export	
+/epoc32/rom/include/core/mw/multimediacommscontroller.iby	export	
+/epoc32/rom/include/core/mw/multimediacommsengine.iby	export	
+/epoc32/rom/include/core/mw/natfw.iby	export	
+/epoc32/rom/include/core/mw/natfwsdpprovider.iby	export	
+/epoc32/rom/include/core/mw/nattraversalcontroller.iby	export	
+/epoc32/rom/include/core/mw/wpnatfwtraversaladapter.iby	export	
+/epoc32/rom/include/language/mw/wpnatfwtraversaladapter_resources.iby	export	

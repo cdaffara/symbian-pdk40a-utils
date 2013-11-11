@@ -1,0 +1,246 @@
+/epoc32/data/z/private/10003a3f/import/apps/searchapplication_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/searchapplication_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202be9/20029ac7.cre	export	
+/epoc32/data/z/private/20022F35/providerdatabase.sq	export	
+/epoc32/data/z/resource/apps/searchapplication.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/searchapplication.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixapplicationsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixapplicationsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixaudioplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixaudioplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixcalendarplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixcalendarplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixcontactsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixcontactsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixemailplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixemailplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixfileplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixfileplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpiximageplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpiximageplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixmessageplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixmessageplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixnotesplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixnotesplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cpixvideoplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cpixvideoplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/applicationconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/audioconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/calendarconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/contactconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/emailconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/filesconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/imageconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/notesconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/smsmmsconfig.xml	export	
+/epoc32/data/z/resource/qt/plugins/searchsrv/contentconfig/videoconfig.xml	export	
+/epoc32/data/z/system/install/cpixsearchapp_stub.sis	export	
+/epoc32/data/z/system/install/searchui_stub.sis	export	
+/epoc32/include/platform/app/isengine.h	export	
+/epoc32/include/platform/app/isproviderdbmanager.h	export	
+/epoc32/include/platform/app/onlinesearchplugin.h	export	
+/epoc32/include/platform/app/onlinesearchpluginfactory.h	export	
+/epoc32/include/platform/app/serviceprovider.h	export	
+/epoc32/include/searchapplication.rsg	resource	armv5_urel
+/epoc32/include/searchapplication.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/isengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/isengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/isengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/isengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/isproviderdbmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/isproviderdbmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/isproviderdbmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/isproviderdbmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtemailfetcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtemailfetcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtemailfetcher{00010000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtemailfetcher{00010000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchindevicehandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchindevicehandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchindevicehandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchindevicehandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchonlinehandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchonlinehandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchonlinehandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchonlinehandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchruntimeprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchruntimeprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchruntimeprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchruntimeprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchstateprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchstateprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/searchstateprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/searchstateprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/Searchapplication.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/Searchapplication.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixapplicationsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixapplicationsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixaudioplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixaudioplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixcalendarplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixcalendarplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixcontactsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixcontactsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixemailplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixemailplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixfileplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixfileplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixfileserverplugin.pxt	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixfileserverplugin.pxt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpiximageplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpiximageplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixmediautils.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixmessageplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixmessageplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixnotesplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixnotesplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixvideoplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpixvideoplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/isengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/isengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/isproviderdbmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/isproviderdbmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtemailfetcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtemailfetcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchindevicehandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchindevicehandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchonlinehandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchonlinehandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchruntimeprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchruntimeprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchstateprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/searchstateprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/Searchapplication.exe	build	armv5_urel
+/epoc32/release/armv5/urel/Searchapplication.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixapplicationsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixapplicationsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixaudioplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixaudioplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixcalendarplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixcalendarplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixcontactsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixcontactsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixemailplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixemailplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixfileplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixfileplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixfileserverplugin.pxt	build	armv5_urel
+/epoc32/release/armv5/urel/cpixfileserverplugin.pxt.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpiximageplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpiximageplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixmediautils.lib	build	armv5_urel
+/epoc32/release/armv5/urel/cpixmessageplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixmessageplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixnotesplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixnotesplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpixvideoplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpixvideoplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/isengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/isengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/isproviderdbmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/isproviderdbmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtemailfetcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtemailfetcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchindevicehandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchindevicehandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchonlinehandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchonlinehandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchruntimeprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchruntimeprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/searchstateprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/searchstateprovider.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/Searchapplication.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixapplicationsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixaudioplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixcalendarplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixcontactsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixemailplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixfileplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixfileserverplugin.pxt	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpiximageplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixmediautils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixmessageplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixnotesplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpixvideoplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/isengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/isengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/isproviderdbmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/isproviderdbmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtemailfetcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtemailfetcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchindevicehandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchindevicehandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchonlinehandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchonlinehandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchruntimeprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchruntimeprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchstateprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/searchstateprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/searchapplication_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/searchapplication.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixapplicationsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixaudioplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixcalendarplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixcontactsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixemailplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixfileplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpiximageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixmessageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixnotesplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cpixvideoplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/Searchapplication.exe	build	winscw_urel
+/epoc32/release/winscw/urel/Searchapplication.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixapplicationsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixapplicationsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixaudioplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixaudioplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixcalendarplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixcalendarplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixcontactsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixcontactsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixemailplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixemailplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixfileplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixfileplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixfileserverplugin.pxt	build	winscw_urel
+/epoc32/release/winscw/urel/cpixfileserverplugin.pxt.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpiximageplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpiximageplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixmediautils.lib	build	winscw_urel
+/epoc32/release/winscw/urel/cpixmessageplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixmessageplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixnotesplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixnotesplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpixvideoplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpixvideoplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/isengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/isengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/isproviderdbmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/isproviderdbmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtemailfetcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtemailfetcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchindevicehandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchindevicehandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchonlinehandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchonlinehandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchruntimeprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchruntimeprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/searchstateprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/searchstateprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/searchapplication_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/searchapplication.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixapplicationsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixaudioplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixcalendarplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixcontactsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixemailplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixfileplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpiximageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixmessageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixnotesplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cpixvideoplugin.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/app/CPix_App.iby	export	
+/epoc32/rom/include/core/app/issearch.iby	export	
+/epoc32/rom/include/core/app/search.iby	export	
+/epoc32/rom/include/language/app/searchresources.iby	export	
+/epoc32/winscw/c/private/10202be9/20029ac7.cre	export	

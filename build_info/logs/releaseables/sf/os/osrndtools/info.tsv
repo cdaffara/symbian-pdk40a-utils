@@ -1,0 +1,601 @@
+/epoc32/data/z/private/E5883BC2/memspyecominterfaceids.xml	export	
+/epoc32/data/z/resource/plugins/piprofilerbup.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/piprofilerbup.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/piprofilerdebugwriter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/piprofilerdebugwriter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/piprofilerdiskwriter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/piprofilerdiskwriter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/piprofilergenerals.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/piprofilerpwr.rsc	resource	armv5_urel
+/epoc32/include/platform/analyzetool/analyzetool.h	export	
+/epoc32/include/platform/analyzetool/analyzetool.inl	export	
+/epoc32/include/platform/analyzetool/analyzetoolcleaner.h	export	
+/epoc32/include/platform/analyzetool/analyzetooltraceconstants.h	export	
+/epoc32/include/platform/analyzetool/atcommon.h	export	
+/epoc32/include/platform/analyzetool/customuser.h	export	
+/epoc32/include/platform/memspy/api/memspyapiecom.h	export	
+/epoc32/include/platform/memspy/api/memspyapiheap.h	export	
+/epoc32/include/platform/memspy/api/memspyapikernelobject.h	export	
+/epoc32/include/platform/memspy/api/memspyapikernelobjectitem.h	export	
+/epoc32/include/platform/memspy/api/memspyapimemorytrackingcycle.h	export	
+/epoc32/include/platform/memspy/api/memspyapiprocess.h	export	
+/epoc32/include/platform/memspy/api/memspyapiserver.h	export	
+/epoc32/include/platform/memspy/api/memspyapithread.h	export	
+/epoc32/include/platform/memspy/api/memspyapithreadinfoitem.h	export	
+/epoc32/include/platform/memspy/api/memspyapiwindowgroup.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverclient.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverconstants.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverenumerationsshared.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverlightweightclient.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverobjectsshared.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverobjectssharedrheap.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverpanics.h	export	
+/epoc32/include/platform/memspy/driver/memspydriverstreamreader.h	export	
+/epoc32/include/platform/memspy/engine/memspydevicewideoperations.h	export	
+/epoc32/include/platform/memspy/engine/memspyecomdata.h	export	
+/epoc32/include/platform/memspy/engine/memspyengine.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperactiveobject.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperchunk.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpercodesegment.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpercondvar.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperecom.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperfbserv.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperfilesystem.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperheap.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperkernelcontainers.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperprocess.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperram.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperrom.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperserver.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperstack.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpersysmemtracker.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpersysmemtrackerconfig.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpersysmemtrackercycle.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpersysmemtrackercyclechange.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpersysmemtrackerenums.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelpersysmemtrackerobserver.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperthread.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginehelperwindowserver.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineimp.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginelogger.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginemidwife.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineobject.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineobjectcontainer.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineobjectprocess.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineobjectthread.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineobjectthreadinfocontainer.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineobjectthreadinfoobjects.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineobserver.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineoutputlist.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineoutputsink.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineoutputsinktype.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineprocessmemorytracker.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginetwiddlableitemarray.h	export	
+/epoc32/include/platform/memspy/engine/memspyenginetwiddlableitemarray.inl	export	
+/epoc32/include/platform/memspy/engine/memspyengineundertaker.h	export	
+/epoc32/include/platform/memspy/engine/memspyengineutils.h	export	
+/epoc32/include/platform/memspy/engine/memspyheapdata.h	export	
+/epoc32/include/platform/memspy/engine/memspykernelobjectdata.h	export	
+/epoc32/include/platform/memspy/engine/memspymemorytrackingcycledata.h	export	
+/epoc32/include/platform/memspy/engine/memspyprocessdata.h	export	
+/epoc32/include/platform/memspy/engine/memspyserverdata.h	export	
+/epoc32/include/platform/memspy/engine/memspythreaddata.h	export	
+/epoc32/include/platform/memspy/engine/memspythreadinfoitemdata.h	export	
+/epoc32/include/platform/memspyengineclientinterface.h	export	
+/epoc32/include/platform/memspysession.h	export	
+/epoc32/include/platform/piprofiler/EngineUIDs.h	export	
+/epoc32/include/platform/piprofiler/PluginDriver.h	export	
+/epoc32/include/platform/piprofiler/PluginDriver.inl	export	
+/epoc32/include/platform/piprofiler/PluginSampler.h	export	
+/epoc32/include/platform/piprofiler/ProfilerAttributes.h	export	
+/epoc32/include/platform/piprofiler/ProfilerConfig.h	export	
+/epoc32/include/platform/piprofiler/ProfilerEngineAPI.h	export	
+/epoc32/include/platform/piprofiler/ProfilerEngineStatusChecker.h	export	
+/epoc32/include/platform/piprofiler/ProfilerEngineStatusChecker.inl	export	
+/epoc32/include/platform/piprofiler/ProfilerGenericClassesCommon.h	export	
+/epoc32/include/platform/piprofiler/ProfilerGenericClassesKrn.h	export	
+/epoc32/include/platform/piprofiler/ProfilerGenericClassesKrn.inl	export	
+/epoc32/include/platform/piprofiler/ProfilerGenericClassesUsr.h	export	
+/epoc32/include/platform/piprofiler/ProfilerGenericClassesUsr.inl	export	
+/epoc32/include/platform/piprofiler/ProfilerSession.h	export	
+/epoc32/include/platform/piprofiler/ProfilerTraces.h	export	
+/epoc32/include/platform/piprofiler/ProfilerVersion.h	export	
+/epoc32/include/platform/piprofiler/SamplerPluginInterface.h	export	
+/epoc32/include/platform/piprofiler/SamplerPluginInterface.inl	export	
+/epoc32/include/platform/piprofiler/WriterPluginInterface.h	export	
+/epoc32/include/platform/piprofiler/WriterPluginInterface.inl	export	
+/epoc32/include/platform/rm_debug_api.h	export	
+/epoc32/release/armv5/lib/MemSpyClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MemSpyClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MemSpyClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MemSpyClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atoolcleaner.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atoolcleaner.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atoolcleaner{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atoolcleaner{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atoolmemoryhook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atoolmemoryhook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atoolmemoryhook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atoolmemoryhook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/memspydriverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/memspydriverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/memspydriverclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/memspydriverclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/memspyengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/memspyengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/memspyengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/memspyengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/MemSpy.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/MemSpy.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MemSpyClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MemSpyClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MemSpyServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/MemSpyServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfiler.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfiler.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerBUP.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerBUP.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerDebugWriter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerDebugWriter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerDiskWriter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerDiskWriter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerEngine.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerEngine.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerGenerals.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerGenerals.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerGeneralsSampler.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerGeneralsSampler.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerPWR.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerPWR.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerTouchEventAnim.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PIProfilerTouchEventAnim.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atoolcleaner.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atoolcleaner.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atoolkerneleventhandler.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/atoolkerneleventhandler.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atoolmemoryhook.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atoolmemoryhook.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atoolstaticlib.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/memspydriver.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/memspydriver.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/memspydriverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/memspydriverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/memspyengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/memspyengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rm_debug.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/rm_debug.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rm_debug_svr.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/rm_debug_svr.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/MemSpy.exe	build	armv5_urel
+/epoc32/release/armv5/urel/MemSpy.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/MemSpyClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MemSpyClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MemSpyServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/MemSpyServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfiler.exe	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfiler.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerBUP.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerBUP.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerDebugWriter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerDebugWriter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerDiskWriter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerDiskWriter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerEngine.exe	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerEngine.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerGenerals.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerGenerals.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerGeneralsSampler.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerGeneralsSampler.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerPWR.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerPWR.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerTouchEventAnim.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PIProfilerTouchEventAnim.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atoolcleaner.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atoolcleaner.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atoolkerneleventhandler.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/atoolkerneleventhandler.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/atoolmemoryhook.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atoolmemoryhook.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atoolstaticlib.lib	build	armv5_urel
+/epoc32/release/armv5/urel/memspydriver.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/memspydriver.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/memspydriverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/memspydriverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/memspyengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/memspyengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rm_debug.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/rm_debug.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/rm_debug_svr.exe	build	armv5_urel
+/epoc32/release/armv5/urel/rm_debug_svr.exe.map	build	armv5_urel
+/epoc32/release/armv5smp/udeb/rm_debug.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/rm_debug.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/rm_debug_svr.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/rm_debug_svr.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/urel/rm_debug.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/rm_debug.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/rm_debug_svr.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/rm_debug_svr.exe.map	build	armv5smp_urel
+/epoc32/release/winscw/udeb/MemSpy.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/MemSpyClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MemSpyClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MemSpyServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/PIProfiler.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/PIProfilerBUP.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PIProfilerDebugWriter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PIProfilerDiskWriter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PIProfilerEngine.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/PIProfilerTouchEventAnim.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atoolcleaner.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atoolcleaner.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/atoolkerneleventhandler.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/atoolmemoryhook.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atoolmemoryhook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/atoolstaticlib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/memspydriver.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/memspydriverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/memspydriverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/memspyengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/memspyengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/E5883BC2/memspyecominterfaceids.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/piprofilerbup.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/piprofilerdebugwriter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/piprofilerdiskwriter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/MemSpy.exe	build	winscw_urel
+/epoc32/release/winscw/urel/MemSpy.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/MemSpyClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MemSpyClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MemSpyServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/MemSpyServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfiler.exe	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfiler.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerBUP.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerBUP.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerDebugWriter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerDebugWriter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerDiskWriter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerDiskWriter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerEngine.exe	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerEngine.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerTouchEventAnim.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PIProfilerTouchEventAnim.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atoolcleaner.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atoolcleaner.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atoolkerneleventhandler.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/atoolkerneleventhandler.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/atoolmemoryhook.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atoolmemoryhook.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atoolstaticlib.lib	build	winscw_urel
+/epoc32/release/winscw/urel/memspydriver.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/memspydriver.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/memspydriverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/memspydriverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/memspyengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/memspyengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/E5883BC2/memspyecominterfaceids.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/piprofilerbup.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/piprofilerdebugwriter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/piprofilerdiskwriter.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/tools/memspy.iby	export	
+/epoc32/rom/include/core/tools/piprofiler.iby	export	
+/epoc32/rom/include/core/tools/rom/analyzetool_rom.iby	export	
+/epoc32/rom/include/core/tools/rom/memspy_rom.iby	export	
+/epoc32/rom/include/core/tools/rom/piprofiler_ldd.iby	export	
+/epoc32/rom/include/rm_debug_svr.iby	export	
+/epoc32/tools/addr2line.exe	export	
+/epoc32/tools/atool.exe	export	
+/epoc32/tools/tracecompiler.pl	export	
+/epoc32/tools/tracecompiler.pm	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompiler.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerConfiguration.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerGlobals.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerIllegalArgumentsException.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerLogger.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerMain.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerModelListener$1.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerModelListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerRootException.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/TraceCompilerView.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryDefRef.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryFile.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryFileConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryFileExport.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryFileRef.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryFileWriter$1.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryFileWriter$FileRefComparator.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryFileWriter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryPreferences.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/DictionaryRef.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/DataType.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/Dictionary.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/LocationStore.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/Options.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TagWriter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TestEncoder.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/Trace.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TraceComponent.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TraceDataStore.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TraceDictionaryEncoder.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TraceGroup.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TypeDef.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/TypeDefStore.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/XMLDataFilter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/encoder/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/decodeplugins/dictionary/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/document/FileDocument.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/document/FileDocumentMonitor.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/document/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/document/StringDocument.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/document/StringDocumentFactory.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/document/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/ConfigurationDelegate.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/LocationListBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/LocationMapModelListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/LocationProperties.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/SourceContextManager.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/SourceContextManagerImpl.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineActions.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineConfiguration.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineConfigurationListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineErrorCodes$FileErrorParameters.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineErrorCodes$RangeErrorParameters.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineErrorCodes$StringErrorParameters.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineErrorCodes$TraceCompilerErrorCode.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineErrorCodes.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineErrorMessages$1.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineErrorMessages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineEvents.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineGlobals.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineInterface.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceCompilerEngineView.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceLocation.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceLocationConverter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceLocationList.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceLocationListListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/TraceLocationMap.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/ViewAdapter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/event/EventEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/event/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/event/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/event/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/CheckFormattedTraceExists.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/CheckIsBufferSizeDynamic.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/CheckIsKernelModeEndifNeeded.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/CheckIsKernelModeFlagNeeded.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/CheckIsTraceBufferBuilt.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/CheckIsTraceFormatDuplicate.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/CheckParameterNeedsAlignment.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/ComplexHeaderRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/HeaderConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/HeaderEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/HeaderTemplate.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/IteratorComplexTraces.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/IteratorParameters.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/IteratorTraces.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/SetNewLineCount.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TemplateCheckBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TemplateChoice.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TemplateIterator.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TemplateIteratorEntry.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TraceHeader.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TraceHeaderWriter$1.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TraceHeaderWriter$HeaderTemplateElementType.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/TraceHeaderWriter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/header/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/plugin/PluginEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/plugin/PluginTracePropertyVerifier.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/plugin/TraceAPIPluginManager.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/plugin/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/ProjectConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/ProjectEngine$1.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/ProjectEngine$CreateProjectParameters.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/ProjectEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/SortedProperties.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/TraceCompilerProject.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/TraceIDCache.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/project/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/DocumentElementWrapper.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/EnumElementParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/FileElementParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/PropertyFileConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/PropertyFileElementParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/PropertyFileEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/PropertyFileParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/PropertyFileUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/TracePropertyFile.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/ValueElementParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/propertyfile/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ArrayParameterRuleImpl.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/AutoAddFunctionParametersRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/AutoAddParameterRuleBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/AutoAddReturnParameterRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/AutoAddThisPtrRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/AutoAddValueRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/AutomaticTraceTextRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ClassNameWrapper.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ComplexHeaderRuleImpl.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/EndOfFunctionLocationRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/EntryTraceRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ExitTracePropertyBuilder.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ExitTraceRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ExtensionBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/FillerParameterRuleImpl.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ParameterTypeMappingRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/PerformanceEventRuleBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/PerformanceEventStartRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/PerformanceEventStopRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ReadOnlyObjectRuleImpl.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RuleBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RuleUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RulesEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RulesEngineConfigurationListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RulesEngineConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RulesEngineModelListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RulesEnginePluginManager.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/RulesEngineResetListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/SourceParserRuleBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/StartOfFunctionLocationRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/StateTraceRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ThisPointerParameterTemplate.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/TraceFormatRuleBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/TraceParameterFormattingRuleBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/ValueParameterTemplate.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/osttrace/OstConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/osttrace/OstTraceFormatRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/osttrace/OstTraceParserRule$TraceParameterFlagList.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/osttrace/OstTraceParserRule$TraceParameterIndexList.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/osttrace/OstTraceParserRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/osttrace/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/rules/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceEngine.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceEngineModelExtensionListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceEngineModelListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceFormatter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceLocationRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceParserResult.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceParserRule$ParameterConversionResult.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceParserRule$TraceConversionResult.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceParserRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/SourceProperties.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/TraceFormattingRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/TraceParameterFormattingRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/source/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/utils/TraceMultiplierRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/utils/TraceUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/engine/utils/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/file/FileCompareOutputStream.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/file/FileUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/licence.lic	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/licence_hash.lic	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/DuplicateParameterNameModifier.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/DuplicateValueModifier.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/Trace.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceCompilerErrorParameters.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceCompilerException$TraceCompilerExceptionCode.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceCompilerException.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceConstantTable.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceConstantTableEntry.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceGroup.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceModel.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceModelExtension.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceModelExtensionListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceModelListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceModelPersistentExtension.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceModelResetListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObject.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectFactory.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectModifier.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectProperty.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectPropertyList.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectPropertyVerifier.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectRuleCreateObject.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectRuleFactory.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectRuleOnDelete.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectRuleRemoveOnCreate.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectUtils$1.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectUtils$2.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectUtils$3.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectUtils$4.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectUtils$5.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceObjectUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceParameter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/TraceProcessingListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/model/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceAPIFormatter$TraceFormatType.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceAPIFormatter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceAPIParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceAPIPlugin.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceCompilerExport.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceCompilerPlugin.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceFormatConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceHeaderContribution$TraceHeaderContributionType.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/TraceHeaderContribution.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/plugin/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/FormattingUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/GroupNameIdPair.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/GroupNames.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/Messages.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/ProjectFileParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/ProjectUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/PropertyNames.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/TraceLocationParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/TraceProjectAPI$TraceFormatFlags.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/TraceProjectAPI.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/TraceProjectAPIList.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/TraceProjectFile.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/messages.properties	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/project/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/rules/ArrayParameterRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/rules/FillerParameterRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/rules/HiddenTraceObjectRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/rules/ReadOnlyObjectRule.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/rules/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/ContextAreaParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/ContextSearchData.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/ExcludedAreaParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/ExcludedAreaSearchData.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/FormatMapping.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/FunctionReturnValueParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/FunctionReturnValueSearchData.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/OffsetLength.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/ParsedType.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/PositionArrayComparator.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceContext.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceDocumentFactory.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceDocumentInterface.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceDocumentMonitor.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceDocumentProcessor.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceErrorCodes.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceExcludedArea.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceIterator.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceLocation.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceLocationBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceLocationInterface.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceLocationListener.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceParameter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceParameterTokenizer.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceParser.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceParserException.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourcePropertyProvider.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceReturn.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceSearch.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceSelector.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceStringSearch.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SourceUtils.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/SymbianConstants.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/TokenizerSearchData.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/TypeMapping.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/source/package.html	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/utils/DocumentAdapter.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/utils/DocumentFactory.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/utils/DocumentFactoryBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/utils/DocumentMonitorBase.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/utils/SimpleLocation.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/utils/TraceCompilerVersion.class	export	
+/epoc32/tools/tracecompiler/com/nokia/tracecompiler/utils/package.html	export	
+/epoc32/tools/tracecompiler_mmp_data.pm	export	
+/epoc32/tools/tracecompiler_parse_mmp.pl	export	
+/epoc32/tools/xerces-c_2_7.dll	export	

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="osrndtools" level="services" levels="trace analysis" long-name="OS R&amp;D Tools">
+<collection name="debugsrv" long-name="Debug Services" level="trace">
+<component name="runmodedebug" long-name="Run Mode Debug" filter="s60" purpose="development">
+<unit bldFile="/sf/os/osrndtools/debugsrv/runmodedebug/group"/>
+</component>
+</collection>
+<collection name="perfsrv" long-name="Performance Services" level="analysis">
+<component name="analyzetool" long-name="AnalyzeTool" filter="s60" purpose="development">
+<unit bldFile="/sf/os/osrndtools/perfsrv/analyzetool/group"/>
+</component>
+<component name="memspy" long-name="MemSpy" filter="s60" purpose="development">
+<unit bldFile="/sf/os/osrndtools/perfsrv/memspy/group"/>
+</component>
+<component name="piprofiler" long-name="Performance Investigator Profiler" filter="s60" purpose="development">
+<unit bldFile="/sf/os/osrndtools/perfsrv/piprofiler/group"/>
+</component>
+</collection>
+<collection name="tracefw" long-name="Trace Framework" level="trace">
+<component name="tracecompiler" long-name="TraceCompiler" filter="s60" purpose="development">
+<unit bldFile="/sf/os/osrndtools/tracefw/tracecompiler/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

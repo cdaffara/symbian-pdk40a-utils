@@ -1,0 +1,12 @@
+/epoc32/release/armv5/lib/browsercontentdll.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/browsercontentdll.dso	build	armv5_urel
+/epoc32/release/armv5/lib/browsercontentdll{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/browsercontentdll{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/browsercontentdll.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/browsercontentdll.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/browsercontentdll.dll	build	armv5_urel
+/epoc32/release/armv5/urel/browsercontentdll.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/browsercontentdll.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/browsercontentdll.lib	build	winscw_udeb
+/epoc32/release/winscw/urel/browsercontentdll.dll	build	winscw_urel
+/epoc32/release/winscw/urel/browsercontentdll.dll.map	build	winscw_urel

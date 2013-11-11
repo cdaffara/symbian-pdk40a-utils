@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="classicui" level="generic" levels="base support server generic specific" long-name="Classic UI">
+<collection name="classicui_plat" long-name="Classic UI Platform Interfaces" level="specific">
+<component name="signal_pane_api" long-name="Signal Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/signal_pane_api/group" filter="!test"/>
+</component>
+<component name="global_popup_priority_controller_api" long-name="Global Popup Priority Controller API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/global_popup_priority_controller_api/group" filter="!test"/>
+</component>
+<component name="item_finder_api" long-name="Item Finder API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/item_finder_api/group" filter="!test"/>
+</component>
+<component name="avkon_fonts_api" long-name="Avkon Fonts API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_fonts_api/group" filter="!test"/>
+</component>
+<component name="extended_utilities_api" long-name="Extended Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_utilities_api/group" filter="!test"/>
+</component>
+<component name="extended_aiw_criteria_api" long-name="Extended AIW Criteria API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_aiw_criteria_api/group" filter="!test"/>
+</component>
+<component name="volume_popup_api" long-name="Volume Popup API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/volume_popup_api/group" filter="!test"/>
+</component>
+<component name="avkon_secondary_display_support_api" long-name="AVKON Secondary Display Support API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_secondary_display_support_api/group" filter="!test"/>
+</component>
+<component name="extended_setting_pages_api" long-name="Extended Setting Pages API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_setting_pages_api/group" filter="!test"/>
+</component>
+<component name="extended_lists_api" long-name="Extended Lists API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_lists_api/group" filter="!test"/>
+</component>
+<component name="input_block_api" long-name="Input Block API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/input_block_api/group" filter="!test"/>
+</component>
+<component name="avkon_ui_server_api" long-name="AVKON UI Server API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_ui_server_api/group" filter="!test"/>
+</component>
+<component name="extended_status_pane_api" long-name="Extended Status Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_status_pane_api/group" filter="!test"/>
+</component>
+<component name="extended_notifiers_api" long-name="Extended Notifiers API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_notifiers_api/group" filter="!test"/>
+</component>
+<component name="task_list_api" long-name="Task List API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/task_list_api/group" filter="!test"/>
+</component>
+<component name="key_event_utilities_api" long-name="Key Event Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/key_event_utilities_api/group"/>
+</component>
+<component name="emergency_call_support_api" long-name="Emergency Call Support API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/emergency_call_support_api/group" filter="!test"/>
+</component>
+<component name="extended_dialogs_api" long-name="Extended Dialogs API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_dialogs_api/group"/>
+</component>
+<component name="legacy_ui_framework_headers_api" long-name="Legacy UI Framework Headers API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/legacy_ui_framework_headers_api/group"/>
+</component>
+<component name="extended_editors_api" long-name="Extended Editors API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_editors_api/group" filter="!test"/>
+</component>
+<component name="alarm_api" long-name="Alarm API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/alarm_api/group" filter="!test"/>
+</component>
+<component name="aiw_service_interface_base_api" long-name="AIW Service Interface Base API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/aiw_service_interface_base_api/group" filter="!test"/>
+</component>
+<component name="list_effects_api" long-name="List Effects API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/list_effects_api/group" filter="!test"/>
+</component>
+<component name="find_item_ui_api" long-name="Find Item UI API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/find_item_ui_api/group" filter="!test"/>
+</component>
+<component name="server_application_services_api" long-name="Server Application Services API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/server_application_services_api/group" filter="!test"/>
+</component>
+<component name="common_ui_settings_api" long-name="Common UI Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/common_ui_settings_api/group"/>
+</component>
+<component name="aiw_service_interface_menu_api" long-name="AIW Service Interface Menu API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/aiw_service_interface_menu_api/group" filter="!test"/>
+</component>
+<component name="eikon_server_extension_client_api" long-name="EIKON Server Extension Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/eikon_server_extension_client_api/group" filter="!test"/>
+</component>
+<component name="skinnable_clock_api" long-name="Skinnable Clock API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/skinnable_clock_api/group" filter="!test"/>
+</component>
+<component name="battery_pane_api" long-name="Battery Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/battery_pane_api/group" filter="!test"/>
+</component>
+<component name="fep_document_navigation_api" long-name="FEP Document Navigation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/fep_document_navigation_api/group"/>
+</component>
+<component name="memory_card_ui_api" long-name="Memory Card UI API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/memory_card_ui_api/group" filter="!test"/>
+</component>
+<component name="avkon_status_api" long-name="AVKON Status API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_status_api/group"/>
+</component>
+<component name="application_switching_api" long-name="Application Switching API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/application_switching_api/group" filter="!test"/>
+</component>
+<component name="avkon_localised_texts_api" long-name="AVKON Localised Texts API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_localised_texts_api/group"/>
+</component>
+<component name="avkon_secondary_display_api" long-name="AVKON Secondary Display API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_secondary_display_api/group"/>
+</component>
+<component name="extended_animation_api" long-name="Extended Animation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_animation_api/group" filter="!test"/>
+</component>
+<component name="extended_notes_api" long-name="Extended Notes API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_notes_api/group" filter="!test"/>
+</component>
+<component name="text_scroller_api" long-name="Text Scroller API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/text_scroller_api/group" filter="!test"/>
+</component>
+<component name="custom_cursors_api" long-name="Custom Cursors API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/custom_cursors_api/group" filter="!test"/>
+</component>
+<component name="global_window_priorities_api" long-name="Global Window Priorities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/global_window_priorities_api/group"/>
+</component>
+<component name="extended_indicators_api" long-name="Extended Indicators API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_indicators_api/group" filter="!test"/>
+</component>
+<component name="special_character_table_api" long-name="Special Character Table API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/special_character_table_api/group" filter="!test"/>
+</component>
+<component name="avkon_settings_api" long-name="AVKON Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_settings_api/group"/>
+</component>
+<component name="extended_sounds_api" long-name="Extended Sounds API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_sounds_api/group"/>
+</component>
+<component name="themes_settings_api" long-name="Themes Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/themes_settings_api/group"/>
+</component>
+<component name="media_shared_document_api" long-name="Media Shared Document API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/media_shared_document_api/group" filter="!test"/>
+</component>
+<component name="extended_queries_api" long-name="Extended Queries API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_queries_api/group"/>
+</component>
+<component name="phone_number_text_utilities_api" long-name="Phone Number Text Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/phone_number_text_utilities_api/group" filter="!test"/>
+</component>
+<component name="extended_scroller_api" long-name="Extended Scroller API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_scroller_api/group"/>
+</component>
+<component name="key_rotator_api" long-name="Key Rotator API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/key_rotator_api/group" filter="!test"/>
+</component>
+<component name="extended_grids_api" long-name="Extended Grids API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_grids_api/group" filter="!test"/>
+</component>
+<component name="generic_parameter_api" long-name="Generic Parameter API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/generic_parameter_api/group" filter="!test"/>
+</component>
+<component name="indicator_touch_observer_api" long-name="Indicator Touch Observer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/indicator_touch_observer_api/group"/>
+</component>
+<component name="popup_form_api" long-name="Popup Form API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/popup_form_api/group" filter="!test"/>
+</component>
+<component name="stylus_activated_popup_api" long-name="Stylus Activated Pop-up API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/stylus_activated_popup_api/group" filter="!test"/>
+</component>
+<component name="indicator_plugin_api" long-name="Indicator Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/indicator_plugin_api/group" filter="!test"/>
+</component>
+<component name="layout_configuration_api" long-name="Layout Configuration API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/layout_configuration_api/group" filter="!test"/>
+</component>
+<component name="common_file_dialogs_filter_factory_api" long-name="Common File Dialogs Filter Factory API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/common_file_dialogs_filter_factory_api/group"/>
+</component>
+<component name="avkon_anim_dll_api" long-name="AVKON Anim DLL API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_anim_dll_api/group"/>
+</component>
+<component name="extended_initialization_api" long-name="Extended Initialization API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_initialization_api/group" filter="!test"/>
+</component>
+<component name="long_tap_animation_api" long-name="Long Tap Animation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/long_tap_animation_api/group" filter="!test"/>
+</component>
+<component name="extended_ui_framework_definitions_api" long-name="Extended UI Framework Definitions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_ui_framework_definitions_api/group"/>
+</component>
+<component name="extended_buttons_api" long-name="Extended Buttons API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_buttons_api/group" filter="!test"/>
+</component>
+<component name="aiw_provider_utility_api" long-name="AIW Provider Utility API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/aiw_provider_utility_api/group" filter="!test"/>
+</component>
+<component name="transition_effect_parameters_api" long-name="Transition Effect Parameters API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/transition_effect_parameters_api/group" filter="!test"/>
+</component>
+<component name="extended_input_capabilities_api" long-name="Extended Input Capabilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_input_capabilities_api/group" filter="!test"/>
+</component>
+<component name="uikon_status_api" long-name="UIKON Status API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/uikon_status_api/group"/>
+</component>
+<component name="transition_effect_utilities_api" long-name="Transition Effect Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/transition_effect_utilities_api/group" filter="!test"/>
+</component>
+<component name="pointer_event_modifier_api" long-name="Pointer Event Modifier API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/pointer_event_modifier_api/group" filter="!test"/>
+</component>
+<component name="avkon_testability_api" long-name="AVKON Testability API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/avkon_testability_api/group"/>
+</component>
+<component name="ode_api" long-name="Ode API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/ode_api/group"/>
+</component>
+<component name="physics_api" long-name="Physics API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/physics_api/group"/>
+</component>
+<component name="touch_pane_api" long-name="Touch Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/touch_pane_api/group" filter="!test"/>
+</component>
+<component name="touch_pane_observer_api" long-name="Touch Pane Observer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/touch_pane_observer_api/group"/>
+</component>
+<component name="alternate_fs_api" long-name="Alternate FS API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/alternate_fs_api/group"/>
+</component>
+<component name="discreet_popup_api" long-name="Discreet Popup API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/discreet_popup_api/group"/>
+</component>
+<component name="extended_options_menu_api" long-name="Extended Options Menu API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/extended_options_menu_api/group" filter="!test"/>
+</component>
+<component name="directory_localizer_api" long-name="Directory Localizer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/directory_localizer_api/group"/>
+</component>
+<component name="findutil_api" long-name="Find Util API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/findutil_api/group"/>
+</component>
+<component name="input_frame_api" long-name="Input Frame API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/input_frame_api/group" filter="!test"/>
+</component>
+<component name="window_server_event_observer_api" long-name="Window Server Event Observer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/window_server_event_observer_api/group" filter="!test"/>
+</component>
+<component name="application_framework_api" long-name="Application Framework API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/application_framework_api/group" filter="!test"/>
+</component>
+<component name="scroller_api" long-name="Scroller API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/scroller_api/group" filter="!test"/>
+</component>
+<component name="ui_framework_utilities_api" long-name="UI Framework Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/ui_framework_utilities_api/group" filter="!test"/>
+</component>
+<component name="ui_framework_definitions_api" long-name="UI Framework Definitions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/ui_framework_definitions_api/group" filter="!test"/>
+</component>
+<component name="buttons_api" long-name="Buttons API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/buttons_api/group" filter="!test"/>
+</component>
+<component name="queries_api" long-name="Queries API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/queries_api/group" filter="!test"/>
+</component>
+<component name="aiw_generic_parameter_api" long-name="AIW Generic Parameter API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/aiw_generic_parameter_api/group" filter="!test"/>
+</component>
+<component name="editors_api" long-name="Editors API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/editors_api/group" filter="!test"/>
+</component>
+<component name="common_file_dialogs_api" long-name="Common File Dialogs API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/common_file_dialogs_api/group"/>
+</component>
+<component name="dialog_shutter_api" long-name="Dialog Shutter API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/dialog_shutter_api/group" filter="!test"/>
+</component>
+<component name="fonts_api" long-name="Fonts API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/fonts_api/group" filter="!test"/>
+</component>
+<component name="screen_clearer_api" long-name="Screen Clearer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/screen_clearer_api/group" filter="!test"/>
+</component>
+<component name="notifiers_api" long-name="Notifiers API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/notifiers_api/group" filter="!test"/>
+</component>
+<component name="notes_api" long-name="Notes API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/notes_api/group" filter="!test"/>
+</component>
+<component name="status_pane_api" long-name="Status Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/status_pane_api/group" filter="!test"/>
+</component>
+<component name="base_controls_api" long-name="Base Controls API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/base_controls_api/group" filter="!test"/>
+</component>
+<component name="grids_api" long-name="Grids API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/grids_api/group" filter="!test"/>
+</component>
+<component name="context_pane_api" long-name="Context Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/context_pane_api/group" filter="!test"/>
+</component>
+<component name="lists_api" long-name="Lists API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/lists_api/group" filter="!test"/>
+</component>
+<component name="popups_api" long-name="Popups API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/popups_api/group" filter="!test"/>
+</component>
+<component name="misc_controls_api" long-name="Misc Controls API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/misc_controls_api/group" filter="!test"/>
+</component>
+<component name="keylock_api" long-name="Keylock API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/keylock_api/group" filter="!test"/>
+</component>
+<component name="options_menu_api" long-name="Options Menu API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/options_menu_api/group" filter="!test"/>
+</component>
+<component name="hierarchical_lists_api" long-name="Hierarchical Lists API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/hierarchical_lists_api/group" filter="!test"/>
+</component>
+<component name="navigation_pane_api" long-name="Navigation Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/navigation_pane_api/group" filter="!test"/>
+</component>
+<component name="tabs_api" long-name="Tabs API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/tabs_api/group" filter="!test"/>
+</component>
+<component name="title_pane_touch_observer_api" long-name="Title Pane Touch Observer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/title_pane_touch_observer_api/group"/>
+</component>
+<component name="choice_list_api" long-name="Choice List API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/choice_list_api/group" filter="!test"/>
+</component>
+<component name="info_popup_note_api" long-name="Info Popup Note API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/info_popup_note_api/group" filter="!test"/>
+</component>
+<component name="setting_pages_api" long-name="Setting Pages API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/setting_pages_api/group" filter="!test"/>
+</component>
+<component name="screen_mode_api" long-name="Screen Mode API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/screen_mode_api/group" filter="!test"/>
+</component>
+<component name="indicators_api" long-name="Indicators API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/indicators_api/group" filter="!test"/>
+</component>
+<component name="error_ui_api" long-name="Error UI API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/error_ui_api/group" filter="!test"/>
+</component>
+<component name="animation_api" long-name="Animation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/animation_api/group" filter="!test"/>
+</component>
+<component name="searchfield_api" long-name="Searchfield API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/searchfield_api/group" filter="!test"/>
+</component>
+<component name="labels_api" long-name="Labels API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/labels_api/group" filter="!test"/>
+</component>
+<component name="hotkeys_api" long-name="Hotkeys API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/hotkeys_api/group" filter="!test"/>
+</component>
+<component name="initialization_api" long-name="Initialization API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/initialization_api/group" filter="!test"/>
+</component>
+<component name="volume_control_api" long-name="Volume Control API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/volume_control_api/group" filter="!test"/>
+</component>
+<component name="title_pane_api" long-name="Title Pane API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/title_pane_api/group" filter="!test"/>
+</component>
+<component name="sounds_api" long-name="Sounds API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/sounds_api/group" filter="!test"/>
+</component>
+<component name="aiw_service_handler_api" long-name="AIW Service Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/aiw_service_handler_api/group" filter="!test"/>
+</component>
+<component name="aiw_criteria_api" long-name="AIW Criteria API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/aiw_criteria_api/group" filter="!test"/>
+</component>
+<component name="touch_ui_utilities_api" long-name="Touch UI Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/touch_ui_utilities_api/group" filter="!test"/>
+</component>
+<component name="generic_button_api" long-name="Generic Button API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/generic_button_api/group" filter="!test"/>
+</component>
+<component name="form_api" long-name="Form API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/form_api/group" filter="!test"/>
+</component>
+<component name="uikon_core_controls" long-name="Uikon Core Controls" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/uikon_core_controls/group" filter="!test"/>
+</component>
+<component name="calendar_api" long-name="Calendar API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/calendar_api/group"/>
+</component>
+<component name="toolbar_api" long-name="Toolbar API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/toolbar_api/group" filter="!test"/>
+</component>
+<component name="server_application_api" long-name="Server Application API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/server_application_api/group"/>
+</component>
+<component name="slider_api" long-name="Slider API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/slider_api/group" filter="!test"/>
+</component>
+<component name="private_ui_framework_api" long-name="Private UI Framework API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/private_ui_framework_api/group" filter="!test"/>
+</component>
+<component name="dialogs_api" long-name="Dialogs API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/dialogs_api/group" filter="!test"/>
+</component>
+<component name="document_handler_api" long-name="Document handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/document_handler_api/group"/>
+</component>
+<component name="images_api" long-name="Images API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/images_api/group" filter="!test"/>
+</component>
+<component name="stylus_popup_menu_api" long-name="Stylus Pop-up Menu API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/stylus_popup_menu_api/group" filter="!test"/>
+</component>
+<component name="information_preview_popup_api" long-name="Information Preview Popup API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/information_preview_popup_api/group" filter="!test"/>
+</component>
+<component name="intermediate_state_api" long-name="Intermediate State API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/intermediate_state_api/group"/>
+</component>
+<component name="help_launcher_api" long-name="Help Launcher API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/classicui/classicui_plat/help_launcher_api/group"/>
+</component>
+</collection>
+<collection name="ode" long-name="Open Dynamics Engine" level="support">
+<!-- the collection is really a component. Move down a directory.-->
+<component name="ode_build" long-name="ODE" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/ode/group"/>
+</component>
+</collection>
+<collection name="uifw" long-name="UI Framework" level="server">
+<component name="uiklaf" long-name="Uikon Look-and-Feel" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/uifw/uiklaf/group"/>
+</component>
+<component name="eikctl" long-name="Eikon Controls" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/uifw/eikctl/group"/>
+</component>
+<component name="avkon" long-name="Avkon" filter="s60" purpose="optional">
+<!-- can only have one unit. Split into 3 components, or #include all from same bld.inf -->
+<unit bldFile="/sf/mw/classicui/uifw/avkon/aknphysics/group"/>
+<unit bldFile="/sf/mw/classicui/uifw/avkon/group"/>
+<unit bldFile="/sf/mw/classicui/uifw/avkon/aknconf/group"/>
+</component>
+<component name="eikstd" long-name="Eikon Standard" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/uifw/eikstd/group"/>
+</component>
+<component name="aknglobalui" long-name="Avkon Global UI" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/uifw/aknglobalui/group"/>
+</component>
+</collection>
+<collection name="commonuis" long-name="Common UIs" level="specific">
+<component name="commonui" long-name="Common UI" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/commonuis/commonui/group"/>
+</component>
+<component name="commondialogs" long-name="Common Dialogs" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/commonuis/commondialogs/group"/>
+</component>
+</collection>
+<collection name="applicationinterworkingfw" long-name="Application Interworking Framework" level="generic">
+<component name="aifwservicehandler" long-name="Application Interworking Service Handler" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/applicationinterworkingfw/servicehandler/group"/>
+</component>
+</collection>
+<collection name="uiutils" long-name="UI Utils" level="specific">
+<component name="localizer" long-name="Directory Localizer" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/uiutils/localizer/group"/>
+</component>
+<component name="findutil" long-name="Find Utility" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/classicui/uiutils/findutil/group"/>
+</component>
+<component name="hlplch" long-name="Help Launcher" filter="s60,bldfirst" purpose="optional">
+<unit bldFile="/sf/mw/classicui/uiutils/hlplch/group"/>
+</component>
+</collection>
+<collection name="commonuisupport" long-name="Common UI Support" level="support">
+<component name="uikon" long-name="Uikon" introduced="6.0" purpose="mandatory">
+<unit bldFile="/sf/mw/classicui/commonuisupport/uikon/group" mrp="/sf/mw/classicui/commonuisupport/uikon/group/app-framework_uikon.mrp"/>
+</component>
+<component name="uikon_ncp" long-name="Uikon (NCP)" introduced="S^4" purpose="mandatory">
+<unit bldFile="/sf/mw/classicui/commonuisupport/uikon/group_ncp"/>
+</component>
+<component name="errorresolverdata" long-name="Error Resolver Data" purpose="mandatory">
+<unit bldFile="/sf/mw/classicui/commonuisupport/errorresolverdata/group" mrp="/sf/mw/classicui/commonuisupport/errorresolverdata/group/app-framework_errorresgt.mrp"/>
+</component>
+<component name="uilaf" long-name="UI Look and Feel" introduced="6.0" purpose="mandatory">
+<unit bldFile="/sf/mw/classicui/commonuisupport/uilaf/GROUP" mrp="/sf/mw/classicui/commonuisupport/uilaf/GROUP/app-framework_uiklafgt.mrp"/>
+</component>
+<component name="grid" long-name="Grid" purpose="optional">
+<unit bldFile="/sf/mw/classicui/commonuisupport/grid/group" mrp="/sf/mw/classicui/commonuisupport/grid/group/app-framework_grid.mrp"/>
+</component>
+<component name="uifwsdocs" long-name="UI Frameworks Documentation" purpose="development" class="doc">
+<unit mrp="/sf/mw/classicui/commonuisupport/uifwsdocs/app-framework_documentation.mrp"/>
+</component>
+</collection>
+<collection name="lafagnosticuifoundation" long-name="Look-and-Feel Agnostic UI Foundation" level="base">
+<component name="cone" long-name="Control Environment" purpose="mandatory">
+<unit bldFile="/sf/mw/classicui/lafagnosticuifoundation/cone/group" mrp="/sf/mw/classicui/lafagnosticuifoundation/cone/group/app-framework_cone.mrp"/>
+</component>
+<component name="graphicseffects" long-name="Graphics Effects" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/mw/classicui/lafagnosticuifoundation/graphicseffects/group" mrp="/sf/mw/classicui/lafagnosticuifoundation/graphicseffects/group/app-framework_gfxtranseffect.mrp"/>
+</component>
+<component name="uigraphicsutils" long-name="UI Graphics Utilities" purpose="mandatory">
+<unit bldFile="/sf/mw/classicui/lafagnosticuifoundation/uigraphicsutils/group" mrp="/sf/mw/classicui/lafagnosticuifoundation/uigraphicsutils/group/app-framework_egul.mrp"/>
+</component>
+<component name="clockanim" long-name="Clock" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/classicui/lafagnosticuifoundation/clockanim/group" mrp="/sf/mw/classicui/lafagnosticuifoundation/clockanim/group/app-framework_clock.mrp"/>
+</component>
+<component name="bmpanimation" long-name="BMP Animation" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/mw/classicui/lafagnosticuifoundation/bmpanimation/group" mrp="/sf/mw/classicui/lafagnosticuifoundation/bmpanimation/group/app-framework_bmpanim.mrp"/>
+</component>
+<component name="animation" long-name="Animation" introduced="9.1" purpose="optional">
+<unit bldFile="/sf/mw/classicui/lafagnosticuifoundation/animation/group" mrp="/sf/mw/classicui/lafagnosticuifoundation/animation/group/app-framework_animation.mrp"/>
+</component>
+</collection>
+<collection name="classicui_info" long-name="Classic UI Info" level="specific">
+<!-- the multiple units in the API test components need to be resolved -->
+<component name="classicui_metadata" long-name="Classic UI Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/mw/classicui/classicui_info/classicui_metadata/classicui_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

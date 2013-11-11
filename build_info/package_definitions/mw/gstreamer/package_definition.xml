@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="gstreamer" level="generic" levels="plugin core api" long-name="GStreamer">
+<!-- structure matches planned directory layout -->
+<collection name="gstreamerfw" long-name="GStreamer Framework" level="core">
+<component name="gstreamer_core" long-name="GStreamer Core" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/gstreamer/gstreamer_core/group"/>
+</component>
+</collection>
+<collection name="gst_plugins" long-name="GStreamer Plugins" level="plugin">
+<component name="gst_plugins_base" long-name="GStreamer Base Plugins" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/gstreamer/gst_plugins_base/group"/>
+</component>
+<component name="gst_plugins_good" long-name="GStreamer Good Plugins" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/gstreamer/gst_plugins_good/group"/>
+</component>
+<component name="gst_plugins_symbian" long-name="GStreamer Sybmian Plugins" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/gstreamer/gst_plugins_symbian/group" filter="!test"/>
+</component>
+</collection>
+<collection name="gstregistrygenerator" long-name="GStreamer Registry Generator" level="core">
+<!-- collection is really a component. Move down an directory  -->
+<component name="gstregistrygenerator_build" long-name="GStreamer Registry Generator Build" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/gstreamer/gstregistrygenerator/group"/>
+</component>
+</collection>
+<collection name="gst_test_apps" long-name="GStreamer Test Applications" level="api"/>
+<collection name="gstreamer_info" long-name="GStreamer Info" level="api">
+<component name="gstreamer_rom" long-name="GStreamer ROM" introduced="^3" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/mw/gstreamer/rom"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

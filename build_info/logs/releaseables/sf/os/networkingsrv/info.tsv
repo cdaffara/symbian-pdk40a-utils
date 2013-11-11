@@ -1,0 +1,926 @@
+/epoc32/data/netcfgext.rsc	resource	armv5_urel
+/epoc32/data/netcfgext.rsc	resource	winscw_udeb
+/epoc32/data/z/private/01000000/ipsecpol.ini	export	
+/epoc32/data/z/private/10000882/resolver.ini	export	
+/epoc32/data/z/private/101f7989/esock/ccp.ini	export	
+/epoc32/data/z/private/101f7989/esock/ether802.ini	export	
+/epoc32/data/z/private/101f7989/esock/ip.addressinfo_tcpip.esk	export	
+/epoc32/data/z/private/101f7989/esock/ip.ipeventnotifier.esk	export	
+/epoc32/data/z/private/101f7989/esock/ip.ipsec6.esk	export	
+/epoc32/data/z/private/101f7989/esock/ip.napt.esk	export	
+/epoc32/data/z/private/101f7989/esock/ip.qos.esk	export	
+/epoc32/data/z/private/101f7989/esock/ip.tcpip.esk	export	
+/epoc32/data/z/private/101f7989/esock/napt.ini	export	
+/epoc32/data/z/private/101f7989/esock/qos.ini	export	
+/epoc32/data/z/private/101f7989/esock/qospolicies.ini	export	
+/epoc32/data/z/private/101f7989/esock/tcpip.ini	export	
+/epoc32/data/z/private/200215f1/resolver.ini	export	
+/epoc32/data/z/resource/errors/sockerr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/sockerr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/errors/sslerr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/sslerr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/errors/tcperr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/tcperr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/errors/tcpip6err.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/tcpip6err.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/agentpr.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/agentpr.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/dnsproxyupdateif.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/dnsproxyupdateif.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ether802.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ether802.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ipaddrinfoparams.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ipaddrinfoparams.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ipeventfactory.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ipeventfactory.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ipeventtypes.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ipeventtypes.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ipproto.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ipproto.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/iptransport.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/iptransport.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/iptransportmanagement.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/iptransportmanagement.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mbmsparams.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mbmsparams.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/netcfgextndhcp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/netcfgextndhcp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/netcfgextnmip.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/netcfgextnmip.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ppp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ppp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/qosipscpr.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/qosipscpr.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/swtlstokentypeplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/swtlstokentypeplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tunnel.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tunnel.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/swtlstokentype.rsc	resource	armv5_urel
+/epoc32/data/z/resource/swtlstokentype.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/tlscacheserver/tlscachetimeouts.rsc	resource	armv5_urel
+/epoc32/data/z/resource/tlscacheserver/tlscachetimeouts.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/tlsproviderpolicy.ini	export	
+/epoc32/include/arp_hdr.h	export	
+/epoc32/include/def/eabi/agentu.def	export	
+/epoc32/include/eui_addr.h	export	
+/epoc32/include/ext_hdr.h	export	
+/epoc32/include/icmp6_hdr.h	export	
+/epoc32/include/in6_if.h	export	
+/epoc32/include/in6_opt.h	export	
+/epoc32/include/in_chk.h	export	
+/epoc32/include/in_hdr.h	export	
+/epoc32/include/in_pkt.h	export	
+/epoc32/include/in_sock.h	export	
+/epoc32/include/inet6err.h	export	
+/epoc32/include/ip4_hdr.h	export	
+/epoc32/include/ip6_hdr.h	export	
+/epoc32/include/ip_subconparams.h	export	
+/epoc32/include/ip_subconparams.inl	export	
+/epoc32/include/networking/dnd_err.h	export	
+/epoc32/include/networking/packetlogger.mmh	export	
+/epoc32/include/nifman.h	export	
+/epoc32/include/nifman_internal.h	export	
+/epoc32/include/nifvar.h	export	
+/epoc32/include/platform/agenterrors.h	export	
+/epoc32/include/platform/apibase.h	export	
+/epoc32/include/platform/comms-infras/agentcpr.h	export	
+/epoc32/include/platform/comms-infras/agentcprstates.h	export	
+/epoc32/include/platform/comms-infras/agentmcpr.h	export	
+/epoc32/include/platform/comms-infras/agentmcpractivities.h	export	
+/epoc32/include/platform/comms-infras/agentmessages.h	export	
+/epoc32/include/platform/comms-infras/agentmessages.inl	export	
+/epoc32/include/platform/comms-infras/agentprconst.h	export	
+/epoc32/include/platform/comms-infras/agentscpr.h	export	
+/epoc32/include/platform/comms-infras/agentscpractivities.h	export	
+/epoc32/include/platform/comms-infras/agentscprstates.h	export	
+/epoc32/include/platform/comms-infras/cagentadapter.h	export	
+/epoc32/include/platform/comms-infras/cagentbase.h	export	
+/epoc32/include/platform/comms-infras/cagentsmbase.h	export	
+/epoc32/include/platform/comms-infras/cagentsmbase.inl	export	
+/epoc32/include/platform/comms-infras/cnetworkcontrollerbase.h	export	
+/epoc32/include/platform/comms-infras/connectionsettings.h	export	
+/epoc32/include/platform/comms-infras/cstatemachineagentbase.h	export	
+/epoc32/include/platform/comms-infras/dbaccess.h	export	
+/epoc32/include/platform/comms-infras/dialogprocessor.h	export	
+/epoc32/include/platform/comms-infras/eventlogger.h	export	
+/epoc32/include/platform/comms-infras/linkprovision.h	export	
+/epoc32/include/platform/comms-infras/linkprovision.inl	export	
+/epoc32/include/platform/comms-infras/mdbaccess.h	export	
+/epoc32/include/platform/comms-infras/netcfgextndhcpmsg.h	export	
+/epoc32/include/platform/comms-infras/netcfgextnotify.h	export	
+/epoc32/include/platform/comms-infras/netcfgextprov.h	export	
+/epoc32/include/platform/comms-infras/netups.h	export	
+/epoc32/include/platform/comms-infras/netupsproperties.h	export	
+/epoc32/include/platform/comms-infras/netupsserviceid.h	export	
+/epoc32/include/platform/comms-infras/netupsstatedef.h	export	
+/epoc32/include/platform/comms-infras/netupstypes.h	export	
+/epoc32/include/platform/comms-infras/networkconfigextensionbase.h	export	
+/epoc32/include/platform/comms-infras/ni_log.h	export	
+/epoc32/include/platform/comms-infras/nif_ver.h	export	
+/epoc32/include/platform/comms-infras/nifagt.h	export	
+/epoc32/include/platform/comms-infras/nifagt_internal.h	export	
+/epoc32/include/platform/comms-infras/nifconfigurationcontrol.h	export	
+/epoc32/include/platform/comms-infras/nifif.h	export	
+/epoc32/include/platform/comms-infras/nifif_internal.h	export	
+/epoc32/include/platform/comms-infras/nifmanipc.h	export	
+/epoc32/include/platform/comms-infras/nifprvar.h	export	
+/epoc32/include/platform/comms-infras/nifprvar_internal.h	export	
+/epoc32/include/platform/comms-infras/rconfigdaemon.h	export	
+/epoc32/include/platform/comms-infras/rconfigdaemonmess.h	export	
+/epoc32/include/platform/comms-infras/tunnelagentcpr.h	export	
+/epoc32/include/platform/comms-infras/tunnelagentcprstates.h	export	
+/epoc32/include/platform/dns_qry.h	export	
+/epoc32/include/platform/dns_qry.inl	export	
+/epoc32/include/platform/dnsproxyupdateif.h	export	
+/epoc32/include/platform/errors/generic/sockerr.ra	export	
+/epoc32/include/platform/errors/generic/sockerr.rls	export	
+/epoc32/include/platform/errors/generic/sslerr.ra	export	
+/epoc32/include/platform/errors/generic/sslerr.rls	export	
+/epoc32/include/platform/errors/generic/tcperr.ra	export	
+/epoc32/include/platform/errors/generic/tcperr.rls	export	
+/epoc32/include/platform/errors/generic/tcpip6err.ra	export	
+/epoc32/include/platform/errors/generic/tcpip6err.rls	export	
+/epoc32/include/platform/flow.h	export	
+/epoc32/include/platform/genericscprparams.h	export	
+/epoc32/include/platform/genericscprparams.inl	export	
+/epoc32/include/platform/genericsecuresocket.h	export	
+/epoc32/include/platform/genericsecuresocket.inl	export	
+/epoc32/include/platform/in6_dstcache.h	export	
+/epoc32/include/platform/in6_dstcache_internal.h	export	
+/epoc32/include/platform/in6_event.h	export	
+/epoc32/include/platform/in_bind.h	export	
+/epoc32/include/platform/in_iface.h	export	
+/epoc32/include/platform/in_pkt_platform.h	export	
+/epoc32/include/platform/in_sock_internal.h	export	
+/epoc32/include/platform/ip6_hook.h	export	
+/epoc32/include/platform/ip6_iprt.h	export	
+/epoc32/include/platform/ipsecpolapi.h	export	
+/epoc32/include/platform/lib_pfkey.h	export	
+/epoc32/include/platform/lib_pfkey.inl	export	
+/epoc32/include/platform/netconerror.h	export	
+/epoc32/include/platform/networking/cfbearers.h	export	
+/epoc32/include/platform/networking/crypto.h	export	
+/epoc32/include/platform/networking/csdavailabilitylistener.h	export	
+/epoc32/include/platform/networking/dhcpconfig.h	export	
+/epoc32/include/platform/networking/ethinter.h	export	
+/epoc32/include/platform/networking/ethmcpr.h	export	
+/epoc32/include/platform/networking/ethproto.h	export	
+/epoc32/include/platform/networking/idletimertest.h	export	
+/epoc32/include/platform/networking/in6_ipsec.h	export	
+/epoc32/include/platform/networking/in_ip.h	export	
+/epoc32/include/platform/networking/in_ip.inl	export	
+/epoc32/include/platform/networking/in_std.h	export	
+/epoc32/include/platform/networking/in_tcp.h	export	
+/epoc32/include/platform/networking/in_tcp.inl	export	
+/epoc32/include/platform/networking/ipaddrinfoparams.h	export	
+/epoc32/include/platform/networking/ipaddrinfoparams.inl	export	
+/epoc32/include/platform/networking/ipcpr_states.h	export	
+/epoc32/include/platform/networking/ipeventtypes.h	export	
+/epoc32/include/platform/networking/ipeventtypes.inl	export	
+/epoc32/include/platform/networking/ipeventtypesids.h	export	
+/epoc32/include/platform/networking/ipprotomessages.h	export	
+/epoc32/include/platform/networking/ipsecerr.h	export	
+/epoc32/include/platform/networking/llmnrconflict.h	export	
+/epoc32/include/platform/networking/mbmsparams.h	export	
+/epoc32/include/platform/networking/mbmsparams.inl	export	
+/epoc32/include/platform/networking/module_if.h	export	
+/epoc32/include/platform/networking/naptinterface.h	export	
+/epoc32/include/platform/networking/packetlogger.h	export	
+/epoc32/include/platform/networking/pfkeyext.h	export	
+/epoc32/include/platform/networking/pfkeyv2.h	export	
+/epoc32/include/platform/networking/pfqos.h	export	
+/epoc32/include/platform/networking/pfqoslib.h	export	
+/epoc32/include/platform/networking/pfqosparser.h	export	
+/epoc32/include/platform/networking/pktdrv.h	export	
+/epoc32/include/platform/networking/pktdrv_internal.h	export	
+/epoc32/include/platform/networking/pppbase.h	export	
+/epoc32/include/platform/networking/pppbase.inl	export	
+/epoc32/include/platform/networking/pppccp.h	export	
+/epoc32/include/platform/networking/pppcfg.h	export	
+/epoc32/include/platform/networking/pppcomp.h	export	
+/epoc32/include/platform/networking/pppconfig.h	export	
+/epoc32/include/platform/networking/pppconfig.inl	export	
+/epoc32/include/platform/networking/pppdebug.h	export	
+/epoc32/include/platform/networking/pppdef.h	export	
+/epoc32/include/platform/networking/ppplcp.h	export	
+/epoc32/include/platform/networking/ppplcp.inl	export	
+/epoc32/include/platform/networking/pppprog.h	export	
+/epoc32/include/platform/networking/pppsock.h	export	
+/epoc32/include/platform/networking/pppsock.inl	export	
+/epoc32/include/platform/networking/qos_extension.h	export	
+/epoc32/include/platform/networking/qos_if.h	export	
+/epoc32/include/platform/networking/qos_ini.h	export	
+/epoc32/include/platform/networking/qoserr.h	export	
+/epoc32/include/platform/networking/qoslib.h	export	
+/epoc32/include/platform/networking/qoslib_internal.h	export	
+/epoc32/include/platform/networking/qosparameters.h	export	
+/epoc32/include/platform/networking/vj.h	export	
+/epoc32/include/platform/networking/vj.inl	export	
+/epoc32/include/platform/networking/vjcomp.inl	export	
+/epoc32/include/platform/networking/vjdecomp.inl	export	
+/epoc32/include/platform/networking/vjif.h	export	
+/epoc32/include/platform/nifutl.h	export	
+/epoc32/include/platform/nifvar_internal.h	export	
+/epoc32/include/platform/nullagtprog.h	export	
+/epoc32/include/platform/pfkey_ext.h	export	
+/epoc32/include/platform/pfkey_send.h	export	
+/epoc32/include/platform/pfkey_send.inl	export	
+/epoc32/include/platform/posthook.h	export	
+/epoc32/include/platform/securesocket_internal.h	export	
+/epoc32/include/platform/ssl_internal.h	export	
+/epoc32/include/platform/tcpdfltrecvwin.h	export	
+/epoc32/include/platform/tcprecvwin.h	export	
+/epoc32/include/platform/timeout.h	export	
+/epoc32/include/platform/tlsprovinterface.h	export	
+/epoc32/include/platform/tlsprovtokeninterfaces.h	export	
+/epoc32/include/platform/tlsprovtokeninterfaces_internal.h	export	
+/epoc32/include/platform/tlstypedef.h	export	
+/epoc32/include/platform/tlstypedef_internal.h	export	
+/epoc32/include/platform/tunnelnifvar.h	export	
+/epoc32/include/punycodeconverter.h	export	
+/epoc32/include/sbque.h	export	
+/epoc32/include/securesocket.h	export	
+/epoc32/include/securesocketinterface.h	export	
+/epoc32/include/ssl.h	export	
+/epoc32/include/ssl_compatibility.h	export	
+/epoc32/include/sslerr.h	export	
+/epoc32/include/swtlstokentype.rsg	resource	armv5_urel
+/epoc32/include/swtlstokentype.rsg	resource	winscw_udeb
+/epoc32/include/tcp_hdr.h	export	
+/epoc32/include/tcpseq.h	export	
+/epoc32/include/tlscachetimeouts.rsg	resource	armv5_urel
+/epoc32/include/tlscachetimeouts.rsg	resource	winscw_udeb
+/epoc32/include/udp_hdr.h	export	
+/epoc32/release/armv5/lib/addressinfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/addressinfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/addressinfo{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/addressinfo{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agentprcore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agentprcore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agentprcore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agentprcore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dnsproxyclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dnsproxyclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dnsproxyclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dnsproxyclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dnsproxyupdateif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dnsproxyupdateif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dnsproxyupdateif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dnsproxyupdateif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etherpkt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etherpkt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etherpkt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etherpkt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ethint.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ethint.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ethint{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ethint{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/genericscprparams.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/genericscprparams.dso	build	armv5_urel
+/epoc32/release/armv5/lib/genericscprparams{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/genericscprparams{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/inhook6.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/inhook6.dso	build	armv5_urel
+/epoc32/release/armv5/lib/inhook6{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/inhook6{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/insock.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/insock.dso	build	armv5_urel
+/epoc32/release/armv5/lib/insock{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/insock{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipeventnotifier.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipeventnotifier.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipeventnotifier{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipeventnotifier{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipsecpolapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipsecpolapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipsecpolapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipsecpolapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipsecpolparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipsecpolparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipsecpolparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipsecpolparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iptransportimpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iptransportimpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iptransportimpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iptransportimpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irlan.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irlan.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irlan{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irlan{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lib_pfkey.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lib_pfkey.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lib_pfkey{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lib_pfkey{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/napt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/napt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/napt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/napt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netcfgext.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netcfgext.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netcfgext{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netcfgext{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netups.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netups.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netups{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netups{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nifman.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nifman.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nifman{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nifman{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/packetlogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/packetlogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/packetlogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/packetlogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pfqoslib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pfqoslib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pfqoslib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pfqoslib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pppmain.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pppmain.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pppmain{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pppmain{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/predcomp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/predcomp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/predcomp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/predcomp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/punycodeconverter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/punycodeconverter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/punycodeconverter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/punycodeconverter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qoslib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qoslib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qoslib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qoslib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securesocket.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securesocket.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securesocket{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securesocket{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/slip.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/slip.dso	build	armv5_urel
+/epoc32/release/armv5/lib/slip{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/slip{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ssl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ssl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ssl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ssl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tlscacheclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tlscacheclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tlscacheclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tlscacheclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tlsprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tlsprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tlsprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tlsprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vjcomp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vjcomp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vjcomp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vjcomp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/addressinfo.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/addressinfo.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentpr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentpr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentprcore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentprcore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dhcpserv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dhcpserv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnd.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnd.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnd_def.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnd_def.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnsproxy.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnsproxy.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnsproxyclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnsproxyclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnsproxyupdateif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dnsproxyupdateif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ether802.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ether802.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/etherpkt.drv	build	armv5_udeb
+/epoc32/release/armv5/udeb/etherpkt.drv.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ethint.nif	build	armv5_udeb
+/epoc32/release/armv5/udeb/ethint.nif.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/genericscprparams.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/genericscprparams.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/inhook6.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/inhook6.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/insock.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/insock.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipaddrinfoparams.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipaddrinfoparams.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipeventfactory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipeventfactory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipeventnotifier.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipeventnotifier.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipeventtypes.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipeventtypes.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipproto.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipproto.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsec6.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsec6.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipseccrypto.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipseccrypto.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsecpol.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsecpol.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsecpolapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsecpolapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsecpolparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipsecpolparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iptransport.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iptransport.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iptransportimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iptransportimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iptransportmanagement.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iptransportmanagement.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/irlan.drv	build	armv5_udeb
+/epoc32/release/armv5/udeb/irlan.drv.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lib_pfkey.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lib_pfkey.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbmsparams.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbmsparams.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/napt.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/napt.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netcfgext.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netcfgext.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netcfgextndhcp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netcfgextndhcp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netcfgextnmip.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netcfgextnmip.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netups.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netups.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nifman.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nifman.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nullagt.agt	build	armv5_udeb
+/epoc32/release/armv5/udeb/nullagt.agt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/packetlogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/packetlogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pfqoslib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pfqoslib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ppp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ppp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pppmain.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pppmain.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/predcomp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/predcomp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/punycodeconverter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/punycodeconverter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qos.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/qos.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qosipscpr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qosipscpr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qoslib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qoslib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/securesocket.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/securesocket.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/slip.nif	build	armv5_udeb
+/epoc32/release/armv5/udeb/slip.nif.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ssl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ssl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swtlstokentypeplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swtlstokentypeplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tcpip6.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/tcpip6.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tlscacheclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tlscacheclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tlscacheserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tlscacheserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tlsprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tlsprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tunnel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tunnel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vjcomp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vjcomp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/addressinfo.prt	build	armv5_urel
+/epoc32/release/armv5/urel/addressinfo.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/agentpr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agentpr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agentprcore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agentprcore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dhcpserv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dhcpserv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dnd.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dnd.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dnd_def.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dnd_def.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dnsproxy.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dnsproxy.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dnsproxyclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dnsproxyclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dnsproxyupdateif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dnsproxyupdateif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ether802.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ether802.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/etherpkt.drv	build	armv5_urel
+/epoc32/release/armv5/urel/etherpkt.drv.map	build	armv5_urel
+/epoc32/release/armv5/urel/ethint.nif	build	armv5_urel
+/epoc32/release/armv5/urel/ethint.nif.map	build	armv5_urel
+/epoc32/release/armv5/urel/genericscprparams.dll	build	armv5_urel
+/epoc32/release/armv5/urel/genericscprparams.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/inhook6.dll	build	armv5_urel
+/epoc32/release/armv5/urel/inhook6.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/insock.dll	build	armv5_urel
+/epoc32/release/armv5/urel/insock.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipaddrinfoparams.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipaddrinfoparams.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipeventfactory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipeventfactory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipeventnotifier.prt	build	armv5_urel
+/epoc32/release/armv5/urel/ipeventnotifier.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipeventtypes.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipeventtypes.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipproto.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipproto.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipsec6.prt	build	armv5_urel
+/epoc32/release/armv5/urel/ipsec6.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipseccrypto.prt	build	armv5_urel
+/epoc32/release/armv5/urel/ipseccrypto.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipsecpol.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ipsecpol.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipsecpolapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipsecpolapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipsecpolparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipsecpolparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iptransport.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iptransport.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iptransportimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iptransportimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iptransportmanagement.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iptransportmanagement.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/irlan.drv	build	armv5_urel
+/epoc32/release/armv5/urel/irlan.drv.map	build	armv5_urel
+/epoc32/release/armv5/urel/lib_pfkey.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lib_pfkey.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mbmsparams.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mbmsparams.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/napt.prt	build	armv5_urel
+/epoc32/release/armv5/urel/napt.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/netcfgext.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netcfgext.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netcfgextndhcp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netcfgextndhcp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netcfgextnmip.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netcfgextnmip.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netups.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netups.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nifman.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nifman.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nullagt.agt	build	armv5_urel
+/epoc32/release/armv5/urel/nullagt.agt.map	build	armv5_urel
+/epoc32/release/armv5/urel/packetlogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/packetlogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pfqoslib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pfqoslib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ppp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ppp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pppmain.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pppmain.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/predcomp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/predcomp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/punycodeconverter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/punycodeconverter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qos.prt	build	armv5_urel
+/epoc32/release/armv5/urel/qos.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/qosipscpr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qosipscpr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qoslib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qoslib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/securesocket.dll	build	armv5_urel
+/epoc32/release/armv5/urel/securesocket.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/slip.nif	build	armv5_urel
+/epoc32/release/armv5/urel/slip.nif.map	build	armv5_urel
+/epoc32/release/armv5/urel/ssl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ssl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swtlstokentypeplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swtlstokentypeplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tcpip6.prt	build	armv5_urel
+/epoc32/release/armv5/urel/tcpip6.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/tlscacheclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tlscacheclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tlscacheserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tlscacheserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/tlsprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tlsprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tunnel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tunnel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vjcomp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vjcomp.dll.map	build	armv5_urel
+/epoc32/release/marm/agentu.def	export	
+/epoc32/release/wins/agentu.def	export	
+/epoc32/release/winscw/udeb/addressinfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/addressinfo.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/agentpr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agentprcore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agentprcore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dhcpserv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dnd.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dnd_def.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dnsproxy.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dnsproxyclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dnsproxyclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dnsproxyupdateif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dnsproxyupdateif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ether802.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/etherpkt.drv	build	winscw_udeb
+/epoc32/release/winscw/udeb/etherpkt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ethint.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ethint.nif	build	winscw_udeb
+/epoc32/release/winscw/udeb/genericscprparams.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/genericscprparams.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/inhook6.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/inhook6.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/insock.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/insock.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipaddrinfoparams.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipeventfactory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipeventnotifier.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipeventnotifier.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipeventtypes.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipproto.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipsec6.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipseccrypto.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipsecpol.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipsecpolapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipsecpolapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipsecpolparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipsecpolparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iptransport.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iptransportimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iptransportimpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iptransportmanagement.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/irlan.drv	build	winscw_udeb
+/epoc32/release/winscw/udeb/irlan.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lib_pfkey.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lib_pfkey.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mbmsparams.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/napt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/napt.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/netcfgext.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netcfgext.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/netcfgext.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/netcfgextndhcp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netcfgextnmip.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netups.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netups.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nifman.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nifman.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nullagt.agt	build	winscw_udeb
+/epoc32/release/winscw/udeb/packetlogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/packetlogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pfqoslib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pfqoslib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ppp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pppmain.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pppmain.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/predcomp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/predcomp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/punycodeconverter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/punycodeconverter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qos.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/qosipscpr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qoslib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qoslib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/securesocket.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/securesocket.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/slip.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/slip.nif	build	winscw_udeb
+/epoc32/release/winscw/udeb/ssl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ssl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swtlstokentypeplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tcpip6.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/tlscacheclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tlscacheclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tlscacheserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/tlsprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tlsprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tunnel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vjcomp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vjcomp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f7989/esock/ip.ipeventnotifier.esk	export	
+/epoc32/release/winscw/udeb/z/resource/errors/sockerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/sslerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/tcperr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/tcpip6err.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/agentpr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/dnsproxyupdateif.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ether802.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ipaddrinfoparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ipeventfactory.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ipeventtypes.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ipproto.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/iptransport.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/iptransportmanagement.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mbmsparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/netcfgextndhcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/netcfgextnmip.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ppp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/qosipscpr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/swtlstokentypeplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tunnel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/swtlstokentype.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/tlscacheserver/tlscachetimeouts.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/tlsproviderpolicy.ini	export	
+/epoc32/release/winscw/urel/addressinfo.prt	build	winscw_urel
+/epoc32/release/winscw/urel/addressinfo.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/agentpr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agentpr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/agentprcore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agentprcore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dhcpserv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dhcpserv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dnd.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dnd.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dnd_def.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dnd_def.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dnsproxy.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dnsproxy.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dnsproxyclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dnsproxyclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dnsproxyupdateif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dnsproxyupdateif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ether802.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ether802.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/etherpkt.drv	build	winscw_urel
+/epoc32/release/winscw/urel/etherpkt.drv.map	build	winscw_urel
+/epoc32/release/winscw/urel/ethint.nif	build	winscw_urel
+/epoc32/release/winscw/urel/ethint.nif.map	build	winscw_urel
+/epoc32/release/winscw/urel/genericscprparams.dll	build	winscw_urel
+/epoc32/release/winscw/urel/genericscprparams.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/inhook6.dll	build	winscw_urel
+/epoc32/release/winscw/urel/inhook6.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/insock.dll	build	winscw_urel
+/epoc32/release/winscw/urel/insock.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipaddrinfoparams.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipaddrinfoparams.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipeventfactory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipeventfactory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipeventnotifier.prt	build	winscw_urel
+/epoc32/release/winscw/urel/ipeventnotifier.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipeventtypes.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipeventtypes.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipproto.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipproto.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipsec6.prt	build	winscw_urel
+/epoc32/release/winscw/urel/ipsec6.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipseccrypto.prt	build	winscw_urel
+/epoc32/release/winscw/urel/ipseccrypto.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipsecpol.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ipsecpol.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipsecpolapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipsecpolapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipsecpolparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipsecpolparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iptransport.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iptransport.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iptransportimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iptransportimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iptransportmanagement.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iptransportmanagement.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/irlan.drv	build	winscw_urel
+/epoc32/release/winscw/urel/irlan.drv.map	build	winscw_urel
+/epoc32/release/winscw/urel/lib_pfkey.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lib_pfkey.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mbmsparams.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mbmsparams.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/napt.prt	build	winscw_urel
+/epoc32/release/winscw/urel/napt.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/netcfgext.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netcfgext.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netcfgext.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/netcfgextndhcp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netcfgextndhcp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netcfgextnmip.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netcfgextnmip.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netups.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netups.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nifman.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nifman.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nullagt.agt	build	winscw_urel
+/epoc32/release/winscw/urel/nullagt.agt.map	build	winscw_urel
+/epoc32/release/winscw/urel/packetlogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/packetlogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pfqoslib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pfqoslib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ppp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ppp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pppmain.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pppmain.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/predcomp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/predcomp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/punycodeconverter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/punycodeconverter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qos.prt	build	winscw_urel
+/epoc32/release/winscw/urel/qos.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/qosipscpr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qosipscpr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qoslib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qoslib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/securesocket.dll	build	winscw_urel
+/epoc32/release/winscw/urel/securesocket.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/slip.nif	build	winscw_urel
+/epoc32/release/winscw/urel/slip.nif.map	build	winscw_urel
+/epoc32/release/winscw/urel/ssl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ssl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swtlstokentypeplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swtlstokentypeplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tcpip6.prt	build	winscw_urel
+/epoc32/release/winscw/urel/tcpip6.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/tlscacheclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tlscacheclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tlscacheserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tlscacheserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/tlsprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tlsprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tunnel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tunnel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vjcomp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vjcomp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101f7989/esock/ip.ipeventnotifier.esk	export	
+/epoc32/release/winscw/urel/z/resource/errors/sockerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/sslerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/tcperr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/tcpip6err.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/agentpr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/dnsproxyupdateif.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ether802.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ipaddrinfoparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ipeventfactory.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ipeventtypes.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ipproto.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/iptransport.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/iptransportmanagement.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mbmsparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/netcfgextndhcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/netcfgextnmip.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ppp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/qosipscpr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/swtlstokentypeplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tunnel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/swtlstokentype.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/tlscacheserver/tlscachetimeouts.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/tlsproviderpolicy.ini	export	
+/epoc32/rom/include/addressinfohook.iby	export	
+/epoc32/rom/include/agentpr.iby	export	
+/epoc32/rom/include/agentprcore.iby	export	
+/epoc32/rom/include/dhcpserv.iby	export	
+/epoc32/rom/include/dnd.iby	export	
+/epoc32/rom/include/dnsproxy.iby	export	
+/epoc32/rom/include/dnsproxyclient.iby	export	
+/epoc32/rom/include/dnsproxyupdateif.iby	export	
+/epoc32/rom/include/ether802.iby	export	
+/epoc32/rom/include/genericscprparams.iby	export	
+/epoc32/rom/include/inhook6.iby	export	
+/epoc32/rom/include/insock.iby	export	
+/epoc32/rom/include/ipaddrinfoparams.iby	export	
+/epoc32/rom/include/ipeventfactory.iby	export	
+/epoc32/rom/include/ipeventnotifier.iby	export	
+/epoc32/rom/include/ipeventtypes.iby	export	
+/epoc32/rom/include/ipproto.iby	export	
+/epoc32/rom/include/ipsec.iby	export	
+/epoc32/rom/include/ipsec6.iby	export	
+/epoc32/rom/include/ipseccrypto.iby	export	
+/epoc32/rom/include/iptransport.iby	export	
+/epoc32/rom/include/mbmsparams.iby	export	
+/epoc32/rom/include/napt.iby	export	
+/epoc32/rom/include/netcfgext.iby	export	
+/epoc32/rom/include/netcfgextndhcp.iby	export	
+/epoc32/rom/include/netcfgextnmip.iby	export	
+/epoc32/rom/include/netups.iby	export	
+/epoc32/rom/include/network.iby	export	
+/epoc32/rom/include/networking_dnsproxy.iby	export	
+/epoc32/rom/include/networktest.iby	export	
+/epoc32/rom/include/networktest.oby	export	
+/epoc32/rom/include/nifman.iby	export	
+/epoc32/rom/include/nullagt.iby	export	
+/epoc32/rom/include/packetlogger.iby	export	
+/epoc32/rom/include/pfqoslib.iby	export	
+/epoc32/rom/include/ppp.iby	export	
+/epoc32/rom/include/predcomp.iby	export	
+/epoc32/rom/include/punycodeconverter.iby	export	
+/epoc32/rom/include/qos.iby	export	
+/epoc32/rom/include/qosipscpr.iby	export	
+/epoc32/rom/include/qoslib.iby	export	
+/epoc32/rom/include/tcpip6.iby	export	
+/epoc32/rom/include/tls.iby	export	
+/epoc32/rom/include/tlsprovider.iby	export	
+/epoc32/rom/include/tlsproviderconfig.iby	export	
+/epoc32/tools/configchange.pl	export	
+/epoc32/wins/c/ethernetced.xml	export	
+/epoc32/wins/c/private/101f7989/esock/ether802.ini	export	
+/epoc32/wins/c/private/101f7989/esock/ip.qos.esk	export	
+/epoc32/wins/c/private/101f7989/esock/qos.ini	export	
+/epoc32/wins/c/private/101f7989/esock/qospolicies.ini	export	
+/epoc32/winscw/c/ethernetced.xml	export	
+/epoc32/winscw/c/private/01000000/ipsecpol.ini	export	
+/epoc32/winscw/c/private/10000882/resolver.ini	export	
+/epoc32/winscw/c/private/101f7989/esock/ccp.ini	export	
+/epoc32/winscw/c/private/101f7989/esock/ether802.ini	export	
+/epoc32/winscw/c/private/101f7989/esock/ip.addressinfo_tcpip.esk	export	
+/epoc32/winscw/c/private/101f7989/esock/ip.ipsec6.esk	export	
+/epoc32/winscw/c/private/101f7989/esock/ip.napt.esk	export	
+/epoc32/winscw/c/private/101f7989/esock/ip.qos.esk	export	
+/epoc32/winscw/c/private/101f7989/esock/ip.tcpip.esk	export	
+/epoc32/winscw/c/private/101f7989/esock/napt.ini	export	
+/epoc32/winscw/c/private/101f7989/esock/qos.ini	export	
+/epoc32/winscw/c/private/101f7989/esock/qospolicies.ini	export	
+/epoc32/winscw/c/private/101f7989/esock/tcpip.ini	export	
+/epoc32/winscw/c/private/200215f1/resolver.ini	export	
+/epoc32/winscw/c/ttlsprovider/policy/tlsproviderpolicy.ini	export	

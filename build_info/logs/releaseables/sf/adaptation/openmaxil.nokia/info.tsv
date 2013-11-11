@@ -1,0 +1,14 @@
+/epoc32/data/z/resource/plugins/omxilpcmrenderer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/omxilpcmrenderer.rsc	resource	winscw_udeb
+/epoc32/include/omxilpcmrenderer.rsg	resource	armv5_urel
+/epoc32/include/omxilpcmrenderer.rsg	resource	winscw_udeb
+/epoc32/release/armv5/udeb/omxilpcmrenderer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilpcmrenderer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/omxilpcmrenderer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/omxilpcmrenderer.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/omxilpcmrenderer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/omxilpcmrenderer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/omxilpcmrenderer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/omxilpcmrenderer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/omxilpcmrenderer.rsc	resource	winscw_udeb
+/epoc32/rom/include/omxilcompref.iby	export	

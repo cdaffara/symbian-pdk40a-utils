@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="graphics" level="services" levels="adaptation engines internal-adaptations device-interface internal-utils app-if" long-name="Graphics">
+<collection name="graphicsaccelaration" long-name="Graphics Acceleration" level="adaptation">
+<component name="vgi" long-name="VGI" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsaccelaration/vgi/group"/>
+</component>
+</collection>
+<collection name="m3g" long-name="Mobile 3D Graphics" level="internal-adaptations">
+<component name="m3gcore11" long-name="M3G Core 1.1" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/graphics/m3g/m3gcore11/group"/>
+</component>
+</collection>
+<collection name="graphicsresourceservices" long-name="Graphics Resource Services" level="engines">
+<component name="graphicsresource" long-name="Graphics Resource" introduced="^3" deprecated="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsresourceservices/graphicsresource/group" mrp="/sf/os/graphics/graphicsresourceservices/graphicsresource/group/graphics_graphicsresource.mrp"/>
+</component>
+<component name="graphicsresourceadaptation" long-name="Graphics Resource Adaptation" introduced="^3" deprecated="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsresourceservices/graphicsresourceadaptation/group" mrp="/sf/os/graphics/graphicsresourceservices/graphicsresourceadaptation/group/graphics_graphicsresourceadapter.mrp"/>
+</component>
+<component name="graphicsresourceimplementation" long-name="Graphics Resource Implementation" introduced="^4" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsresourceservices/graphicsresourceimplementation/group" mrp="/sf/os/graphics/graphicsresourceservices/graphicsresourceimplementation/group/graphics_graphicsresourceimplementation.mrp"/>
+</component>
+<component name="graphicsresourceinterface" long-name="Graphics Resource Interface" introduced="^4" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsresourceservices/graphicsresourceinterface/group" mrp="/sf/os/graphics/graphicsresourceservices/graphicsresourceinterface/group/graphics_graphicsresourceinterface.mrp"/>
+</component>
+</collection>
+<collection name="graphicsutils" long-name="Graphics Utils" level="engines">
+<component name="commongraphicsheaders" long-name="Common Graphics Headers" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/graphics/graphicsutils/commongraphicsheaders/group" mrp="/sf/os/graphics/graphicsutils/commongraphicsheaders/group/graphics_commonheader.mrp"/>
+</component>
+</collection>
+<collection name="graphicshwdrivers" long-name="Graphics Hardware Drivers" level="adaptation">
+<!-- displayldd to be moved here -->
+<component name="surfacemgr" long-name="Surface Manager" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicshwdrivers/surfacemgr/group" mrp="/sf/os/graphics/graphicshwdrivers/surfacemgr/group/graphics_surfacemanager.mrp"/>
+</component>
+</collection>
+<collection name="graphicscomposition" long-name="Graphics Composition" level="engines">
+<component name="openwfcinterface" long-name="OpenWF Composition Interface" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicscomposition/openwfcinterface/group" mrp="/sf/os/graphics/graphicscomposition/openwfcinterface/group/graphics_openwfcinterface.mrp"/>
+</component>
+<component name="openwfcompositionengine" long-name="OpenWF Composition Engine" introduced="^3" purpose="development">
+<unit bldFile="/sf/os/graphics/graphicscomposition/openwfcompositionengine/group" mrp="/sf/os/graphics/graphicscomposition/openwfcompositionengine/group/graphics_openwfcompositionengine.mrp"/>
+</component>
+<component name="openwfsupport" long-name="OpenWF Support" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicscomposition/openwfsupport/group" mrp="/sf/os/graphics/graphicscomposition/openwfsupport/group/graphics_openwfsupport.mrp"/>
+</component>
+<component name="surfaceupdate" long-name="Surface Update" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicscomposition/surfaceupdate/group" mrp="/sf/os/graphics/graphicscomposition/surfaceupdate/group/graphics_surfaceupdate.mrp"/>
+</component>
+<component name="openwfc_ri_displaychannel" long-name="OpenWFC RI Display Channel" introduced="^4" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicscomposition/openwfc_ri_displaychannel/group" mrp="/sf/os/graphics/graphicscomposition/openwfc_ri_displaychannel/group/openwfc_ri_displaychannel.mrp"/>
+</component>
+</collection>
+<collection name="graphicstest" long-name="Graphics Test" level="app-if">
+<component name="uibench" long-name="UI Bench" introduced="9.2" purpose="development">
+<unit bldFile="/sf/os/graphics/graphicstest/uibench/group" mrp="/sf/os/graphics/graphicstest/uibench/group/graphics_ui_bench.mrp"/>
+</component>
+</collection>
+<collection name="graphics_plat" long-name="Graphics Platform Interfaces" level="app-if">
+<component name="m3g_core_api" long-name="M3G Core API" filter="sf_build" purpose="optional" class="api">
+<unit bldFile="/sf/os/graphics/graphics_plat/m3g_core_api/group"/>
+</component>
+</collection>
+<collection name="graphics_info" long-name="Graphics Info" level="app-if">
+<component name="graphicsdocs" long-name="Graphics Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/graphics/graphics_info/graphicsdocs/graphics_documentation.mrp"/>
+</component>
+<component name="graphics_metadata" long-name="Graphics Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/graphics/graphics_info/graphics_metadata/graphics_metadata.mrp"/>
+</component>
+</collection>
+<collection name="windowing" long-name="Windowing" level="app-if">
+<component name="windowserver" long-name="Window Server" purpose="mandatory">
+<unit bldFile="/sf/os/graphics/windowing/windowserver/group" mrp="/sf/os/graphics/windowing/windowserver/group/graphics_wserv.mrp"/>
+</component>
+<component name="windowserverplugins" long-name="Window Server Plugins" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/graphics/windowing/windowserverplugins/group" mrp="/sf/os/graphics/windowing/windowserverplugins/group/graphics_wserv_std_plugins.mrp"/>
+</component>
+</collection>
+<collection name="printingservices" long-name="Printing Services" level="app-if">
+<component name="printerdriversupport" long-name="Printer Driver Support" purpose="optional">
+<unit bldFile="/sf/os/graphics/printingservices/printerdriversupport/group" mrp="/sf/os/graphics/printingservices/printerdriversupport/group/graphics_pdrstore.mrp"/>
+</component>
+<component name="printerdrivers" long-name="Printer Drivers" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/graphics/printingservices/printerdrivers/group" mrp="/sf/os/graphics/printingservices/printerdrivers/group/graphics_printdrv.mrp"/>
+</component>
+</collection>
+<collection name="fbs" long-name="Font and Bitmap Server" level="device-interface">
+<component name="fontandbitmapserver" long-name="Font and Bitmap Server" purpose="mandatory">
+<unit bldFile="/sf/os/graphics/fbs/fontandbitmapserver/group" mrp="/sf/os/graphics/fbs/fontandbitmapserver/group/graphics_fbserv.mrp"/>
+</component>
+</collection>
+<collection name="opengles" long-name="OpenGLES" level="internal-adaptations">
+<component name="openglesinterface" long-name="OpenGL ES Interface" introduced="8.0" purpose="optional">
+<unit bldFile="/sf/os/graphics/opengles/openglesinterface/group" mrp="/sf/os/graphics/opengles/openglesinterface/group/graphics_openglesheaders.mrp"/>
+</component>
+<component name="opengles_stub" long-name="OpenGL ES Stub" introduced="^2" filter="sf_build" purpose="optional">
+<unit bldFile="/sf/os/graphics/opengles/openglesinterface/group/opengles_stub"/>
+</component>
+</collection>
+<collection name="openvg" long-name="OpenVG" level="internal-adaptations">
+<component name="openvginterface" long-name="OpenVG Interface" introduced="^2" purpose="optional">
+<unit bldFile="/sf/os/graphics/openvg/openvginterface/group" mrp="/sf/os/graphics/openvg/openvginterface/group/graphics_openvgheaders.mrp"/>
+</component>
+<component name="openvg11" long-name="OpenVG 1.1" filter="s60" purpose="optional">
+<!-- this needs to be moved to it's own component directory, ie openvg/openvg11 -->
+<unit bldFile="/sf/os/graphics/openvg/openvginterface/group/openvg11"/>
+</component>
+<component name="sfopenvg" long-name="Khronos OpenVG Reference Implementation" introduced="^2" filter="sf_build" purpose="optional">
+<unit bldFile="/sf/os/graphics/openvg/openvgrefimplementation/sfopenvg/group"/>
+</component>
+</collection>
+<collection name="egl" long-name="EGL" level="internal-adaptations">
+<component name="eglinterface" long-name="EGL Interface" introduced="^2" purpose="mandatory">
+<unit bldFile="/sf/os/graphics/egl/eglinterface/group" mrp="/sf/os/graphics/egl/eglinterface/group/graphics_eglheaders.mrp"/>
+</component>
+<component name="eglswitch" long-name="EGL Switch" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/egl/eglswitch/group" mrp="/sf/os/graphics/egl/eglswitch/group/graphics_eglswitch.mrp"/>
+</component>
+<component name="eglrefimpl" long-name="EGL Reference Implementation" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/egl/eglrefimpl/group" mrp="/sf/os/graphics/egl/eglrefimpl/group/graphics_eglrefimpl.mrp"/>
+</component>
+<component name="egltest" long-name="EGL Tests" introduced="^3" purpose="development">
+<unit bldFile="/sf/os/graphics/egl/egltest/group" mrp="/sf/os/graphics/egl/egltest/group/graphics_egltest.mrp"/>
+</component>
+</collection>
+<collection name="graphicsdeviceinterface" long-name="Graphics Device Interface" level="device-interface">
+<component name="gdi" long-name="GDI" purpose="mandatory">
+<unit bldFile="/sf/os/graphics/graphicsdeviceinterface/gdi/group" mrp="/sf/os/graphics/graphicsdeviceinterface/gdi/group/graphics_gdi.mrp"/>
+</component>
+<component name="bitgdi" long-name="BitGDI" filter="api_test" purpose="mandatory">
+<!-- just api_test, not test -->
+<unit bldFile="/sf/os/graphics/graphicsdeviceinterface/bitgdi/group" mrp="/sf/os/graphics/graphicsdeviceinterface/bitgdi/group/graphics_bitgdi.mrp"/>
+</component>
+<component name="colourpalette" long-name="Colour Palette" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsdeviceinterface/colourpalette/group" mrp="/sf/os/graphics/graphicsdeviceinterface/colourpalette/group/graphics_palette.mrp"/>
+</component>
+<component name="screendriver" long-name="Screen Driver" introduced="6.1" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/graphics/graphicsdeviceinterface/screendriver/group" mrp="/sf/os/graphics/graphicsdeviceinterface/screendriver/group/graphics_screendriver.mrp"/>
+</component>
+<component name="directgdi" long-name="DirectGDI" introduced="^3" deprecated="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsdeviceinterface/directgdi/group" mrp="/sf/os/graphics/graphicsdeviceinterface/directgdi/group/graphics_directgdi.mrp"/>
+</component>
+<component name="directgdiinterface" long-name="DirectGDI Interface" introduced="^3" deprecated="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsdeviceinterface/directgdiinterface/group" mrp="/sf/os/graphics/graphicsdeviceinterface/directgdiinterface/group/graphics_directgdiheaders.mrp"/>
+</component>
+<component name="directgdiadaptation" long-name="DirectGDI Adaptation" introduced="^3" deprecated="^3" purpose="optional">
+<unit bldFile="/sf/os/graphics/graphicsdeviceinterface/directgdiadaptation/group" mrp="/sf/os/graphics/graphicsdeviceinterface/directgdiadaptation/group/graphics_directgdiadapter.mrp"/>
+</component>
+</collection>
+<collection name="graphicstools" long-name="Graphics Tools" level="internal-utils">
+<component name="gdi_tools" long-name="GDI Tools" purpose="development" class="PC">
+<unit bldFile="/sf/os/graphics/graphicstools/gdi_tools/group" mrp="/sf/os/graphics/graphicstools/gdi_tools/group/graphics_gditools.mrp"/>
+</component>
+</collection>
+<collection name="graphicsapitest" long-name="Graphics API Tests" level="app-if"/>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

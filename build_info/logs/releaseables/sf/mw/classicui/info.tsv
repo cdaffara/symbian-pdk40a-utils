@@ -1,0 +1,1785 @@
+/epoc32/data/z/private/10003a3f/apps/akncapserver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/akncapserver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/aknconf_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/aknconf_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/aknnfysrv_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/aknnfysrv_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202BE9/20021192.txt	export	
+/epoc32/data/z/private/10207218/aknmemorycardui.r01	resource	armv5_urel
+/epoc32/data/z/private/10207218/aknmemorycardui.r01	resource	winscw_udeb
+/epoc32/data/z/private/10207218/aknmemorycardui.rsc	resource	armv5_urel
+/epoc32/data/z/private/10207218/aknmemorycardui.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10207218/backup_registration.xml	export	
+/epoc32/data/z/resource/aiwservicehandler.r01	resource	armv5_urel
+/epoc32/data/z/resource/aiwservicehandler.r01	resource	winscw_udeb
+/epoc32/data/z/resource/aiwservicehandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/aiwservicehandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/akncompamode.rsc	resource	armv5_urel
+/epoc32/data/z/resource/akncompamode.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/akncomparesources.r01	resource	armv5_urel
+/epoc32/data/z/resource/akncomparesources.r01	resource	winscw_udeb
+/epoc32/data/z/resource/akncomparesources.rsc	resource	armv5_urel
+/epoc32/data/z/resource/akncomparesources.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/aknnotpi.r01	resource	armv5_urel
+/epoc32/data/z/resource/aknnotpi.r01	resource	winscw_udeb
+/epoc32/data/z/resource/aknnotpi.rsc	resource	armv5_urel
+/epoc32/data/z/resource/aknnotpi.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/aknpriv.r01	resource	armv5_urel
+/epoc32/data/z/resource/aknpriv.r01	resource	winscw_udeb
+/epoc32/data/z/resource/aknpriv.rsc	resource	armv5_urel
+/epoc32/data/z/resource/aknpriv.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/aknconf.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/aknconf.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/aknconf.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/aknconfgesture.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/aknconfgesture.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/aknconfphysics.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/aknconfphysics.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/aknmemorycardui.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/aknmemorycardui.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/avkon2.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/avkon2.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/callstatus.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/callstatus.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/commondialogs.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/default_app_icon.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/default_app_icon.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/apps/lch.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/lch.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/smiley.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/avkon.r01	resource	armv5_urel
+/epoc32/data/z/resource/avkon.r01	resource	winscw_udeb
+/epoc32/data/z/resource/avkon.rsc	resource	armv5_urel
+/epoc32/data/z/resource/avkon.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/cdl/102827cf_cdl_detail.rsc	resource	armv5_urel
+/epoc32/data/z/resource/cdl/102827cf_cdl_detail.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/commondialogs.r01	resource	armv5_urel
+/epoc32/data/z/resource/commondialogs.r01	resource	winscw_udeb
+/epoc32/data/z/resource/commondialogs.rsc	resource	armv5_urel
+/epoc32/data/z/resource/commondialogs.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/directorylocalizer.r01	resource	armv5_urel
+/epoc32/data/z/resource/directorylocalizer.r01	resource	winscw_udeb
+/epoc32/data/z/resource/directorylocalizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/directorylocalizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/documenthandlerui.r01	resource	armv5_urel
+/epoc32/data/z/resource/documenthandlerui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/documenthandlerui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/documenthandlerui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eikcdlg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eikcdlg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eikcoctl.r01	resource	armv5_urel
+/epoc32/data/z/resource/eikcoctl.r01	resource	winscw_udeb
+/epoc32/data/z/resource/eikcoctl.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eikcoctl.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eikctl.r01	resource	armv5_urel
+/epoc32/data/z/resource/eikctl.r01	resource	winscw_udeb
+/epoc32/data/z/resource/eikctl.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eikctl.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/eiksrvui.r01	resource	armv5_urel
+/epoc32/data/z/resource/eiksrvui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/eiksrvui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/eiksrvui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/errors/errorresgt.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/errorresgt.r01	resource	winscw_udeb
+/epoc32/data/z/resource/finditemmenu.r01	resource	armv5_urel
+/epoc32/data/z/resource/finditemmenu.r01	resource	winscw_udeb
+/epoc32/data/z/resource/finditemmenu.rsc	resource	armv5_urel
+/epoc32/data/z/resource/finditemmenu.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/finditemui.r01	resource	armv5_urel
+/epoc32/data/z/resource/finditemui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/finditemui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/finditemui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/102827cf.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/102827cf.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/aiwresolver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/aiwresolver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/akncompamode.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/akncompamode.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/aknextendedfader.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/aknextendedfader_arm11.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/aknextendedfader_armv5.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/akninit.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/akninit.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/aknnotifyplugin2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/aknnotifyplugin2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/animators.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/animators.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/avkonstartupextensionplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/avkonstartupextensionplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/smiley.r01	resource	armv5_urel
+/epoc32/data/z/resource/smiley.r01	resource	winscw_udeb
+/epoc32/data/z/resource/smiley.rsc	resource	armv5_urel
+/epoc32/data/z/resource/smiley.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/uiklaf/eikcore.r01	resource	armv5_urel
+/epoc32/data/z/resource/uiklaf/eikcore.r01	resource	winscw_udeb
+/epoc32/data/z/resource/uiklaf/eikcore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/uiklaf/eikcore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/uiklaf/eikpriv.r01	resource	armv5_urel
+/epoc32/data/z/resource/uiklaf/eikpriv.r01	resource	winscw_udeb
+/epoc32/data/z/resource/uiklaf/eikpriv.rsc	resource	armv5_urel
+/epoc32/data/z/resource/uiklaf/eikpriv.rsc	resource	winscw_udeb
+/epoc32/include/aiwservicehandler.rsg	resource	armv5_urel
+/epoc32/include/aiwservicehandler.rsg	resource	winscw_udeb
+/epoc32/include/akncompamode.rsg	resource	armv5_urel
+/epoc32/include/akncompamode.rsg	resource	winscw_udeb
+/epoc32/include/akncomparesources.rsg	resource	armv5_urel
+/epoc32/include/akncomparesources.rsg	resource	winscw_udeb
+/epoc32/include/aknconf.rsg	resource	armv5_urel
+/epoc32/include/aknconf.rsg	resource	winscw_udeb
+/epoc32/include/aknconfgesture.rsg	resource	armv5_urel
+/epoc32/include/aknconfgesture.rsg	resource	winscw_udeb
+/epoc32/include/aknconfphysics.rsg	resource	armv5_urel
+/epoc32/include/aknconfphysics.rsg	resource	winscw_udeb
+/epoc32/include/aknextendedfader.rsg	resource	winscw_udeb
+/epoc32/include/aknmemorycardui.mbg	bitmap	armv5_urel
+/epoc32/include/aknmemorycardui.mbg	bitmap	winscw_udeb
+/epoc32/include/aknmemorycardui.rsg	resource	armv5_urel
+/epoc32/include/aknmemorycardui.rsg	resource	winscw_udeb
+/epoc32/include/aknnotpi.rsg	resource	armv5_urel
+/epoc32/include/aknnotpi.rsg	resource	winscw_udeb
+/epoc32/include/aknpriv.rsg	resource	armv5_urel
+/epoc32/include/aknpriv.rsg	resource	winscw_udeb
+/epoc32/include/avkon.mbg	bitmap	armv5_urel
+/epoc32/include/avkon.mbg	bitmap	winscw_udeb
+/epoc32/include/avkon.rsg	resource	armv5_urel
+/epoc32/include/avkon.rsg	resource	winscw_udeb
+/epoc32/include/callstatus.mbg	bitmap	armv5_urel
+/epoc32/include/callstatus.mbg	bitmap	winscw_udeb
+/epoc32/include/commondialogs.mbg	bitmap	armv5_urel
+/epoc32/include/commondialogs.mbg	bitmap	winscw_udeb
+/epoc32/include/commondialogs.rsg	resource	armv5_urel
+/epoc32/include/commondialogs.rsg	resource	winscw_udeb
+/epoc32/include/cshelp/find.hlp.hrh	export	
+/epoc32/include/def/eabi/coefepu.def	export	
+/epoc32/include/def/eabi/eikinitu.def	export	
+/epoc32/include/directorylocalizer.rsg	resource	armv5_urel
+/epoc32/include/directorylocalizer.rsg	resource	winscw_udeb
+/epoc32/include/documenthandlerui.rsg	resource	armv5_urel
+/epoc32/include/documenthandlerui.rsg	resource	winscw_udeb
+/epoc32/include/eikcdlg.rsg	resource	armv5_urel
+/epoc32/include/eikcdlg.rsg	resource	winscw_udeb
+/epoc32/include/eikcoctl.rsg	resource	armv5_urel
+/epoc32/include/eikcoctl.rsg	resource	winscw_udeb
+/epoc32/include/eikcolor.hrh	export	
+/epoc32/include/eikcore.rsg	resource	armv5_urel
+/epoc32/include/eikcore.rsg	resource	winscw_udeb
+/epoc32/include/eikctl.rsg	resource	armv5_urel
+/epoc32/include/eikctl.rsg	resource	winscw_udeb
+/epoc32/include/eikpriv.rsg	resource	armv5_urel
+/epoc32/include/eikpriv.rsg	resource	winscw_udeb
+/epoc32/include/eiksrvui.rsg	resource	armv5_urel
+/epoc32/include/eiksrvui.rsg	resource	winscw_udeb
+/epoc32/include/errorresgt.rsg	resource	armv5_urel
+/epoc32/include/errorresgt.rsg	resource	winscw_udeb
+/epoc32/include/finditemmenu.rsg	resource	armv5_urel
+/epoc32/include/finditemmenu.rsg	resource	winscw_udeb
+/epoc32/include/finditemui.rsg	resource	armv5_urel
+/epoc32/include/finditemui.rsg	resource	winscw_udeb
+/epoc32/include/gulfont.hrh	export	
+/epoc32/include/gulftflg.hrh	export	
+/epoc32/include/lch.rsg	resource	armv5_urel
+/epoc32/include/lch.rsg	resource	winscw_udeb
+/epoc32/include/mw/AknCommonDialogs.h	export	
+/epoc32/include/mw/AknCommonDialogsDynMem.h	export	
+/epoc32/include/mw/CAknCommonDialogsBase.h	export	
+/epoc32/include/mw/CAknFileNamePromptDialog.h	export	
+/epoc32/include/mw/CAknFileSelectionDialog.h	export	
+/epoc32/include/mw/CAknMemorySelectionDialog.h	export	
+/epoc32/include/mw/CAknMemorySelectionDialogMultiDrive.h	export	
+/epoc32/include/mw/CAknMemorySelectionSettingItem.h	export	
+/epoc32/include/mw/CAknMemorySelectionSettingItemMultiDrive.h	export	
+/epoc32/include/mw/CAknMemorySelectionSettingPage.h	export	
+/epoc32/include/mw/CDirectoryLocalizer.h	export	
+/epoc32/include/mw/CommonDialogs.hrh	export	
+/epoc32/include/mw/CommonDialogs.rh	export	
+/epoc32/include/mw/DirectoryLocalizer.rh	export	
+/epoc32/include/mw/MAknFileFilter.h	export	
+/epoc32/include/mw/MAknFileSelectionObserver.h	export	
+/epoc32/include/mw/MAknMemorySelectionObserver.h	export	
+/epoc32/include/mw/akntouchpane.h	export	
+/epoc32/include/mw/akntouchpane.hrh	export	
+/epoc32/include/mw/akntouchpaneobserver.h	export	
+/epoc32/include/mw/animation.h	export	
+/epoc32/include/mw/animationconfig.h	export	
+/epoc32/include/mw/animationdataloaderobserver.h	export	
+/epoc32/include/mw/animationdataprovider.h	export	
+/epoc32/include/mw/animationevents.h	export	
+/epoc32/include/mw/animationframe.h	export	
+/epoc32/include/mw/animationgroup.h	export	
+/epoc32/include/mw/animationmixins.h	export	
+/epoc32/include/mw/animationticker.h	export	
+/epoc32/include/mw/animationtls.h	export	
+/epoc32/include/mw/animator.h	export	
+/epoc32/include/mw/basicanimation.h	export	
+/epoc32/include/mw/bmpancli.h	export	
+/epoc32/include/mw/bmpanconsts.h	export	
+/epoc32/include/mw/bmpansrv.h	export	
+/epoc32/include/mw/clock.h	export	
+/epoc32/include/mw/coeaui.h	export	
+/epoc32/include/mw/coeccntx.h	export	
+/epoc32/include/mw/coecntrl.h	export	
+/epoc32/include/mw/coecobs.h	export	
+/epoc32/include/mw/coecoloruse.h	export	
+/epoc32/include/mw/coecontrolarray.h	export	
+/epoc32/include/mw/coedef.h	export	
+/epoc32/include/mw/coeerror.h	export	
+/epoc32/include/mw/coefepff.h	export	
+/epoc32/include/mw/coefont.h	export	
+/epoc32/include/mw/coefontprovider.h	export	
+/epoc32/include/mw/coehelp.h	export	
+/epoc32/include/mw/coeinput.h	export	
+/epoc32/include/mw/coelayoutman.h	export	
+/epoc32/include/mw/coemain.h	export	
+/epoc32/include/mw/coemain.inl	export	
+/epoc32/include/mw/coemop.h	export	
+/epoc32/include/mw/coesndpy.h	export	
+/epoc32/include/mw/coetextdrawer.h	export	
+/epoc32/include/mw/coeutils.h	export	
+/epoc32/include/mw/coeview.h	export	
+/epoc32/include/mw/eikamnt.h	export	
+/epoc32/include/mw/eikapp.h	export	
+/epoc32/include/mw/eikappui.h	export	
+/epoc32/include/mw/eikaufty.h	export	
+/epoc32/include/mw/eikbhelp.h	export	
+/epoc32/include/mw/eikcmobs.h	export	
+/epoc32/include/mw/eikdef.h	export	
+/epoc32/include/mw/eikdll.h	export	
+/epoc32/include/mw/eikdoc.h	export	
+/epoc32/include/mw/eikembal.h	export	
+/epoc32/include/mw/eikenv.h	export	
+/epoc32/include/mw/eikenv.inl	export	
+/epoc32/include/mw/eikfctry.h	export	
+/epoc32/include/mw/eikfutil.h	export	
+/epoc32/include/mw/eikmobs.h	export	
+/epoc32/include/mw/eikmsg.h	export	
+/epoc32/include/mw/eiknotapi.h	export	
+/epoc32/include/mw/eikproc.h	export	
+/epoc32/include/mw/eikrutil.h	export	
+/epoc32/include/mw/eikstart.h	export	
+/epoc32/include/mw/eikunder.h	export	
+/epoc32/include/mw/eikvcurs.h	export	
+/epoc32/include/mw/fepplugin.h	export	
+/epoc32/include/mw/fepplugin.inl	export	
+/epoc32/include/mw/graphics/clock/displayaddition.h	export	
+/epoc32/include/mw/grdcells.h	export	
+/epoc32/include/mw/grddef.h	export	
+/epoc32/include/mw/grdprint.h	export	
+/epoc32/include/mw/grdprint.inl	export	
+/epoc32/include/mw/grdstd.h	export	
+/epoc32/include/mw/grdstd.inl	export	
+/epoc32/include/mw/gulalign.h	export	
+/epoc32/include/mw/gulbordr.h	export	
+/epoc32/include/mw/gulcolor.h	export	
+/epoc32/include/mw/guldef.h	export	
+/epoc32/include/mw/gulfont.h	export	
+/epoc32/include/mw/gulicon.h	export	
+/epoc32/include/mw/gulutil.h	export	
+/epoc32/include/mw/iclanimationdataprovider.h	export	
+/epoc32/include/mw/spriteanimation.h	export	
+/epoc32/include/mw/tuladdressstringtokenizer.h	export	
+/epoc32/include/mw/tulpanics.h	export	
+/epoc32/include/mw/tulphonenumberutils.h	export	
+/epoc32/include/mw/tulstringresourcereader.h	export	
+/epoc32/include/mw/tultextresourceutils.h	export	
+/epoc32/include/mw/uikon/eikalsrv.h	export	
+/epoc32/include/platform/FindUtil.h	export	
+/epoc32/include/platform/mw/AiwCdmaCommands.hrh	export	
+/epoc32/include/platform/mw/AiwCommon.h	export	
+/epoc32/include/platform/mw/AiwCommon.hrh	export	
+/epoc32/include/platform/mw/AiwCommon.rh	export	
+/epoc32/include/platform/mw/AiwContactAssignDataTypes.h	export	
+/epoc32/include/platform/mw/AiwContactAssignDataTypes.inl	export	
+/epoc32/include/platform/mw/AiwContactSelectionDataTypes.h	export	
+/epoc32/include/platform/mw/AiwContactSelectionDataTypes.inl	export	
+/epoc32/include/platform/mw/AiwDialDataTypes.h	export	
+/epoc32/include/platform/mw/AiwDialDataTypes.inl	export	
+/epoc32/include/platform/mw/AiwGenericParam.h	export	
+/epoc32/include/platform/mw/AiwGenericParam.hrh	export	
+/epoc32/include/platform/mw/AiwGenericParam.inl	export	
+/epoc32/include/platform/mw/AiwMenu.h	export	
+/epoc32/include/platform/mw/AiwPoCParameters.h	export	
+/epoc32/include/platform/mw/AiwPoCParameters.hrh	export	
+/epoc32/include/platform/mw/AiwPoCParameters.inl	export	
+/epoc32/include/platform/mw/AiwServiceHandler.h	export	
+/epoc32/include/platform/mw/AiwServiceIfBase.h	export	
+/epoc32/include/platform/mw/AiwServiceIfMenu.h	export	
+/epoc32/include/platform/mw/AiwVariant.h	export	
+/epoc32/include/platform/mw/AiwVariant.inl	export	
+/epoc32/include/platform/mw/AiwVariantType.hrh	export	
+/epoc32/include/platform/mw/AknAppGrid.h	export	
+/epoc32/include/platform/mw/AknAsyncDemoNotify.h	export	
+/epoc32/include/platform/mw/AknBattery.h	export	
+/epoc32/include/platform/mw/AknBatteryNotify.h	export	
+/epoc32/include/platform/mw/AknBidiTextUtils.h	export	
+/epoc32/include/platform/mw/AknBitmapAnimation.h	export	
+/epoc32/include/platform/mw/AknCapServer.h	export	
+/epoc32/include/platform/mw/AknCapServerClient.h	export	
+/epoc32/include/platform/mw/AknCapServerDefs.h	export	
+/epoc32/include/platform/mw/AknColourSelectionGrid.h	export	
+/epoc32/include/platform/mw/AknCompositeInlineTextSource.h	export	
+/epoc32/include/platform/mw/AknControl.h	export	
+/epoc32/include/platform/mw/AknCustomCursorSupport.h	export	
+/epoc32/include/platform/mw/AknDateFormatUtils.h	export	
+/epoc32/include/platform/mw/AknDef.h	export	
+/epoc32/include/platform/mw/AknDef.hrh	export	
+/epoc32/include/platform/mw/AknDesCArrayDecorator.h	export	
+/epoc32/include/platform/mw/AknDialog.h	export	
+/epoc32/include/platform/mw/AknDlgShut.h	export	
+/epoc32/include/platform/mw/AknDoc.h	export	
+/epoc32/include/platform/mw/AknDynamicSoftNotificationParams.h	export	
+/epoc32/include/platform/mw/AknDynamicSoftNotifier.h	export	
+/epoc32/include/platform/mw/AknEcs.h	export	
+/epoc32/include/platform/mw/AknEdwinFormExtendedInterfaceProvider.h	export	
+/epoc32/include/platform/mw/AknFileFilterFactory.h	export	
+/epoc32/include/platform/mw/AknFontAccess.h	export	
+/epoc32/include/platform/mw/AknFontIdLayoutFont.h	export	
+/epoc32/include/platform/mw/AknForm.h	export	
+/epoc32/include/platform/mw/AknFormAccessor.h	export	
+/epoc32/include/platform/mw/AknGMSStyleGrid.h	export	
+/epoc32/include/platform/mw/AknGlobalConfirmationQuery.h	export	
+/epoc32/include/platform/mw/AknGlobalListMsgQuery.h	export	
+/epoc32/include/platform/mw/AknGlobalListQuery.h	export	
+/epoc32/include/platform/mw/AknGlobalMsgQuery.h	export	
+/epoc32/include/platform/mw/AknGlobalNote.h	export	
+/epoc32/include/platform/mw/AknGlobalProgressDialog.h	export	
+/epoc32/include/platform/mw/AknGrid.h	export	
+/epoc32/include/platform/mw/AknGridM.h	export	
+/epoc32/include/platform/mw/AknGridView.h	export	
+/epoc32/include/platform/mw/AknIconArray.h	export	
+/epoc32/include/platform/mw/AknIncallBubbleNotify.h	export	
+/epoc32/include/platform/mw/AknIndicator.h	export	
+/epoc32/include/platform/mw/AknIndicatorContainer.h	export	
+/epoc32/include/platform/mw/AknIndicatorObserver.h	export	
+/epoc32/include/platform/mw/AknIndicatorPlugin.h	export	
+/epoc32/include/platform/mw/AknIndicatorPluginImplUIDs.hrh	export	
+/epoc32/include/platform/mw/AknInfoPopupNoteController.h	export	
+/epoc32/include/platform/mw/AknInlineText.h	export	
+/epoc32/include/platform/mw/AknKeyLockNotifier.h	export	
+/epoc32/include/platform/mw/AknKeyRotator.h	export	
+/epoc32/include/platform/mw/AknLaunchAppService.h	export	
+/epoc32/include/platform/mw/AknLayoutConfig.h	export	
+/epoc32/include/platform/mw/AknLayoutFont.h	export	
+/epoc32/include/platform/mw/AknLib.h	export	
+/epoc32/include/platform/mw/AknLineBreaker.h	export	
+/epoc32/include/platform/mw/AknListBoxLayoutDecorator.h	export	
+/epoc32/include/platform/mw/AknListBoxSettingPage.h	export	
+/epoc32/include/platform/mw/AknMarqueeControl.h	export	
+/epoc32/include/platform/mw/AknMediatorFacade.h	export	
+/epoc32/include/platform/mw/AknMediatorObserver.h	export	
+/epoc32/include/platform/mw/AknNaviDecoratorObserver.h	export	
+/epoc32/include/platform/mw/AknNaviObserver.h	export	
+/epoc32/include/platform/mw/AknNotiferAppServerApplication.h	export	
+/epoc32/include/platform/mw/AknNotifierAppServer.h	export	
+/epoc32/include/platform/mw/AknNotifierAppServerSession.h	export	
+/epoc32/include/platform/mw/AknNotifierController.h	export	
+/epoc32/include/platform/mw/AknNotifierControllerPlugin.h	export	
+/epoc32/include/platform/mw/AknNotifierControllerUtilities.h	export	
+/epoc32/include/platform/mw/AknNotifierWrapper.h	export	
+/epoc32/include/platform/mw/AknNotifierWrapperDefs.h	export	
+/epoc32/include/platform/mw/AknNotify.h	export	
+/epoc32/include/platform/mw/AknNotifySignature.h	export	
+/epoc32/include/platform/mw/AknNotifyStd.h	export	
+/epoc32/include/platform/mw/AknNullService.h	export	
+/epoc32/include/platform/mw/AknNumEdwin.h	export	
+/epoc32/include/platform/mw/AknOpenFileService.h	export	
+/epoc32/include/platform/mw/AknPanic.h	export	
+/epoc32/include/platform/mw/AknPhoneNumberEditor.h	export	
+/epoc32/include/platform/mw/AknPhoneNumberInlineTextSource.h	export	
+/epoc32/include/platform/mw/AknPhoneNumberTextUtils.h	export	
+/epoc32/include/platform/mw/AknPopupFader.h	export	
+/epoc32/include/platform/mw/AknPopupField.h	export	
+/epoc32/include/platform/mw/AknPopupFieldList.h	export	
+/epoc32/include/platform/mw/AknPopupFieldText.h	export	
+/epoc32/include/platform/mw/AknPopupNotify.h	export	
+/epoc32/include/platform/mw/AknPopupform.h	export	
+/epoc32/include/platform/mw/AknPreviewPopUpContentProvider.h	export	
+/epoc32/include/platform/mw/AknPreviewPopUpController.h	export	
+/epoc32/include/platform/mw/AknPreviewPopUpObserver.h	export	
+/epoc32/include/platform/mw/AknPriv.hrh	export	
+/epoc32/include/platform/mw/AknPriv.rh	export	
+/epoc32/include/platform/mw/AknProgressDialog.h	export	
+/epoc32/include/platform/mw/AknQueryDialog.h	export	
+/epoc32/include/platform/mw/AknQueryValue.h	export	
+/epoc32/include/platform/mw/AknQueryValueDate.h	export	
+/epoc32/include/platform/mw/AknQueryValueDuration.h	export	
+/epoc32/include/platform/mw/AknQueryValueNumber.h	export	
+/epoc32/include/platform/mw/AknQueryValuePhone.h	export	
+/epoc32/include/platform/mw/AknQueryValueText.h	export	
+/epoc32/include/platform/mw/AknQueryValueTime.h	export	
+/epoc32/include/platform/mw/AknScreenMode.h	export	
+/epoc32/include/platform/mw/AknServerApp.h	export	
+/epoc32/include/platform/mw/AknSettingCache.h	export	
+/epoc32/include/platform/mw/AknSgcc.h	export	
+/epoc32/include/platform/mw/AknSignal.h	export	
+/epoc32/include/platform/mw/AknSignalNotify.h	export	
+/epoc32/include/platform/mw/AknSignalNotifyAddition.h	export	
+/epoc32/include/platform/mw/AknSkinnableClock.h	export	
+/epoc32/include/platform/mw/AknSmallIndicator.h	export	
+/epoc32/include/platform/mw/AknSoftNotificationParameters.h	export	
+/epoc32/include/platform/mw/AknSoftNotifier.h	export	
+/epoc32/include/platform/mw/AknStatuspaneUtils.h	export	
+/epoc32/include/platform/mw/AknSyncDraw.h	export	
+/epoc32/include/platform/mw/AknSystemFont.h	export	
+/epoc32/include/platform/mw/AknTabObserver.h	export	
+/epoc32/include/platform/mw/AknTasHook.h	export	
+/epoc32/include/platform/mw/AknTasPluginInterface.h	export	
+/epoc32/include/platform/mw/AknTasPluginInterface.inl	export	
+/epoc32/include/platform/mw/AknTaskList.h	export	
+/epoc32/include/platform/mw/AknTextDecorationMetrics.h	export	
+/epoc32/include/platform/mw/AknTitlePaneObserver.h	export	
+/epoc32/include/platform/mw/AknTransparentCameraSettingPage.h	export	
+/epoc32/include/platform/mw/AknUtils.h	export	
+/epoc32/include/platform/mw/AknVolumePopup.h	export	
+/epoc32/include/platform/mw/AknWaitDialog.h	export	
+/epoc32/include/platform/mw/AknWaitNoteWrapper.h	export	
+/epoc32/include/platform/mw/AknWsEventObserver.h	export	
+/epoc32/include/platform/mw/Aknnumseced.h	export	
+/epoc32/include/platform/mw/Aknquerylaf.h	export	
+/epoc32/include/platform/mw/Aknvolumecontrol.h	export	
+/epoc32/include/platform/mw/AlarmObserver.h	export	
+/epoc32/include/platform/mw/AvkonIcons.hrh	export	
+/epoc32/include/platform/mw/AvkonInternalCRKeys.h	export	
+/epoc32/include/platform/mw/CommonUiInternalCRKeys.h	export	
+/epoc32/include/platform/mw/DocumentHandler.h	export	
+/epoc32/include/platform/mw/Eikalmct.h	export	
+/epoc32/include/platform/mw/ErrorUI.h	export	
+/epoc32/include/platform/mw/GenericParamConsumer.h	export	
+/epoc32/include/platform/mw/GlobalWindowPriorities.h	export	
+/epoc32/include/platform/mw/ItemFinder.h	export	
+/epoc32/include/platform/mw/MediaSharedDocument.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/AknSecondaryDisplayDefs.h	export	
+/epoc32/include/platform/mw/TasDataModelInterface.h	export	
+/epoc32/include/platform/mw/TasDataModelInterface.inl	export	
+/epoc32/include/platform/mw/TasFixturePluginInterface.h	export	
+/epoc32/include/platform/mw/TasFixturePluginInterface.inl	export	
+/epoc32/include/platform/mw/TasHookingInternalCRKeys.h	export	
+/epoc32/include/platform/mw/TasTraversePluginInterface.h	export	
+/epoc32/include/platform/mw/TasTraversePluginInterface.inl	export	
+/epoc32/include/platform/mw/UikonInternalPSKeys.h	export	
+/epoc32/include/platform/mw/aknCharMap.h	export	
+/epoc32/include/platform/mw/aknEditStateIndicator.h	export	
+/epoc32/include/platform/mw/aknPopup.h	export	
+/epoc32/include/platform/mw/aknPopupHeadingPane.h	export	
+/epoc32/include/platform/mw/aknQueryControl.h	export	
+/epoc32/include/platform/mw/aknSDData.h	export	
+/epoc32/include/platform/mw/aknSctDialog.h	export	
+/epoc32/include/platform/mw/aknSoundinfo.h	export	
+/epoc32/include/platform/mw/aknViewAppUi.h	export	
+/epoc32/include/platform/mw/aknanim.hrh	export	
+/epoc32/include/platform/mw/aknanim.rh	export	
+/epoc32/include/platform/mw/aknanimdata.h	export	
+/epoc32/include/platform/mw/aknanimdllstd.h	export	
+/epoc32/include/platform/mw/aknanimview.h	export	
+/epoc32/include/platform/mw/aknapp.h	export	
+/epoc32/include/platform/mw/aknappui.h	export	
+/epoc32/include/platform/mw/aknborders.h	export	
+/epoc32/include/platform/mw/aknbutton.h	export	
+/epoc32/include/platform/mw/akncapserveralternatefsplugin.h	export	
+/epoc32/include/platform/mw/akncapserveralternatefsplugin.inl	export	
+/epoc32/include/platform/mw/akncapserveralternatefspluginconst.hrh	export	
+/epoc32/include/platform/mw/akncheckboxsettingpage.h	export	
+/epoc32/include/platform/mw/aknchoicelist.h	export	
+/epoc32/include/platform/mw/aknclearer.h	export	
+/epoc32/include/platform/mw/akncollection.h	export	
+/epoc32/include/platform/mw/aknconsts.h	export	
+/epoc32/include/platform/mw/akncontext.h	export	
+/epoc32/include/platform/mw/akncustomtreeordering.h	export	
+/epoc32/include/platform/mw/akndialogcontroller.h	export	
+/epoc32/include/platform/mw/akndiscreetpopup.h	export	
+/epoc32/include/platform/mw/aknedformaccessor.h	export	
+/epoc32/include/platform/mw/aknedsts.h	export	
+/epoc32/include/platform/mw/aknedstsobs.h	export	
+/epoc32/include/platform/mw/aknedwincustomdrawbase.h	export	
+/epoc32/include/platform/mw/aknedwincustomdrawprivate.h	export	
+/epoc32/include/platform/mw/aknedwindrawingmodifier.h	export	
+/epoc32/include/platform/mw/akneiksrvc.h	export	
+/epoc32/include/platform/mw/akneiksrvs.h	export	
+/epoc32/include/platform/mw/aknenv.h	export	
+/epoc32/include/platform/mw/aknextendedinputcapabilities.h	export	
+/epoc32/include/platform/mw/aknfepdocumentnavigation.h	export	
+/epoc32/include/platform/mw/aknglobalpopupprioritycontroller.h	export	
+/epoc32/include/platform/mw/aknhlistpanic.h	export	
+/epoc32/include/platform/mw/akninfrm.h	export	
+/epoc32/include/platform/mw/akninputblock.h	export	
+/epoc32/include/platform/mw/aknintermediate.h	export	
+/epoc32/include/platform/mw/aknipfed.h	export	
+/epoc32/include/platform/mw/aknitemactionmenu.h	export	
+/epoc32/include/platform/mw/aknjavalists.h	export	
+/epoc32/include/platform/mw/aknkeylock.h	export	
+/epoc32/include/platform/mw/aknkeys.h	export	
+/epoc32/include/platform/mw/aknlistboxecomids.h	export	
+/epoc32/include/platform/mw/aknlistboxtfx.h	export	
+/epoc32/include/platform/mw/aknlistboxtfxinternal.h	export	
+/epoc32/include/platform/mw/aknlistboxtfxplugin.h	export	
+/epoc32/include/platform/mw/aknlistloadertfx.h	export	
+/epoc32/include/platform/mw/aknlistquerycontrol.h	export	
+/epoc32/include/platform/mw/aknlistquerydialog.h	export	
+/epoc32/include/platform/mw/aknlists.h	export	
+/epoc32/include/platform/mw/aknlocationed.h	export	
+/epoc32/include/platform/mw/aknlongtapanimation.h	export	
+/epoc32/include/platform/mw/aknlongtapdetector.h	export	
+/epoc32/include/platform/mw/aknmemorycarddialog.h	export	
+/epoc32/include/platform/mw/aknmessagequerycontrol.h	export	
+/epoc32/include/platform/mw/aknmessagequerydialog.h	export	
+/epoc32/include/platform/mw/aknmfnecommandobserver.h	export	
+/epoc32/include/platform/mw/aknmfnesettingpage.h	export	
+/epoc32/include/platform/mw/aknmultilinequerycontrol.h	export	
+/epoc32/include/platform/mw/aknnavi.h	export	
+/epoc32/include/platform/mw/aknnavide.h	export	
+/epoc32/include/platform/mw/aknnavilabel.h	export	
+/epoc32/include/platform/mw/aknnoteattributes.h	export	
+/epoc32/include/platform/mw/aknnotecontrol.h	export	
+/epoc32/include/platform/mw/aknnotedialog.h	export	
+/epoc32/include/platform/mw/aknnotewrappers.h	export	
+/epoc32/include/platform/mw/aknnumed.h	export	
+/epoc32/include/platform/mw/aknpasswordsettingpage.h	export	
+/epoc32/include/platform/mw/aknphysics.h	export	
+/epoc32/include/platform/mw/aknphysicscrkeys.h	export	
+/epoc32/include/platform/mw/aknphysicsobserveriface.h	export	
+/epoc32/include/platform/mw/aknpointereventmodifier.h	export	
+/epoc32/include/platform/mw/aknpointereventsuppressor.h	export	
+/epoc32/include/platform/mw/aknpopuplayout.h	export	
+/epoc32/include/platform/mw/aknpopupsettingpage.h	export	
+/epoc32/include/platform/mw/aknprogresstimer.h	export	
+/epoc32/include/platform/mw/aknquerydata.h	export	
+/epoc32/include/platform/mw/aknradiobuttonsettingpage.h	export	
+/epoc32/include/platform/mw/aknscbut.h	export	
+/epoc32/include/platform/mw/aknscind.h	export	
+/epoc32/include/platform/mw/aknscrlb.h	export	
+/epoc32/include/platform/mw/aknselectionlist.h	export	
+/epoc32/include/platform/mw/aknsettingitemlist.h	export	
+/epoc32/include/platform/mw/aknsettingpage.h	export	
+/epoc32/include/platform/mw/aknsfld.h	export	
+/epoc32/include/platform/mw/aknshortcuts.h	export	
+/epoc32/include/platform/mw/aknsinglecolumnstyletreelist.h	export	
+/epoc32/include/platform/mw/aknsinglestyletreelist.h	export	
+/epoc32/include/platform/mw/aknslider.h	export	
+/epoc32/include/platform/mw/aknslidersettingpage.h	export	
+/epoc32/include/platform/mw/aknsoundsystem.h	export	
+/epoc32/include/platform/mw/aknstaticnotedialog.h	export	
+/epoc32/include/platform/mw/aknstylusactivatedpopupcontent.h	export	
+/epoc32/include/platform/mw/aknstyluspopupmenu.h	export	
+/epoc32/include/platform/mw/akntabgrp.h	export	
+/epoc32/include/platform/mw/akntextsettingpage.h	export	
+/epoc32/include/platform/mw/akntitle.h	export	
+/epoc32/include/platform/mw/akntoolbar.h	export	
+/epoc32/include/platform/mw/akntoolbarextension.h	export	
+/epoc32/include/platform/mw/akntoolbarobserver.h	export	
+/epoc32/include/platform/mw/akntranseffect.h	export	
+/epoc32/include/platform/mw/akntransitionutils.h	export	
+/epoc32/include/platform/mw/akntreelist.h	export	
+/epoc32/include/platform/mw/akntreelistconstants.h	export	
+/epoc32/include/platform/mw/akntreelistobserver.h	export	
+/epoc32/include/platform/mw/aknuniteditor.h	export	
+/epoc32/include/platform/mw/aknview.h	export	
+/epoc32/include/platform/mw/aknvolumesettingpage.h	export	
+/epoc32/include/platform/mw/ataudioeventapi.h	export	
+/epoc32/include/platform/mw/ataudioeventconstants.hrh	export	
+/epoc32/include/platform/mw/avkon.hrh	export	
+/epoc32/include/platform/mw/avkon.rh	export	
+/epoc32/include/platform/mw/avkondomainpskeys.h	export	
+/epoc32/include/platform/mw/calslbs.h	export	
+/epoc32/include/platform/mw/coecntss.h	export	
+/epoc32/include/platform/mw/coedatastorage.h	export	
+/epoc32/include/platform/mw/ecompluginnotifier.h	export	
+/epoc32/include/platform/mw/eikalert.h	export	
+/epoc32/include/platform/mw/eikalign.h	export	
+/epoc32/include/platform/mw/eikbctrl.h	export	
+/epoc32/include/platform/mw/eikbgfty.h	export	
+/epoc32/include/platform/mw/eikbtgpc.h	export	
+/epoc32/include/platform/mw/eikbtgps.h	export	
+/epoc32/include/platform/mw/eikbtgrp.h	export	
+/epoc32/include/platform/mw/eikbtpan.h	export	
+/epoc32/include/platform/mw/eikbusymsgwin.h	export	
+/epoc32/include/platform/mw/eikbutb.h	export	
+/epoc32/include/platform/mw/eikcal.h	export	
+/epoc32/include/platform/mw/eikcapc.h	export	
+/epoc32/include/platform/mw/eikcapca.h	export	
+/epoc32/include/platform/mw/eikcba.h	export	
+/epoc32/include/platform/mw/eikccpu.h	export	
+/epoc32/include/platform/mw/eikclb.h	export	
+/epoc32/include/platform/mw/eikclbd.h	export	
+/epoc32/include/platform/mw/eikcmbut.h	export	
+/epoc32/include/platform/mw/eikcoctlpanic.h	export	
+/epoc32/include/platform/mw/eikcolib.h	export	
+/epoc32/include/platform/mw/eikconso.h	export	
+/epoc32/include/platform/mw/eikctgrp.h	export	
+/epoc32/include/platform/mw/eikctlib.h	export	
+/epoc32/include/platform/mw/eikcycledef.h	export	
+/epoc32/include/platform/mw/eikdebug.h	export	
+/epoc32/include/platform/mw/eikdgfty.h	export	
+/epoc32/include/platform/mw/eikdialg.h	export	
+/epoc32/include/platform/mw/eikdialg.pan	export	
+/epoc32/include/platform/mw/eikdialogext.h	export	
+/epoc32/include/platform/mw/eikdpage.h	export	
+/epoc32/include/platform/mw/eikdpobs.h	export	
+/epoc32/include/platform/mw/eikdpsel.h	export	
+/epoc32/include/platform/mw/eikedwin.h	export	
+/epoc32/include/platform/mw/eikedwin.pan	export	
+/epoc32/include/platform/mw/eikedwob.h	export	
+/epoc32/include/platform/mw/eikfnlab.h	export	
+/epoc32/include/platform/mw/eikform.pan	export	
+/epoc32/include/platform/mw/eikfpne.h	export	
+/epoc32/include/platform/mw/eikfrlb.h	export	
+/epoc32/include/platform/mw/eikfrlbd.h	export	
+/epoc32/include/platform/mw/eikgted.h	export	
+/epoc32/include/platform/mw/eikhfdlg.h	export	
+/epoc32/include/platform/mw/eikhkeyc.h	export	
+/epoc32/include/platform/mw/eikhkeyt.h	export	
+/epoc32/include/platform/mw/eikimage.h	export	
+/epoc32/include/platform/mw/eikinfo.h	export	
+/epoc32/include/platform/mw/eikinfomsgwin.h	export	
+/epoc32/include/platform/mw/eikirfty.h	export	
+/epoc32/include/platform/mw/eikkeys.h	export	
+/epoc32/include/platform/mw/eikkeysound.h	export	
+/epoc32/include/platform/mw/eiklabel.h	export	
+/epoc32/include/platform/mw/eiklay.h	export	
+/epoc32/include/platform/mw/eiklbbut.h	export	
+/epoc32/include/platform/mw/eiklbd.h	export	
+/epoc32/include/platform/mw/eiklbed.h	export	
+/epoc32/include/platform/mw/eiklbi.h	export	
+/epoc32/include/platform/mw/eiklbm.h	export	
+/epoc32/include/platform/mw/eiklbo.h	export	
+/epoc32/include/platform/mw/eiklbv.h	export	
+/epoc32/include/platform/mw/eiklbx.h	export	
+/epoc32/include/platform/mw/eiklbx.pan	export	
+/epoc32/include/platform/mw/eiklibry.h	export	
+/epoc32/include/platform/mw/eikmenub.h	export	
+/epoc32/include/platform/mw/eikmenup.h	export	
+/epoc32/include/platform/mw/eikmfne.h	export	
+/epoc32/include/platform/mw/eikmfne.pan	export	
+/epoc32/include/platform/mw/eikmnbut.h	export	
+/epoc32/include/platform/mw/eikmop.h	export	
+/epoc32/include/platform/mw/eikmover.h	export	
+/epoc32/include/platform/mw/eikon.hrh	export	
+/epoc32/include/platform/mw/eikon.rh	export	
+/epoc32/include/platform/mw/eikon.rsg	export	
+/epoc32/include/platform/mw/eikpanic.h	export	
+/epoc32/include/platform/mw/eikpgsel.h	export	
+/epoc32/include/platform/mw/eikpicturefactory.h	export	
+/epoc32/include/platform/mw/eikprogi.h	export	
+/epoc32/include/platform/mw/eikrted.h	export	
+/epoc32/include/platform/mw/eiksbfrm.h	export	
+/epoc32/include/platform/mw/eiksbobs.h	export	
+/epoc32/include/platform/mw/eikscbut.h	export	
+/epoc32/include/platform/mw/eikscrlb.h	export	
+/epoc32/include/platform/mw/eikseced.h	export	
+/epoc32/include/platform/mw/eikserverapp.h	export	
+/epoc32/include/platform/mw/eiksfont.h	export	
+/epoc32/include/platform/mw/eikslb.h	export	
+/epoc32/include/platform/mw/eikslbd.h	export	
+/epoc32/include/platform/mw/eiksoftkeyimage.h	export	
+/epoc32/include/platform/mw/eiksoftkeypostingtransparency.h	export	
+/epoc32/include/platform/mw/eikspace.h	export	
+/epoc32/include/platform/mw/eikspane.h	export	
+/epoc32/include/platform/mw/eikspmod.h	export	
+/epoc32/include/platform/mw/eiksrv.h	export	
+/epoc32/include/platform/mw/eiksrv.pan	export	
+/epoc32/include/platform/mw/eiksrvc.h	export	
+/epoc32/include/platform/mw/eiksrvs.h	export	
+/epoc32/include/platform/mw/eiksrvsp.h	export	
+/epoc32/include/platform/mw/eiksvdef.h	export	
+/epoc32/include/platform/mw/eiktbar.h	export	
+/epoc32/include/platform/mw/eikthumb.h	export	
+/epoc32/include/platform/mw/eiktxlbm.h	export	
+/epoc32/include/platform/mw/eiktxlbx.h	export	
+/epoc32/include/platform/mw/fepipext.h	export	
+/epoc32/include/platform/mw/finditem.hrh	export	
+/epoc32/include/platform/mw/finditemdialog.h	export	
+/epoc32/include/platform/mw/finditemmenu.h	export	
+/epoc32/include/platform/mw/formcursormodifierint.h	export	
+/epoc32/include/platform/mw/gfxtranseffect/gfxtransadapter.h	export	
+/epoc32/include/platform/mw/gfxtranseffect/gfxtransclient.h	export	
+/epoc32/include/platform/mw/gfxtranseffect/gfxtransdatatype.h	export	
+/epoc32/include/platform/mw/gfxtranseffect/gfxtranseffect.h	export	
+/epoc32/include/platform/mw/graphics/cone/coedefkeys.h	export	
+/epoc32/include/platform/mw/graphics/cone/coeerrorconsts.h	export	
+/epoc32/include/platform/mw/graphics/cone/coescheduler.h	export	
+/epoc32/include/platform/mw/graphics/uigraphicsutils/gullogicalborder.h	export	
+/epoc32/include/platform/mw/graphics/uigraphicsutils/gulutls.h	export	
+/epoc32/include/platform/mw/gulgcmap.h	export	
+/epoc32/include/platform/mw/gulpanic.h	export	
+/epoc32/include/platform/mw/gulsprite.h	export	
+/epoc32/include/platform/mw/hlplch.h	export	
+/epoc32/include/platform/mw/lafmain.h	export	
+/epoc32/include/platform/mw/lafpanic.h	export	
+/epoc32/include/platform/mw/lafpublc.h	export	
+/epoc32/include/platform/mw/lafpublc.hrh	export	
+/epoc32/include/platform/mw/loc/sc/aknnotifyplugin.loc	export	
+/epoc32/include/platform/mw/loc/sc/avkon.loc	export	
+/epoc32/include/platform/mw/loc/sc/avkonsct.loc	export	
+/epoc32/include/platform/mw/loc/sc/commondialogs.loc	export	
+/epoc32/include/platform/mw/loc/sc/directorylocalizer.loc	export	
+/epoc32/include/platform/mw/loc/sc/documenthandler.loc	export	
+/epoc32/include/platform/mw/loc/sc/finditemdialog.loc	export	
+/epoc32/include/platform/mw/mateventcompleteobserver.h	export	
+/epoc32/include/platform/mw/notecontrol.h	export	
+/epoc32/include/platform/mw/notelaf.h	export	
+/epoc32/include/platform/mw/ode/collision.h	export	
+/epoc32/include/platform/mw/ode/collision_space.h	export	
+/epoc32/include/platform/mw/ode/common.h	export	
+/epoc32/include/platform/mw/ode/compatibility.h	export	
+/epoc32/include/platform/mw/ode/config.h	export	
+/epoc32/include/platform/mw/ode/contact.h	export	
+/epoc32/include/platform/mw/ode/error.h	export	
+/epoc32/include/platform/mw/ode/lookup_tables.h	export	
+/epoc32/include/platform/mw/ode/mass.h	export	
+/epoc32/include/platform/mw/ode/matrix.h	export	
+/epoc32/include/platform/mw/ode/memory.h	export	
+/epoc32/include/platform/mw/ode/misc.h	export	
+/epoc32/include/platform/mw/ode/objects.h	export	
+/epoc32/include/platform/mw/ode/ode.h	export	
+/epoc32/include/platform/mw/ode/odecpp.h	export	
+/epoc32/include/platform/mw/ode/odecpp_collision.h	export	
+/epoc32/include/platform/mw/ode/odemath.h	export	
+/epoc32/include/platform/mw/ode/rotation.h	export	
+/epoc32/include/platform/mw/ode/timer.h	export	
+/epoc32/include/platform/mw/platform.loc	export	
+/epoc32/include/platform/mw/pslninternalcrkeys.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafappui.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafenv.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafmsg.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafnotcap.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafshut.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafspane.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafsrv.h	export	
+/epoc32/include/platform/mw/uiklaf/private/lafvcurs.h	export	
+/epoc32/include/platform/mw/uikon/eikalsup.h	export	
+/epoc32/include/platform/mw/uikon/eikautomenutitlearray.h	export	
+/epoc32/include/platform/mw/uikon/eikctrlstatus.h	export	
+/epoc32/include/platform/mw/uikon/eikdefaulticondefs.h	export	
+/epoc32/include/platform/mw/uikon/eikdefconst.h	export	
+/epoc32/include/platform/mw/uikon/eikdefmacros.h	export	
+/epoc32/include/platform/mw/uikon/eikenvinterface.h	export	
+/epoc32/include/platform/mw/uikon/eikenvinterface.inl	export	
+/epoc32/include/platform/mw/uikon/eikmischelp.h	export	
+/epoc32/include/platform/mw/uikon/eiknfysv.h	export	
+/epoc32/include/platform/mw/uikon/eiknotifyalert.h	export	
+/epoc32/include/platform/mw/uikon/eikscchange.h	export	
+/epoc32/include/platform/mw/uikon/eiksrvui.h	export	
+/epoc32/include/platform/mw/uikon/eiksvfty.h	export	
+/epoc32/include/platform/mw/uikon/patchdata.h	export	
+/epoc32/include/smiley.mbg	bitmap	armv5_urel
+/epoc32/include/smiley.mbg	bitmap	winscw_udeb
+/epoc32/include/smiley.rsg	resource	armv5_urel
+/epoc32/include/smiley.rsg	resource	winscw_udeb
+/epoc32/include/uiklaf/private/bwins/uiklafu.def	export	
+/epoc32/include/uiklaf/private/eabi/uiklafu.def	export	
+/epoc32/include/uiklaf/private/pluginuid.hrh	export	
+/epoc32/include/uiklafgt/eikcore.rsg	export	
+/epoc32/include/uiklafgt/eikpriv.rsg	export	
+/epoc32/include/uikon.hrh	export	
+/epoc32/release/armv5/lib/AknDynamicSoftNote.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknDynamicSoftNote.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknDynamicSoftNoteEventManager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknDynamicSoftNoteEventManager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknDynamicSoftNoteEventManager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknDynamicSoftNoteEventManager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknDynamicSoftNote{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknDynamicSoftNote{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknKeyRotator.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknKeyRotator.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknKeyRotator{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknKeyRotator{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknMemoryCardUi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknMemoryCardUi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknMemoryCardUi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknMemoryCardUi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknNotify.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknNotify.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknNotifyPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknNotifyPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknNotifyPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknNotifyPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AknNotify{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AknNotify{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CommonDialogs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CommonDialogs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CommonDialogs{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CommonDialogs{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CommonUI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CommonUI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CommonUI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CommonUI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DirectoryLocalizer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DirectoryLocalizer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DirectoryLocalizer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DirectoryLocalizer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EComPluginNotifier.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EComPluginNotifier.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EComPluginNotifier{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EComPluginNotifier{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EikCoCtlLaf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EikCoCtlLaf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EikCoCtlLaf{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EikCoCtlLaf{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Eikalert.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Eikalert.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Eikalert{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Eikalert{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ServiceHandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ServiceHandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ServiceHandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ServiceHandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akncapserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akncapserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akncapserverclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akncapserverclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akncustcmds.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akncustcmds.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akncustcmds{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akncustcmds{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknhlist.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknhlist.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknhlist{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknhlist{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknlistloadertfx.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknlistloadertfx.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknlistloadertfx{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknlistloadertfx{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknnotifierwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknnotifierwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknnotifierwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknnotifierwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknoldstylenotif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknoldstylenotif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknoldstylenotif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknoldstylenotif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknphysics.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknphysics.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknphysics{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknphysics{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akntransitionutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akntransitionutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akntransitionutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akntransitionutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animationserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animationserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animationserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animationserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animationshared.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animationshared.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animationshared{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animationshared{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animators.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animators.dso	build	armv5_urel
+/epoc32/release/armv5/lib/animators{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/animators{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avkon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avkon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avkon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avkon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bmpanim.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bmpanim.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bmpanim{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bmpanim{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clock.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clock.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clock{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clock{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commonuimpengineapiloader.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commonuimpengineapiloader.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commonuimpengineapiloader{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commonuimpengineapiloader{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commonuinpdapiloader.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commonuinpdapiloader.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commonuinpdapiloader{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commonuinpdapiloader{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cone.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cone.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cone{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cone{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/econseik.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/econseik.dso	build	armv5_urel
+/epoc32/release/armv5/lib/econseik{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/econseik{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/egul.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/egul.dso	build	armv5_urel
+/epoc32/release/armv5/lib/egul{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/egul{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikbackupsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikbackupsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikbackupsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikbackupsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikcdlg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikcdlg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikcdlg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikcdlg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikcoctl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikcoctl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikcoctl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikcoctl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikcore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikcore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikcore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikcore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikctl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikctl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikctl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikctl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikdlg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikdlg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikdlg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikdlg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikshtsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikshtsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eikshtsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eikshtsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eiksrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eiksrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eiksrvc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eiksrvc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eiksrvc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eiksrvc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eiksrvui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eiksrvui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eiksrvui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eiksrvui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eiksrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eiksrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etul.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etul.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etul{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etul{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimplchina.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimplchina.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimplchina{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimplchina{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimpljapan.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimpljapan.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimpljapan{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimpljapan{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimplthai.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimplthai.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimplthai{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimplthai{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutilimpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutilimpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/findutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/findutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gfxtrans.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gfxtrans.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gfxtransadapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gfxtransadapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gfxtransadapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gfxtransadapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gfxtrans{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gfxtrans{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/grid.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/grid.dso	build	armv5_urel
+/epoc32/release/armv5/lib/grid{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/grid{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hlplch.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hlplch.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hlplch{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hlplch{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loadlafshutdown.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loadlafshutdown.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loadlafshutdown{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loadlafshutdown{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ode.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ode.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ode{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ode{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uiklaf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uiklaf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uiklaf{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uiklaf{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/102827cf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/102827cf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AiwResolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AiwResolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknAnimDll.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknAnimDll.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknDynamicSoftNote.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknDynamicSoftNote.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknDynamicSoftNoteEventManager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknDynamicSoftNoteEventManager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknExtendedFader_ARM11.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknExtendedFader_ARM11.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknExtendedFader_ARMV5.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknExtendedFader_ARMV5.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknKeyRotator.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknKeyRotator.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknMemoryCardUi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknMemoryCardUi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknNotify.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknNotify.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknNotifyPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AknNotifyPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CommonDialogs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CommonDialogs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CommonUI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CommonUI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DirectoryLocalizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DirectoryLocalizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/EComPluginNotifier.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/EComPluginNotifier.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/EikCoCtlLaf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/EikCoCtlLaf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Eikalert.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/Eikalert.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ServiceHandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ServiceHandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncapserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncapserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncapserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncapserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncompamode.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncompamode.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncompasrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncompasrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknconf.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknconf.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncustcmds.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/akncustcmds.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknhlist.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknhlist.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akninit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/akninit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknlistloadertfx.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknlistloadertfx.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknnfysrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknnfysrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknnotifierwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknnotifierwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknnotifyplugin2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknnotifyplugin2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknoldstylenotif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknoldstylenotif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknphysics.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknphysics.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akntransitionutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/akntransitionutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/animation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/animation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/animationserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/animationserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/animationshared.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/animationshared.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/animators.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/animators.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avkon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avkon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avkonstartupextensionplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avkonstartupextensionplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bmpanim.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bmpanim.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bmpansrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bmpansrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clock.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clock.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocka.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocka.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commonuimpengineapiloader.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commonuimpengineapiloader.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commonuinpdapiloader.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commonuinpdapiloader.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cone.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cone.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/econseik.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/econseik.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/egul.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/egul.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikbackupsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikbackupsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikcdlg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikcdlg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikcoctl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikcoctl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikcore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikcore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikctl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikctl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikdlg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikdlg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikshtsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eikshtsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrvc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrvc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrvs.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrvs.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrvui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eiksrvui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/etul.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/etul.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimplchina.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimplchina.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimpljapan.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimpljapan.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimplthai.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/findutilimplthai.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gfxtrans.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gfxtrans.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gfxtransadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gfxtransadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/grid.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/grid.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hlplch.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hlplch.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/loadlafshutdown.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/loadlafshutdown.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ode.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ode.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uiklaf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uiklaf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/updatesystemcolorlist.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/updatesystemcolorlist.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/102827cf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/102827cf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AiwResolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AiwResolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknAnimDll.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknAnimDll.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknDynamicSoftNote.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknDynamicSoftNote.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknDynamicSoftNoteEventManager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknDynamicSoftNoteEventManager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknExtendedFader_ARM11.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknExtendedFader_ARM11.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknExtendedFader_ARMV5.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknExtendedFader_ARMV5.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknKeyRotator.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknKeyRotator.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknMemoryCardUi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknMemoryCardUi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknNotify.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknNotify.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AknNotifyPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AknNotifyPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CommonDialogs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CommonDialogs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CommonUI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CommonUI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DirectoryLocalizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DirectoryLocalizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/EComPluginNotifier.dll	build	armv5_urel
+/epoc32/release/armv5/urel/EComPluginNotifier.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/EikCoCtlLaf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/EikCoCtlLaf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/Eikalert.dll	build	armv5_urel
+/epoc32/release/armv5/urel/Eikalert.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ServiceHandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ServiceHandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/akncapserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/akncapserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/akncapserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/akncapserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/akncompamode.dll	build	armv5_urel
+/epoc32/release/armv5/urel/akncompamode.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/akncompasrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/akncompasrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknconf.exe	build	armv5_urel
+/epoc32/release/armv5/urel/aknconf.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/akncustcmds.dll	build	armv5_urel
+/epoc32/release/armv5/urel/akncustcmds.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknhlist.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknhlist.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/akninit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/akninit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknlistloadertfx.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknlistloadertfx.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknnfysrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/aknnfysrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknnotifierwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknnotifierwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknnotifyplugin2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknnotifyplugin2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknoldstylenotif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknoldstylenotif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknphysics.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknphysics.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/akntransitionutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/akntransitionutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/animation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/animation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/animationserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/animationserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/animationshared.dll	build	armv5_urel
+/epoc32/release/armv5/urel/animationshared.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/animators.dll	build	armv5_urel
+/epoc32/release/armv5/urel/animators.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avkon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avkon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avkonstartupextensionplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avkonstartupextensionplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bmpanim.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bmpanim.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bmpansrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bmpansrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clock.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clock.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clocka.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clocka.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commonuimpengineapiloader.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commonuimpengineapiloader.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commonuinpdapiloader.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commonuinpdapiloader.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cone.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cone.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/econseik.dll	build	armv5_urel
+/epoc32/release/armv5/urel/econseik.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/egul.dll	build	armv5_urel
+/epoc32/release/armv5/urel/egul.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eikbackupsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eikbackupsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eikcdlg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eikcdlg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eikcoctl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eikcoctl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eikcore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eikcore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eikctl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eikctl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eikdlg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eikdlg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eikshtsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eikshtsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrvc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrvc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrvs.exe	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrvs.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrvui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eiksrvui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/etul.dll	build	armv5_urel
+/epoc32/release/armv5/urel/etul.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/findutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/findutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimplchina.dll	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimplchina.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimpljapan.dll	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimpljapan.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimplthai.dll	build	armv5_urel
+/epoc32/release/armv5/urel/findutilimplthai.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gfxtrans.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gfxtrans.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gfxtransadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gfxtransadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/grid.dll	build	armv5_urel
+/epoc32/release/armv5/urel/grid.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hlplch.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hlplch.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/loadlafshutdown.dll	build	armv5_urel
+/epoc32/release/armv5/urel/loadlafshutdown.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ode.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ode.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uiklaf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uiklaf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/updatesystemcolorlist.exe	build	armv5_urel
+/epoc32/release/armv5/urel/updatesystemcolorlist.exe.map	build	armv5_urel
+/epoc32/release/wins/coefepu.def	export	
+/epoc32/release/wins/eikinitu.def	export	
+/epoc32/release/winscw/udeb/102827cf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AiwResolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknAnimDll.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknDynamicSoftNote.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknDynamicSoftNote.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknDynamicSoftNoteEventManager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknDynamicSoftNoteEventManager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknExtendedFader.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknKeyRotator.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknKeyRotator.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknMemoryCardUi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknMemoryCardUi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknNotify.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknNotify.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknNotifyPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AknNotifyPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CommonDialogs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CommonDialogs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CommonUI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CommonUI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DirectoryLocalizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DirectoryLocalizer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/EComPluginNotifier.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/EComPluginNotifier.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/EikCoCtlLaf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/EikCoCtlLaf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/Eikalert.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/Eikalert.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ServiceHandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ServiceHandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/akncapserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/akncapserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/akncapserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/akncompamode.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/akncompasrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknconf.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/akncustcmds.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/akncustcmds.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknhlist.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknhlist.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/akninit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknlistloadertfx.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknlistloadertfx.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknnfysrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknnotifierwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknnotifierwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknnotifyplugin2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknoldstylenotif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknoldstylenotif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknphysics.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknphysics.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/akntransitionutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/akntransitionutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/animation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/animation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/animationserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/animationserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/animationshared.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/animationshared.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/animators.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/animators.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avkon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avkon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avkonstartupextensionplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bmpanim.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bmpanim.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bmpansrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clock.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clock.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocka.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commonuimpengineapiloader.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commonuimpengineapiloader.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commonuinpdapiloader.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commonuinpdapiloader.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cone.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cone.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/econseik.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/econseik.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/egul.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/egul.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikbackupsrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikbackupsrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikcdlg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikcdlg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikcoctl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikcoctl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikcore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikcore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikctl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikctl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikdlg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikdlg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikshtsrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eikshtsrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eiksrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eiksrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eiksrvc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eiksrvc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eiksrvs.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/eiksrvui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eiksrvui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/etul.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/etul.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimplchina.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimplchina.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimpljapan.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimpljapan.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimplthai.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/findutilimplthai.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gfxtrans.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gfxtrans.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gfxtransadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gfxtransadapter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/grid.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/grid.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hlplch.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/loadlafshutdown.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/loadlafshutdown.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ode.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ode.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/uiklaf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uiklaf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/updatesystemcolorlist.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/akncapserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/aknconf_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/aknnfysrv_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10207218/aknmemorycardui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10207218/aknmemorycardui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10207218/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/aiwservicehandler.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aiwservicehandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/akncompamode.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/akncomparesources.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/akncomparesources.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aknnotpi.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aknnotpi.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aknpriv.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aknpriv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/aknconf.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/aknconf.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/aknconfgesture.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/aknconfphysics.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/aknmemorycardui.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/aknmemorycardui.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/avkon2.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/avkon2.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/callstatus.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/callstatus.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/commondialogs.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/default_app_icon.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/lch.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/smiley.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/avkon.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/avkon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/cdl/102827cf_cdl_detail.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/commondialogs.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/commondialogs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/directorylocalizer.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/directorylocalizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/documenthandlerui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/documenthandlerui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eikcdlg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eikcoctl.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eikcoctl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eikctl.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eikctl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eiksrvui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/eiksrvui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/errorresgt.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/finditemmenu.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/finditemmenu.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/finditemui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/finditemui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/102827cf.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/aiwresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/akncompamode.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/aknextendedfader.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/akninit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/aknnotifyplugin2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/animators.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/avkonstartupextensionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/smiley.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/smiley.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/uiklaf/eikcore.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/uiklaf/eikcore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/uiklaf/eikpriv.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/uiklaf/eikpriv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/102827cf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/102827cf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AiwResolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AiwResolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknAnimDll.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknAnimDll.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknDynamicSoftNote.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknDynamicSoftNote.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknDynamicSoftNoteEventManager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknDynamicSoftNoteEventManager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknExtendedFader.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknExtendedFader.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknKeyRotator.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknKeyRotator.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknMemoryCardUi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknMemoryCardUi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknNotify.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknNotify.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AknNotifyPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AknNotifyPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CommonDialogs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CommonDialogs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CommonUI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CommonUI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DirectoryLocalizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DirectoryLocalizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/EComPluginNotifier.dll	build	winscw_urel
+/epoc32/release/winscw/urel/EComPluginNotifier.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/EikCoCtlLaf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/EikCoCtlLaf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/Eikalert.dll	build	winscw_urel
+/epoc32/release/winscw/urel/Eikalert.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ServiceHandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ServiceHandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/akncapserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/akncapserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/akncapserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/akncapserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/akncompamode.dll	build	winscw_urel
+/epoc32/release/winscw/urel/akncompamode.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/akncompasrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/akncompasrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknconf.exe	build	winscw_urel
+/epoc32/release/winscw/urel/aknconf.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/akncustcmds.dll	build	winscw_urel
+/epoc32/release/winscw/urel/akncustcmds.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknhlist.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknhlist.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/akninit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/akninit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknlistloadertfx.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknlistloadertfx.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknnfysrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/aknnfysrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknnotifierwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknnotifierwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknnotifyplugin2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknnotifyplugin2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknoldstylenotif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknoldstylenotif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknphysics.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknphysics.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/akntransitionutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/akntransitionutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/animation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/animation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/animationserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/animationserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/animationshared.dll	build	winscw_urel
+/epoc32/release/winscw/urel/animationshared.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/animators.dll	build	winscw_urel
+/epoc32/release/winscw/urel/animators.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avkon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avkon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avkonstartupextensionplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avkonstartupextensionplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bmpanim.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bmpanim.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bmpansrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bmpansrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clock.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clock.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clocka.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clocka.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commonuimpengineapiloader.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commonuimpengineapiloader.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commonuinpdapiloader.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commonuinpdapiloader.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cone.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cone.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/econseik.dll	build	winscw_urel
+/epoc32/release/winscw/urel/econseik.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/egul.dll	build	winscw_urel
+/epoc32/release/winscw/urel/egul.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eikbackupsrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eikbackupsrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eikcdlg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eikcdlg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eikcoctl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eikcoctl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eikcore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eikcore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eikctl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eikctl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eikdlg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eikdlg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eikshtsrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eikshtsrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrvc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrvc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrvs.exe	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrvs.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrvui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eiksrvui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/etul.dll	build	winscw_urel
+/epoc32/release/winscw/urel/etul.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/findutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/findutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimplchina.dll	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimplchina.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimpljapan.dll	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimpljapan.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimplthai.dll	build	winscw_urel
+/epoc32/release/winscw/urel/findutilimplthai.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gfxtrans.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gfxtrans.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gfxtransadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gfxtransadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/grid.dll	build	winscw_urel
+/epoc32/release/winscw/urel/grid.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hlplch.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hlplch.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/loadlafshutdown.dll	build	winscw_urel
+/epoc32/release/winscw/urel/loadlafshutdown.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ode.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ode.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uiklaf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uiklaf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/updatesystemcolorlist.exe	build	winscw_urel
+/epoc32/release/winscw/urel/updatesystemcolorlist.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/akncapserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/aknconf_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/aknnfysrv_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10207218/aknmemorycardui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10207218/aknmemorycardui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10207218/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/aiwservicehandler.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aiwservicehandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/akncompamode.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/akncomparesources.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/akncomparesources.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aknnotpi.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aknnotpi.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aknpriv.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aknpriv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/aknconf.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/aknconf.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/aknconfgesture.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/aknconfphysics.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/aknmemorycardui.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/aknmemorycardui.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/avkon2.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/avkon2.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/callstatus.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/callstatus.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/commondialogs.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/default_app_icon.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/lch.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/smiley.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/avkon.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/avkon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/cdl/102827cf_cdl_detail.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/commondialogs.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/commondialogs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/directorylocalizer.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/directorylocalizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/documenthandlerui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/documenthandlerui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eikcdlg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eikcoctl.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eikcoctl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eikctl.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eikctl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eiksrvui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/eiksrvui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/errorresgt.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/finditemmenu.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/finditemmenu.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/finditemui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/finditemui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/102827cf.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/aiwresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/akncompamode.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/aknextendedfader.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/akninit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/aknnotifyplugin2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/animators.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/avkonstartupextensionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/smiley.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/smiley.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/uiklaf/eikcore.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/uiklaf/eikcore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/uiklaf/eikpriv.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/uiklaf/eikpriv.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/apac/confml/avkon_apac.confml	export	
+/epoc32/rom/config/assets/japan/confml/avkon_japan.confml	export	
+/epoc32/rom/config/assets/s60/confml/aknphysics.confml	export	
+/epoc32/rom/config/assets/s60/confml/avkon.confml	export	
+/epoc32/rom/config/assets/s60/confml/commonui.confml	export	
+/epoc32/rom/config/assets/s60/implml/aknphysics_20021192.crml	export	
+/epoc32/rom/config/assets/s60/implml/avkon_101F876E.crml	export	
+/epoc32/rom/config/assets/s60/implml/avkon_102858F2.crml	export	
+/epoc32/rom/config/assets/s60/implml/commonui_101F8772.crml	export	
+/epoc32/rom/config/assets/s60/implml/testability_2001844B.crml	export	
+/epoc32/rom/include/animation.iby	export	
+/epoc32/rom/include/cone.iby	export	
+/epoc32/rom/include/core/mw/AknExtendedFader_ARM11.iby	export	
+/epoc32/rom/include/core/mw/CommonDialogs.iby	export	
+/epoc32/rom/include/core/mw/ServiceHandler.iby	export	
+/epoc32/rom/include/core/mw/akncompamode.iby	export	
+/epoc32/rom/include/core/mw/akncustcmds.iby	export	
+/epoc32/rom/include/core/mw/aknglobalui.iby	export	
+/epoc32/rom/include/core/mw/aknlistloadertfx.iby	export	
+/epoc32/rom/include/core/mw/aknmemcardui.iby	export	
+/epoc32/rom/include/core/mw/aknphysics.iby	export	
+/epoc32/rom/include/core/mw/akntransitionutils.iby	export	
+/epoc32/rom/include/core/mw/avkon.iby	export	
+/epoc32/rom/include/core/mw/bmpanim.iby	export	
+/epoc32/rom/include/core/mw/commonui.iby	export	
+/epoc32/rom/include/core/mw/directorylocalizer.iby	export	
+/epoc32/rom/include/core/mw/eikctl.iby	export	
+/epoc32/rom/include/core/mw/eikstd.iby	export	
+/epoc32/rom/include/core/mw/findutil.iby	export	
+/epoc32/rom/include/core/mw/grid.iby	export	
+/epoc32/rom/include/core/mw/hlpmodel.iby	export	
+/epoc32/rom/include/core/mw/ode.iby	export	
+/epoc32/rom/include/core/mw/uiklaf.iby	export	
+/epoc32/rom/include/core/tools/aknconf.iby	export	
+/epoc32/rom/include/customer/mw/findutil_Variant.iby	export	
+/epoc32/rom/include/customer/mw/uiklaf_Variant.iby	export	
+/epoc32/rom/include/egul.iby	export	
+/epoc32/rom/include/gfxtranseffect.iby	export	
+/epoc32/rom/include/language/mw/CommonDialogsResources.iby	export	
+/epoc32/rom/include/language/mw/EikStdResources.iby	export	
+/epoc32/rom/include/language/mw/aknglobaluiresources.iby	export	
+/epoc32/rom/include/language/mw/avkonresources.iby	export	
+/epoc32/rom/include/language/mw/commonuiResources.iby	export	
+/epoc32/rom/include/language/mw/directorylocalizerresources.iby	export	
+/epoc32/rom/include/language/mw/eikctlresources.iby	export	
+/epoc32/rom/include/language/mw/uikonresources.iby	export	
+/epoc32/rom/include/loadlafshutdown.iby	export	
+/epoc32/rom/include/uikon.iby	export	
+/epoc32/sdk_special/AiwCommon.hrh	export	
+/epoc32/sdk_special/AiwGenericParam.hrh	export	
+/epoc32/tools/makefile_templates/s60/mif2cdindex.xml	export	
+/epoc32/tools/makefile_templates/s60/mif2cdlindex.flm	export	
+/epoc32/tools/makefile_templates/s60/mif2cdlindex.meta	export	
+/epoc32/winscw/c/private/10202be9/20021192.txt	export	
+/sf/mw/classicui/inc/AknAdaptiveSearch.h	export	
+/sf/mw/classicui/inc/AknAdaptiveSearchGrid.h	export	
+/sf/mw/classicui/inc/AknAdaptiveSearchGridObserver.h	export	
+/sf/mw/classicui/inc/EikClock.rh	export	
+/sf/mw/classicui/inc/EikClockCtrl.hrh	export	
+/sf/mw/classicui/inc/LAFBTGPC.H	export	
+/sf/mw/classicui/inc/LAFBUTB.H	export	
+/sf/mw/classicui/inc/LAFCMBUT.H	export	
+/sf/mw/classicui/inc/LAFEDWIN.H	export	
+/sf/mw/classicui/inc/LAFFNLAB.H	export	
+/sf/mw/classicui/inc/LAFLBED.H	export	
+/sf/mw/classicui/inc/LAFMENUB.H	export	
+/sf/mw/classicui/inc/LAFMENUP.H	export	
+/sf/mw/classicui/inc/LAFSBFRM.H	export	
+/sf/mw/classicui/inc/LAFSCBUT.H	export	
+/sf/mw/classicui/inc/LAFSCRLB.H	export	
+/sf/mw/classicui/inc/LAFTBAR.H	export	
+/sf/mw/classicui/inc/akncbacontentobserver.h	export	
+/sf/mw/classicui/inc/akndiscreetpopupcontrol.h	export	
+/sf/mw/classicui/inc/akndiscreetpopupdata.h	export	
+/sf/mw/classicui/inc/akndiscreetpopupdata.inl	export	
+/sf/mw/classicui/inc/aknitemactionmenuregister.h	export	
+/sf/mw/classicui/inc/aknlegacymode.h	export	
+/sf/mw/classicui/inc/aknsoftnoteconsts.h	export	
+/sf/mw/classicui/inc/aknstatuspanedatapublisher.h	export	
+/sf/mw/classicui/inc/aknstatuspanedatasubscriber.h	export	
+/sf/mw/classicui/inc/avkoninternalpskeys.h	export	
+/sf/mw/classicui/inc/eikkwin.h	export	
+/sf/mw/classicui/inc/lafbtpan.h	export	
+/sf/mw/classicui/inc/lafimage.h	export	
+/sf/mw/classicui/inc/laflabel.h	export	
+/sf/mw/classicui/inc/laflbbut.h	export	
+/sf/mw/classicui/inc/laflbd.h	export	
+/sf/mw/classicui/inc/laflbi.h	export	
+/sf/mw/classicui/inc/laflbv.h	export	
+/sf/mw/classicui/inc/laflbx.h	export	
+/sf/mw/classicui/inc/lafmnbut.h	export	
+/sf/mw/classicui/inc/lafthumb.h	export	
+/sf/mw/classicui/inc/laftxlbx.h	export	
+/sf/mw/classicui/uifw/avkon/group/../Avkon2MifHeader/Avkon2mifheader_inst.cpp	bitmap	armv5_udeb
+/sf/mw/classicui/uifw/avkon/group/../Avkon2MifHeader/Avkon2mifheader_inst.cpp	bitmap	armv5_urel
+/sf/mw/classicui/uifw/avkon/group/../Avkon2MifHeader/Avkon2mifheader_inst.cpp	bitmap	winscw_udeb
+/sf/mw/classicui/uifw/avkon/group/../Avkon2MifHeader/Avkon2mifheader_inst.cpp	bitmap	winscw_urel

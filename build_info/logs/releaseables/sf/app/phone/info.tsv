@@ -1,0 +1,600 @@
+/epoc32/data/c/resource/qt/crml/carmode.qcrml	export	
+/epoc32/data/z/private/10003a3f/import/apps/networkhandlingstarter_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/networkhandlingstarter_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/phoneui_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/phoneui_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/ussdeditor_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/ussdeditor_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/1000a86c/backup_registration.xml	export	
+/epoc32/data/z/private/10282bc4/rules/silence.rul	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.manifest	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.qtplugin	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.xml	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.manifest	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.qtplugin	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.xml	export	
+/epoc32/data/z/resource/apps/networkhandlingstarter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/networkhandlingstarter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/phoneui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/phoneui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/ussdeditor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/ussdeditor.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/defaultbeep.rsc	resource	armv5_urel
+/epoc32/data/z/resource/defaultbeep.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/csplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/csplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/silenceactionplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/silenceactionplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/plugins/controlpanel/cpbarringplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/controlpanel/cpcallsplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/controlpanel/cpdivertplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/controlpanel/cpnetworkplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/controlpanel/cptelephonyplugin.qtplugin	export	
+/epoc32/data/z/system/install/audiohandling_stub.sis	export	
+/epoc32/data/z/system/install/bubblecore_stub.sis	export	
+/epoc32/data/z/system/install/callhandling_stub.sis	export	
+/epoc32/data/z/system/install/contacthandling_stub.sis	export	
+/epoc32/data/z/system/install/cpbarringplugin_stub.sis	export	
+/epoc32/data/z/system/install/cpcallsplugin_stub.sis	export	
+/epoc32/data/z/system/install/cpdivertplugin_stub.sis	export	
+/epoc32/data/z/system/install/cpnetworkplugin_stub.sis	export	
+/epoc32/data/z/system/install/cptelephonyplugin_stub.sis	export	
+/epoc32/data/z/system/install/cptelephonyutils_stub.sis	export	
+/epoc32/data/z/system/install/csplugin_stub.sis	export	
+/epoc32/data/z/system/install/dialerwidgetplugin_stub.sis	export	
+/epoc32/data/z/system/install/engineinfo_stub.sis	export	
+/epoc32/data/z/system/install/infowidgetplugin_stub.sis	export	
+/epoc32/data/z/system/install/loghandling_stub.sis	export	
+/epoc32/data/z/system/install/networkhandlingstarter_stub.sis	export	
+/epoc32/data/z/system/install/phoneanimdll_stub.sis	export	
+/epoc32/data/z/system/install/phonecntfinder_stub.sis	export	
+/epoc32/data/z/system/install/phoneindicatorplugin_stub.sis	export	
+/epoc32/data/z/system/install/phonemediatorcenter_stub.sis	export	
+/epoc32/data/z/system/install/phonemodel_stub.sis	export	
+/epoc32/data/z/system/install/phoneringingtoneplayer_stub.sis	export	
+/epoc32/data/z/system/install/phoneservices_stub.sis	export	
+/epoc32/data/z/system/install/phonestringloader_stub.sis	export	
+/epoc32/data/z/system/install/phoneui_stub.sis	export	
+/epoc32/data/z/system/install/phoneuicontrol_stub.sis	export	
+/epoc32/data/z/system/install/phoneuiqtview_stub.sis	export	
+/epoc32/data/z/system/install/phoneuiqtviewadapter_stub.sis	export	
+/epoc32/data/z/system/install/phoneuistates_stub.sis	export	
+/epoc32/data/z/system/install/phoneuiutils_stub.sis	export	
+/epoc32/data/z/system/install/phoneuivoipextension_stub.sis	export	
+/epoc32/data/z/system/install/servicehandling_stub.sis	export	
+/epoc32/data/z/system/install/silenceactionplugin_stub.sis	export	
+/epoc32/data/z/system/install/telephonydevicemode_stub.sis	export	
+/epoc32/data/z/system/install/ussdeditor_stub.sis	export	
+/epoc32/include/defaultbeep.rsg	resource	armv5_urel
+/epoc32/include/defaultbeep.rsg	resource	winscw_udeb
+/epoc32/include/networkhandlingstarter.rsg	resource	armv5_urel
+/epoc32/include/networkhandlingstarter.rsg	resource	winscw_udeb
+/epoc32/include/phoneui.rsg	resource	armv5_urel
+/epoc32/include/phoneui.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/c3dringingtoneinterface.h	export	
+/epoc32/include/platform/app/c3dringingtoneinterface.inl	export	
+/epoc32/include/platform/app/cteldmhandler.h	export	
+/epoc32/include/platform/app/mediatoraudiocommandstotelephonyapi.h	export	
+/epoc32/include/platform/app/mediatorcommandstotelephonyapi.h	export	
+/epoc32/include/platform/app/mediatoreventsfromtelephonyapi.h	export	
+/epoc32/include/platform/app/phoneappcommands.hrh	export	
+/epoc32/include/platform/app/phoneappvoipcommands.hrh	export	
+/epoc32/include/platform/app/telcommsinfopskeys.h	export	
+/epoc32/include/platform/app/telephonydomaincrkeys.h	export	
+/epoc32/include/platform/app/telephonydomainpskeys.h	export	
+/epoc32/include/platform/app/telephonydomainpstypes.h	export	
+/epoc32/include/platform/app/telincallvolcntrlcrkeys.h	export	
+/epoc32/include/platform/app/telinformationpskeys.h	export	
+/epoc32/include/platform/app/telinformationpstypes.h	export	
+/epoc32/include/platform/app/telloggingextension.h	export	
+/epoc32/include/platform/app/telloggingextension.inl	export	
+/epoc32/include/platform/app/telmatchingextension.h	export	
+/epoc32/include/platform/app/telmatchingextension.inl	export	
+/epoc32/include/platform/app/telmenuextension.h	export	
+/epoc32/include/platform/app/telmenuextension.inl	export	
+/epoc32/include/platform/app/telmicmutestatuspskeys.h	export	
+/epoc32/include/platform/app/telremotepartyinformationpskeys.h	export	
+/epoc32/include/platform/app/teltouchpaneextension.h	export	
+/epoc32/include/platform/app/telvmbxsettingscrkeys.h	export	
+/epoc32/include/platform/app/videotelcontrolmediatorapi.h	export	
+/epoc32/include/platform/app/videoteltophonecommandsapi.h	export	
+/epoc32/include/platform/app/xqphoneappcommands.h	export	
+/epoc32/include/platform/app/xqteluicommandextension.h	export	
+/epoc32/include/ussdeditor.rsg	resource	armv5_urel
+/epoc32/include/ussdeditor.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/audiohandling.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/audiohandling.dso	build	armv5_urel
+/epoc32/release/armv5/lib/audiohandling{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/audiohandling{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bubblemanager2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bubblemanager2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bubblemanager2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bubblemanager2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/callhandling.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/callhandling.dso	build	armv5_urel
+/epoc32/release/armv5/lib/callhandling{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/callhandling{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contacthandling.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contacthandling.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contacthandling{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contacthandling{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpbarringplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpbarringplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpbarringplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpbarringplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpcallsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpcallsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpcallsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpcallsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpdivertplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpdivertplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpdivertplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpdivertplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpnetworkplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpnetworkplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpnetworkplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpnetworkplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cptelephonyplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cptelephonyplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cptelephonyplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cptelephonyplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cptelephonyutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cptelephonyutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cptelephonyutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cptelephonyutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dialerwidgetplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dialerwidgetplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dialerwidgetplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dialerwidgetplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/engineinfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/engineinfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/engineinfo{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/engineinfo{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/infowidgetplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/infowidgetplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/infowidgetplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/infowidgetplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loghandling.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loghandling.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loghandling{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loghandling{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peservicehandling.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peservicehandling.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peservicehandling{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peservicehandling{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonecntfinder.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonecntfinder.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonecntfinder{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonecntfinder{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonemediatorcenter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonemediatorcenter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonemediatorcenter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonemediatorcenter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneringingtoneplayer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneringingtoneplayer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneringingtoneplayer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneringingtoneplayer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonestringloader.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonestringloader.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonestringloader{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonestringloader{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuicontrol.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuicontrol.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuicontrol{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuicontrol{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuiqtview.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuiqtview.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuiqtviewadapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuiqtviewadapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuiqtviewadapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuiqtviewadapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuiqtview{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuiqtview{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuistates.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuistates.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuistates{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuistates{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuiutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuiutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuiutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuiutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuivoipextension.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuivoipextension.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phoneuivoipextension{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phoneuivoipextension{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telephonydevicemode.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telephonydevicemode.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telephonydevicemode{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telephonydevicemode{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/audiohandling.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/audiohandling.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bubblemanager2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bubblemanager2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/callhandling.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/callhandling.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/contacthandling.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/contacthandling.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpbarringplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpbarringplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpcallsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpcallsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpdivertplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpdivertplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpnetworkplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpnetworkplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cptelephonyplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cptelephonyplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cptelephonyutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cptelephonyutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/csplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/csplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dialerwidgetplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dialerwidgetplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/engineinfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/engineinfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/infowidgetplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/infowidgetplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/loghandling.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/loghandling.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/networkhandlingstarter.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/networkhandlingstarter.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/peservicehandling.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/peservicehandling.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneanimdll.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneanimdll.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonecntfinder.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonecntfinder.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonemediatorcenter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonemediatorcenter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneringingtoneplayer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneringingtoneplayer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonestringloader.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonestringloader.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneui.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneui.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuicontrol.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuicontrol.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuiqtview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuiqtview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuiqtviewadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuiqtviewadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuistates.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuistates.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuiutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuiutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuivoipextension.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phoneuivoipextension.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/silenceactionplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/silenceactionplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/telephonydevicemode.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/telephonydevicemode.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ussdeditor.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ussdeditor.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/audiohandling.dll	build	armv5_urel
+/epoc32/release/armv5/urel/audiohandling.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bubblemanager2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bubblemanager2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/callhandling.dll	build	armv5_urel
+/epoc32/release/armv5/urel/callhandling.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/contacthandling.dll	build	armv5_urel
+/epoc32/release/armv5/urel/contacthandling.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpbarringplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpbarringplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpcallsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpcallsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpdivertplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpdivertplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpnetworkplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpnetworkplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cptelephonyplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cptelephonyplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cptelephonyutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cptelephonyutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/csplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/csplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dialerwidgetplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dialerwidgetplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/engineinfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/engineinfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/infowidgetplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/infowidgetplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/loghandling.dll	build	armv5_urel
+/epoc32/release/armv5/urel/loghandling.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/networkhandlingstarter.exe	build	armv5_urel
+/epoc32/release/armv5/urel/networkhandlingstarter.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/peservicehandling.dll	build	armv5_urel
+/epoc32/release/armv5/urel/peservicehandling.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneanimdll.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneanimdll.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonecntfinder.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phonecntfinder.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonemediatorcenter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phonemediatorcenter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneringingtoneplayer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneringingtoneplayer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonestringloader.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phonestringloader.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneui.exe	build	armv5_urel
+/epoc32/release/armv5/urel/phoneui.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuicontrol.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuicontrol.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuiqtview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuiqtview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuiqtviewadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuiqtviewadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuistates.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuistates.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuiutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuiutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuivoipextension.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phoneuivoipextension.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/silenceactionplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/silenceactionplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/telephonydevicemode.dll	build	armv5_urel
+/epoc32/release/armv5/urel/telephonydevicemode.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ussdeditor.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ussdeditor.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/audiohandling.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/audiohandling.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bubblemanager2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bubblemanager2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/callhandling.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/callhandling.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/contacthandling.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/contacthandling.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpbarringplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpbarringplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpcallsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpcallsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpdivertplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpdivertplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpnetworkplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpnetworkplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cptelephonyplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cptelephonyplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cptelephonyutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cptelephonyutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/csplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dialerwidgetplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dialerwidgetplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/engineinfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/engineinfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/infowidgetplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/infowidgetplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/loghandling.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/loghandling.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/networkhandlingstarter.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/peservicehandling.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/peservicehandling.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneanimdll.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonecntfinder.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonecntfinder.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonemediatorcenter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonemediatorcenter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneringingtoneplayer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneringingtoneplayer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonestringloader.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonestringloader.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneui.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuicontrol.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuicontrol.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuiqtview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuiqtview.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuiqtviewadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuiqtviewadapter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuistates.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuistates.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuiutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuiutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuivoipextension.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phoneuivoipextension.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/silenceactionplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/telephonydevicemode.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/telephonydevicemode.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ussdeditor.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/networkhandlingstarter_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/phoneui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/ussdeditor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/1000a86c/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10282bc4/rules/silence.rul	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.manifest	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.xml	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.manifest	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/networkhandlingstarter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/phoneui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ussdeditor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/defaultbeep.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/csplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/silenceactionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/audiohandling.dll	build	winscw_urel
+/epoc32/release/winscw/urel/audiohandling.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bubblemanager2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bubblemanager2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/callhandling.dll	build	winscw_urel
+/epoc32/release/winscw/urel/callhandling.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/contacthandling.dll	build	winscw_urel
+/epoc32/release/winscw/urel/contacthandling.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpbarringplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpbarringplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpcallsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpcallsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpdivertplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpdivertplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpnetworkplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpnetworkplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cptelephonyplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cptelephonyplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cptelephonyutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cptelephonyutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/csplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/csplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dialerwidgetplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dialerwidgetplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/engineinfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/engineinfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/infowidgetplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/infowidgetplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/loghandling.dll	build	winscw_urel
+/epoc32/release/winscw/urel/loghandling.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/networkhandlingstarter.exe	build	winscw_urel
+/epoc32/release/winscw/urel/networkhandlingstarter.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/peservicehandling.dll	build	winscw_urel
+/epoc32/release/winscw/urel/peservicehandling.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneanimdll.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneanimdll.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonecntfinder.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phonecntfinder.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonemediatorcenter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phonemediatorcenter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneringingtoneplayer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneringingtoneplayer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonestringloader.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phonestringloader.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneui.exe	build	winscw_urel
+/epoc32/release/winscw/urel/phoneui.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuicontrol.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuicontrol.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuiqtview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuiqtview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuiqtviewadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuiqtviewadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuistates.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuistates.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuiutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuiutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuivoipextension.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phoneuivoipextension.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/silenceactionplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/silenceactionplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/telephonydevicemode.dll	build	winscw_urel
+/epoc32/release/winscw/urel/telephonydevicemode.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ussdeditor.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ussdeditor.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/networkhandlingstarter_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/phoneui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/ussdeditor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/1000a86c/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.manifest	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20022F44/dialerwidgetplugin.xml	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.manifest	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20029F28/infowidgetplugin.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/networkhandlingstarter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/phoneui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ussdeditor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/defaultbeep.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/csplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/silenceactionplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/japan/confml/s60telephony_japan.confml	export	
+/epoc32/rom/config/assets/s60/confml/s60telephony.confml	export	
+/epoc32/rom/config/assets/s60/implml/s60telephony_101f87e3.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60telephony_102828b1.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60telephony_102828b2.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60telephony_102828b8.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60telephony_102828f8.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60telephony_102830b6.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60telephony_2001b2e6.crml	export	
+/epoc32/rom/include/core/app/bubblemanager.iby	export	
+/epoc32/rom/include/core/app/cpphonesettingsplugins.iby	export	
+/epoc32/rom/include/core/app/dialerwidgetplugin.iby	export	
+/epoc32/rom/include/core/app/infowidgetplugin.iby	export	
+/epoc32/rom/include/core/app/networkhandlingstarter.iby	export	
+/epoc32/rom/include/core/app/phoneanimdll.iby	export	
+/epoc32/rom/include/core/app/phonecntfinder.iby	export	
+/epoc32/rom/include/core/app/phoneindicatorplugin.iby	export	
+/epoc32/rom/include/core/app/phonengengine.iby	export	
+/epoc32/rom/include/core/app/phoneui.iby	export	
+/epoc32/rom/include/core/app/silenceactionplugin.iby	export	
+/epoc32/rom/include/core/app/telephonydevicemode.iby	export	
+/epoc32/rom/include/core/app/ussdeditor.iby	export	
+/epoc32/rom/include/core/mw/csplugin.iby	export	
+/epoc32/rom/include/language/app/cpphonesettingsplugins_resources.iby	export	
+/epoc32/rom/include/language/app/infowidgetplugin_resources.iby	export	
+/epoc32/rom/include/language/app/phoneuiresources.iby	export	
+/epoc32/rom/include/language/app/ussdeditorresources.iby	export	
+/epoc32/winscw/c/resource/qt/crml/carmode.qcrml	export	
+/sf/app/phone/inc/bubblemanager2.h	export	
+/sf/app/phone/inc/bubblemanagerif.h	export	
+/sf/app/phone/inc/cpeengineinfo.h	export	
+/sf/app/phone/inc/cpephonemodelif.h	export	
+/sf/app/phone/inc/cphcntcontactid.h	export	
+/sf/app/phone/inc/cphcntmatcher.h	export	
+/sf/app/phone/inc/cphonecntfactory.h	export	
+/sf/app/phone/inc/mpecallcontrolif.h	export	
+/sf/app/phone/inc/mpecallsettersif.h	export	
+/sf/app/phone/inc/mpeclientinformation.h	export	
+/sf/app/phone/inc/mpeengineinfo.h	export	
+/sf/app/phone/inc/mpeexternaldatahandler.h	export	
+/sf/app/phone/inc/mpephonemodelinternal.h	export	
+/sf/app/phone/inc/mphcntmatch.h	export	
+/sf/app/phone/inc/mphonedevicemodeobserver.h	export	
+/sf/app/phone/inc/pepanic.pan	export	
+/sf/app/phone/inc/pevirtualengine.h	export	
+/sf/app/phone/inc/phoneanimdllstd.h	export	
+/sf/app/phone/inc/phoneindicators.h	export	
+/sf/app/phone/inc/phoneservices.h	export	
+/sf/app/phone/inc/qtphonelog.h	export	
+/sf/app/phone/inc/talogger.h	export	
+/sf/app/phone/inc/telephonyvariant.hrh	export	
+/sf/app/phone/inc/telinternalcrkeys.h	export	
+/sf/app/phone/inc/telinternalpskeys.h	export	
+/sf/app/phone/inc/telinternalpstypes.h	export	
+/sf/app/phone/inc/telinternalsingletonuids.h	export	
+/sf/app/phone/phoneengine/inc/cpeaudiodata.h	export	
+/sf/app/phone/phoneengine/inc/cpeaudiofactory.h	export	
+/sf/app/phone/phoneengine/inc/cpecallhandling.h	export	
+/sf/app/phone/phoneengine/inc/cpeclientinformation.h	export	
+/sf/app/phone/phoneengine/inc/cpecontacthandlingproxy.h	export	
+/sf/app/phone/phoneengine/inc/cpegsmaudiodata.h	export	
+/sf/app/phone/phoneengine/inc/cpeloghandlingproxy.h	export	
+/sf/app/phone/phoneengine/inc/cpeservicehandling.h	export	
+/sf/app/phone/phoneengine/inc/mpeaudiodata.h	export	
+/sf/app/phone/phoneengine/inc/mpecall.h	export	
+/sf/app/phone/phoneengine/inc/mpecallhandling.h	export	
+/sf/app/phone/phoneengine/inc/mpecallinitialiser.h	export	
+/sf/app/phone/phoneengine/inc/mpecallowner.h	export	
+/sf/app/phone/phoneengine/inc/mpecontacthandling.h	export	
+/sf/app/phone/phoneengine/inc/mpedatastore.h	export	
+/sf/app/phone/phoneengine/inc/mpeloghandling.h	export	
+/sf/app/phone/phoneengine/inc/mpemessagesender.h	export	
+/sf/app/phone/phoneengine/inc/mpeservicehandling.h	export	

@@ -1,0 +1,246 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/config/cpcommunicationplugin.cpcfg	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/config/cpdeviceplugin.cpcfg	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/config/cppersonalizationplugin.cpcfg	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/config/cpprivacyplugin.cpcfg	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/config/mainview.cpcfg	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpcommunicationplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpdeviceplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpkeytouchfdbkplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cppersonalizationplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpprivacyplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpprofileactivator.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpringtoneplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpthemeplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpvolumeplugin.qtplugin	export	
+/epoc32/data/z/private/10003a3f/import/apps/controlpanel_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/controlpanel_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/cpserviceprovider_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/cpserviceprovider_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/tonefetcher_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/tonefetcher_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/2002BCCA/service_conf.xml	export	
+/epoc32/data/z/resource/apps/ControlPanel.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/controlpanel.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/controlpanel.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/cpserviceprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/cpserviceprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/tonefetcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/tonefetcher.rsc	resource	winscw_udeb
+/epoc32/include/controlpanel.rsg	resource	armv5_urel
+/epoc32/include/controlpanel.rsg	resource	winscw_udeb
+/epoc32/include/cpserviceprovider.rsg	resource	armv5_urel
+/epoc32/include/cpserviceprovider.rsg	resource	winscw_udeb
+/epoc32/include/tonefetcher.rsg	resource	armv5_urel
+/epoc32/include/tonefetcher.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/cpcategorymodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpcategorymodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpcategorymodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpcategorymodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpcommunicationplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpcommunicationplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpcommunicationplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpcommunicationplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpdeviceplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpdeviceplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpdeviceplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpdeviceplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpkeytouchfdbkplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpkeytouchfdbkplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpkeytouchfdbkplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpkeytouchfdbkplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppersonalizationplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppersonalizationplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppersonalizationplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppersonalizationplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpprivacyplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpprivacyplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpprivacyplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpprivacyplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpprofileactivator.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpprofileactivator.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpprofileactivator{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpprofileactivator{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpprofilewrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpprofilewrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpprofilewrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpprofilewrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpringtoneplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpringtoneplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpringtoneplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpringtoneplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpringtoneview.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpringtoneview.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpringtoneview{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpringtoneview{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpsilenceindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpsilenceindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpsilenceindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpsilenceindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpthemeplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpthemeplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpthemeplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpthemeplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpvolumeplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpvolumeplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpvolumeplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpvolumeplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/ControlPanel.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ControlPanel.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpcategorymodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpcategorymodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpcommunicationplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpcommunicationplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpdeviceplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpdeviceplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpkeytouchfdbkplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpkeytouchfdbkplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppersonalizationplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppersonalizationplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpprivacyplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpprivacyplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpprofileactivator.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpprofileactivator.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpprofilewrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpprofilewrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpringtoneplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpringtoneplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpringtoneview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpringtoneview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpserviceprovider.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpserviceprovider.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpsilenceindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpsilenceindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpthemeplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpthemeplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpvolumeplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpvolumeplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tonefetcher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tonefetcher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/ControlPanel.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ControlPanel.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpcategorymodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpcategorymodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpcommunicationplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpcommunicationplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpdeviceplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpdeviceplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpkeytouchfdbkplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpkeytouchfdbkplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cppersonalizationplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cppersonalizationplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpprivacyplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpprivacyplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpprofileactivator.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpprofileactivator.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpprofilewrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpprofilewrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpringtoneplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpringtoneplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpringtoneview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpringtoneview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpserviceprovider.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cpserviceprovider.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpsilenceindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpsilenceindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpthemeplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpthemeplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpvolumeplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpvolumeplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tonefetcher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tonefetcher.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/ControlPanel.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpcategorymodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpcategorymodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpcommunicationplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpcommunicationplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpdeviceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpdeviceplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpkeytouchfdbkplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpkeytouchfdbkplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppersonalizationplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppersonalizationplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpprivacyplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpprivacyplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpprofileactivator.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpprofileactivator.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpprofilewrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpprofilewrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpringtoneplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpringtoneplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpringtoneview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpringtoneview.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpserviceprovider.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpsilenceindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpsilenceindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpthemeplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpthemeplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpvolumeplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpvolumeplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tonefetcher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/controlpanel_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/cpserviceprovider_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/tonefetcher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/2002BCCA/service_conf.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/ControlPanel.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/controlpanel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/cpserviceprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/tonefetcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/ControlPanel.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ControlPanel.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpcategorymodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpcategorymodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpcommunicationplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpcommunicationplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpdeviceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpdeviceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpkeytouchfdbkplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpkeytouchfdbkplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cppersonalizationplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cppersonalizationplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpprivacyplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpprivacyplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpprofileactivator.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpprofileactivator.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpprofilewrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpprofilewrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpringtoneplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpringtoneplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpringtoneview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpringtoneview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpserviceprovider.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cpserviceprovider.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpsilenceindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpsilenceindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpthemeplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpthemeplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpvolumeplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpvolumeplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tonefetcher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tonefetcher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/controlpanel_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/cpserviceprovider_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/tonefetcher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/2002BCCA/service_conf.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/ControlPanel.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/controlpanel.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/cpserviceprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/tonefetcher.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/app/controlpanelui.iby	export	
+/epoc32/rom/include/core/app/cpsilenceindicatorplugin.iby	export	
+/epoc32/rom/include/core/app/themeplugin.iby	export	
+/epoc32/rom/include/core/app/tonefetcher.iby	export	
+/epoc32/rom/include/language/app/controlpanelui_resources.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/config/cpcommunicationplugin.cpcfg	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/config/cpdeviceplugin.cpcfg	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/config/cppersonalizationplugin.cpcfg	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/config/cpprivacyplugin.cpcfg	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/config/mainview.cpcfg	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpcommunicationplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpdeviceplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpkeytouchfdbkplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cppersonalizationplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpprivacyplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpprofileactivator.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpringtoneplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpthemeplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpvolumeplugin.qtplugin	export	

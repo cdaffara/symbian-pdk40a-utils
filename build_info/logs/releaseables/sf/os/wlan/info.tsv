@@ -1,0 +1,283 @@
+/epoc32/data/z/private/101f8ec5/backup_registration.xml	export	
+/epoc32/data/z/private/2000b187/200100c0.xml	export	
+/epoc32/data/z/private/2000b187/cenrep/101f8e44.xml	export	
+/epoc32/data/z/resource/plugins/wlancontrolimpl.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wlancontrolimpl.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wlanmgmtimpl.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wlanmgmtimpl.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wlannwif.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wlannwif.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wlanpsmplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wlanpsmplugin.rsc	resource	winscw_udeb
+/epoc32/include/platform/awsenginebase.h	export	
+/epoc32/include/platform/awsenginebase.inl	export	
+/epoc32/include/platform/awsinterface.h	export	
+/epoc32/include/platform/wdbiflansettings.h	export	
+/epoc32/include/platform/wdbifwlansettings.h	export	
+/epoc32/include/platform/wlanagthotspotclient.h	export	
+/epoc32/include/platform/wlanagthotspotclient.inl	export	
+/epoc32/include/platform/wlancontrolclient.h	export	
+/epoc32/include/platform/wlancontrolclient.inl	export	
+/epoc32/include/platform/wlancontrolinterface.h	export	
+/epoc32/include/platform/wlandevicesettingsinternalcrkeys.h	export	
+/epoc32/include/platform/wlandfc.h	export	
+/epoc32/include/platform/wlandfcclient.h	export	
+/epoc32/include/platform/wlaneapolclient.h	export	
+/epoc32/include/platform/wlaneapolclient.inl	export	
+/epoc32/include/platform/wlaneapolinterface.h	export	
+/epoc32/include/platform/wlanerrorcodes.h	export	
+/epoc32/include/platform/wlanhpa.h	export	
+/epoc32/include/platform/wlanhpa.inl	export	
+/epoc32/include/platform/wlanhwbusaccesslayer.h	export	
+/epoc32/include/platform/wlanhwconfiguredata.h	export	
+/epoc32/include/platform/wlanhwinit.h	export	
+/epoc32/include/platform/wlanhwinitinterface.h	export	
+/epoc32/include/platform/wlaninternalpskeys.h	export	
+/epoc32/include/platform/wlanmgmtclient.h	export	
+/epoc32/include/platform/wlanmgmtclient.inl	export	
+/epoc32/include/platform/wlanmgmtcommon.h	export	
+/epoc32/include/platform/wlanmgmtinterface.h	export	
+/epoc32/include/platform/wlanosa.h	export	
+/epoc32/include/platform/wlanosaext.h	export	
+/epoc32/include/platform/wlanosaplatform.h	export	
+/epoc32/include/platform/wlanpddiface.h	export	
+/epoc32/include/platform/wlanpluginclient.h	export	
+/epoc32/include/platform/wlanpluginclient.inl	export	
+/epoc32/include/platform/wlanpowersaveinterface.h	export	
+/epoc32/include/platform/wlanscaninfo.h	export	
+/epoc32/include/platform/wlanscaninfo.inl	export	
+/epoc32/include/platform/wlanscaninfointerface.h	export	
+/epoc32/include/platform/wlansdioa.h	export	
+/epoc32/include/platform/wlansdioa.inl	export	
+/epoc32/include/platform/wlansdioaclient.h	export	
+/epoc32/include/platform/wlansdioanamespace.h	export	
+/epoc32/include/platform/wlansdioatypes.h	export	
+/epoc32/include/platform/wlanspia.h	export	
+/epoc32/include/platform/wlanspia.inl	export	
+/epoc32/include/platform/wlanspiaclient.h	export	
+/epoc32/include/platform/wlanspianamespace.h	export	
+/epoc32/include/platform/wlanspiatypes.h	export	
+/epoc32/include/platform/wlantimer.h	export	
+/epoc32/include/platform/wlantimerclient.h	export	
+/epoc32/include/platform/wlantrafficstreamparameters.h	export	
+/epoc32/include/platform/wlantrafficstreamparameters.inl	export	
+/epoc32/include/platform/wlanwha.h	export	
+/epoc32/include/platform/wlanwha.inl	export	
+/epoc32/include/platform/wlanwha_mib.h	export	
+/epoc32/include/platform/wlanwha_types.h	export	
+/epoc32/include/platform/wlanwhanamespace.h	export	
+/epoc32/include/wlansdkpskeys.h	export	
+/epoc32/release/armv5/lib/wlanagt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlanagt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlanagt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlanagt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlandbif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlandbif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlandbif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlandbif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlandevicesettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlandevicesettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlandevicesettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlandevicesettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlannif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlannif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlannif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlannif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlmplatform.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlmplatform.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlmplatform{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlmplatform{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlmserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlmserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlmserversrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlmserversrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlmserversrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlmserversrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wlmserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wlmserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/wlanagt.agt	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanagt.agt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlancontrolimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlancontrolimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlandbif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlandbif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlandevicesettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlandevicesettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanldd.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanldd.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanmgmtimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanmgmtimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlannif.nif	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlannif.nif.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlannwif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlannwif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanosa.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanosadebug.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanpsmplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanpsmplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanscanlist.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlantrace.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanumac.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmplatform.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmplatform.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmserverexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmserverexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmserversrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlmserversrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/wlanagt.agt	build	armv5_urel
+/epoc32/release/armv5/urel/wlanagt.agt.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlancontrolimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlancontrolimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlandbif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlandbif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlandevicesettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlandevicesettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlanldd.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/wlanldd.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlanmgmtimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlanmgmtimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlannif.nif	build	armv5_urel
+/epoc32/release/armv5/urel/wlannif.nif.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlannwif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlannwif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlanosa.lib	build	armv5_urel
+/epoc32/release/armv5/urel/wlanosadebug.lib	build	armv5_urel
+/epoc32/release/armv5/urel/wlanpsmplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlanpsmplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlanscanlist.lib	build	armv5_urel
+/epoc32/release/armv5/urel/wlantrace.lib	build	armv5_urel
+/epoc32/release/armv5/urel/wlanumac.lib	build	armv5_urel
+/epoc32/release/armv5/urel/wlmplatform.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlmplatform.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlmserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlmserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlmserverexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/wlmserverexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlmserversrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlmserversrv.dll.map	build	armv5_urel
+/epoc32/release/armv5smp/udeb/wlanldd.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wlanldd.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wlanosa.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wlanosadebug.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wlantrace.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wlanumac.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/urel/wlanldd.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wlanldd.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wlanosa.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wlanosadebug.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wlantrace.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wlanumac.lib	build	armv5smp_urel
+/epoc32/release/winscw/udeb/wlanagt.agt	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlanagt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlancontrolimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlandbif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlandbif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlandevicesettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlandevicesettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlanmgmtimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlannif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlannif.nif	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlannwif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlanpsmplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlanscanlist.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlmplatform.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlmplatform.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlmserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlmserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlmserverexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlmserversrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlmserversrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f8ec5/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/2000b187/200100c0.xml	export	
+/epoc32/release/winscw/udeb/z/private/2000b187/cenrep/101f8e44.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/wlancontrolimpl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wlanmgmtimpl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wlannwif.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wlanpsmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/wlanagt.agt	build	winscw_urel
+/epoc32/release/winscw/urel/wlanagt.agt.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlancontrolimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlancontrolimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlandbif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlandbif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlandevicesettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlandevicesettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlanmgmtimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlanmgmtimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlannif.nif	build	winscw_urel
+/epoc32/release/winscw/urel/wlannif.nif.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlannwif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlannwif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlanpsmplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlanpsmplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlanscanlist.lib	build	winscw_urel
+/epoc32/release/winscw/urel/wlmplatform.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlmplatform.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlmserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlmserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlmserverexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wlmserverexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlmserversrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlmserversrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101f8ec5/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/2000b187/200100c0.xml	export	
+/epoc32/release/winscw/urel/z/private/2000b187/cenrep/101f8e44.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/wlancontrolimpl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wlanmgmtimpl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wlannwif.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wlanpsmplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/wlanengine.confml	export	
+/epoc32/rom/config/assets/s60/implml/wlanengine_101f8e44.crml	export	
+/epoc32/rom/include/core/mw/wlanpsmplugin.iby	export	
+/epoc32/rom/include/core/os/wlanagt.iby	export	
+/epoc32/rom/include/core/os/wlandbif.iby	export	
+/epoc32/rom/include/core/os/wlaneng.iby	export	
+/epoc32/rom/include/core/os/wlanldd.iby	export	
+/epoc32/rom/include/core/os/wlannif.iby	export	
+/sf/os/wlan/wlan_bearer/inc/802dot11.h	export	
+/sf/os/wlan/wlan_bearer/inc/EtherCardApi.h	export	
+/sf/os/wlan/wlan_bearer/inc/EtherCardApi.inl	export	
+/sf/os/wlan/wlan_bearer/inc/FrameXferBlock.h	export	
+/sf/os/wlan/wlan_bearer/inc/RWlanLogicalChannel.h	export	
+/sf/os/wlan/wlan_bearer/inc/RWlanLogicalChannel.inl	export	
+/sf/os/wlan/wlan_bearer/inc/Umac.h	export	
+/sf/os/wlan/wlan_bearer/inc/UmacManagementSideUmac.h	export	
+/sf/os/wlan/wlan_bearer/inc/UmacManagementSideUmacCb.h	export	
+/sf/os/wlan/wlan_bearer/inc/UmacProtocolStackSideUmac.h	export	
+/sf/os/wlan/wlan_bearer/inc/UmacProtocolStackSideUmacCb.h	export	
+/sf/os/wlan/wlan_bearer/inc/UmacProtocolStackSideUmacCb.inl	export	
+/sf/os/wlan/wlan_bearer/inc/UmacTimerClient.h	export	
+/sf/os/wlan/wlan_bearer/inc/algorithm.h	export	
+/sf/os/wlan/wlan_bearer/inc/am_debug.h	export	
+/sf/os/wlan/wlan_bearer/inc/am_debug.inl	export	
+/sf/os/wlan/wlan_bearer/inc/am_platform_libraries.h	export	
+/sf/os/wlan/wlan_bearer/inc/gendebug.h	export	
+/sf/os/wlan/wlan_bearer/inc/genscaninfo.h	export	
+/sf/os/wlan/wlan_bearer/inc/genscaninfo.inl	export	
+/sf/os/wlan/wlan_bearer/inc/genscanlist.h	export	
+/sf/os/wlan/wlan_bearer/inc/genscanlist.inl	export	
+/sf/os/wlan/wlan_bearer/inc/genscanlistiterator.h	export	
+/sf/os/wlan/wlan_bearer/inc/genscanlistiterator.inl	export	
+/sf/os/wlan/wlan_bearer/inc/genscanoffsets.h	export	
+/sf/os/wlan/wlan_bearer/inc/osa.h	export	
+/sf/os/wlan/wlan_bearer/inc/osa.inl	export	
+/sf/os/wlan/wlan_bearer/inc/pack.h	export	
+/sf/os/wlan/wlan_bearer/inc/rwlmserver.h	export	
+/sf/os/wlan/wlan_bearer/inc/trace_util.h	export	
+/sf/os/wlan/wlan_bearer/inc/umac_types.h	export	
+/sf/os/wlan/wlan_bearer/inc/umacdfcclient.h	export	
+/sf/os/wlan/wlan_bearer/inc/umaceventdispatcherclient.h	export	
+/sf/os/wlan/wlan_bearer/inc/umacoidmsg.h	export	
+/sf/os/wlan/wlan_bearer/inc/wdbifwlandefs.h	export	
+/sf/os/wlan/wlan_bearer/inc/wlandevicesettings.h	export	
+/sf/os/wlan/wlan_bearer/inc/wlanlddcommon.h	export	
+/sf/os/wlan/wlan_bearer/inc/wlanmgmtpacket.h	export	
+/sf/os/wlan/wlan_bearer/inc/wlanobject.h	export	
+/sf/os/wlan/wlan_bearer/inc/wlanobject.inl	export	
+/sf/os/wlan/wlan_bearer/inc/wllddcircularbuffer.h	export	
+/sf/os/wlan/wlan_bearer/inc/wllddcircularbuffer.inl	export	
+/sf/os/wlan/wlan_bearer/inc/wllddoidmsgstorage.h	export	
+/sf/os/wlan/wlan_bearer/inc/wlmclientserver.h	export	
+/sf/os/wlan/wlan_bearer/inc/wlmnotify.h	export	

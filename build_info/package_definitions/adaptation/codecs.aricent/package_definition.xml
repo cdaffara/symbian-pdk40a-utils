@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="adaptation" long-name="Adaptation" levels="low mw high">
+   <block name="codecs.aricent" level="low" levels="util plugin" long-name="Aricent Codecs">
+<collection name="aricent_utilities" long-name="Aricent Utilities" level="util">
+<component name="ariprocessengine" long-name="Aricent Process Engine" introduced="^4" filter="sf_build" purpose="optional">
+<unit bldFile="/sf/adaptation/codecs.aricent/utilities/ariprocessengine/group"/>
+</component>
+<component name="aristatemachine" long-name="Aricent State Machine" introduced="^4" filter="sf_build" purpose="optional">
+<unit bldFile="/sf/adaptation/codecs.aricent/utilities/aristatemachine/group"/>
+</component>
+</collection>
+<collection name="aaclc_enc" long-name="AAC LC Encoding" level="plugin">
+<component name="ariaaclcencmmfcodec" long-name="Aricent AAC LC Encoding MMF Codec" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/aaclc_enc/ariaaclcencmmfcodec/group"/>
+</component>
+</collection>
+<collection name="amrnb_dec" long-name="AMR NB Decoding" level="plugin">
+<component name="ariamrnbdecmmfcodec" long-name="Aricent AMR NB Decoding MMF Codec" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/amrnb_dec/ariamrnbdecmmfcodec/group"/>
+</component>
+</collection>
+<collection name="amrnb_enc" long-name="AMR NB Encoding" level="plugin">
+<component name="ariamrnbencmmfcodec" long-name="Aricent AMR NB Encoding MMF Codec" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/amrnb_enc/ariamrnbencmmfcodec/group"/>
+</component>
+</collection>
+<collection name="amrwb_dec" long-name="AMR WB Decoding" level="plugin">
+<component name="ariamrwbdecmmfcodec" long-name="Aricent AMR WB Decoding MMF Codec" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/amrwb_dec/ariamrwbdecmmfcodec/group"/>
+</component>
+</collection>
+<collection name="h264_dec" long-name="H264 Decoding" level="plugin">
+<component name="arih264dechwdevice" long-name="Aricent H264 Decoding Hardware Device" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/h264_dec/arih264dechwdevice/group"/>
+</component>
+</collection>
+<collection name="h264_enc" long-name="H264 Encoding" level="plugin">
+<component name="arih264enchwdevice" long-name="Aricent H264 Encoding Hardware Device" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/h264_enc/arih264enchwdevice/group"/>
+</component>
+</collection>
+<collection name="heaac_dec" long-name="HE AAC Decoding" level="plugin">
+<component name="ariheaacdecmmfcodec" long-name="Aricent HE AAC Decoding MMF Codec" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/heaac_dec/ariheaacdecmmfcodec/group"/>
+</component>
+</collection>
+<collection name="mp3_dec" long-name="MP3 Decoding" level="plugin">
+<component name="arimp3decmmfcodec" long-name="Aricent MP3 Decoding MMF Codec" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/mp3_dec/arimp3decmmfcodec/group"/>
+</component>
+</collection>
+<collection name="mp4asp_dec" long-name="MP4 ASP Decoding" level="plugin">
+<component name="arimpeg4aspdechwdevice" long-name="Aricent MP4 ASP Decoding Hardware Device" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/mp4asp_dec/arimpeg4aspdechwdevice/group"/>
+</component>
+</collection>
+<collection name="mp4sp_enc" long-name="MP4 SP Encoding" level="plugin">
+<component name="arimp4spenchwdevice" long-name="MP4 SP Encoding Hardware Device" introduced="^4" filter="sf_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/codecs.aricent/mp4sp_enc/arimp4spenchwdevice/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

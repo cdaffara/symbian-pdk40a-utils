@@ -1,0 +1,3118 @@
+/epoc32/data/z/private/100048aa/backup_registration.xml	export	
+/epoc32/data/z/private/10005399/backup_registration.xml	export	
+/epoc32/data/z/private/10202be9/100048aa.cre	export	
+/epoc32/data/z/private/10202be9/1020e4d3.cre	export	
+/epoc32/data/z/resource/errors/ecomerr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/ecomerr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/errors/errorres.rsc	resource	armv5_urel
+/epoc32/data/z/resource/errors/errorres.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recapp2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recapp2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rectxt.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rectxt.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/euserhl_stub.sis	export	
+/epoc32/data/z/system/install/openc_glib_stub.sis	export	
+/epoc32/data/z/system/install/openc_liblogger_stub.sis	export	
+/epoc32/data/z/system/install/openc_libzcore_stub.sis	export	
+/epoc32/data/z/system/install/openc_signalserver_stub.sis	export	
+/epoc32/data/z/system/install/openc_ssl_stub.sis	export	
+/epoc32/data/z/system/install/openc_stdlibs_stub.sis	export	
+/epoc32/data/z/system/install/rpipe_stub.sis	export	
+/epoc32/data/z/system/install/stdcpp_stub.sis	export	
+/epoc32/engdoc/application-protocols/curi_usage_guide.doc	export	
+/epoc32/include/ConeResLoader.h	export	
+/epoc32/include/EPos_PrivacyNotifier.hrh	export	
+/epoc32/include/StringLoader.h	export	
+/epoc32/include/apmrec.h	export	
+/epoc32/include/apmrec.inl	export	
+/epoc32/include/apmstd.h	export	
+/epoc32/include/authority16.h	export	
+/epoc32/include/authority8.h	export	
+/epoc32/include/authoritycommon.h	export	
+/epoc32/include/babackup.h	export	
+/epoc32/include/babitflags.h	export	
+/epoc32/include/bacell.h	export	
+/epoc32/include/bacline.h	export	
+/epoc32/include/baclipb.h	export	
+/epoc32/include/bacntf.h	export	
+/epoc32/include/badef.rh	export	
+/epoc32/include/badesca.h	export	
+/epoc32/include/baerrhan.h	export	
+/epoc32/include/baerrrsvr.rh	export	
+/epoc32/include/bafindf.h	export	
+/epoc32/include/baliba.h	export	
+/epoc32/include/bamatch.h	export	
+/epoc32/include/bamdesca.h	export	
+/epoc32/include/banamedplugins.h	export	
+/epoc32/include/barsc.h	export	
+/epoc32/include/barsc2.h	export	
+/epoc32/include/barsread.h	export	
+/epoc32/include/barsread2.h	export	
+/epoc32/include/basched.h	export	
+/epoc32/include/baspi.h	export	
+/epoc32/include/bassnd.h	export	
+/epoc32/include/bautils.h	export	
+/epoc32/include/bsul/bsul.h	export	
+/epoc32/include/bsul/ccacheddriveinfo.h	export	
+/epoc32/include/bsul/clientmessage.h	export	
+/epoc32/include/bsul/inifile.h	export	
+/epoc32/include/commonphoneparser.h	export	
+/epoc32/include/connect/abclient.h	export	
+/epoc32/include/connect/abclientserver.h	export	
+/epoc32/include/connect/panic.h	export	
+/epoc32/include/connect/sbdefs.h	export	
+/epoc32/include/connect/tserverstart.h	export	
+/epoc32/include/csch_cli.h	export	
+/epoc32/include/delimitedparser16.h	export	
+/epoc32/include/delimitedparser8.h	export	
+/epoc32/include/delimitedparsercommon.h	export	
+/epoc32/include/delimitedpath16.h	export	
+/epoc32/include/delimitedpath8.h	export	
+/epoc32/include/delimitedpathsegment16.h	export	
+/epoc32/include/delimitedpathsegment8.h	export	
+/epoc32/include/delimitedquery16.h	export	
+/epoc32/include/delimitedquery8.h	export	
+/epoc32/include/ecom/ecom.h	export	
+/epoc32/include/ecom/ecomerrorcodes.h	export	
+/epoc32/include/ecom/ecomresolverparams.h	export	
+/epoc32/include/ecom/ecomresolverparams.inl	export	
+/epoc32/include/ecom/implementationinformation.h	export	
+/epoc32/include/ecom/implementationinformation.inl	export	
+/epoc32/include/ecom/implementationproxy.h	export	
+/epoc32/include/ecom/publicregistry.h	export	
+/epoc32/include/ecom/registryinfo.rh	export	
+/epoc32/include/ecom/registryinfoconst.hrh	export	
+/epoc32/include/ecom/registryinfov2.rh	export	
+/epoc32/include/ecom/registryinfov3.rh	export	
+/epoc32/include/ecom/resolver.h	export	
+/epoc32/include/ecomerr.rsg	resource	armv5_urel
+/epoc32/include/ecomerr.rsg	resource	winscw_udeb
+/epoc32/include/emanaged.h	export	
+/epoc32/include/emisc.h	export	
+/epoc32/include/errorres.rsg	resource	armv5_urel
+/epoc32/include/errorres.rsg	resource	winscw_udeb
+/epoc32/include/escapeutils.h	export	
+/epoc32/include/estlib.h	export	
+/epoc32/include/estring.h	export	
+/epoc32/include/euserhl.h	export	
+/epoc32/include/ewsd.h	export	
+/epoc32/include/ezbufman.h	export	
+/epoc32/include/ezcompressor.h	export	
+/epoc32/include/ezconf.h	export	
+/epoc32/include/ezdecompressor.h	export	
+/epoc32/include/ezfilebuffer.h	export	
+/epoc32/include/ezgzip.h	export	
+/epoc32/include/ezlib.h	export	
+/epoc32/include/ezliberrorcodes.h	export	
+/epoc32/include/ezstream.h	export	
+/epoc32/include/finditemengine.h	export	
+/epoc32/include/inetprottextutils.h	export	
+/epoc32/include/isbaseof.h	export	
+/epoc32/include/issame.h	export	
+/epoc32/include/libc/_ansi.h	export	
+/epoc32/include/libc/arpa/ftp.h	export	
+/epoc32/include/libc/arpa/inet.h	export	
+/epoc32/include/libc/arpa/nameser.h	export	
+/epoc32/include/libc/arpa/telnet.h	export	
+/epoc32/include/libc/arpa/tftp.h	export	
+/epoc32/include/libc/assert.h	export	
+/epoc32/include/libc/ctype.h	export	
+/epoc32/include/libc/dirent.h	export	
+/epoc32/include/libc/errno.h	export	
+/epoc32/include/libc/fcntl.h	export	
+/epoc32/include/libc/ieeefp.h	export	
+/epoc32/include/libc/limits.h	export	
+/epoc32/include/libc/locale.h	export	
+/epoc32/include/libc/machine/ieeefp.h	export	
+/epoc32/include/libc/machine/types.h	export	
+/epoc32/include/libc/math.h	export	
+/epoc32/include/libc/netdb.h	export	
+/epoc32/include/libc/netdb_r.h	export	
+/epoc32/include/libc/netinet/arp.h	export	
+/epoc32/include/libc/netinet/in.h	export	
+/epoc32/include/libc/netinet/ip.h	export	
+/epoc32/include/libc/netinet/ip_icmp.h	export	
+/epoc32/include/libc/netinet/net_types.h	export	
+/epoc32/include/libc/netinet/tcp.h	export	
+/epoc32/include/libc/netinet/tcp_fsm.h	export	
+/epoc32/include/libc/netinet/tcp_seq.h	export	
+/epoc32/include/libc/netinet/udp.h	export	
+/epoc32/include/libc/process.h	export	
+/epoc32/include/libc/pwd.h	export	
+/epoc32/include/libc/reent.h	export	
+/epoc32/include/libc/setjmp.h	export	
+/epoc32/include/libc/signal.h	export	
+/epoc32/include/libc/stdarg.h	export	
+/epoc32/include/libc/stdarg_e.h	export	
+/epoc32/include/libc/stddef.h	export	
+/epoc32/include/libc/stdio.h	export	
+/epoc32/include/libc/stdio_r.h	export	
+/epoc32/include/libc/stdlib.h	export	
+/epoc32/include/libc/stdlib_r.h	export	
+/epoc32/include/libc/string.h	export	
+/epoc32/include/libc/sys/_types.h	export	
+/epoc32/include/libc/sys/config.h	export	
+/epoc32/include/libc/sys/dirent.h	export	
+/epoc32/include/libc/sys/errno.h	export	
+/epoc32/include/libc/sys/fcntl.h	export	
+/epoc32/include/libc/sys/file.h	export	
+/epoc32/include/libc/sys/ioctl.h	export	
+/epoc32/include/libc/sys/param.h	export	
+/epoc32/include/libc/sys/reent.h	export	
+/epoc32/include/libc/sys/resource.h	export	
+/epoc32/include/libc/sys/serial.h	export	
+/epoc32/include/libc/sys/signal.h	export	
+/epoc32/include/libc/sys/socket.h	export	
+/epoc32/include/libc/sys/stat.h	export	
+/epoc32/include/libc/sys/stdio_t.h	export	
+/epoc32/include/libc/sys/time.h	export	
+/epoc32/include/libc/sys/times.h	export	
+/epoc32/include/libc/sys/types.h	export	
+/epoc32/include/libc/sys/types1.h	export	
+/epoc32/include/libc/sys/unistd.h	export	
+/epoc32/include/libc/sys/wait.h	export	
+/epoc32/include/libc/time.h	export	
+/epoc32/include/libc/unistd.h	export	
+/epoc32/include/localtypes.h	export	
+/epoc32/include/platform/BtGpsPsyPrivateCRKeys.h	export	
+/epoc32/include/platform/BtGpsPsyPrivatePSKeys.h	export	
+/epoc32/include/platform/CommonContentPolicy.h	export	
+/epoc32/include/platform/EPos_CPosContactRequestor.h	export	
+/epoc32/include/platform/EPos_CPosGSMPrivacyRequestInfo.h	export	
+/epoc32/include/platform/EPos_CPosModuleIdList.h	export	
+/epoc32/include/platform/EPos_CPosModuleUpdate.h	export	
+/epoc32/include/platform/EPos_CPosModules.h	export	
+/epoc32/include/platform/EPos_CPosNetworkPrivacy.h	export	
+/epoc32/include/platform/EPos_CPosNetworkPrivacyRequestInfo.h	export	
+/epoc32/include/platform/EPos_CPosPrivacyNotifier.h	export	
+/epoc32/include/platform/EPos_CPosRequestor.h	export	
+/epoc32/include/platform/EPos_CPosSUPLPrivacyRequestInfo.h	export	
+/epoc32/include/platform/EPos_CPosServiceRequestor.h	export	
+/epoc32/include/platform/EPos_CPosTrace.h	export	
+/epoc32/include/platform/EPos_CPositioner.h	export	
+/epoc32/include/platform/EPos_MPosModulesObserver.h	export	
+/epoc32/include/platform/EPos_MPosVerificationObserver.h	export	
+/epoc32/include/platform/EPos_MPositionerStatus.h	export	
+/epoc32/include/platform/EPos_NetworkPrivacyPanic.h	export	
+/epoc32/include/platform/EPos_Privacy.h	export	
+/epoc32/include/platform/EPos_RPosRequestorStack.h	export	
+/epoc32/include/platform/PositioningPluginFWInternalCRKeys.h	export	
+/epoc32/include/platform/SimulationPSYInternalCRKeys.h	export	
+/epoc32/include/platform/activitymanager.h	export	
+/epoc32/include/platform/apmfndr.h	export	
+/epoc32/include/platform/baerror.h	export	
+/epoc32/include/platform/bafl/backup_std.h	export	
+/epoc32/include/platform/bafl/bodypart.h	export	
+/epoc32/include/platform/bafl/multipartparser.h	export	
+/epoc32/include/platform/bafl/patchdata.h	export	
+/epoc32/include/platform/bafl/qpcodec.h	export	
+/epoc32/include/platform/baflpan.h	export	
+/epoc32/include/platform/baflver.h	export	
+/epoc32/include/platform/baksrv.h	export	
+/epoc32/include/platform/bassnduid.h	export	
+/epoc32/include/platform/cauthentication.h	export	
+/epoc32/include/platform/cmmcustomvendorext.h	export	
+/epoc32/include/platform/cmmdatapackage.h	export	
+/epoc32/include/platform/cmmgsmphonestorageutility.h	export	
+/epoc32/include/platform/cmmsmsutility.h	export	
+/epoc32/include/platform/cmmutility.h	export	
+/epoc32/include/platform/ctsydomaincrkeys.h	export	
+/epoc32/include/platform/ctsydomainpskeys.h	export	
+/epoc32/include/platform/ctsysatmessagingbase.h	export	
+/epoc32/include/platform/datastor.h	export	
+/epoc32/include/platform/ecom/ecomextendedinterfaceerrorcodes.h	export	
+/epoc32/include/platform/ecom/ecompanics.h	export	
+/epoc32/include/platform/ecom/extendedinterfaceimplementationproxy.h	export	
+/epoc32/include/platform/ecom/test_bed/componentinfo.h	export	
+/epoc32/include/platform/ecom/test_bed/componentinfo.inl	export	
+/epoc32/include/platform/ecom/test_bed/componenttester.h	export	
+/epoc32/include/platform/ecom/test_bed/componenttestobserver.h	export	
+/epoc32/include/platform/ecom/test_bed/dataformat.h	export	
+/epoc32/include/platform/ecom/test_bed/datalogger.h	export	
+/epoc32/include/platform/ecom/test_bed/defaultlogoutput.h	export	
+/epoc32/include/platform/ecom/test_bed/leaktesttransition.h	export	
+/epoc32/include/platform/ecom/test_bed/managerobserver.h	export	
+/epoc32/include/platform/ecom/test_bed/stateaccessor.h	export	
+/epoc32/include/platform/ecom/test_bed/testbeddefinitions.h	export	
+/epoc32/include/platform/ecom/test_bed/testcontroller.h	export	
+/epoc32/include/platform/ecom/test_bed/testharnesstemplate.h	export	
+/epoc32/include/platform/ecom/test_bed/testmanager.h	export	
+/epoc32/include/platform/ecom/test_bed/testutilities.h	export	
+/epoc32/include/platform/ecom/test_bed/transition.h	export	
+/epoc32/include/platform/ecom/test_bed/transition.inl	export	
+/epoc32/include/platform/ecom/test_bed/transitionobserver.h	export	
+/epoc32/include/platform/ecom/test_bed/unittest.h	export	
+/epoc32/include/platform/ecom/test_bed/unittest.inl	export	
+/epoc32/include/platform/ecom/test_bed/unittestinfo.h	export	
+/epoc32/include/platform/ecom/test_bed/unittestinfo.inl	export	
+/epoc32/include/platform/ecom/test_bed/unittestobserver.h	export	
+/epoc32/include/platform/epos_intgpshwstatus.h	export	
+/epoc32/include/platform/epos_lastknownlocationpskeys.h	export	
+/epoc32/include/platform/estw32.h	export	
+/epoc32/include/platform/featmgr.h	export	
+/epoc32/include/platform/featurecmn.h	export	
+/epoc32/include/platform/featurecontrol.h	export	
+/epoc32/include/platform/featureinfoplugin.h	export	
+/epoc32/include/platform/featureinfoplugin.inl	export	
+/epoc32/include/platform/featurenotifier.h	export	
+/epoc32/include/platform/gsmerror.h	export	
+/epoc32/include/platform/hwrmdomainpskeys.h	export	
+/epoc32/include/platform/hwrmextendedlight.h	export	
+/epoc32/include/platform/hwrmfmtx.h	export	
+/epoc32/include/platform/hwrmfmtxaudiopolicydomainpskeys.h	export	
+/epoc32/include/platform/hwrmfmtxcommands.h	export	
+/epoc32/include/platform/hwrmfmtxdomaincrkeys.h	export	
+/epoc32/include/platform/hwrmfmtxdomainpskeys.h	export	
+/epoc32/include/platform/hwrmlightcommands.h	export	
+/epoc32/include/platform/hwrmlightdomaincrkeys.h	export	
+/epoc32/include/platform/hwrmpluginservice.h	export	
+/epoc32/include/platform/hwrmpluginservice.inl	export	
+/epoc32/include/platform/hwrmpowerstateplugin.h	export	
+/epoc32/include/platform/hwrmpowerstateplugin.inl	export	
+/epoc32/include/platform/hwrmtargetmodifierplugin.h	export	
+/epoc32/include/platform/hwrmtargetmodifierplugin.inl	export	
+/epoc32/include/platform/hwrmvibracommands.h	export	
+/epoc32/include/platform/liblogger.h	export	
+/epoc32/include/platform/loc/sc/errorres.loc	export	
+/epoc32/include/platform/locationfwdomainpskeys.h	export	
+/epoc32/include/platform/mctsysatservice.h	export	
+/epoc32/include/platform/mcustomvendorextcomplete.h	export	
+/epoc32/include/platform/mltsyfactory.h	export	
+/epoc32/include/platform/mmessagerouter.h	export	
+/epoc32/include/platform/mmgsmwcdmautils.h	export	
+/epoc32/include/platform/mmmessagemanagercallback.h	export	
+/epoc32/include/platform/mmtsy_defaults.h	export	
+/epoc32/include/platform/mmtsy_ipcdefs.h	export	
+/epoc32/include/platform/mmtsy_names.h	export	
+/epoc32/include/platform/mstktsysatservice.h	export	
+/epoc32/include/platform/mw/bodypart.h	export	
+/epoc32/include/platform/mw/multipartparser.h	export	
+/epoc32/include/platform/redircli.h	export	
+/epoc32/include/platform/redircliinternal.h	export	
+/epoc32/include/platform/redirstr.h	export	
+/epoc32/include/platform/rmmcustomapi.h	export	
+/epoc32/include/platform/schinfointernal.h	export	
+/epoc32/include/platform/securitynotification.h	export	
+/epoc32/include/platform/simutils.h	export	
+/epoc32/include/platform/starterclient.h	export	
+/epoc32/include/platform/starterdomaincrkeys.h	export	
+/epoc32/include/platform/startupadaptation.h	export	
+/epoc32/include/platform/startupadaptation.inl	export	
+/epoc32/include/platform/startupadaptationcommands.h	export	
+/epoc32/include/platform/startupadaptationcommands.inl	export	
+/epoc32/include/platform/startupadaptationevents.h	export	
+/epoc32/include/platform/startupadaptationobserver.h	export	
+/epoc32/include/platform/startupdomainpskeys.h	export	
+/epoc32/include/platform/startupreason.h	export	
+/epoc32/include/platform/stdapis/utility/libutils.h	export	
+/epoc32/include/platform/stringpoolerr.h	export	
+/epoc32/include/platform/stringresourcereader.h	export	
+/epoc32/include/platform/stringtablesupport.h	export	
+/epoc32/include/platform/strtsecuritystatus.h	export	
+/epoc32/include/platform/sysutildomaincrkeys.h	export	
+/epoc32/include/platform/sysutilinternalcrkeys.h	export	
+/epoc32/include/platform/sysutilinternalpskeys.h	export	
+/epoc32/include/platform/tconvbase64.h	export	
+/epoc32/include/pls.h	export	
+/epoc32/include/sacls.h	export	
+/epoc32/include/saclscommon.h	export	
+/epoc32/include/saclsdefines.h	export	
+/epoc32/include/schinfo.h	export	
+/epoc32/include/schtask.h	export	
+/epoc32/include/schtime.h	export	
+/epoc32/include/starter.hrh	export	
+/epoc32/include/stdapis/_ansi.h	export	
+/epoc32/include/stdapis/_ctype.h	export	
+/epoc32/include/stdapis/arpa/inet.h	export	
+/epoc32/include/stdapis/arpa/nameser.h	export	
+/epoc32/include/stdapis/arpa/nameser_compat.h	export	
+/epoc32/include/stdapis/assert.h	export	
+/epoc32/include/stdapis/boost/aligned_storage.hpp	export	
+/epoc32/include/stdapis/boost/any.hpp	export	
+/epoc32/include/stdapis/boost/archive/archive_exception.hpp	export	
+/epoc32/include/stdapis/boost/archive/basic_archive.hpp	export	
+/epoc32/include/stdapis/boost/archive/basic_text_iarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/basic_text_iprimitive.hpp	export	
+/epoc32/include/stdapis/boost/archive/basic_text_oarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/basic_text_oprimitive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/abi_prefix.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/abi_suffix.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/archive_pointer_iserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/archive_pointer_oserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/auto_link_archive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/basic_iarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/basic_iserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/basic_oarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/basic_oserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/basic_pointer_iserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/basic_pointer_oserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/basic_serializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/common_iarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/common_oarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/decl.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/interface_iarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/interface_oarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/iserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/known_archive_types.hpp	export	
+/epoc32/include/stdapis/boost/archive/detail/oserializer.hpp	export	
+/epoc32/include/stdapis/boost/archive/text_iarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/text_oarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/xml_iarchive.hpp	export	
+/epoc32/include/stdapis/boost/archive/xml_oarchive.hpp	export	
+/epoc32/include/stdapis/boost/array.hpp	export	
+/epoc32/include/stdapis/boost/assert.hpp	export	
+/epoc32/include/stdapis/boost/assign/list_inserter.hpp	export	
+/epoc32/include/stdapis/boost/assign/std/map.hpp	export	
+/epoc32/include/stdapis/boost/bind.hpp	export	
+/epoc32/include/stdapis/boost/bind/arg.hpp	export	
+/epoc32/include/stdapis/boost/bind/bind_cc.hpp	export	
+/epoc32/include/stdapis/boost/bind/bind_mf_cc.hpp	export	
+/epoc32/include/stdapis/boost/bind/bind_template.hpp	export	
+/epoc32/include/stdapis/boost/bind/mem_fn_cc.hpp	export	
+/epoc32/include/stdapis/boost/bind/mem_fn_template.hpp	export	
+/epoc32/include/stdapis/boost/bind/placeholders.hpp	export	
+/epoc32/include/stdapis/boost/bind/storage.hpp	export	
+/epoc32/include/stdapis/boost/blank.hpp	export	
+/epoc32/include/stdapis/boost/blank_fwd.hpp	export	
+/epoc32/include/stdapis/boost/call_traits.hpp	export	
+/epoc32/include/stdapis/boost/cast.hpp	export	
+/epoc32/include/stdapis/boost/checked_delete.hpp	export	
+/epoc32/include/stdapis/boost/compressed_pair.hpp	export	
+/epoc32/include/stdapis/boost/concept_archetype.hpp	export	
+/epoc32/include/stdapis/boost/concept_check.hpp	export	
+/epoc32/include/stdapis/boost/config.hpp	export	
+/epoc32/include/stdapis/boost/config/abi_prefix.hpp	export	
+/epoc32/include/stdapis/boost/config/abi_suffix.hpp	export	
+/epoc32/include/stdapis/boost/config/auto_link.hpp	export	
+/epoc32/include/stdapis/boost/config/compiler/metrowerks.hpp	export	
+/epoc32/include/stdapis/boost/config/no_tr1/complex.hpp	export	
+/epoc32/include/stdapis/boost/config/no_tr1/utility.hpp	export	
+/epoc32/include/stdapis/boost/config/platform/win32.hpp	export	
+/epoc32/include/stdapis/boost/config/select_compiler_config.hpp	export	
+/epoc32/include/stdapis/boost/config/select_platform_config.hpp	export	
+/epoc32/include/stdapis/boost/config/select_stdlib_config.hpp	export	
+/epoc32/include/stdapis/boost/config/stdlib/stlport.hpp	export	
+/epoc32/include/stdapis/boost/config/suffix.hpp	export	
+/epoc32/include/stdapis/boost/config/user.hpp	export	
+/epoc32/include/stdapis/boost/cstdint.hpp	export	
+/epoc32/include/stdapis/boost/cstdlib.hpp	export	
+/epoc32/include/stdapis/boost/current_function.hpp	export	
+/epoc32/include/stdapis/boost/detail/algorithm.hpp	export	
+/epoc32/include/stdapis/boost/detail/allocator_utilities.hpp	export	
+/epoc32/include/stdapis/boost/detail/atomic_count.hpp	export	
+/epoc32/include/stdapis/boost/detail/atomic_count_win32.hpp	export	
+/epoc32/include/stdapis/boost/detail/bad_weak_ptr.hpp	export	
+/epoc32/include/stdapis/boost/detail/binary_search.hpp	export	
+/epoc32/include/stdapis/boost/detail/call_traits.hpp	export	
+/epoc32/include/stdapis/boost/detail/compressed_pair.hpp	export	
+/epoc32/include/stdapis/boost/detail/dynamic_bitset.hpp	export	
+/epoc32/include/stdapis/boost/detail/indirect_traits.hpp	export	
+/epoc32/include/stdapis/boost/detail/interlocked.hpp	export	
+/epoc32/include/stdapis/boost/detail/is_incrementable.hpp	export	
+/epoc32/include/stdapis/boost/detail/iterator.hpp	export	
+/epoc32/include/stdapis/boost/detail/lightweight_mutex.hpp	export	
+/epoc32/include/stdapis/boost/detail/lightweight_test.hpp	export	
+/epoc32/include/stdapis/boost/detail/lwm_nop.hpp	export	
+/epoc32/include/stdapis/boost/detail/lwm_pthreads.hpp	export	
+/epoc32/include/stdapis/boost/detail/lwm_win32_cs.hpp	export	
+/epoc32/include/stdapis/boost/detail/no_exceptions_support.hpp	export	
+/epoc32/include/stdapis/boost/detail/numeric_traits.hpp	export	
+/epoc32/include/stdapis/boost/detail/quick_allocator.hpp	export	
+/epoc32/include/stdapis/boost/detail/reference_content.hpp	export	
+/epoc32/include/stdapis/boost/detail/select_type.hpp	export	
+/epoc32/include/stdapis/boost/detail/shared_array_nmt.hpp	export	
+/epoc32/include/stdapis/boost/detail/shared_count.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_cw_ppc.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_cw_x86.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_gcc_ia64.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_gcc_ppc.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_gcc_x86.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_nt.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_pt.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_base_w32.hpp	export	
+/epoc32/include/stdapis/boost/detail/sp_counted_impl.hpp	export	
+/epoc32/include/stdapis/boost/detail/templated_streams.hpp	export	
+/epoc32/include/stdapis/boost/detail/workaround.hpp	export	
+/epoc32/include/stdapis/boost/dynamic_bitset.hpp	export	
+/epoc32/include/stdapis/boost/dynamic_bitset/config.hpp	export	
+/epoc32/include/stdapis/boost/dynamic_bitset/dynamic_bitset.hpp	export	
+/epoc32/include/stdapis/boost/dynamic_bitset_fwd.hpp	export	
+/epoc32/include/stdapis/boost/dynamic_property_map.hpp	export	
+/epoc32/include/stdapis/boost/enable_shared_from_this.hpp	export	
+/epoc32/include/stdapis/boost/function.hpp	export	
+/epoc32/include/stdapis/boost/function/detail/function_iterate.hpp	export	
+/epoc32/include/stdapis/boost/function/detail/maybe_include.hpp	export	
+/epoc32/include/stdapis/boost/function/detail/prologue.hpp	export	
+/epoc32/include/stdapis/boost/function/function2.hpp	export	
+/epoc32/include/stdapis/boost/function/function3.hpp	export	
+/epoc32/include/stdapis/boost/function/function_base.hpp	export	
+/epoc32/include/stdapis/boost/function/function_template.hpp	export	
+/epoc32/include/stdapis/boost/function_equal.hpp	export	
+/epoc32/include/stdapis/boost/functional.hpp	export	
+/epoc32/include/stdapis/boost/functional/detail/container_fwd.hpp	export	
+/epoc32/include/stdapis/boost/functional/detail/float_functions.hpp	export	
+/epoc32/include/stdapis/boost/functional/detail/hash_float.hpp	export	
+/epoc32/include/stdapis/boost/functional/hash/hash.hpp	export	
+/epoc32/include/stdapis/boost/functional/hash_fwd.hpp	export	
+/epoc32/include/stdapis/boost/get_pointer.hpp	export	
+/epoc32/include/stdapis/boost/graph/adj_list_serialize.hpp	export	
+/epoc32/include/stdapis/boost/graph/adjacency_iterator.hpp	export	
+/epoc32/include/stdapis/boost/graph/adjacency_list.hpp	export	
+/epoc32/include/stdapis/boost/graph/adjacency_list_io.hpp	export	
+/epoc32/include/stdapis/boost/graph/adjacency_matrix.hpp	export	
+/epoc32/include/stdapis/boost/graph/astar_search.hpp	export	
+/epoc32/include/stdapis/boost/graph/bandwidth.hpp	export	
+/epoc32/include/stdapis/boost/graph/bc_clustering.hpp	export	
+/epoc32/include/stdapis/boost/graph/bellman_ford_shortest_paths.hpp	export	
+/epoc32/include/stdapis/boost/graph/betweenness_centrality.hpp	export	
+/epoc32/include/stdapis/boost/graph/biconnected_components.hpp	export	
+/epoc32/include/stdapis/boost/graph/breadth_first_search.hpp	export	
+/epoc32/include/stdapis/boost/graph/circle_layout.hpp	export	
+/epoc32/include/stdapis/boost/graph/compressed_sparse_row_graph.hpp	export	
+/epoc32/include/stdapis/boost/graph/connected_components.hpp	export	
+/epoc32/include/stdapis/boost/graph/copy.hpp	export	
+/epoc32/include/stdapis/boost/graph/create_condensation_graph.hpp	export	
+/epoc32/include/stdapis/boost/graph/cuthill_mckee_ordering.hpp	export	
+/epoc32/include/stdapis/boost/graph/dag_shortest_paths.hpp	export	
+/epoc32/include/stdapis/boost/graph/depth_first_search.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/adj_list_edge_iterator.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/adjacency_list.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/array_binary_tree.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/bitset_adaptor.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/edge.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/incidence_iterator.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/incremental_components.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/indexed_properties.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/is_same.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/list_base.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/set_adaptor.hpp	export	
+/epoc32/include/stdapis/boost/graph/detail/sparse_ordering.hpp	export	
+/epoc32/include/stdapis/boost/graph/dijkstra_shortest_paths.hpp	export	
+/epoc32/include/stdapis/boost/graph/dominator_tree.hpp	export	
+/epoc32/include/stdapis/boost/graph/edge_connectivity.hpp	export	
+/epoc32/include/stdapis/boost/graph/edge_list.hpp	export	
+/epoc32/include/stdapis/boost/graph/edmunds_karp_max_flow.hpp	export	
+/epoc32/include/stdapis/boost/graph/erdos_renyi_generator.hpp	export	
+/epoc32/include/stdapis/boost/graph/exception.hpp	export	
+/epoc32/include/stdapis/boost/graph/filtered_graph.hpp	export	
+/epoc32/include/stdapis/boost/graph/floyd_warshall_shortest.hpp	export	
+/epoc32/include/stdapis/boost/graph/fruchterman_reingold.hpp	export	
+/epoc32/include/stdapis/boost/graph/graph_archetypes.hpp	export	
+/epoc32/include/stdapis/boost/graph/graph_concepts.hpp	export	
+/epoc32/include/stdapis/boost/graph/graph_selectors.hpp	export	
+/epoc32/include/stdapis/boost/graph/graph_test.hpp	export	
+/epoc32/include/stdapis/boost/graph/graph_traits.hpp	export	
+/epoc32/include/stdapis/boost/graph/graph_utility.hpp	export	
+/epoc32/include/stdapis/boost/graph/graphviz.hpp	export	
+/epoc32/include/stdapis/boost/graph/gursoy_atun_layout.hpp	export	
+/epoc32/include/stdapis/boost/graph/incremental_components.hpp	export	
+/epoc32/include/stdapis/boost/graph/isomorphism.hpp	export	
+/epoc32/include/stdapis/boost/graph/iteration_macros.hpp	export	
+/epoc32/include/stdapis/boost/graph/iteration_macros_undef.hpp	export	
+/epoc32/include/stdapis/boost/graph/johnson_all_pairs_shortest.hpp	export	
+/epoc32/include/stdapis/boost/graph/kamada_kawai_spring_layout.hpp	export	
+/epoc32/include/stdapis/boost/graph/king_ordering.hpp	export	
+/epoc32/include/stdapis/boost/graph/kruskal_min_spanning_tree.hpp	export	
+/epoc32/include/stdapis/boost/graph/leda_graph.hpp	export	
+/epoc32/include/stdapis/boost/graph/max_cardinality_matching.hpp	export	
+/epoc32/include/stdapis/boost/graph/minimum_degree_ordering.hpp	export	
+/epoc32/include/stdapis/boost/graph/named_function_params.hpp	export	
+/epoc32/include/stdapis/boost/graph/neighbor_bfs.hpp	export	
+/epoc32/include/stdapis/boost/graph/page_rank.hpp	export	
+/epoc32/include/stdapis/boost/graph/plod_generator.hpp	export	
+/epoc32/include/stdapis/boost/graph/prim_minimum_spanning_tree.hpp	export	
+/epoc32/include/stdapis/boost/graph/profile.hpp	export	
+/epoc32/include/stdapis/boost/graph/properties.hpp	export	
+/epoc32/include/stdapis/boost/graph/property_iter_range.hpp	export	
+/epoc32/include/stdapis/boost/graph/push_relabel_max_flow.hpp	export	
+/epoc32/include/stdapis/boost/graph/random.hpp	export	
+/epoc32/include/stdapis/boost/graph/random_layout.hpp	export	
+/epoc32/include/stdapis/boost/graph/read_dimacs.hpp	export	
+/epoc32/include/stdapis/boost/graph/relax.hpp	export	
+/epoc32/include/stdapis/boost/graph/reverse_graph.hpp	export	
+/epoc32/include/stdapis/boost/graph/sequential_vertex_coloring.hpp	export	
+/epoc32/include/stdapis/boost/graph/simple_point.hpp	export	
+/epoc32/include/stdapis/boost/graph/sloan_ordering.hpp	export	
+/epoc32/include/stdapis/boost/graph/small_world_generator.hpp	export	
+/epoc32/include/stdapis/boost/graph/smallest_last_ordering.hpp	export	
+/epoc32/include/stdapis/boost/graph/strong_components.hpp	export	
+/epoc32/include/stdapis/boost/graph/subgraph.hpp	export	
+/epoc32/include/stdapis/boost/graph/topological_sort.hpp	export	
+/epoc32/include/stdapis/boost/graph/transitive_closure.hpp	export	
+/epoc32/include/stdapis/boost/graph/transpose_graph.hpp	export	
+/epoc32/include/stdapis/boost/graph/tree_traits.hpp	export	
+/epoc32/include/stdapis/boost/graph/two_bit_color_map.hpp	export	
+/epoc32/include/stdapis/boost/graph/undirected_dfs.hpp	export	
+/epoc32/include/stdapis/boost/graph/vector_as_graph.hpp	export	
+/epoc32/include/stdapis/boost/graph/visitors.hpp	export	
+/epoc32/include/stdapis/boost/implicit_cast.hpp	export	
+/epoc32/include/stdapis/boost/indirect_reference.hpp	export	
+/epoc32/include/stdapis/boost/integer.hpp	export	
+/epoc32/include/stdapis/boost/integer_fwd.hpp	export	
+/epoc32/include/stdapis/boost/integer_traits.hpp	export	
+/epoc32/include/stdapis/boost/intrusive_ptr.hpp	export	
+/epoc32/include/stdapis/boost/io/ios_state.hpp	export	
+/epoc32/include/stdapis/boost/io_fwd.hpp	export	
+/epoc32/include/stdapis/boost/iterator.hpp	export	
+/epoc32/include/stdapis/boost/iterator/counting_iterator.hpp	export	
+/epoc32/include/stdapis/boost/iterator/detail/config_def.hpp	export	
+/epoc32/include/stdapis/boost/iterator/detail/config_undef.hpp	export	
+/epoc32/include/stdapis/boost/iterator/detail/enable_if.hpp	export	
+/epoc32/include/stdapis/boost/iterator/detail/facade_iterator_category.hpp	export	
+/epoc32/include/stdapis/boost/iterator/filter_iterator.hpp	export	
+/epoc32/include/stdapis/boost/iterator/indirect_iterator.hpp	export	
+/epoc32/include/stdapis/boost/iterator/interoperable.hpp	export	
+/epoc32/include/stdapis/boost/iterator/iterator_adaptor.hpp	export	
+/epoc32/include/stdapis/boost/iterator/iterator_categories.hpp	export	
+/epoc32/include/stdapis/boost/iterator/iterator_concepts.hpp	export	
+/epoc32/include/stdapis/boost/iterator/iterator_facade.hpp	export	
+/epoc32/include/stdapis/boost/iterator/iterator_traits.hpp	export	
+/epoc32/include/stdapis/boost/iterator/reverse_iterator.hpp	export	
+/epoc32/include/stdapis/boost/iterator/transform_iterator.hpp	export	
+/epoc32/include/stdapis/boost/iterator_adaptors.hpp	export	
+/epoc32/include/stdapis/boost/lambda/core.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/actions.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/arity_code.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/function_adaptors.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/is_instance_of.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/lambda_config.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/lambda_functor_base.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/lambda_functors.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/lambda_fwd.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/lambda_traits.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/member_ptr.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/operator_actions.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/operator_lambda_func_base.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/operator_return_type_traits.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/operators.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/ret.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/return_type_traits.hpp	export	
+/epoc32/include/stdapis/boost/lambda/detail/select_functions.hpp	export	
+/epoc32/include/stdapis/boost/lambda/lambda.hpp	export	
+/epoc32/include/stdapis/boost/lexical_cast.hpp	export	
+/epoc32/include/stdapis/boost/limits.hpp	export	
+/epoc32/include/stdapis/boost/math/common_factor.hpp	export	
+/epoc32/include/stdapis/boost/math/common_factor_ct.hpp	export	
+/epoc32/include/stdapis/boost/math/common_factor_rt.hpp	export	
+/epoc32/include/stdapis/boost/math/complex.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/acos.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/acosh.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/asin.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/asinh.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/atan.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/atanh.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/details.hpp	export	
+/epoc32/include/stdapis/boost/math/complex/fabs.hpp	export	
+/epoc32/include/stdapis/boost/math/octonion.hpp	export	
+/epoc32/include/stdapis/boost/math/quaternion.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/acosh.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/asinh.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/atanh.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/detail/series.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/expm1.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/hypot.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/log1p.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/sinc.hpp	export	
+/epoc32/include/stdapis/boost/math/special_functions/sinhc.hpp	export	
+/epoc32/include/stdapis/boost/math_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mem_fn.hpp	export	
+/epoc32/include/stdapis/boost/mpl/O1_size.hpp	export	
+/epoc32/include/stdapis/boost/mpl/O1_size_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/advance.hpp	export	
+/epoc32/include/stdapis/boost/mpl/advance_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/always.hpp	export	
+/epoc32/include/stdapis/boost/mpl/and.hpp	export	
+/epoc32/include/stdapis/boost/mpl/apply.hpp	export	
+/epoc32/include/stdapis/boost/mpl/apply_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/apply_wrap.hpp	export	
+/epoc32/include/stdapis/boost/mpl/arg.hpp	export	
+/epoc32/include/stdapis/boost/mpl/arg_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/assert.hpp	export	
+/epoc32/include/stdapis/boost/mpl/at.hpp	export	
+/epoc32/include/stdapis/boost/mpl/at_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/O1_size_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/adl_barrier.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/advance_backward.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/advance_forward.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/arg_typedef.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/arithmetic_op.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/arity.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/arity_spec.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/at_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/begin_end_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/clear_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/common_name_wknd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/comparison_op.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/adl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/arrays.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/bind.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/compiler.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/ctps.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/dtp.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/eti.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/forwarding.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/gcc.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/has_apply.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/has_xxx.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/integral.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/intel.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/lambda.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/msvc.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/msvc_typename.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/nttp.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/operators.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/overload_resolution.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/preprocessor.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/static_constant.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/ttp.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/typeof.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/use_preprocessed.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/config/workaround.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/contains_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/empty_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/find_if_pred.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/front_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/full_lambda.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/has_apply.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/has_begin.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/has_key_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/has_size.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/has_tag.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/has_type.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/include_preprocessed.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/inserter_algorithm.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/integral_wrapper.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/is_msvc_eti_arg.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/iter_apply.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/iter_fold_if_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/iter_fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/lambda_arity_param.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/lambda_spec.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/lambda_support.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/largest_int.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/msvc_eti_base.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/msvc_never_true.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/msvc_type.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/na.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/na_assert.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/na_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/na_spec.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/nested_type_wknd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/nttp_decl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/numeric_cast_utils.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/numeric_op.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/overload_names.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/pop_front_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/advance_backward.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/advance_forward.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/and.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/apply.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/apply_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/apply_wrap.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/arg.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/bind.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/bind_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/equal_to.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/full_lambda.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/greater.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/greater_equal.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/iter_fold_if_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/iter_fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/less.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/list.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/minus.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/or.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/placeholders.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/plus.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/quote.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/reverse_fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/reverse_iter_fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/template_arity.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/times.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessed/plain/vector.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessor/def_params_tail.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessor/default_params.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessor/enum.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessor/filter_params.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessor/params.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/preprocessor/repeat.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/ptr_to_ref.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/push_back_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/push_front_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/reverse_fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/reverse_iter_fold_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/size_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/static_cast.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/template_arity.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/template_arity_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/traits_lambda_spec.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/type_wrapper.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/unwrap.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/value_wknd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/aux_/yes_no.hpp	export	
+/epoc32/include/stdapis/boost/mpl/back_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/back_inserter.hpp	export	
+/epoc32/include/stdapis/boost/mpl/base.hpp	export	
+/epoc32/include/stdapis/boost/mpl/begin_end.hpp	export	
+/epoc32/include/stdapis/boost/mpl/begin_end_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/bind.hpp	export	
+/epoc32/include/stdapis/boost/mpl/bind_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/bool.hpp	export	
+/epoc32/include/stdapis/boost/mpl/bool_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/clear.hpp	export	
+/epoc32/include/stdapis/boost/mpl/clear_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/contains.hpp	export	
+/epoc32/include/stdapis/boost/mpl/contains_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/deref.hpp	export	
+/epoc32/include/stdapis/boost/mpl/distance.hpp	export	
+/epoc32/include/stdapis/boost/mpl/distance_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/empty.hpp	export	
+/epoc32/include/stdapis/boost/mpl/empty_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/equal_to.hpp	export	
+/epoc32/include/stdapis/boost/mpl/erase_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/erase_key_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/eval_if.hpp	export	
+/epoc32/include/stdapis/boost/mpl/find.hpp	export	
+/epoc32/include/stdapis/boost/mpl/find_if.hpp	export	
+/epoc32/include/stdapis/boost/mpl/fold.hpp	export	
+/epoc32/include/stdapis/boost/mpl/for_each.hpp	export	
+/epoc32/include/stdapis/boost/mpl/front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/front_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/front_inserter.hpp	export	
+/epoc32/include/stdapis/boost/mpl/greater.hpp	export	
+/epoc32/include/stdapis/boost/mpl/greater_equal.hpp	export	
+/epoc32/include/stdapis/boost/mpl/has_key.hpp	export	
+/epoc32/include/stdapis/boost/mpl/has_key_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/has_xxx.hpp	export	
+/epoc32/include/stdapis/boost/mpl/identity.hpp	export	
+/epoc32/include/stdapis/boost/mpl/if.hpp	export	
+/epoc32/include/stdapis/boost/mpl/insert_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/inserter.hpp	export	
+/epoc32/include/stdapis/boost/mpl/int.hpp	export	
+/epoc32/include/stdapis/boost/mpl/int_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/integral_c.hpp	export	
+/epoc32/include/stdapis/boost/mpl/integral_c_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/integral_c_tag.hpp	export	
+/epoc32/include/stdapis/boost/mpl/is_sequence.hpp	export	
+/epoc32/include/stdapis/boost/mpl/iter_fold.hpp	export	
+/epoc32/include/stdapis/boost/mpl/iter_fold_if.hpp	export	
+/epoc32/include/stdapis/boost/mpl/iterator_category.hpp	export	
+/epoc32/include/stdapis/boost/mpl/iterator_range.hpp	export	
+/epoc32/include/stdapis/boost/mpl/iterator_tags.hpp	export	
+/epoc32/include/stdapis/boost/mpl/key_type_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/lambda.hpp	export	
+/epoc32/include/stdapis/boost/mpl/lambda_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/less.hpp	export	
+/epoc32/include/stdapis/boost/mpl/limits/arity.hpp	export	
+/epoc32/include/stdapis/boost/mpl/limits/list.hpp	export	
+/epoc32/include/stdapis/boost/mpl/limits/vector.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/O1_size.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/begin_end.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/clear.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/empty.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/include_preprocessed.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/item.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/iterator.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/pop_front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/preprocessed/plain/list10.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/preprocessed/plain/list20.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/push_back.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/push_front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/size.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/aux_/tag.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/list0.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/list10.hpp	export	
+/epoc32/include/stdapis/boost/mpl/list/list20.hpp	export	
+/epoc32/include/stdapis/boost/mpl/logical.hpp	export	
+/epoc32/include/stdapis/boost/mpl/long.hpp	export	
+/epoc32/include/stdapis/boost/mpl/long_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/max_element.hpp	export	
+/epoc32/include/stdapis/boost/mpl/min_max.hpp	export	
+/epoc32/include/stdapis/boost/mpl/minus.hpp	export	
+/epoc32/include/stdapis/boost/mpl/multiplies.hpp	export	
+/epoc32/include/stdapis/boost/mpl/negate.hpp	export	
+/epoc32/include/stdapis/boost/mpl/next.hpp	export	
+/epoc32/include/stdapis/boost/mpl/next_prior.hpp	export	
+/epoc32/include/stdapis/boost/mpl/not.hpp	export	
+/epoc32/include/stdapis/boost/mpl/numeric_cast.hpp	export	
+/epoc32/include/stdapis/boost/mpl/or.hpp	export	
+/epoc32/include/stdapis/boost/mpl/pair.hpp	export	
+/epoc32/include/stdapis/boost/mpl/pair_view.hpp	export	
+/epoc32/include/stdapis/boost/mpl/placeholders.hpp	export	
+/epoc32/include/stdapis/boost/mpl/plus.hpp	export	
+/epoc32/include/stdapis/boost/mpl/pop_back_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/pop_front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/pop_front_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/prior.hpp	export	
+/epoc32/include/stdapis/boost/mpl/protect.hpp	export	
+/epoc32/include/stdapis/boost/mpl/push_back.hpp	export	
+/epoc32/include/stdapis/boost/mpl/push_back_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/push_front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/push_front_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/quote.hpp	export	
+/epoc32/include/stdapis/boost/mpl/reverse_fold.hpp	export	
+/epoc32/include/stdapis/boost/mpl/reverse_iter_fold.hpp	export	
+/epoc32/include/stdapis/boost/mpl/same_as.hpp	export	
+/epoc32/include/stdapis/boost/mpl/sequence_tag.hpp	export	
+/epoc32/include/stdapis/boost/mpl/sequence_tag_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/at_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/begin_end_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/clear_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/empty_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/erase_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/erase_key_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/has_key_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/insert_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/item.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/iterator.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/key_type_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/set0.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/size_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/tag.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/aux_/value_type_impl.hpp	export	
+/epoc32/include/stdapis/boost/mpl/set/set0.hpp	export	
+/epoc32/include/stdapis/boost/mpl/size.hpp	export	
+/epoc32/include/stdapis/boost/mpl/size_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/size_t.hpp	export	
+/epoc32/include/stdapis/boost/mpl/size_t_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/sizeof.hpp	export	
+/epoc32/include/stdapis/boost/mpl/tag.hpp	export	
+/epoc32/include/stdapis/boost/mpl/times.hpp	export	
+/epoc32/include/stdapis/boost/mpl/transform.hpp	export	
+/epoc32/include/stdapis/boost/mpl/value_type_fwd.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/O1_size.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/at.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/back.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/begin_end.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/clear.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/empty.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/include_preprocessed.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/item.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/iterator.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/pop_back.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/pop_front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/preprocessed/plain/vector10.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/preprocessed/plain/vector20.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/preprocessed/typeof_based/vector10.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/preprocessed/typeof_based/vector20.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/push_back.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/push_front.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/size.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/tag.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/aux_/vector0.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/vector0.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/vector10.hpp	export	
+/epoc32/include/stdapis/boost/mpl/vector/vector20.hpp	export	
+/epoc32/include/stdapis/boost/mpl/void.hpp	export	
+/epoc32/include/stdapis/boost/mpl/void_fwd.hpp	export	
+/epoc32/include/stdapis/boost/multi_array.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/algorithm.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/base.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/collection_concept.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/concept_checks.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/copy_array.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/extent_gen.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/extent_range.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/index_gen.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/index_range.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/iterator.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/multi_array_ref.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/range_list.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/storage_order.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/subarray.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/types.hpp	export	
+/epoc32/include/stdapis/boost/multi_array/view.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/composite_key.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/access_specifier.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/archive_constructed.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/auto_space.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/base_type.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/bidir_node_iterator.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/bucket_array.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/converter.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/copy_map.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/def_ctor_tuple_cons.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/duplicates_iterator.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/has_tag.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/hash_index_args.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/hash_index_iterator.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/hash_index_node.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/header_holder.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/index_base.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/index_loader.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/index_matcher.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/index_node_base.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/index_saver.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/invariant_assert.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/is_index_list.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/iter_adaptor.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/modify_key_adaptor.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/msvc_index_specifier.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/no_duplicate_tags.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/node_type.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/ord_index_args.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/ord_index_node.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/ord_index_ops.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/prevent_eti.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/rnd_index_loader.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/rnd_index_node.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/rnd_index_ops.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/rnd_index_ptr_array.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/rnd_node_iterator.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/safe_ctr_proxy.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/safe_mode.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/scope_guard.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/seq_index_node.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/seq_index_ops.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/uintptr_type.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/unbounded.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/detail/value_compare.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/hashed_index.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/hashed_index_fwd.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/identity.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/identity_fwd.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/indexed_by.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/key_extractors.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/mem_fun.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/member.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/ordered_index.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/ordered_index_fwd.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/random_access_index.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/random_access_index_fwd.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/safe_mode_errors.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/sequenced_index.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/sequenced_index_fwd.hpp	export	
+/epoc32/include/stdapis/boost/multi_index/tag.hpp	export	
+/epoc32/include/stdapis/boost/multi_index_container.hpp	export	
+/epoc32/include/stdapis/boost/multi_index_container_fwd.hpp	export	
+/epoc32/include/stdapis/boost/next_prior.hpp	export	
+/epoc32/include/stdapis/boost/noncopyable.hpp	export	
+/epoc32/include/stdapis/boost/none.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/bounds.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/cast.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/conversion_traits.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/converter.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/converter_policies.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/bounds.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/conversion_traits.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/converter.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/int_float_mixture.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/is_subranged.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/meta.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/sign_mixture.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/detail/udt_builtin_mixture.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/int_float_mixture_enum.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/sign_mixture_enum.hpp	export	
+/epoc32/include/stdapis/boost/numeric/conversion/udt_builtin_mixture_enum.hpp	export	
+/epoc32/include/stdapis/boost/operators.hpp	export	
+/epoc32/include/stdapis/boost/optional.hpp	export	
+/epoc32/include/stdapis/boost/optional/optional.hpp	export	
+/epoc32/include/stdapis/boost/optional/optional_fwd.hpp	export	
+/epoc32/include/stdapis/boost/pending/bucket_sorter.hpp	export	
+/epoc32/include/stdapis/boost/pending/container_traits.hpp	export	
+/epoc32/include/stdapis/boost/pending/cstddef.hpp	export	
+/epoc32/include/stdapis/boost/pending/ct_if.hpp	export	
+/epoc32/include/stdapis/boost/pending/detail/disjoint_sets.hpp	export	
+/epoc32/include/stdapis/boost/pending/detail/property.hpp	export	
+/epoc32/include/stdapis/boost/pending/disjoint_sets.hpp	export	
+/epoc32/include/stdapis/boost/pending/indirect_cmp.hpp	export	
+/epoc32/include/stdapis/boost/pending/integer_log2.hpp	export	
+/epoc32/include/stdapis/boost/pending/integer_range.hpp	export	
+/epoc32/include/stdapis/boost/pending/is_heap.hpp	export	
+/epoc32/include/stdapis/boost/pending/lowest_bit.hpp	export	
+/epoc32/include/stdapis/boost/pending/mutable_heap.hpp	export	
+/epoc32/include/stdapis/boost/pending/mutable_queue.hpp	export	
+/epoc32/include/stdapis/boost/pending/property.hpp	export	
+/epoc32/include/stdapis/boost/pending/property_serialize.hpp	export	
+/epoc32/include/stdapis/boost/pending/queue.hpp	export	
+/epoc32/include/stdapis/boost/pending/relaxed_heap.hpp	export	
+/epoc32/include/stdapis/boost/pfto.hpp	export	
+/epoc32/include/stdapis/boost/pointee.hpp	export	
+/epoc32/include/stdapis/boost/pointer_cast.hpp	export	
+/epoc32/include/stdapis/boost/pointer_to_other.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/add.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/dec.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/detail/div_base.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/div.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/inc.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/mod.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/mul.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/arithmetic/sub.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/data.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/elem.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/insert.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/pop_back.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/pop_front.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/push_back.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/push_front.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/remove.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/replace.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/reverse.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/array/size.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/cat.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comma_if.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comparison.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comparison/equal.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comparison/greater.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comparison/greater_equal.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comparison/less.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comparison/less_equal.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/comparison/not_equal.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/config/config.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/config/limits.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/deduce_d.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/detail/edg/while.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/detail/while.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/expr_if.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/expr_iif.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/if.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/iif.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/control/while.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/debug.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/debug/assert.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/debug/error.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/debug/line.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/detail/auto_rec.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/detail/check.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/detail/is_binary.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/detail/is_unary.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/empty.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/enum.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/enum_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/enum_shifted_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/facilities.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/facilities/apply.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/facilities/empty.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/facilities/expand.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/facilities/identity.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/facilities/intercept.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/identity.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/inc.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iterate.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/detail/bounds/lower1.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/detail/bounds/upper1.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/detail/finish.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/detail/iter/forward1.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/detail/local.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/detail/start.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/iterate.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/local.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/iteration/self.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/library.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/adt.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/append.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/at.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/cat.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/detail/edg/fold_left.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/detail/edg/fold_right.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/detail/fold_left.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/detail/fold_right.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/enum.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/filter.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/first_n.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/fold_left.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/fold_right.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/for_each.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/for_each_i.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/for_each_product.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/rest_n.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/reverse.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/size.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/to_tuple.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/list/transform.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/and.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/bitand.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/bitnor.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/bitor.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/bitxor.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/bool.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/compl.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/nor.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/not.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/or.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/logical/xor.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/punctuation.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/punctuation/comma.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/punctuation/comma_if.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/punctuation/paren.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/punctuation/paren_if.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repeat.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repeat_2nd.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/deduce_r.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/deduce_z.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/detail/edg/for.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/detail/for.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_binary_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_params_with_a_default.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_params_with_defaults.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_shifted.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_shifted_binary_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_shifted_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_trailing.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_trailing_binary_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/enum_trailing_params.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/for.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/repeat.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/repetition/repeat_from_to.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/selection.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/selection/max.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/selection/min.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/cat.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/detail/split.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/elem.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/enum.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/filter.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/first_n.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/fold_left.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/fold_right.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/for_each.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/for_each_i.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/for_each_product.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/insert.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/pop_back.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/pop_front.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/push_back.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/push_front.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/remove.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/replace.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/rest_n.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/reverse.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/seq.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/size.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/subseq.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/to_array.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/to_tuple.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/seq/transform.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/slot.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/slot/detail/def.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/slot/detail/shared.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/slot/slot.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/stringize.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/tuple.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/tuple/eat.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/tuple/elem.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/tuple/rem.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/tuple/reverse.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/tuple/to_list.hpp	export	
+/epoc32/include/stdapis/boost/preprocessor/tuple/to_seq.hpp	export	
+/epoc32/include/stdapis/boost/progress.hpp	export	
+/epoc32/include/stdapis/boost/property_map.hpp	export	
+/epoc32/include/stdapis/boost/property_map_iterator.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/clone_allocator.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/associative_ptr_container.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/default_deleter.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/is_convertible.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/map_iterator.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/move.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/reversible_ptr_container.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/scoped_deleter.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/static_move_ptr.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/throw_exception.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/detail/void_ptr_iterator.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/exception.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/indirect_fun.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/nullable.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_array.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_container.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_deque.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_list.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_map.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_map_adapter.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_sequence_adapter.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_set.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_set_adapter.hpp	export	
+/epoc32/include/stdapis/boost/ptr_container/ptr_vector.hpp	export	
+/epoc32/include/stdapis/boost/random.hpp	export	
+/epoc32/include/stdapis/boost/random/additive_combine.hpp	export	
+/epoc32/include/stdapis/boost/random/bernoulli_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/binomial_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/cauchy_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/detail/const_mod.hpp	export	
+/epoc32/include/stdapis/boost/random/detail/pass_through_engine.hpp	export	
+/epoc32/include/stdapis/boost/random/detail/ptr_helper.hpp	export	
+/epoc32/include/stdapis/boost/random/detail/signed_unsigned_compare.hpp	export	
+/epoc32/include/stdapis/boost/random/detail/uniform_int_float.hpp	export	
+/epoc32/include/stdapis/boost/random/discard_block.hpp	export	
+/epoc32/include/stdapis/boost/random/exponential_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/gamma_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/geometric_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/inversive_congruential.hpp	export	
+/epoc32/include/stdapis/boost/random/lagged_fibonacci.hpp	export	
+/epoc32/include/stdapis/boost/random/linear_congruential.hpp	export	
+/epoc32/include/stdapis/boost/random/linear_feedback_shift.hpp	export	
+/epoc32/include/stdapis/boost/random/lognormal_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/mersenne_twister.hpp	export	
+/epoc32/include/stdapis/boost/random/normal_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/poisson_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/random_number_generator.hpp	export	
+/epoc32/include/stdapis/boost/random/ranlux.hpp	export	
+/epoc32/include/stdapis/boost/random/shuffle_output.hpp	export	
+/epoc32/include/stdapis/boost/random/subtract_with_carry.hpp	export	
+/epoc32/include/stdapis/boost/random/triangle_distribution.hpp	export	
+/epoc32/include/stdapis/boost/random/uniform_01.hpp	export	
+/epoc32/include/stdapis/boost/random/uniform_int.hpp	export	
+/epoc32/include/stdapis/boost/random/uniform_on_sphere.hpp	export	
+/epoc32/include/stdapis/boost/random/uniform_real.hpp	export	
+/epoc32/include/stdapis/boost/random/uniform_smallint.hpp	export	
+/epoc32/include/stdapis/boost/random/variate_generator.hpp	export	
+/epoc32/include/stdapis/boost/random/xor_combine.hpp	export	
+/epoc32/include/stdapis/boost/range/begin.hpp	export	
+/epoc32/include/stdapis/boost/range/config.hpp	export	
+/epoc32/include/stdapis/boost/range/const_iterator.hpp	export	
+/epoc32/include/stdapis/boost/range/const_reverse_iterator.hpp	export	
+/epoc32/include/stdapis/boost/range/detail/common.hpp	export	
+/epoc32/include/stdapis/boost/range/detail/implementation_help.hpp	export	
+/epoc32/include/stdapis/boost/range/detail/sfinae.hpp	export	
+/epoc32/include/stdapis/boost/range/difference_type.hpp	export	
+/epoc32/include/stdapis/boost/range/empty.hpp	export	
+/epoc32/include/stdapis/boost/range/end.hpp	export	
+/epoc32/include/stdapis/boost/range/functions.hpp	export	
+/epoc32/include/stdapis/boost/range/iterator.hpp	export	
+/epoc32/include/stdapis/boost/range/iterator_range.hpp	export	
+/epoc32/include/stdapis/boost/range/rbegin.hpp	export	
+/epoc32/include/stdapis/boost/range/rend.hpp	export	
+/epoc32/include/stdapis/boost/range/result_iterator.hpp	export	
+/epoc32/include/stdapis/boost/range/reverse_iterator.hpp	export	
+/epoc32/include/stdapis/boost/range/reverse_result_iterator.hpp	export	
+/epoc32/include/stdapis/boost/range/size.hpp	export	
+/epoc32/include/stdapis/boost/range/size_type.hpp	export	
+/epoc32/include/stdapis/boost/range/sub_range.hpp	export	
+/epoc32/include/stdapis/boost/range/value_type.hpp	export	
+/epoc32/include/stdapis/boost/ref.hpp	export	
+/epoc32/include/stdapis/boost/scoped_array.hpp	export	
+/epoc32/include/stdapis/boost/scoped_ptr.hpp	export	
+/epoc32/include/stdapis/boost/serialization/access.hpp	export	
+/epoc32/include/stdapis/boost/serialization/base_object.hpp	export	
+/epoc32/include/stdapis/boost/serialization/binary_object.hpp	export	
+/epoc32/include/stdapis/boost/serialization/config.hpp	export	
+/epoc32/include/stdapis/boost/serialization/export.hpp	export	
+/epoc32/include/stdapis/boost/serialization/extended_type_info.hpp	export	
+/epoc32/include/stdapis/boost/serialization/extended_type_info_typeid.hpp	export	
+/epoc32/include/stdapis/boost/serialization/force_include.hpp	export	
+/epoc32/include/stdapis/boost/serialization/is_abstract.hpp	export	
+/epoc32/include/stdapis/boost/serialization/level.hpp	export	
+/epoc32/include/stdapis/boost/serialization/level_enum.hpp	export	
+/epoc32/include/stdapis/boost/serialization/nvp.hpp	export	
+/epoc32/include/stdapis/boost/serialization/serialization.hpp	export	
+/epoc32/include/stdapis/boost/serialization/split_member.hpp	export	
+/epoc32/include/stdapis/boost/serialization/string.hpp	export	
+/epoc32/include/stdapis/boost/serialization/tracking.hpp	export	
+/epoc32/include/stdapis/boost/serialization/tracking_enum.hpp	export	
+/epoc32/include/stdapis/boost/serialization/traits.hpp	export	
+/epoc32/include/stdapis/boost/serialization/type_info_implementation.hpp	export	
+/epoc32/include/stdapis/boost/serialization/utility.hpp	export	
+/epoc32/include/stdapis/boost/serialization/version.hpp	export	
+/epoc32/include/stdapis/boost/serialization/void_cast.hpp	export	
+/epoc32/include/stdapis/boost/serialization/void_cast_fwd.hpp	export	
+/epoc32/include/stdapis/boost/shared_array.hpp	export	
+/epoc32/include/stdapis/boost/shared_ptr.hpp	export	
+/epoc32/include/stdapis/boost/smart_cast.hpp	export	
+/epoc32/include/stdapis/boost/static_assert.hpp	export	
+/epoc32/include/stdapis/boost/static_warning.hpp	export	
+/epoc32/include/stdapis/boost/strong_typedef.hpp	export	
+/epoc32/include/stdapis/boost/throw_exception.hpp	export	
+/epoc32/include/stdapis/boost/timer.hpp	export	
+/epoc32/include/stdapis/boost/tuple/detail/tuple_basic.hpp	export	
+/epoc32/include/stdapis/boost/tuple/tuple.hpp	export	
+/epoc32/include/stdapis/boost/type.hpp	export	
+/epoc32/include/stdapis/boost/type_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/add_const.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/add_cv.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/add_pointer.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/add_reference.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/add_volatile.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/aligned_storage.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/alignment_of.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/broken_compiler_spec.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/composite_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/config.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/conversion_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/cv_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/bool_trait_def.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/bool_trait_undef.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/cv_traits_impl.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/false_result.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/ice_and.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/ice_eq.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/ice_not.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/ice_or.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/is_function_ptr_helper.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/is_function_ptr_tester.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/is_mem_fun_pointer_tester.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/size_t_trait_def.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/size_t_trait_undef.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/template_arity_spec.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/type_trait_def.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/type_trait_undef.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/detail/yes_no_type.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/extent.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/function_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_nothrow_assign.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_nothrow_constructor.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_nothrow_copy.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_nothrow_destructor.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_trivial_assign.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_trivial_constructor.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_trivial_copy.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_trivial_destructor.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/has_virtual_destructor.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/ice.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/integral_constant.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/intrinsics.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_abstract.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_arithmetic.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_array.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_base_and_derived.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_base_of.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_class.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_compound.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_const.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_convertible.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_empty.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_enum.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_float.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_floating_point.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_function.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_fundamental.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_integral.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_member_function_pointer.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_member_object_pointer.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_member_pointer.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_object.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_pod.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_pointer.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_polymorphic.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_reference.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_same.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_scalar.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_signed.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_stateless.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_union.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_unsigned.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_void.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/is_volatile.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/object_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/rank.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_all_extents.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_bounds.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_const.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_cv.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_extent.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_pointer.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_reference.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/remove_volatile.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/same_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/transform_traits.hpp	export	
+/epoc32/include/stdapis/boost/type_traits/type_with_alignment.hpp	export	
+/epoc32/include/stdapis/boost/utility.hpp	export	
+/epoc32/include/stdapis/boost/utility/addressof.hpp	export	
+/epoc32/include/stdapis/boost/utility/base_from_member.hpp	export	
+/epoc32/include/stdapis/boost/utility/compare_pointees.hpp	export	
+/epoc32/include/stdapis/boost/utility/detail/result_of_iterate.hpp	export	
+/epoc32/include/stdapis/boost/utility/enable_if.hpp	export	
+/epoc32/include/stdapis/boost/utility/result_of.hpp	export	
+/epoc32/include/stdapis/boost/utility/value_init.hpp	export	
+/epoc32/include/stdapis/boost/variant.hpp	export	
+/epoc32/include/stdapis/boost/variant/apply_visitor.hpp	export	
+/epoc32/include/stdapis/boost/variant/bad_visit.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/apply_visitor_binary.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/apply_visitor_delayed.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/apply_visitor_unary.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/backup_holder.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/bool_trait_def.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/bool_trait_undef.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/cast_storage.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/config.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/enable_recursive.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/enable_recursive_fwd.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/forced_return.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/generic_result_type.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/has_nothrow_move.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/has_trivial_move.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/initializer.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/make_variant_list.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/move.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/over_sequence.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/substitute.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/substitute_fwd.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/variant_io.hpp	export	
+/epoc32/include/stdapis/boost/variant/detail/visitation_impl.hpp	export	
+/epoc32/include/stdapis/boost/variant/get.hpp	export	
+/epoc32/include/stdapis/boost/variant/recursive_variant.hpp	export	
+/epoc32/include/stdapis/boost/variant/recursive_wrapper.hpp	export	
+/epoc32/include/stdapis/boost/variant/recursive_wrapper_fwd.hpp	export	
+/epoc32/include/stdapis/boost/variant/static_visitor.hpp	export	
+/epoc32/include/stdapis/boost/variant/variant.hpp	export	
+/epoc32/include/stdapis/boost/variant/variant_fwd.hpp	export	
+/epoc32/include/stdapis/boost/variant/visitor_ptr.hpp	export	
+/epoc32/include/stdapis/boost/vector_property_map.hpp	export	
+/epoc32/include/stdapis/boost/version.hpp	export	
+/epoc32/include/stdapis/boost/visit_each.hpp	export	
+/epoc32/include/stdapis/boost/weak_ptr.hpp	export	
+/epoc32/include/stdapis/crypt.h	export	
+/epoc32/include/stdapis/ctype.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-address.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-arch-deps.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-bus.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-connection.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-errors.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-glib-bindings.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-glib-error-enum.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-glib-lowlevel.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-glib.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-gtype-specialized.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-macros.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-memory.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-message.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-misc.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-pending-call.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-protocol.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-server.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-shared.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-signature.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-threads.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus-types.h	export	
+/epoc32/include/stdapis/dbus-1.0/dbus/dbus.h	export	
+/epoc32/include/stdapis/dirent.h	export	
+/epoc32/include/stdapis/dlfcn.h	export	
+/epoc32/include/stdapis/err.h	export	
+/epoc32/include/stdapis/errno.h	export	
+/epoc32/include/stdapis/fcntl.h	export	
+/epoc32/include/stdapis/fenv.h	export	
+/epoc32/include/stdapis/float.h	export	
+/epoc32/include/stdapis/ftw.h	export	
+/epoc32/include/stdapis/getopt.h	export	
+/epoc32/include/stdapis/glib-2.0/glib-object.h	export	
+/epoc32/include/stdapis/glib-2.0/glib.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/galloca.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/garray.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gasyncqueue.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gatomic.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gbacktrace.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gbase64.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gbookmarkfile.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gcache.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gchecksum.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gcompletion.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gconvert.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gdataset.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gdate.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gdir.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gerror.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gfileutils.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/ghash.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/ghook.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gi18n-lib.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gi18n.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/giochannel.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gkeyfile.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/glist.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gmacros.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gmain.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gmappedfile.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gmarkup.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gmem.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gmessages.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gnode.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/goption.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gpattern.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gpoll.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gprimes.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gprintf.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gqsort.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gquark.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gqueue.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/grand.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gregex.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/grel.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gscanner.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gsequence.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gshell.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gslice.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gslist.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gspawn.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gstdio.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gstrfuncs.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gstring.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gtestutils.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gthread.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gthreadpool.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gtimer.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gtree.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gtypes.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gunicode.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gurifuncs.h	export	
+/epoc32/include/stdapis/glib-2.0/glib/gutils.h	export	
+/epoc32/include/stdapis/glib-2.0/glib_global.h	export	
+/epoc32/include/stdapis/glib-2.0/glibconfig.h	export	
+/epoc32/include/stdapis/glib-2.0/glowmem.h	export	
+/epoc32/include/stdapis/glib-2.0/gmodule.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gboxed.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gclosure.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/genums.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gmarshal.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gobject.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gobjectnotifyqueue.c	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gparam.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gparamspecs.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gsignal.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gsourceclosure.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gtype.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gtypemodule.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gtypeplugin.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gvalue.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gvaluearray.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gvaluecollector.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject/gvaluetypes.h	export	
+/epoc32/include/stdapis/glib-2.0/gobject_global.h	export	
+/epoc32/include/stdapis/glob.h	export	
+/epoc32/include/stdapis/grp.h	export	
+/epoc32/include/stdapis/iconv.h	export	
+/epoc32/include/stdapis/inttypes.h	export	
+/epoc32/include/stdapis/langinfo.h	export	
+/epoc32/include/stdapis/libm_aliases.h	export	
+/epoc32/include/stdapis/liboil/config.h	export	
+/epoc32/include/stdapis/liboil/globals.h	export	
+/epoc32/include/stdapis/liboil/liboil-stdint.h	export	
+/epoc32/include/stdapis/liboil/liboil.h	export	
+/epoc32/include/stdapis/liboil/liboilclasses.h	export	
+/epoc32/include/stdapis/liboil/liboilcpu.h	export	
+/epoc32/include/stdapis/liboil/liboildebug.h	export	
+/epoc32/include/stdapis/liboil/liboilfault.h	export	
+/epoc32/include/stdapis/liboil/liboilfuncs.h	export	
+/epoc32/include/stdapis/liboil/liboilfunction.h	export	
+/epoc32/include/stdapis/liboil/liboilgcc.h	export	
+/epoc32/include/stdapis/liboil/liboilinternal.h	export	
+/epoc32/include/stdapis/liboil/liboilparameter.h	export	
+/epoc32/include/stdapis/liboil/liboilprofile.h	export	
+/epoc32/include/stdapis/liboil/liboilprototype.h	export	
+/epoc32/include/stdapis/liboil/liboilrandom.h	export	
+/epoc32/include/stdapis/liboil/liboiltest.h	export	
+/epoc32/include/stdapis/liboil/liboiltypes.h	export	
+/epoc32/include/stdapis/liboil/liboilutils.h	export	
+/epoc32/include/stdapis/limits.h	export	
+/epoc32/include/stdapis/locale.h	export	
+/epoc32/include/stdapis/machine/_inttypes.h	export	
+/epoc32/include/stdapis/machine/_limits.h	export	
+/epoc32/include/stdapis/machine/_stdint.h	export	
+/epoc32/include/stdapis/machine/_types.h	export	
+/epoc32/include/stdapis/machine/endian.h	export	
+/epoc32/include/stdapis/machine/param.h	export	
+/epoc32/include/stdapis/machine/setjmp.h	export	
+/epoc32/include/stdapis/machine/signal.h	export	
+/epoc32/include/stdapis/math.h	export	
+/epoc32/include/stdapis/md5.h	export	
+/epoc32/include/stdapis/memory.h	export	
+/epoc32/include/stdapis/monetary.h	export	
+/epoc32/include/stdapis/net/if.h	export	
+/epoc32/include/stdapis/net/if_var.h	export	
+/epoc32/include/stdapis/net/radix.h	export	
+/epoc32/include/stdapis/net/route.h	export	
+/epoc32/include/stdapis/netconfig.h	export	
+/epoc32/include/stdapis/netdb.h	export	
+/epoc32/include/stdapis/netinet/in.h	export	
+/epoc32/include/stdapis/netinet6/in6.h	export	
+/epoc32/include/stdapis/netinet6/in6_var.h	export	
+/epoc32/include/stdapis/nsswitch.h	export	
+/epoc32/include/stdapis/openssl/aes.h	export	
+/epoc32/include/stdapis/openssl/asn1.h	export	
+/epoc32/include/stdapis/openssl/asn1_mac.h	export	
+/epoc32/include/stdapis/openssl/asn1t.h	export	
+/epoc32/include/stdapis/openssl/bio.h	export	
+/epoc32/include/stdapis/openssl/bn.h	export	
+/epoc32/include/stdapis/openssl/buffer.h	export	
+/epoc32/include/stdapis/openssl/comp.h	export	
+/epoc32/include/stdapis/openssl/conf.h	export	
+/epoc32/include/stdapis/openssl/conf_api.h	export	
+/epoc32/include/stdapis/openssl/crypto.h	export	
+/epoc32/include/stdapis/openssl/des.h	export	
+/epoc32/include/stdapis/openssl/des_old.h	export	
+/epoc32/include/stdapis/openssl/dh.h	export	
+/epoc32/include/stdapis/openssl/dsa.h	export	
+/epoc32/include/stdapis/openssl/dso.h	export	
+/epoc32/include/stdapis/openssl/dtls1.h	export	
+/epoc32/include/stdapis/openssl/e_os2.h	export	
+/epoc32/include/stdapis/openssl/engine.h	export	
+/epoc32/include/stdapis/openssl/err.h	export	
+/epoc32/include/stdapis/openssl/evp.h	export	
+/epoc32/include/stdapis/openssl/hmac.h	export	
+/epoc32/include/stdapis/openssl/kssl.h	export	
+/epoc32/include/stdapis/openssl/lhash.h	export	
+/epoc32/include/stdapis/openssl/md2.h	export	
+/epoc32/include/stdapis/openssl/md5.h	export	
+/epoc32/include/stdapis/openssl/obj_mac.h	export	
+/epoc32/include/stdapis/openssl/objects.h	export	
+/epoc32/include/stdapis/openssl/ocsp.h	export	
+/epoc32/include/stdapis/openssl/opensslconf.h	export	
+/epoc32/include/stdapis/openssl/opensslv.h	export	
+/epoc32/include/stdapis/openssl/ossl_typ.h	export	
+/epoc32/include/stdapis/openssl/pem.h	export	
+/epoc32/include/stdapis/openssl/pem2.h	export	
+/epoc32/include/stdapis/openssl/pkcs12.h	export	
+/epoc32/include/stdapis/openssl/pkcs7.h	export	
+/epoc32/include/stdapis/openssl/pq_compat.h	export	
+/epoc32/include/stdapis/openssl/pqueue.h	export	
+/epoc32/include/stdapis/openssl/rand.h	export	
+/epoc32/include/stdapis/openssl/rc2.h	export	
+/epoc32/include/stdapis/openssl/rc4.h	export	
+/epoc32/include/stdapis/openssl/rsa.h	export	
+/epoc32/include/stdapis/openssl/safestack.h	export	
+/epoc32/include/stdapis/openssl/sha.h	export	
+/epoc32/include/stdapis/openssl/ssl.h	export	
+/epoc32/include/stdapis/openssl/ssl2.h	export	
+/epoc32/include/stdapis/openssl/ssl23.h	export	
+/epoc32/include/stdapis/openssl/ssl3.h	export	
+/epoc32/include/stdapis/openssl/stack.h	export	
+/epoc32/include/stdapis/openssl/store.h	export	
+/epoc32/include/stdapis/openssl/symhacks.h	export	
+/epoc32/include/stdapis/openssl/tls1.h	export	
+/epoc32/include/stdapis/openssl/tmdiff.h	export	
+/epoc32/include/stdapis/openssl/txt_db.h	export	
+/epoc32/include/stdapis/openssl/ui.h	export	
+/epoc32/include/stdapis/openssl/ui_compat.h	export	
+/epoc32/include/stdapis/openssl/x509.h	export	
+/epoc32/include/stdapis/openssl/x509_vfy.h	export	
+/epoc32/include/stdapis/openssl/x509v3.h	export	
+/epoc32/include/stdapis/paths.h	export	
+/epoc32/include/stdapis/pipsversion.h	export	
+/epoc32/include/stdapis/pthread.h	export	
+/epoc32/include/stdapis/pthreadalias.h	export	
+/epoc32/include/stdapis/pthreadtypes.h	export	
+/epoc32/include/stdapis/pwd.h	export	
+/epoc32/include/stdapis/regex.h	export	
+/epoc32/include/stdapis/resolv.h	export	
+/epoc32/include/stdapis/sched.h	export	
+/epoc32/include/stdapis/semaphore.h	export	
+/epoc32/include/stdapis/setjmp.h	export	
+/epoc32/include/stdapis/signal.h	export	
+/epoc32/include/stdapis/signgam.h	export	
+/epoc32/include/stdapis/spawn.h	export	
+/epoc32/include/stdapis/staticlibinit_gcce.h	export	
+/epoc32/include/stdapis/stdarg.h	export	
+/epoc32/include/stdapis/stdarg_e.h	export	
+/epoc32/include/stdapis/stdbool.h	export	
+/epoc32/include/stdapis/stddef.h	export	
+/epoc32/include/stdapis/stdint.h	export	
+/epoc32/include/stdapis/stdio.h	export	
+/epoc32/include/stdapis/stdlib.h	export	
+/epoc32/include/stdapis/stlport/algorithm	export	
+/epoc32/include/stdapis/stlport/bitset	export	
+/epoc32/include/stdapis/stlport/cassert	export	
+/epoc32/include/stdapis/stlport/cctype	export	
+/epoc32/include/stdapis/stlport/cerrno	export	
+/epoc32/include/stdapis/stlport/cfloat	export	
+/epoc32/include/stdapis/stlport/climits	export	
+/epoc32/include/stdapis/stlport/clocale	export	
+/epoc32/include/stdapis/stlport/cmath	export	
+/epoc32/include/stdapis/stlport/complex	export	
+/epoc32/include/stdapis/stlport/config/_epilog.h	export	
+/epoc32/include/stdapis/stlport/config/_gcc.h	export	
+/epoc32/include/stdapis/stlport/config/_msvc_warnings_off.h	export	
+/epoc32/include/stdapis/stlport/config/_prolog.h	export	
+/epoc32/include/stdapis/stlport/config/stl_as400.h	export	
+/epoc32/include/stdapis/stlport/config/stl_confix.h	export	
+/epoc32/include/stdapis/stlport/config/stl_epoc.h	export	
+/epoc32/include/stdapis/stlport/config/stl_gcce.h	export	
+/epoc32/include/stdapis/stlport/config/stl_gccxml.h	export	
+/epoc32/include/stdapis/stlport/config/stl_msvc.h	export	
+/epoc32/include/stdapis/stlport/config/stl_mwerks.h	export	
+/epoc32/include/stdapis/stlport/config/stl_rvct.h	export	
+/epoc32/include/stdapis/stlport/config/stl_select_lib.h	export	
+/epoc32/include/stdapis/stlport/config/stl_watcom.h	export	
+/epoc32/include/stdapis/stlport/config/stl_winscw.h	export	
+/epoc32/include/stdapis/stlport/config/stlcomp.h	export	
+/epoc32/include/stdapis/stlport/csetjmp	export	
+/epoc32/include/stdapis/stlport/csignal	export	
+/epoc32/include/stdapis/stlport/cstd/cctype	export	
+/epoc32/include/stdapis/stlport/cstd/cerrno	export	
+/epoc32/include/stdapis/stlport/cstd/cfloat	export	
+/epoc32/include/stdapis/stlport/cstd/climits	export	
+/epoc32/include/stdapis/stlport/cstd/clocale	export	
+/epoc32/include/stdapis/stlport/cstd/cmath	export	
+/epoc32/include/stdapis/stlport/cstd/csetjmp	export	
+/epoc32/include/stdapis/stlport/cstd/csignal	export	
+/epoc32/include/stdapis/stlport/cstd/cstdarg	export	
+/epoc32/include/stdapis/stlport/cstd/cstddef	export	
+/epoc32/include/stdapis/stlport/cstd/cstdio	export	
+/epoc32/include/stdapis/stlport/cstd/cstdlib	export	
+/epoc32/include/stdapis/stlport/cstd/cstring	export	
+/epoc32/include/stdapis/stlport/cstd/ctime	export	
+/epoc32/include/stdapis/stlport/cstd/cwchar	export	
+/epoc32/include/stdapis/stlport/cstd/cwctype	export	
+/epoc32/include/stdapis/stlport/cstd/locale.h	export	
+/epoc32/include/stdapis/stlport/cstd/math.h	export	
+/epoc32/include/stdapis/stlport/cstd/setjmp.h	export	
+/epoc32/include/stdapis/stlport/cstd/stdarg.h	export	
+/epoc32/include/stdapis/stlport/cstd/stddef.h	export	
+/epoc32/include/stdapis/stlport/cstd/stdio.h	export	
+/epoc32/include/stdapis/stlport/cstd/stdlib.h	export	
+/epoc32/include/stdapis/stlport/cstd/string.h	export	
+/epoc32/include/stdapis/stlport/cstd/time.h	export	
+/epoc32/include/stdapis/stlport/cstd/wchar.h	export	
+/epoc32/include/stdapis/stlport/cstd/wctype.h	export	
+/epoc32/include/stdapis/stlport/cstdarg	export	
+/epoc32/include/stdapis/stlport/cstddef	export	
+/epoc32/include/stdapis/stlport/cstdio	export	
+/epoc32/include/stdapis/stlport/cstdlib	export	
+/epoc32/include/stdapis/stlport/cstring	export	
+/epoc32/include/stdapis/stlport/ctime	export	
+/epoc32/include/stdapis/stlport/ctype.h	export	
+/epoc32/include/stdapis/stlport/cwchar	export	
+/epoc32/include/stdapis/stlport/cwctype	export	
+/epoc32/include/stdapis/stlport/deque	export	
+/epoc32/include/stdapis/stlport/exception	export	
+/epoc32/include/stdapis/stlport/exception.h	export	
+/epoc32/include/stdapis/stlport/fstream	export	
+/epoc32/include/stdapis/stlport/fstream.h	export	
+/epoc32/include/stdapis/stlport/functional	export	
+/epoc32/include/stdapis/stlport/hash_map	export	
+/epoc32/include/stdapis/stlport/hash_set	export	
+/epoc32/include/stdapis/stlport/iomanip	export	
+/epoc32/include/stdapis/stlport/iomanip.h	export	
+/epoc32/include/stdapis/stlport/ios	export	
+/epoc32/include/stdapis/stlport/ios.h	export	
+/epoc32/include/stdapis/stlport/iosfwd	export	
+/epoc32/include/stdapis/stlport/iostream	export	
+/epoc32/include/stdapis/stlport/iostream.h	export	
+/epoc32/include/stdapis/stlport/istream	export	
+/epoc32/include/stdapis/stlport/istream.h	export	
+/epoc32/include/stdapis/stlport/iterator	export	
+/epoc32/include/stdapis/stlport/limits	export	
+/epoc32/include/stdapis/stlport/list	export	
+/epoc32/include/stdapis/stlport/locale	export	
+/epoc32/include/stdapis/stlport/locale.h	export	
+/epoc32/include/stdapis/stlport/map	export	
+/epoc32/include/stdapis/stlport/math.h	export	
+/epoc32/include/stdapis/stlport/mem.h	export	
+/epoc32/include/stdapis/stlport/memory	export	
+/epoc32/include/stdapis/stlport/new	export	
+/epoc32/include/stdapis/stlport/new.h	export	
+/epoc32/include/stdapis/stlport/numeric	export	
+/epoc32/include/stdapis/stlport/ostream	export	
+/epoc32/include/stdapis/stlport/ostream.h	export	
+/epoc32/include/stdapis/stlport/pthread.h	export	
+/epoc32/include/stdapis/stlport/pthread_alloc	export	
+/epoc32/include/stdapis/stlport/queue	export	
+/epoc32/include/stdapis/stlport/rope	export	
+/epoc32/include/stdapis/stlport/runtime/exception.h	export	
+/epoc32/include/stdapis/stlport/runtime/new	export	
+/epoc32/include/stdapis/stlport/runtime/new.h	export	
+/epoc32/include/stdapis/stlport/runtime/numeric	export	
+/epoc32/include/stdapis/stlport/runtime/typeinfo	export	
+/epoc32/include/stdapis/stlport/runtime/typeinfo.h	export	
+/epoc32/include/stdapis/stlport/set	export	
+/epoc32/include/stdapis/stlport/setjmp.h	export	
+/epoc32/include/stdapis/stlport/slist	export	
+/epoc32/include/stdapis/stlport/sstream	export	
+/epoc32/include/stdapis/stlport/stack	export	
+/epoc32/include/stdapis/stlport/stdarg.h	export	
+/epoc32/include/stdapis/stlport/stddef.h	export	
+/epoc32/include/stdapis/stlport/stdexcept	export	
+/epoc32/include/stdapis/stlport/stdio.h	export	
+/epoc32/include/stdapis/stlport/stdio_streambuf	export	
+/epoc32/include/stdapis/stlport/stdiostream.h	export	
+/epoc32/include/stdapis/stlport/stdlib.h	export	
+/epoc32/include/stdapis/stlport/stl/_abbrevs.h	export	
+/epoc32/include/stdapis/stlport/stl/_algo.c	export	
+/epoc32/include/stdapis/stlport/stl/_algo.h	export	
+/epoc32/include/stdapis/stlport/stl/_algobase.c	export	
+/epoc32/include/stdapis/stlport/stl/_algobase.h	export	
+/epoc32/include/stdapis/stlport/stl/_alloc.c	export	
+/epoc32/include/stdapis/stlport/stl/_alloc.h	export	
+/epoc32/include/stdapis/stlport/stl/_auto_ptr.h	export	
+/epoc32/include/stdapis/stlport/stl/_bitset.c	export	
+/epoc32/include/stdapis/stlport/stl/_bitset.h	export	
+/epoc32/include/stdapis/stlport/stl/_bvector.h	export	
+/epoc32/include/stdapis/stlport/stl/_check_config.h	export	
+/epoc32/include/stdapis/stlport/stl/_cmath.h	export	
+/epoc32/include/stdapis/stlport/stl/_codecvt.h	export	
+/epoc32/include/stdapis/stlport/stl/_collate.h	export	
+/epoc32/include/stdapis/stlport/stl/_complex.c	export	
+/epoc32/include/stdapis/stlport/stl/_complex.h	export	
+/epoc32/include/stdapis/stlport/stl/_config.h	export	
+/epoc32/include/stdapis/stlport/stl/_config_compat.h	export	
+/epoc32/include/stdapis/stlport/stl/_config_compat_post.h	export	
+/epoc32/include/stdapis/stlport/stl/_construct.h	export	
+/epoc32/include/stdapis/stlport/stl/_ctraits_fns.h	export	
+/epoc32/include/stdapis/stlport/stl/_ctype.c	export	
+/epoc32/include/stdapis/stlport/stl/_ctype.h	export	
+/epoc32/include/stdapis/stlport/stl/_cwchar.h	export	
+/epoc32/include/stdapis/stlport/stl/_deque.c	export	
+/epoc32/include/stdapis/stlport/stl/_deque.h	export	
+/epoc32/include/stdapis/stlport/stl/_epilog.h	export	
+/epoc32/include/stdapis/stlport/stl/_exception.h	export	
+/epoc32/include/stdapis/stlport/stl/_fstream.c	export	
+/epoc32/include/stdapis/stlport/stl/_fstream.h	export	
+/epoc32/include/stdapis/stlport/stl/_function.h	export	
+/epoc32/include/stdapis/stlport/stl/_function_adaptors.h	export	
+/epoc32/include/stdapis/stlport/stl/_function_base.h	export	
+/epoc32/include/stdapis/stlport/stl/_hash_fun.h	export	
+/epoc32/include/stdapis/stlport/stl/_hash_map.h	export	
+/epoc32/include/stdapis/stlport/stl/_hash_set.h	export	
+/epoc32/include/stdapis/stlport/stl/_hashtable.c	export	
+/epoc32/include/stdapis/stlport/stl/_hashtable.h	export	
+/epoc32/include/stdapis/stlport/stl/_heap.c	export	
+/epoc32/include/stdapis/stlport/stl/_heap.h	export	
+/epoc32/include/stdapis/stlport/stl/_ios.c	export	
+/epoc32/include/stdapis/stlport/stl/_ios.h	export	
+/epoc32/include/stdapis/stlport/stl/_ios_base.h	export	
+/epoc32/include/stdapis/stlport/stl/_iosfwd.h	export	
+/epoc32/include/stdapis/stlport/stl/_istream.c	export	
+/epoc32/include/stdapis/stlport/stl/_istream.h	export	
+/epoc32/include/stdapis/stlport/stl/_istreambuf_iterator.h	export	
+/epoc32/include/stdapis/stlport/stl/_iterator.h	export	
+/epoc32/include/stdapis/stlport/stl/_iterator_base.h	export	
+/epoc32/include/stdapis/stlport/stl/_iterator_old.h	export	
+/epoc32/include/stdapis/stlport/stl/_limits.c	export	
+/epoc32/include/stdapis/stlport/stl/_limits.h	export	
+/epoc32/include/stdapis/stlport/stl/_list.c	export	
+/epoc32/include/stdapis/stlport/stl/_list.h	export	
+/epoc32/include/stdapis/stlport/stl/_locale.h	export	
+/epoc32/include/stdapis/stlport/stl/_map.h	export	
+/epoc32/include/stdapis/stlport/stl/_messages_facets.h	export	
+/epoc32/include/stdapis/stlport/stl/_monetary.c	export	
+/epoc32/include/stdapis/stlport/stl/_monetary.h	export	
+/epoc32/include/stdapis/stlport/stl/_new.h	export	
+/epoc32/include/stdapis/stlport/stl/_null_stream.h	export	
+/epoc32/include/stdapis/stlport/stl/_num_get.c	export	
+/epoc32/include/stdapis/stlport/stl/_num_get.h	export	
+/epoc32/include/stdapis/stlport/stl/_num_put.c	export	
+/epoc32/include/stdapis/stlport/stl/_num_put.h	export	
+/epoc32/include/stdapis/stlport/stl/_numeric.c	export	
+/epoc32/include/stdapis/stlport/stl/_numeric.h	export	
+/epoc32/include/stdapis/stlport/stl/_numpunct.c	export	
+/epoc32/include/stdapis/stlport/stl/_numpunct.h	export	
+/epoc32/include/stdapis/stlport/stl/_ostream.c	export	
+/epoc32/include/stdapis/stlport/stl/_ostream.h	export	
+/epoc32/include/stdapis/stlport/stl/_ostreambuf_iterator.h	export	
+/epoc32/include/stdapis/stlport/stl/_pair.h	export	
+/epoc32/include/stdapis/stlport/stl/_prolog.h	export	
+/epoc32/include/stdapis/stlport/stl/_pthread_alloc.c	export	
+/epoc32/include/stdapis/stlport/stl/_pthread_alloc.h	export	
+/epoc32/include/stdapis/stlport/stl/_ptrs_specialize.h	export	
+/epoc32/include/stdapis/stlport/stl/_queue.h	export	
+/epoc32/include/stdapis/stlport/stl/_range_errors.h	export	
+/epoc32/include/stdapis/stlport/stl/_raw_storage_iter.h	export	
+/epoc32/include/stdapis/stlport/stl/_relops.h	export	
+/epoc32/include/stdapis/stlport/stl/_relops_cont.h	export	
+/epoc32/include/stdapis/stlport/stl/_relops_hash_cont.h	export	
+/epoc32/include/stdapis/stlport/stl/_relops_template.h	export	
+/epoc32/include/stdapis/stlport/stl/_rope.c	export	
+/epoc32/include/stdapis/stlport/stl/_rope.h	export	
+/epoc32/include/stdapis/stlport/stl/_set.h	export	
+/epoc32/include/stdapis/stlport/stl/_site_config.h	export	
+/epoc32/include/stdapis/stlport/stl/_slist.c	export	
+/epoc32/include/stdapis/stlport/stl/_slist.h	export	
+/epoc32/include/stdapis/stlport/stl/_slist_base.c	export	
+/epoc32/include/stdapis/stlport/stl/_slist_base.h	export	
+/epoc32/include/stdapis/stlport/stl/_sstream.c	export	
+/epoc32/include/stdapis/stlport/stl/_sstream.h	export	
+/epoc32/include/stdapis/stlport/stl/_stack.h	export	
+/epoc32/include/stdapis/stlport/stl/_stdio_file.h	export	
+/epoc32/include/stdapis/stlport/stl/_stream_iterator.h	export	
+/epoc32/include/stdapis/stlport/stl/_streambuf.c	export	
+/epoc32/include/stdapis/stlport/stl/_streambuf.h	export	
+/epoc32/include/stdapis/stlport/stl/_streambuf_iterator.h	export	
+/epoc32/include/stdapis/stlport/stl/_string.c	export	
+/epoc32/include/stdapis/stlport/stl/_string.h	export	
+/epoc32/include/stdapis/stlport/stl/_string_fwd.c	export	
+/epoc32/include/stdapis/stlport/stl/_string_fwd.h	export	
+/epoc32/include/stdapis/stlport/stl/_string_hash.h	export	
+/epoc32/include/stdapis/stlport/stl/_string_io.c	export	
+/epoc32/include/stdapis/stlport/stl/_string_io.h	export	
+/epoc32/include/stdapis/stlport/stl/_strstream.h	export	
+/epoc32/include/stdapis/stlport/stl/_tempbuf.c	export	
+/epoc32/include/stdapis/stlport/stl/_tempbuf.h	export	
+/epoc32/include/stdapis/stlport/stl/_threads.c	export	
+/epoc32/include/stdapis/stlport/stl/_threads.h	export	
+/epoc32/include/stdapis/stlport/stl/_time_facets.c	export	
+/epoc32/include/stdapis/stlport/stl/_time_facets.h	export	
+/epoc32/include/stdapis/stlport/stl/_tree.c	export	
+/epoc32/include/stdapis/stlport/stl/_tree.h	export	
+/epoc32/include/stdapis/stlport/stl/_uninitialized.h	export	
+/epoc32/include/stdapis/stlport/stl/_valarray.c	export	
+/epoc32/include/stdapis/stlport/stl/_valarray.h	export	
+/epoc32/include/stdapis/stlport/stl/_vector.c	export	
+/epoc32/include/stdapis/stlport/stl/_vector.h	export	
+/epoc32/include/stdapis/stlport/stl/c_locale.h	export	
+/epoc32/include/stdapis/stlport/stl/char_traits.h	export	
+/epoc32/include/stdapis/stlport/stl/concept_checks.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_debug.c	export	
+/epoc32/include/stdapis/stlport/stl/debug/_debug.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_deque.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_hashtable.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_iterator.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_list.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_relops_cont.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_relops_hash_cont.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_slist.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_string.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_tree.h	export	
+/epoc32/include/stdapis/stlport/stl/debug/_vector.h	export	
+/epoc32/include/stdapis/stlport/stl/msl_string.h	export	
+/epoc32/include/stdapis/stlport/stl/type_traits.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_deque.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_hash_map.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_hash_set.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_list.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_map.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_mmap.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_set.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_slist.h	export	
+/epoc32/include/stdapis/stlport/stl/wrappers/_vector.h	export	
+/epoc32/include/stdapis/stlport/stl_user_config.h	export	
+/epoc32/include/stdapis/stlport/streambuf	export	
+/epoc32/include/stdapis/stlport/streambuf.h	export	
+/epoc32/include/stdapis/stlport/string	export	
+/epoc32/include/stdapis/stlport/string.h	export	
+/epoc32/include/stdapis/stlport/strstream	export	
+/epoc32/include/stdapis/stlport/strstream.h	export	
+/epoc32/include/stdapis/stlport/time.h	export	
+/epoc32/include/stdapis/stlport/typeinfo	export	
+/epoc32/include/stdapis/stlport/typeinfo.h	export	
+/epoc32/include/stdapis/stlport/using/cstring	export	
+/epoc32/include/stdapis/stlport/using/fstream	export	
+/epoc32/include/stdapis/stlport/using/h/fstream.h	export	
+/epoc32/include/stdapis/stlport/using/h/iomanip.h	export	
+/epoc32/include/stdapis/stlport/using/h/iostream.h	export	
+/epoc32/include/stdapis/stlport/using/h/ostream.h	export	
+/epoc32/include/stdapis/stlport/using/h/streambuf.h	export	
+/epoc32/include/stdapis/stlport/using/h/strstream.h	export	
+/epoc32/include/stdapis/stlport/using/iomanip	export	
+/epoc32/include/stdapis/stlport/using/ios	export	
+/epoc32/include/stdapis/stlport/using/iosfwd	export	
+/epoc32/include/stdapis/stlport/using/iostream	export	
+/epoc32/include/stdapis/stlport/using/istream	export	
+/epoc32/include/stdapis/stlport/using/locale	export	
+/epoc32/include/stdapis/stlport/using/ostream	export	
+/epoc32/include/stdapis/stlport/using/sstream	export	
+/epoc32/include/stdapis/stlport/using/streambuf	export	
+/epoc32/include/stdapis/stlport/using/strstream	export	
+/epoc32/include/stdapis/stlport/utility	export	
+/epoc32/include/stdapis/stlport/valarray	export	
+/epoc32/include/stdapis/stlport/vector	export	
+/epoc32/include/stdapis/stlport/wchar.h	export	
+/epoc32/include/stdapis/stlport/wctype.h	export	
+/epoc32/include/stdapis/stlport/wrap_std/complex	export	
+/epoc32/include/stdapis/stlport/wrap_std/fstream	export	
+/epoc32/include/stdapis/stlport/wrap_std/h/fstream.h	export	
+/epoc32/include/stdapis/stlport/wrap_std/h/iostream.h	export	
+/epoc32/include/stdapis/stlport/wrap_std/h/streambuf.h	export	
+/epoc32/include/stdapis/stlport/wrap_std/h/strstream.h	export	
+/epoc32/include/stdapis/stlport/wrap_std/iomanip	export	
+/epoc32/include/stdapis/stlport/wrap_std/ios	export	
+/epoc32/include/stdapis/stlport/wrap_std/iosfwd	export	
+/epoc32/include/stdapis/stlport/wrap_std/iostream	export	
+/epoc32/include/stdapis/stlport/wrap_std/istream	export	
+/epoc32/include/stdapis/stlport/wrap_std/locale	export	
+/epoc32/include/stdapis/stlport/wrap_std/ostream	export	
+/epoc32/include/stdapis/stlport/wrap_std/sstream	export	
+/epoc32/include/stdapis/stlport/wrap_std/streambuf	export	
+/epoc32/include/stdapis/stlport/wrap_std/strstream	export	
+/epoc32/include/stdapis/stlportv5/algorithm	export	
+/epoc32/include/stdapis/stlportv5/bitset	export	
+/epoc32/include/stdapis/stlportv5/cassert	export	
+/epoc32/include/stdapis/stlportv5/cctype	export	
+/epoc32/include/stdapis/stlportv5/cerrno	export	
+/epoc32/include/stdapis/stlportv5/cfloat	export	
+/epoc32/include/stdapis/stlportv5/ciso646	export	
+/epoc32/include/stdapis/stlportv5/climits	export	
+/epoc32/include/stdapis/stlportv5/clocale	export	
+/epoc32/include/stdapis/stlportv5/cmath	export	
+/epoc32/include/stdapis/stlportv5/complex	export	
+/epoc32/include/stdapis/stlportv5/csetjmp	export	
+/epoc32/include/stdapis/stlportv5/csignal	export	
+/epoc32/include/stdapis/stlportv5/cstdarg	export	
+/epoc32/include/stdapis/stlportv5/cstddef	export	
+/epoc32/include/stdapis/stlportv5/cstdio	export	
+/epoc32/include/stdapis/stlportv5/cstdlib	export	
+/epoc32/include/stdapis/stlportv5/cstring	export	
+/epoc32/include/stdapis/stlportv5/ctime	export	
+/epoc32/include/stdapis/stlportv5/cwchar	export	
+/epoc32/include/stdapis/stlportv5/cwctype	export	
+/epoc32/include/stdapis/stlportv5/deque	export	
+/epoc32/include/stdapis/stlportv5/exception	export	
+/epoc32/include/stdapis/stlportv5/exception_winscw.h	export	
+/epoc32/include/stdapis/stlportv5/fstream	export	
+/epoc32/include/stdapis/stlportv5/fstream.h	export	
+/epoc32/include/stdapis/stlportv5/functional	export	
+/epoc32/include/stdapis/stlportv5/hash_map	export	
+/epoc32/include/stdapis/stlportv5/hash_set	export	
+/epoc32/include/stdapis/stlportv5/iomanip	export	
+/epoc32/include/stdapis/stlportv5/iomanip.h	export	
+/epoc32/include/stdapis/stlportv5/ios	export	
+/epoc32/include/stdapis/stlportv5/ios.h	export	
+/epoc32/include/stdapis/stlportv5/iosfwd	export	
+/epoc32/include/stdapis/stlportv5/iostream	export	
+/epoc32/include/stdapis/stlportv5/iostream.h	export	
+/epoc32/include/stdapis/stlportv5/iso646.h	export	
+/epoc32/include/stdapis/stlportv5/istream	export	
+/epoc32/include/stdapis/stlportv5/istream.h	export	
+/epoc32/include/stdapis/stlportv5/iterator	export	
+/epoc32/include/stdapis/stlportv5/libstdcppwsd.h	export	
+/epoc32/include/stdapis/stlportv5/limits	export	
+/epoc32/include/stdapis/stlportv5/list	export	
+/epoc32/include/stdapis/stlportv5/locale	export	
+/epoc32/include/stdapis/stlportv5/map	export	
+/epoc32/include/stdapis/stlportv5/mem.h	export	
+/epoc32/include/stdapis/stlportv5/memory	export	
+/epoc32/include/stdapis/stlportv5/new	export	
+/epoc32/include/stdapis/stlportv5/numeric	export	
+/epoc32/include/stdapis/stlportv5/ostream	export	
+/epoc32/include/stdapis/stlportv5/ostream.h	export	
+/epoc32/include/stdapis/stlportv5/pthread_alloc	export	
+/epoc32/include/stdapis/stlportv5/queue	export	
+/epoc32/include/stdapis/stlportv5/rope	export	
+/epoc32/include/stdapis/stlportv5/set	export	
+/epoc32/include/stdapis/stlportv5/slist	export	
+/epoc32/include/stdapis/stlportv5/sstream	export	
+/epoc32/include/stdapis/stlportv5/stack	export	
+/epoc32/include/stdapis/stlportv5/stdcpp_support.h	export	
+/epoc32/include/stdapis/stlportv5/stdexcept	export	
+/epoc32/include/stdapis/stlportv5/stdiostream.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_abbrevs.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_algo.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_algo.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_algobase.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_algobase.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_alloc.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_alloc.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_auto_ptr.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_bitset.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_bitset.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_bvector.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_carray.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cctype.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_check_config.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_clocale.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cmath.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_codecvt.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_collate.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_complex.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_complex.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_config_compat_post.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_construct.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_csetjmp.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_csignal.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cstdarg.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cstddef.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cstdio.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cstdlib.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cstring.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ctime.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ctraits_fns.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ctype.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cwchar.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_cwctype.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_deque.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_deque.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_epilog.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_exception.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_fstream.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_fstream.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_function.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_function_adaptors.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_function_base.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_hash_fun.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_hash_map.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_hash_set.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_hashtable.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_hashtable.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_heap.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_heap.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ios.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_ios.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ios_base.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ioserr.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_iosfwd.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_iostream_string.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_istream.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_istream.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_istreambuf_iterator.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_iterator.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_iterator_base.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_iterator_old.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_limits.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_limits.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_list.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_list.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_locale.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_map.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_mbstate_t.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_messages_facets.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_monetary.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_monetary.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_move_construct_fwk.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_new.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_null_stream.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_num_get.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_num_get.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_num_put.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_num_put.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_numeric.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_numeric.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_numpunct.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ostream.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_ostream.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ostreambuf_iterator.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_pair.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_prolog.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_pthread_alloc.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_ptrs_specialize.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_queue.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_range_errors.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_raw_storage_iter.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_relops_cont.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_relops_hash_cont.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_rope.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_rope.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_set.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_slist.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_slist.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_slist_base.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_slist_base.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_sstream.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_sstream.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_stack.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_stdexcept.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_stdexcept_base.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_stlport_version.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_stream_iterator.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_streambuf.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_streambuf.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_string.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_string.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_string_base.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_string_fwd.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_string_hash.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_string_io.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_string_io.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_string_npos.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_string_operators.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_strstream.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_tempbuf.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_tempbuf.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_threads.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_threads.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_time_facets.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_time_facets.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_tree.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_tree.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_uninitialized.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_unordered_map.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_unordered_set.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_valarray.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_valarray.h	export	
+/epoc32/include/stdapis/stlportv5/stl/_vector.c	export	
+/epoc32/include/stdapis/stlportv5/stl/_vector.h	export	
+/epoc32/include/stdapis/stlportv5/stl/c_locale.h	export	
+/epoc32/include/stdapis/stlportv5/stl/char_traits.h	export	
+/epoc32/include/stdapis/stlportv5/stl/concept_checks.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/_gcc.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/_mwerks.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/_native_headers.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/_system.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/_windows.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/compat.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/features.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/host.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/stl_confix.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/stl_gcce.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/stl_rvct.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/stl_symbian.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/stl_winscw.h	export	
+/epoc32/include/stdapis/stlportv5/stl/config/user_config.h	export	
+/epoc32/include/stdapis/stlportv5/stl/msl_string.h	export	
+/epoc32/include/stdapis/stlportv5/stl/type_manips.h	export	
+/epoc32/include/stdapis/stlportv5/stl/type_traits.h	export	
+/epoc32/include/stdapis/stlportv5/streambuf	export	
+/epoc32/include/stdapis/stlportv5/streambuf.h	export	
+/epoc32/include/stdapis/stlportv5/string	export	
+/epoc32/include/stdapis/stlportv5/strstream	export	
+/epoc32/include/stdapis/stlportv5/strstream.h	export	
+/epoc32/include/stdapis/stlportv5/typeinfo	export	
+/epoc32/include/stdapis/stlportv5/typeinfo_winscw.h	export	
+/epoc32/include/stdapis/stlportv5/unordered_map	export	
+/epoc32/include/stdapis/stlportv5/unordered_set	export	
+/epoc32/include/stdapis/stlportv5/using/cstring	export	
+/epoc32/include/stdapis/stlportv5/utility	export	
+/epoc32/include/stdapis/stlportv5/valarray	export	
+/epoc32/include/stdapis/stlportv5/vector	export	
+/epoc32/include/stdapis/stlportv5/wsd_locales.h	export	
+/epoc32/include/stdapis/stlportv5/wsd_streams.h	export	
+/epoc32/include/stdapis/string.h	export	
+/epoc32/include/stdapis/strings.h	export	
+/epoc32/include/stdapis/sys/_iovec.h	export	
+/epoc32/include/stdapis/sys/_null.h	export	
+/epoc32/include/stdapis/sys/_pthreadtypes.h	export	
+/epoc32/include/stdapis/sys/_sigset.h	export	
+/epoc32/include/stdapis/sys/_timespec.h	export	
+/epoc32/include/stdapis/sys/_timeval.h	export	
+/epoc32/include/stdapis/sys/_types.h	export	
+/epoc32/include/stdapis/sys/aeselect.h	export	
+/epoc32/include/stdapis/sys/cdefs.h	export	
+/epoc32/include/stdapis/sys/dirent.h	export	
+/epoc32/include/stdapis/sys/endian.h	export	
+/epoc32/include/stdapis/sys/errno.h	export	
+/epoc32/include/stdapis/sys/event.h	export	
+/epoc32/include/stdapis/sys/fcntl.h	export	
+/epoc32/include/stdapis/sys/file.h	export	
+/epoc32/include/stdapis/sys/filio.h	export	
+/epoc32/include/stdapis/sys/ioccom.h	export	
+/epoc32/include/stdapis/sys/ioctl.h	export	
+/epoc32/include/stdapis/sys/ipc.h	export	
+/epoc32/include/stdapis/sys/limits.h	export	
+/epoc32/include/stdapis/sys/md5.h	export	
+/epoc32/include/stdapis/sys/mman.h	export	
+/epoc32/include/stdapis/sys/msg.h	export	
+/epoc32/include/stdapis/sys/param.h	export	
+/epoc32/include/stdapis/sys/queue.h	export	
+/epoc32/include/stdapis/sys/resource.h	export	
+/epoc32/include/stdapis/sys/select.h	export	
+/epoc32/include/stdapis/sys/sem.h	export	
+/epoc32/include/stdapis/sys/serial.h	export	
+/epoc32/include/stdapis/sys/shm.h	export	
+/epoc32/include/stdapis/sys/signal.h	export	
+/epoc32/include/stdapis/sys/socket.h	export	
+/epoc32/include/stdapis/sys/sockio.h	export	
+/epoc32/include/stdapis/sys/stat.h	export	
+/epoc32/include/stdapis/sys/stdint.h	export	
+/epoc32/include/stdapis/sys/sysctl.h	export	
+/epoc32/include/stdapis/sys/syslimits.h	export	
+/epoc32/include/stdapis/sys/time.h	export	
+/epoc32/include/stdapis/sys/times.h	export	
+/epoc32/include/stdapis/sys/timespec.h	export	
+/epoc32/include/stdapis/sys/ttycom.h	export	
+/epoc32/include/stdapis/sys/types.h	export	
+/epoc32/include/stdapis/sys/uio.h	export	
+/epoc32/include/stdapis/sys/un.h	export	
+/epoc32/include/stdapis/sys/unistd.h	export	
+/epoc32/include/stdapis/sys/utsname.h	export	
+/epoc32/include/stdapis/sys/wait.h	export	
+/epoc32/include/stdapis/sysexits.h	export	
+/epoc32/include/stdapis/time.h	export	
+/epoc32/include/stdapis/unistd.h	export	
+/epoc32/include/stdapis/utime.h	export	
+/epoc32/include/stdapis/utmp.h	export	
+/epoc32/include/stdapis/wchar.h	export	
+/epoc32/include/stdapis/wctype.h	export	
+/epoc32/include/stdapis/zconf.h	export	
+/epoc32/include/stdapis/zlib.h	export	
+/epoc32/include/stringpool.h	export	
+/epoc32/include/stringpool.inl	export	
+/epoc32/include/swap.h	export	
+/epoc32/include/sysutil.h	export	
+/epoc32/include/textresolver.h	export	
+/epoc32/include/textresolver.hrh	export	
+/epoc32/include/tinternetdate.h	export	
+/epoc32/include/typerel.h	export	
+/epoc32/include/uikon.rh	export	
+/epoc32/include/uri16.h	export	
+/epoc32/include/uri8.h	export	
+/epoc32/include/uricommon.h	export	
+/epoc32/include/uriutils.h	export	
+/epoc32/include/uriutilscommon.h	export	
+/epoc32/include/wspdecoder.h	export	
+/epoc32/include/wspencoder.h	export	
+/epoc32/include/zconf.h	export	
+/epoc32/include/ziparchive.h	export	
+/epoc32/include/zipfile.h	export	
+/epoc32/include/zipfilemember.h	export	
+/epoc32/include/zipfilememberinputstream.h	export	
+/epoc32/include/zipfilememberiterator.h	export	
+/epoc32/include/zlib.h	export	
+/epoc32/release/armv5/lib/CommonEngine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CommonEngine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CommonEngine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CommonEngine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/abclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/abclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/abclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/abclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apmime.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apmime.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apmime{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apmime{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/backend.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/backend.dso	build	armv5_urel
+/epoc32/release/armv5/lib/backend{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/backend{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bafl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bafl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bafl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bafl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/baksrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/baksrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/baksrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/baksrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bsul.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsul.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bsulinifile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsulinifile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bsulinifile{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsulinifile{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bsul{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsul{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ecom.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ecom.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ecompatchdata.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ecompatchdata.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ecompatchdata{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ecompatchdata{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ecom{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ecom{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/estlib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/estlib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/estlib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/estlib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/euserhl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/euserhl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/euserhl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/euserhl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ezip.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ezip.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ezip{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ezip{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ezlib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ezlib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ezlib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ezlib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/glibbackend.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/glibbackend.dso	build	armv5_urel
+/epoc32/release/armv5/lib/glibbackend{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/glibbackend{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/inetprotutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/inetprotutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/inetprotutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/inetprotutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libcrypt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libcrypt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libcrypto.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libcrypto.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libcrypto{0000000a}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libcrypto{0000000a}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libcrypt{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libcrypt{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libc{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libc{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdbus-glib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdbus-glib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdbus-glib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdbus-glib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdbus-utils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdbus-utils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdbus-utils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdbus-utils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdbus.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdbus.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdbus{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdbus{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libdl{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libdl{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libglib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libglib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libglib{000200cd}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libglib{000200cd}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgmodule.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgmodule.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgmodule{000200cd}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgmodule{000200cd}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgobject.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgobject.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgobject{000200cd}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgobject{000200cd}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgthread.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgthread.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgthread{000200cd}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgthread{000200cd}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/liblogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/liblogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/liblogger{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/liblogger{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libm{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libm{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/liboil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/liboil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/liboil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/liboil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libpthread.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libpthread.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libpthread{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libpthread{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/librt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/librt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/librt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/librt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libssl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libssl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libssl{0000000a}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libssl{0000000a}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libstdcpp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libstdcpp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libstdcppv5.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libstdcppv5.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libstdcppv5{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libstdcppv5{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libstdcpp{00010001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libstdcpp{00010001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libz.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libz.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libzcore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libzcore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libzcore{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libzcore{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libz{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libz{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/multipartparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/multipartparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/multipartparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/multipartparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/redircli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/redircli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/redircli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/redircli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtestbed.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtestbed.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtestbed{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtestbed{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/schsvr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/schsvr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/schsvr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/schsvr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/stdnew.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/stdnew.dso	build	armv5_urel
+/epoc32/release/armv5/lib/stdnew{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/stdnew{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sysagt2cli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sysagt2cli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sysagt2cli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sysagt2cli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/CommonEngine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CommonEngine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/abclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/abclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apmime.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/apmime.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/backend.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/backend.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bafl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bafl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/baksrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/baksrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/baksrvs.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/baksrvs.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsul.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsul.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsulinifile.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsulinifile.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbusdaemon.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbusdaemon.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecom.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecom.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecompatchdata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecompatchdata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecomserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecomserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecrt0.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/estlib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/estlib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/euserhl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/euserhl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/euserhl_walkthrough.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/euserhl_walkthrough.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ezip.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ezip.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ezlib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ezlib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/glibbackend.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/glibbackend.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/halsettings.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/halsettings.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/inetprotutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/inetprotutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialiselocale.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialiselocale.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcipcserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcipcserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcrt0.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcrt0_gcce.lib	export	
+/epoc32/release/armv5/udeb/libcrypt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcrypt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcrypto.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libcrypto.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdbus-glib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdbus-glib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdbus-utils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdbus-utils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdbus.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdbus.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libdl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libglib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libglib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgmodule.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgmodule.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgobject.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgobject.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgthread.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgthread.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/liblogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/liblogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/liboil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/liboil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libpthread.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libpthread.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/librt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/librt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libssl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libssl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libstdcpp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libstdcpp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libstdcppv5.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libstdcppv5.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libwcrt0.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/libz.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libz.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libzcore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libzcore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mcrt0.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/multipartparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/multipartparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recapp2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recapp2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rectxt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rectxt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/redircli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/redircli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtestbed.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtestbed.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/schexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/schexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/schsvr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/schsvr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/signalserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/signalserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/stdioserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/stdioserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/stdnew.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/stdnew.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sysagt2cli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sysagt2cli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sysagt2svr.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sysagt2svr.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wecrt0.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmcrt0.lib	build	armv5_udeb
+/epoc32/release/armv5/urel/CommonEngine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CommonEngine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/abclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/abclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/apmime.dll	build	armv5_urel
+/epoc32/release/armv5/urel/apmime.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/backend.dll	build	armv5_urel
+/epoc32/release/armv5/urel/backend.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bafl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bafl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/baksrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/baksrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/baksrvs.exe	build	armv5_urel
+/epoc32/release/armv5/urel/baksrvs.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/bsul.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bsul.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bsulinifile.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bsulinifile.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dbusdaemon.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dbusdaemon.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecom.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ecom.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecompatchdata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ecompatchdata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecomserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ecomserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecrt0.lib	build	armv5_urel
+/epoc32/release/armv5/urel/estlib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/estlib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/euserhl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/euserhl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/euserhl_walkthrough.exe	build	armv5_urel
+/epoc32/release/armv5/urel/euserhl_walkthrough.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ezip.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ezip.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ezlib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ezlib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/glibbackend.dll	build	armv5_urel
+/epoc32/release/armv5/urel/glibbackend.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/halsettings.exe	build	armv5_urel
+/epoc32/release/armv5/urel/halsettings.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/inetprotutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/inetprotutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/initialiselocale.exe	build	armv5_urel
+/epoc32/release/armv5/urel/initialiselocale.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/libc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libcipcserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/libcipcserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/libcrt0.lib	build	armv5_urel
+/epoc32/release/armv5/urel/libcrt0_gcce.lib	export	
+/epoc32/release/armv5/urel/libcrypt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libcrypt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libcrypto.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libcrypto.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libdbus-glib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libdbus-glib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libdbus-utils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libdbus-utils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libdbus.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libdbus.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libdl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libdl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libglib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libglib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgmodule.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgmodule.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgobject.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgobject.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgthread.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgthread.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/liblogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/liblogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/liboil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/liboil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libpthread.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libpthread.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/librt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/librt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libssl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libssl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libstdcpp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libstdcpp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libstdcppv5.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libstdcppv5.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libwcrt0.lib	build	armv5_urel
+/epoc32/release/armv5/urel/libz.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libz.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libzcore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libzcore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mcrt0.lib	build	armv5_urel
+/epoc32/release/armv5/urel/multipartparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/multipartparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recapp2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recapp2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rectxt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rectxt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/redircli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/redircli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtestbed.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtestbed.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/schexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/schexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/schsvr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/schsvr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/signalserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/signalserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/stdioserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/stdioserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/stdnew.dll	build	armv5_urel
+/epoc32/release/armv5/urel/stdnew.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sysagt2cli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sysagt2cli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sysagt2svr.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sysagt2svr.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/wecrt0.lib	build	armv5_urel
+/epoc32/release/armv5/urel/wmcrt0.lib	build	armv5_urel
+/epoc32/release/tools2/rel/libzlib.a	build	tools2_rel
+/epoc32/release/winc/REL/zlib.lib	build	tools_rel
+/epoc32/release/wins/mrecu.def	export	
+/epoc32/release/winscw/udeb/CommonEngine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CommonEngine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/abclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/abclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/apmime.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apmime.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/backend.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/backend.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bafl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bafl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/baksrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/baksrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/baksrvs.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsul.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsul.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsulinifile.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsulinifile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dbusdaemon.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecom.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecom.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecompatchdata.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecompatchdata.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecomserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/estlib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/estlib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/estw32.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/estw32.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/euserhl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/euserhl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/euserhl_walkthrough.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ewsd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ewsd.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ezip.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ezip.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ezlib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ezlib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/glibbackend.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/glibbackend.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/halsettings.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/inetprotutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/inetprotutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/initialiselocale.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/libc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcipcserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcrypt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcrypt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcrypto.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libcrypto.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdbus-glib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdbus-glib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdbus-utils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdbus-utils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdbus.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdbus.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libdl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libglib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libglib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgmodule.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgmodule.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgobject.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgobject.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgthread.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgthread.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/liblogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/liblogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/liboil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/liboil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libpthread.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libpthread.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/librt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/librt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libssl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libssl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libstdcpp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libstdcpp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libstdcppv5.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libstdcppv5.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libwcrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libz.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libz.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libzcore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libzcore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mcrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/multipartparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/multipartparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/recapp2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rectxt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/redircli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/redircli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtestbed.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtestbed.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/schexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/schsvr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/schsvr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/signalserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/stdioserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sysagt2cli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sysagt2cli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sysagt2svr.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wcrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wecrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmcrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wwcrt0.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100048aa/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10005399/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/100048aa.cre	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/1020e4d3.cre	export	
+/epoc32/release/winscw/udeb/z/resource/errors/ecomerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/errorres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recapp2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rectxt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/CommonEngine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CommonEngine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/abclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/abclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/apmime.dll	build	winscw_urel
+/epoc32/release/winscw/urel/apmime.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/backend.dll	build	winscw_urel
+/epoc32/release/winscw/urel/backend.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bafl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bafl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/baksrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/baksrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/baksrvs.exe	build	winscw_urel
+/epoc32/release/winscw/urel/baksrvs.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/bsul.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bsul.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bsulinifile.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bsulinifile.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dbusdaemon.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dbusdaemon.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecom.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ecom.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecompatchdata.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ecompatchdata.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecomserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ecomserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/estlib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/estlib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/estw32.dll	build	winscw_urel
+/epoc32/release/winscw/urel/estw32.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/euserhl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/euserhl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/euserhl_walkthrough.exe	build	winscw_urel
+/epoc32/release/winscw/urel/euserhl_walkthrough.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ewsd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ewsd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ezip.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ezip.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ezlib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ezlib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/glibbackend.dll	build	winscw_urel
+/epoc32/release/winscw/urel/glibbackend.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/halsettings.exe	build	winscw_urel
+/epoc32/release/winscw/urel/halsettings.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/inetprotutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/inetprotutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/initialiselocale.exe	build	winscw_urel
+/epoc32/release/winscw/urel/initialiselocale.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/libc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libcipcserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/libcipcserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/libcrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/libcrypt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libcrypt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libcrypto.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libcrypto.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libdbus-glib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libdbus-glib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libdbus-utils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libdbus-utils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libdbus.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libdbus.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libdl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libdl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libglib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libglib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgmodule.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgmodule.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgobject.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgobject.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgthread.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgthread.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/liblogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/liblogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/liboil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/liboil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libpthread.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libpthread.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/librt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/librt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libssl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libssl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libstdcpp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libstdcpp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libstdcppv5.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libstdcppv5.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libwcrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/libz.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libz.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libzcore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libzcore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mcrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/multipartparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/multipartparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recapp2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recapp2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rectxt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rectxt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/redircli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/redircli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtestbed.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtestbed.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/schexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/schexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/schsvr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/schsvr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/signalserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/signalserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/stdioserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/stdioserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sysagt2cli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sysagt2cli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sysagt2svr.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sysagt2svr.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wcrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/wecrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/wmcrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/wwcrt0.lib	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/100048aa/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10005399/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10202be9/100048aa.cre	export	
+/epoc32/release/winscw/urel/z/private/10202be9/1020e4d3.cre	export	
+/epoc32/release/winscw/urel/z/resource/errors/ecomerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/errorres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recapp2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rectxt.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/symbianos/confml/apputils.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/apputils_100048aa.crml	export	
+/epoc32/rom/include/bafl.iby	export	
+/epoc32/rom/include/bsul.iby	export	
+/epoc32/rom/include/commonengine.iby	export	
+/epoc32/rom/include/commonengineresources.iby	export	
+/epoc32/rom/include/core/os/dbus.iby	export	
+/epoc32/rom/include/core/os/glib.iby	export	
+/epoc32/rom/include/core/os/ssl.iby	export	
+/epoc32/rom/include/core/os/stdcpp4.iby	export	
+/epoc32/rom/include/core/os/stdlibs.iby	export	
+/epoc32/rom/include/ecom.iby	export	
+/epoc32/rom/include/ecompatchconstants.hby	export	
+/epoc32/rom/include/emime.iby	export	
+/epoc32/rom/include/euserhl.iby	export	
+/epoc32/rom/include/ezlib.iby	export	
+/epoc32/rom/include/inetprotutil.iby	export	
+/epoc32/rom/include/initialiselocale.iby	export	
+/epoc32/rom/include/liboil.iby	export	
+/epoc32/rom/include/multipartparser.iby	export	
+/epoc32/rom/include/oelibrt.iby	export	
+/epoc32/rom/include/openenv.iby	export	
+/epoc32/rom/include/schsvr.iby	export	
+/epoc32/rom/include/stdcpp.iby	export	
+/epoc32/rom/include/stdlib.iby	export	
+/epoc32/rom/include/sysagent.iby	export	
+/epoc32/rom/include/testbed.iby	export	
+/epoc32/rom/include/testlocale.iby	export	
+/epoc32/stdapis/openssl/aes.h	export	
+/epoc32/stdapis/openssl/asn1.h	export	
+/epoc32/stdapis/openssl/asn1_mac.h	export	
+/epoc32/stdapis/openssl/asn1t.h	export	
+/epoc32/stdapis/openssl/bio.h	export	
+/epoc32/stdapis/openssl/bn.h	export	
+/epoc32/stdapis/openssl/buffer.h	export	
+/epoc32/stdapis/openssl/comp.h	export	
+/epoc32/stdapis/openssl/conf.h	export	
+/epoc32/stdapis/openssl/conf_api.h	export	
+/epoc32/stdapis/openssl/crypto.h	export	
+/epoc32/stdapis/openssl/des.h	export	
+/epoc32/stdapis/openssl/des_old.h	export	
+/epoc32/stdapis/openssl/dh.h	export	
+/epoc32/stdapis/openssl/dsa.h	export	
+/epoc32/stdapis/openssl/dso.h	export	
+/epoc32/stdapis/openssl/dtls1.h	export	
+/epoc32/stdapis/openssl/e_os2.h	export	
+/epoc32/stdapis/openssl/engine.h	export	
+/epoc32/stdapis/openssl/err.h	export	
+/epoc32/stdapis/openssl/evp.h	export	
+/epoc32/stdapis/openssl/hmac.h	export	
+/epoc32/stdapis/openssl/kssl.h	export	
+/epoc32/stdapis/openssl/lhash.h	export	
+/epoc32/stdapis/openssl/md2.h	export	
+/epoc32/stdapis/openssl/md5.h	export	
+/epoc32/stdapis/openssl/obj_mac.h	export	
+/epoc32/stdapis/openssl/objects.h	export	
+/epoc32/stdapis/openssl/ocsp.h	export	
+/epoc32/stdapis/openssl/opensslconf.h	export	
+/epoc32/stdapis/openssl/opensslv.h	export	
+/epoc32/stdapis/openssl/ossl_typ.h	export	
+/epoc32/stdapis/openssl/pem.h	export	
+/epoc32/stdapis/openssl/pem2.h	export	
+/epoc32/stdapis/openssl/pkcs12.h	export	
+/epoc32/stdapis/openssl/pkcs7.h	export	
+/epoc32/stdapis/openssl/pq_compat.h	export	
+/epoc32/stdapis/openssl/pqueue.h	export	
+/epoc32/stdapis/openssl/rand.h	export	
+/epoc32/stdapis/openssl/rc2.h	export	
+/epoc32/stdapis/openssl/rc4.h	export	
+/epoc32/stdapis/openssl/rsa.h	export	
+/epoc32/stdapis/openssl/safestack.h	export	
+/epoc32/stdapis/openssl/sha.h	export	
+/epoc32/stdapis/openssl/ssl.h	export	
+/epoc32/stdapis/openssl/ssl2.h	export	
+/epoc32/stdapis/openssl/ssl23.h	export	
+/epoc32/stdapis/openssl/ssl3.h	export	
+/epoc32/stdapis/openssl/stack.h	export	
+/epoc32/stdapis/openssl/store.h	export	
+/epoc32/stdapis/openssl/symhacks.h	export	
+/epoc32/stdapis/openssl/tls1.h	export	
+/epoc32/stdapis/openssl/tmdiff.h	export	
+/epoc32/stdapis/openssl/txt_db.h	export	
+/epoc32/stdapis/openssl/ui.h	export	
+/epoc32/stdapis/openssl/ui_compat.h	export	
+/epoc32/stdapis/openssl/x509.h	export	
+/epoc32/stdapis/openssl/x509_vfy.h	export	
+/epoc32/stdapis/openssl/x509v3.h	export	
+/epoc32/stdapis/sys/_timespec.h	export	
+/epoc32/stdapis/sys/file.h	export	
+/epoc32/stdapis/sys/times.h	export	
+/epoc32/tools/makefile_templates/syslibs/test/bafl_copytestfiles.mk	export	
+/epoc32/tools/makefile_templates/syslibs/test/bafl_resource_files.mk	export	
+/epoc32/tools/makefile_templates/syslibs/test/ecom3_buildsis.mk	export	
+/epoc32/tools/makefile_templates/syslibs/test/ecom3_postbuild.mk	export	
+/epoc32/tools/makefile_templates/syslibs/test/ecom3_relocatetarget.mk	export	
+/epoc32/tools/stringtable.pl	export	
+/epoc32/winscw/c/data/dbus/system.conf	export	
+/epoc32/winscw/c/resource/openc/locales.txt	export	
+/epoc32/winscw/c/resource/openc/locales_new.txt	export	
+/epoc32/winscw/c/resource/openc/services	export	
+/epoc32/winscw/c/resource/pips/locales.txt	export	
+/epoc32/winscw/c/resource/pips/locales_new.txt	export	
+/epoc32/winscw/c/resource/pips/services	export	
+/epoc32/winscw/c/system/data/config.ini	export	

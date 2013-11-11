@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+# ============================================================================
+#  Name        : mif2cdlindex.xml
+#  Part of     : mifconv_templates
+#  Description : 
+#  Version     : %version: be1s60pr#3 %
+#
+#  Copyright (c) 2008 Nokia Corporation.
+#  This material, including documentation and any related 
+#  computer programs, is protected by copyright controlled by 
+#  Nokia Corporation. All rights are reserved. Copying, 
+#  including reproducing, storing, adapting or translating, any 
+#  or all of this material requires the prior written consent of 
+#  Nokia Corporation. This material also contains confidential 
+#  information which may not be disclosed to others without the 
+#  prior written consent of Nokia Corporation.
+# ============================================================================
+-->
+
+<build xmlns="http://symbian.com/xml/build"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xsi:schemaLocation="http://symbian.com/xml/build ../../schema/build/2_0.xsd">
+
+    <interface name="s60.mif2cdlindex" extends="Symbian.UserFLM" flm="mif2cdlindex.flm">
+		<!-- Helper tools -->
+		<param name='MIF2CDL' default='$(EPOCROOT)/epoc32/tools/miftocdlindex$(DOTEXE)' />
+		
+		<!-- Mifconv parameters which does not have defaults (please notice use of default attribute) -->
+		<param name='TARGETFILE' default="" />
+		<!-- Generated path -->
+		<param name='GENPATH' default="" />
+		<param name='MIFFILE' default="" />
+		<param name='DLLNAME' default="" />
+		<param name='DLLUID' default="" />
+		<param name='MIFDIR' default="" /> <!-- Optional -->
+    </interface>
+</build>

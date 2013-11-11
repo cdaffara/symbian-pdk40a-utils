@@ -1,0 +1,1323 @@
+/epoc32/data/z/private/101f7988/backup_registration.xml	export	
+/epoc32/data/z/private/101f7988/c32.cmi	export	
+/epoc32/data/z/private/101f7988/c32_first.cmi	export	
+/epoc32/data/z/private/101f7988/c32_fourth.cmi	export	
+/epoc32/data/z/private/101f7988/c32_second.cmi	export	
+/epoc32/data/z/private/101f7988/c32_third.cmi	export	
+/epoc32/data/z/private/101f7988/c32start.ini	export	
+/epoc32/data/z/private/101f7988/esock.cmi	export	
+/epoc32/data/z/private/101f7988/esock_dip.cmi	export	
+/epoc32/data/z/private/101f7988/esock_mip.cmi	export	
+/epoc32/data/z/private/101f7988/esock_smswap.cmi	export	
+/epoc32/data/z/private/101f7988/esock_tr.cmi	export	
+/epoc32/data/z/private/101f7989/backup_registration.xml	export	
+/epoc32/data/z/private/10202be9/cccccc00.cre	build	armv5_udeb
+/epoc32/data/z/private/10202be9/cccccc00.cre	build	armv5_urel
+/epoc32/data/z/resource/plugins/commsdataobjectsecom.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/commsdataobjectsecom.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/connservparams.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/connservparams.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/coreprovidersecom.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/coreprovidersecom.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/eintsock_transport.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/eintsock_transport.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/esock_params.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/esock_params.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/esockmessages.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/esockmessages.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/netmessages.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/netmessages.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/subconparams.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/subconparams.rsc	resource	winscw_udeb
+/epoc32/data/z/system/data/meshpreface1.cfg	export	
+/epoc32/data/z/system/install/c32exe.sis	export	
+/epoc32/engdoc/c32/c32api.doc	export	
+/epoc32/include/c32comm.h	export	
+/epoc32/include/c32comm.inl	export	
+/epoc32/include/cdbcols.h	export	
+/epoc32/include/cdblen.h	export	
+/epoc32/include/cdbpreftable.h	export	
+/epoc32/include/cdbtemp.h	export	
+/epoc32/include/cflog.mmh	export	
+/epoc32/include/commdb.h	export	
+/epoc32/include/commdbconnpref.h	export	
+/epoc32/include/comms-infras/cs_mobility_apiext.h	export	
+/epoc32/include/comms-infras/datamonitormessages.h	export	
+/epoc32/include/comms-infras/datamonitormessages.inl	export	
+/epoc32/include/comms-infras/es_event.h	export	
+/epoc32/include/comms-infras/es_mobility_apiext.h	export	
+/epoc32/include/comms-infras/es_parameterbundle.h	export	
+/epoc32/include/comms-infras/es_parameterfamily.inl	export	
+/epoc32/include/comms-infras/es_parameterset.h	export	
+/epoc32/include/comms-infras/es_protbinder.h	export	
+/epoc32/include/comms-infras/es_sap.h	export	
+/epoc32/include/comms-infras/esock_params.h	export	
+/epoc32/include/comms-infras/ss_apiext_register.h	export	
+/epoc32/include/comms-infras/ss_common.h	export	
+/epoc32/include/comms-infras/ss_commsprov_internal.h	export	
+/epoc32/include/comms-infras/ss_connlegacy.h	export	
+/epoc32/include/comms-infras/ss_connprov.h	export	
+/epoc32/include/comms-infras/ss_connselect.h	export	
+/epoc32/include/comms-infras/ss_connsettings.h	export	
+/epoc32/include/comms-infras/ss_cprnodeinterfaces.h	export	
+/epoc32/include/comms-infras/ss_datatransfer.h	export	
+/epoc32/include/comms-infras/ss_fact_internal.h	export	
+/epoc32/include/comms-infras/ss_factorycontainermap.h	export	
+/epoc32/include/comms-infras/ss_protopt.h	export	
+/epoc32/include/commsdat.h	export	
+/epoc32/include/commsdattypesv1_1.h	export	
+/epoc32/include/connpref.h	export	
+/epoc32/include/cs_port.h	export	
+/epoc32/include/cs_subconevents.h	export	
+/epoc32/include/cs_subconevents.inl	export	
+/epoc32/include/cs_subconparams.h	export	
+/epoc32/include/cs_subconparams.inl	export	
+/epoc32/include/csy.rh	export	
+/epoc32/include/def/bwins/agentdialogu.def	export	
+/epoc32/include/def/eabi/agentdialogu.def	export	
+/epoc32/include/elements/cftransportmacro.h	export	
+/epoc32/include/elements/metadata.h	export	
+/epoc32/include/elements/metadata.inl	export	
+/epoc32/include/elements/sd_mintercept.mmh	export	
+/epoc32/include/es_enum.h	export	
+/epoc32/include/es_panic.h	export	
+/epoc32/include/es_sock.h	export	
+/epoc32/include/es_ver.h	export	
+/epoc32/include/metadatabase.h	export	
+/epoc32/include/platform/addressupdate.h	export	
+/epoc32/include/platform/agentdialog.h	export	
+/epoc32/include/platform/c32comm_internal.h	export	
+/epoc32/include/platform/c32root.h	export	
+/epoc32/include/platform/c32startshared.h	export	
+/epoc32/include/platform/cdbover.h	export	
+/epoc32/include/platform/cdbover.inl	export	
+/epoc32/include/platform/cdbstore.h	export	
+/epoc32/include/platform/cdbstore.inl	export	
+/epoc32/include/platform/cfextras.h	export	
+/epoc32/include/platform/cfforwardmsg.h	export	
+/epoc32/include/platform/cflog.h	export	
+/epoc32/include/platform/cfmsgs.h	export	
+/epoc32/include/platform/cfmsgs.inl	export	
+/epoc32/include/platform/cfshared.h	export	
+/epoc32/include/platform/cfshared.inl	export	
+/epoc32/include/platform/cfthread.h	export	
+/epoc32/include/platform/cfutil.h	export	
+/epoc32/include/platform/commdb.inl	export	
+/epoc32/include/platform/commdbconnpref.inl	export	
+/epoc32/include/platform/comms-infras/api_ext_list.h	export	
+/epoc32/include/platform/comms-infras/api_ext_msg.h	export	
+/epoc32/include/platform/comms-infras/asynchevent.h	export	
+/epoc32/include/platform/comms-infras/c32startcli.h	export	
+/epoc32/include/platform/comms-infras/ca_startserver.h	export	
+/epoc32/include/platform/comms-infras/cfmacro.h	export	
+/epoc32/include/platform/comms-infras/cfperfmetrics.h	export	
+/epoc32/include/platform/comms-infras/commdb/protection/protectcpdb.h	export	
+/epoc32/include/platform/comms-infras/commdb/protection/protectdb.h	export	
+/epoc32/include/platform/comms-infras/commsbuf.h	export	
+/epoc32/include/platform/comms-infras/commsbuf.inl	export	
+/epoc32/include/platform/comms-infras/commsbufasyncrequest.h	export	
+/epoc32/include/platform/comms-infras/commsbufchain.h	export	
+/epoc32/include/platform/comms-infras/commsbufchain.inl	export	
+/epoc32/include/platform/comms-infras/commsbufiter.h	export	
+/epoc32/include/platform/comms-infras/commsbufiter.inl	export	
+/epoc32/include/platform/comms-infras/commsbufpanic.h	export	
+/epoc32/include/platform/comms-infras/commsbufpond.h	export	
+/epoc32/include/platform/comms-infras/commsbufpond.inl	export	
+/epoc32/include/platform/comms-infras/commsbufponddbg.h	export	
+/epoc32/include/platform/comms-infras/commsbufpondop.h	export	
+/epoc32/include/platform/comms-infras/commsbufpondop.inl	export	
+/epoc32/include/platform/comms-infras/commsbufq.h	export	
+/epoc32/include/platform/comms-infras/commsbufq.inl	export	
+/epoc32/include/platform/comms-infras/commsbufskern.h	export	
+/epoc32/include/platform/comms-infras/commsbufskern.inl	export	
+/epoc32/include/platform/comms-infras/commsdataobjectfactory.h	export	
+/epoc32/include/platform/comms-infras/commsdatschema.h	export	
+/epoc32/include/platform/comms-infras/connectionqueryfactory.h	export	
+/epoc32/include/platform/comms-infras/connectionqueryset.h	export	
+/epoc32/include/platform/comms-infras/contentionmanager.h	export	
+/epoc32/include/platform/comms-infras/corecpr.h	export	
+/epoc32/include/platform/comms-infras/corecpractivities.h	export	
+/epoc32/include/platform/comms-infras/corecprstates.h	export	
+/epoc32/include/platform/comms-infras/coremcpr.h	export	
+/epoc32/include/platform/comms-infras/coremcpractivities.h	export	
+/epoc32/include/platform/comms-infras/coremcprstates.h	export	
+/epoc32/include/platform/comms-infras/corescpr.h	export	
+/epoc32/include/platform/comms-infras/corescpractivities.h	export	
+/epoc32/include/platform/comms-infras/corescprstates.h	export	
+/epoc32/include/platform/comms-infras/coretiermanager.h	export	
+/epoc32/include/platform/comms-infras/coretiermanageractivities.h	export	
+/epoc32/include/platform/comms-infras/coretiermanagerstates.h	export	
+/epoc32/include/platform/comms-infras/coretiernotificationactivity.h	export	
+/epoc32/include/platform/comms-infras/coretiernotificationcollectors.h	export	
+/epoc32/include/platform/comms-infras/coretiernotificationstates.h	export	
+/epoc32/include/platform/comms-infras/cs_asyncconnect.h	export	
+/epoc32/include/platform/comms-infras/cs_connservparams.h	export	
+/epoc32/include/platform/comms-infras/cs_connservparams_internal.h	export	
+/epoc32/include/platform/comms-infras/datamonmessagesecom.h	export	
+/epoc32/include/platform/comms-infras/datamonmessagesecom.inl	export	
+/epoc32/include/platform/comms-infras/eintsock.h	export	
+/epoc32/include/platform/comms-infras/es_accesspointstatus.h	export	
+/epoc32/include/platform/comms-infras/es_api_ext.h	export	
+/epoc32/include/platform/comms-infras/es_availability.h	export	
+/epoc32/include/platform/comms-infras/es_commsdataobject.h	export	
+/epoc32/include/platform/comms-infras/es_config.h	export	
+/epoc32/include/platform/comms-infras/es_connectionserv.h	export	
+/epoc32/include/platform/comms-infras/es_connectionservermessages.h	export	
+/epoc32/include/platform/comms-infras/es_connectionservparameterbundle.h	export	
+/epoc32/include/platform/comms-infras/es_connectionservparameterbundletrace.h	export	
+/epoc32/include/platform/comms-infras/es_connectionservparameterbundletraceimpl.h	export	
+/epoc32/include/platform/comms-infras/es_datamon_apiext.h	export	
+/epoc32/include/platform/comms-infras/es_parameterfamily.h	export	
+/epoc32/include/platform/comms-infras/esock_params.inl	export	
+/epoc32/include/platform/comms-infras/esock_params_internal.h	export	
+/epoc32/include/platform/comms-infras/esock_params_internal.inl	export	
+/epoc32/include/platform/comms-infras/esockdebugmessages.h	export	
+/epoc32/include/platform/comms-infras/esockmessages.h	export	
+/epoc32/include/platform/comms-infras/idquerynetmsg.h	export	
+/epoc32/include/platform/comms-infras/interfacetable.h	export	
+/epoc32/include/platform/comms-infras/linkmessages.h	export	
+/epoc32/include/platform/comms-infras/mbuf.h	export	
+/epoc32/include/platform/comms-infras/mbuf.inl	export	
+/epoc32/include/platform/comms-infras/mbufallocator.h	export	
+/epoc32/include/platform/comms-infras/mbufasyncrequest.h	export	
+/epoc32/include/platform/comms-infras/mbufchain.h	export	
+/epoc32/include/platform/comms-infras/mbufchain.inl	export	
+/epoc32/include/platform/comms-infras/mbufpanic.h	export	
+/epoc32/include/platform/comms-infras/mbufpktq.h	export	
+/epoc32/include/platform/comms-infras/mbufpktq.inl	export	
+/epoc32/include/platform/comms-infras/mbufq.h	export	
+/epoc32/include/platform/comms-infras/mbufq.inl	export	
+/epoc32/include/platform/comms-infras/metabuffer.h	export	
+/epoc32/include/platform/comms-infras/metacontainer.h	export	
+/epoc32/include/platform/comms-infras/metacontainer.inl	export	
+/epoc32/include/platform/comms-infras/metadata.h	export	
+/epoc32/include/platform/comms-infras/metadata.inl	export	
+/epoc32/include/platform/comms-infras/metaiterator.h	export	
+/epoc32/include/platform/comms-infras/metatype.h	export	
+/epoc32/include/platform/comms-infras/metatypearray.h	export	
+/epoc32/include/platform/comms-infras/metatypevariablelen.h	export	
+/epoc32/include/platform/comms-infras/metavirtctor.h	export	
+/epoc32/include/platform/comms-infras/mobilitycpr.h	export	
+/epoc32/include/platform/comms-infras/mobilitycpractivities.h	export	
+/epoc32/include/platform/comms-infras/mobilitycprstates.h	export	
+/epoc32/include/platform/comms-infras/mobilitymcpr.h	export	
+/epoc32/include/platform/comms-infras/mobilitymcpractivities.h	export	
+/epoc32/include/platform/comms-infras/mobilitymcprstates.h	export	
+/epoc32/include/platform/comms-infras/mobilitymessages.h	export	
+/epoc32/include/platform/comms-infras/mobilitymessages.inl	export	
+/epoc32/include/platform/comms-infras/mobilitymessages_internal.h	export	
+/epoc32/include/platform/comms-infras/mobilitymessagesecom.h	export	
+/epoc32/include/platform/comms-infras/mobilitymessagesecom.inl	export	
+/epoc32/include/platform/comms-infras/netmessages.h	export	
+/epoc32/include/platform/comms-infras/netsignalevent.h	export	
+/epoc32/include/platform/comms-infras/netsubscribe.h	export	
+/epoc32/include/platform/comms-infras/provinfoqueryset.h	export	
+/epoc32/include/platform/comms-infras/recorditem.h	export	
+/epoc32/include/platform/comms-infras/responsemsg.h	export	
+/epoc32/include/platform/comms-infras/rworkerlock.h	export	
+/epoc32/include/platform/comms-infras/simpleselectorbase.h	export	
+/epoc32/include/platform/comms-infras/sockmes.h	export	
+/epoc32/include/platform/comms-infras/ss_activities.h	export	
+/epoc32/include/platform/comms-infras/ss_api_ext.h	export	
+/epoc32/include/platform/comms-infras/ss_commsdataobject.h	export	
+/epoc32/include/platform/comms-infras/ss_commsprov.h	export	
+/epoc32/include/platform/comms-infras/ss_corepractivities.h	export	
+/epoc32/include/platform/comms-infras/ss_coreprstates.h	export	
+/epoc32/include/platform/comms-infras/ss_datamon_apiext.h	export	
+/epoc32/include/platform/comms-infras/ss_datamonitoringprovider.h	export	
+/epoc32/include/platform/comms-infras/ss_dispatchers.h	export	
+/epoc32/include/platform/comms-infras/ss_esockactivities.h	export	
+/epoc32/include/platform/comms-infras/ss_esockstates.h	export	
+/epoc32/include/platform/comms-infras/ss_flowbinders.h	export	
+/epoc32/include/platform/comms-infras/ss_flowbinders_internal.h	export	
+/epoc32/include/platform/comms-infras/ss_internal_activities.h	export	
+/epoc32/include/platform/comms-infras/ss_intsock.h	export	
+/epoc32/include/platform/comms-infras/ss_legacyinterfaces.h	export	
+/epoc32/include/platform/comms-infras/ss_log.h	export	
+/epoc32/include/platform/comms-infras/ss_logext.h	export	
+/epoc32/include/platform/comms-infras/ss_mcprnodemessages.h	export	
+/epoc32/include/platform/comms-infras/ss_metaconnprov.h	export	
+/epoc32/include/platform/comms-infras/ss_metaconnprov_internal.h	export	
+/epoc32/include/platform/comms-infras/ss_mmcommsprov.h	export	
+/epoc32/include/platform/comms-infras/ss_mmnode.h	export	
+/epoc32/include/platform/comms-infras/ss_mmnode_subsess.h	export	
+/epoc32/include/platform/comms-infras/ss_mobility_apiext.h	export	
+/epoc32/include/platform/comms-infras/ss_mobility_apiext_internal.h	export	
+/epoc32/include/platform/comms-infras/ss_msgintercept.h	export	
+/epoc32/include/platform/comms-infras/ss_nodeinterfaces.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_availability.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_cpr.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_dataclient.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_factory.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_flow.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_internal.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_internal_esock.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_ipmessages.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_legacy.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_legacy_internal.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_mcpr.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_mobility.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_parameters.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_peer.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_rejoiningprovider.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_scpr.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_selector.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_serviceprovider.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_subconn.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_tiermanager.h	export	
+/epoc32/include/platform/comms-infras/ss_nodemessages_tiermanagerfactory.h	export	
+/epoc32/include/platform/comms-infras/ss_parameterfamilybundle.h	export	
+/epoc32/include/platform/comms-infras/ss_platsec_apiext.h	export	
+/epoc32/include/platform/comms-infras/ss_protcfgldr.h	export	
+/epoc32/include/platform/comms-infras/ss_protflow.h	export	
+/epoc32/include/platform/comms-infras/ss_protocolparameterset.h	export	
+/epoc32/include/platform/comms-infras/ss_protocolparameterset.inl	export	
+/epoc32/include/platform/comms-infras/ss_refcountowner.h	export	
+/epoc32/include/platform/comms-infras/ss_rmetaextensioncontainer.h	export	
+/epoc32/include/platform/comms-infras/ss_roles.h	export	
+/epoc32/include/platform/comms-infras/ss_roles.inl	export	
+/epoc32/include/platform/comms-infras/ss_sapshim.h	export	
+/epoc32/include/platform/comms-infras/ss_subconnflow.h	export	
+/epoc32/include/platform/comms-infras/ss_subconnprov.h	export	
+/epoc32/include/platform/comms-infras/ss_thread.h	export	
+/epoc32/include/platform/comms-infras/ss_threadtransport.h	export	
+/epoc32/include/platform/comms-infras/ss_threadtransport.inl	export	
+/epoc32/include/platform/comms-infras/ss_tiermanager.h	export	
+/epoc32/include/platform/comms-infras/ss_tiermanager_internal.h	export	
+/epoc32/include/platform/comms-infras/ss_tiermanagerutils.h	export	
+/epoc32/include/platform/comms-infras/ss_upsaccesspointconfigext.h	export	
+/epoc32/include/platform/comms-infras/startprocess.h	export	
+/epoc32/include/platform/comms-infras/statemachine.h	export	
+/epoc32/include/platform/comms-infras/tdeallocator.h	export	
+/epoc32/include/platform/comms-infras/trbuf.h	export	
+/epoc32/include/platform/comms-infras/upscpractivities.h	export	
+/epoc32/include/platform/comms-infras/upsmcpractivities.h	export	
+/epoc32/include/platform/comms-infras/upsmessages.h	export	
+/epoc32/include/platform/comms-infras/upspractivities.h	export	
+/epoc32/include/platform/comms-infras/upsprstates.h	export	
+/epoc32/include/platform/commschan.h	export	
+/epoc32/include/platform/commschan.inl	export	
+/epoc32/include/platform/commsdat_internal.h	export	
+/epoc32/include/platform/commsdat_partner.h	export	
+/epoc32/include/platform/commsdattypeinfov1_1.h	export	
+/epoc32/include/platform/commsdattypeinfov1_1_internal.h	export	
+/epoc32/include/platform/commsdattypesv1_1_internal.h	export	
+/epoc32/include/platform/commsdattypesv1_1_partner.h	export	
+/epoc32/include/platform/commsdatutils.h	export	
+/epoc32/include/platform/cs_genevent.h	export	
+/epoc32/include/platform/cs_genevent.inl	export	
+/epoc32/include/platform/cs_panic.h	export	
+/epoc32/include/platform/elements/cfmacro.h	export	
+/epoc32/include/platform/elements/cftransport.h	export	
+/epoc32/include/platform/elements/cftransport.inl	export	
+/epoc32/include/platform/elements/cftransportmsg.h	export	
+/epoc32/include/platform/elements/cftransportmsg.inl	export	
+/epoc32/include/platform/elements/factory.h	export	
+/epoc32/include/platform/elements/factorynotify.h	export	
+/epoc32/include/platform/elements/factoryobject.h	export	
+/epoc32/include/platform/elements/h_structures.h	export	
+/epoc32/include/platform/elements/h_tdeallocator.h	export	
+/epoc32/include/platform/elements/h_trbuf.h	export	
+/epoc32/include/platform/elements/idquerynetmsg.h	export	
+/epoc32/include/platform/elements/interfacetable.h	export	
+/epoc32/include/platform/elements/interfacetable_internal.h	export	
+/epoc32/include/platform/elements/metabuffer.h	export	
+/epoc32/include/platform/elements/metacontainer.h	export	
+/epoc32/include/platform/elements/metacontainer.inl	export	
+/epoc32/include/platform/elements/metaiterator.h	export	
+/epoc32/include/platform/elements/metatype.h	export	
+/epoc32/include/platform/elements/metatypearray.h	export	
+/epoc32/include/platform/elements/metatypevariablelen.h	export	
+/epoc32/include/platform/elements/metavirtctor.h	export	
+/epoc32/include/platform/elements/mm_activities.h	export	
+/epoc32/include/platform/elements/mm_activities_internal.h	export	
+/epoc32/include/platform/elements/mm_context.h	export	
+/epoc32/include/platform/elements/mm_context_internal.h	export	
+/epoc32/include/platform/elements/mm_log.h	export	
+/epoc32/include/platform/elements/mm_mutexpolicies.h	export	
+/epoc32/include/platform/elements/mm_node.h	export	
+/epoc32/include/platform/elements/mm_nodepeer.h	export	
+/epoc32/include/platform/elements/mm_states.h	export	
+/epoc32/include/platform/elements/netmessages.h	export	
+/epoc32/include/platform/elements/nm_address.h	export	
+/epoc32/include/platform/elements/nm_address_internal.h	export	
+/epoc32/include/platform/elements/nm_common.h	export	
+/epoc32/include/platform/elements/nm_common_internal.h	export	
+/epoc32/include/platform/elements/nm_interfaces.h	export	
+/epoc32/include/platform/elements/nm_log.h	export	
+/epoc32/include/platform/elements/nm_messages_base.h	export	
+/epoc32/include/platform/elements/nm_messages_child.h	export	
+/epoc32/include/platform/elements/nm_messages_errorrecovery.h	export	
+/epoc32/include/platform/elements/nm_messages_internal.h	export	
+/epoc32/include/platform/elements/nm_messages_peer.h	export	
+/epoc32/include/platform/elements/nm_node.h	export	
+/epoc32/include/platform/elements/nm_signals.h	export	
+/epoc32/include/platform/elements/nm_signatures.h	export	
+/epoc32/include/platform/elements/nm_transport.h	export	
+/epoc32/include/platform/elements/responsemsg.h	export	
+/epoc32/include/platform/elements/responsemsgaccessor.h	export	
+/epoc32/include/platform/elements/rworkerlock.h	export	
+/epoc32/include/platform/elements/sd_apiextension.h	export	
+/epoc32/include/platform/elements/sd_apiextensionclient.h	export	
+/epoc32/include/platform/elements/sd_apiextensionregister.h	export	
+/epoc32/include/platform/elements/sd_errors.h	export	
+/epoc32/include/platform/elements/sd_log.h	export	
+/epoc32/include/platform/elements/sd_mintercept.h	export	
+/epoc32/include/platform/elements/sd_mintercept_macro.h	export	
+/epoc32/include/platform/elements/sd_minterceptmsgs.h	export	
+/epoc32/include/platform/elements/sd_msgs.h	export	
+/epoc32/include/platform/elements/sd_objectbroker.h	export	
+/epoc32/include/platform/elements/sd_roles.h	export	
+/epoc32/include/platform/elements/sd_roles.inl	export	
+/epoc32/include/platform/elements/sd_std.h	export	
+/epoc32/include/platform/elements/sd_std.inl	export	
+/epoc32/include/platform/elements/sd_thread.h	export	
+/epoc32/include/platform/elements/sm_core.h	export	
+/epoc32/include/platform/elements/sm_statetriple.h	export	
+/epoc32/include/platform/elements/vc.h	export	
+/epoc32/include/platform/errors/generic/netconerr.ra	export	
+/epoc32/include/platform/errors/generic/netconerr.rls	export	
+/epoc32/include/platform/es_commsbuf.h	export	
+/epoc32/include/platform/es_connpref.h	export	
+/epoc32/include/platform/es_enum.inl	export	
+/epoc32/include/platform/es_enum_internal.h	export	
+/epoc32/include/platform/es_enum_internal.inl	export	
+/epoc32/include/platform/es_enum_partner.h	export	
+/epoc32/include/platform/es_enum_partner.inl	export	
+/epoc32/include/platform/es_ini.h	export	
+/epoc32/include/platform/es_mbman.h	export	
+/epoc32/include/platform/es_mbuf.h	export	
+/epoc32/include/platform/es_mbufif.h	export	
+/epoc32/include/platform/es_notq.inl	export	
+/epoc32/include/platform/es_panic_internal.h	export	
+/epoc32/include/platform/es_panic_partner.h	export	
+/epoc32/include/platform/es_prot.h	export	
+/epoc32/include/platform/es_prot.inl	export	
+/epoc32/include/platform/es_prot_internal.h	export	
+/epoc32/include/platform/es_prov.h	export	
+/epoc32/include/platform/es_sock.inl	export	
+/epoc32/include/platform/es_sock_internal.h	export	
+/epoc32/include/platform/es_sock_internal.inl	export	
+/epoc32/include/platform/es_sock_partner.h	export	
+/epoc32/include/platform/esockmessages.h	export	
+/epoc32/include/platform/mb_thread.h	export	
+/epoc32/include/platform/metadatabase_partner.h	export	
+/epoc32/include/platform/mobilitymessages.h	export	
+/epoc32/include/platform/mobilitymessages.inl	export	
+/epoc32/include/platform/nifmbuf.h	export	
+/epoc32/include/platform/procroot.h	export	
+/epoc32/include/platform/rscommon.h	export	
+/epoc32/include/platform/rscommon.inl	export	
+/epoc32/include/platform/rserror.h	export	
+/epoc32/include/platform/rsshared.h	export	
+/epoc32/include/platform/rsstd.h	export	
+/epoc32/include/platform/rsstd.inl	export	
+/epoc32/include/platform/ss_commsprov.h	export	
+/epoc32/include/platform/ss_connprov.h	export	
+/epoc32/include/platform/ss_fact.h	export	
+/epoc32/include/platform/ss_glob.h	export	
+/epoc32/include/platform/ss_pman.h	export	
+/epoc32/include/platform/ss_pman.inl	export	
+/epoc32/include/platform/ss_protprov.h	export	
+/epoc32/include/platform/ss_select.h	export	
+/epoc32/include/platform/ss_sock.h	export	
+/epoc32/include/platform/ss_std.h	export	
+/epoc32/include/platform/ss_std.inl	export	
+/epoc32/include/platform/ss_subconnprov.h	export	
+/epoc32/include/rsconfig.mmh	export	
+/epoc32/release/WINSCW/UREL/z/private/10202be9/cccccc00.txt	build	armv5_udeb
+/epoc32/release/WINSCW/UREL/z/private/10202be9/cccccc00.txt	build	armv5_urel
+/epoc32/release/WINSCW/udeb/z/private/10202be9/cccccc00.cre	build	winscw_udeb
+/epoc32/release/WINSCW/udeb/z/private/10202be9/cccccc00.txt	build	winscw_udeb
+/epoc32/release/WINSCW/urel/z/private/10202be9/cccccc00.cre	build	winscw_urel
+/epoc32/release/WINSCW/urel/z/private/10202be9/cccccc00.txt	build	winscw_urel
+/epoc32/release/armv5/lib/agentdialog.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agentdialog.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agentdialog{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agentdialog{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/c32.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32.dso	build	armv5_urel
+/epoc32/release/armv5/lib/c32root.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32root.dso	build	armv5_urel
+/epoc32/release/armv5/lib/c32root{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32root{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/c32{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cflog.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cflog.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cflog{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cflog{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commdb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commdb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commdb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commdb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsbufs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsbufs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsbufs.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/commsbufs.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/commsbufskern.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsbufskern.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsbufskern{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsbufskern{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsbufs{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsbufs{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsbufs{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/commsbufs{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/commsdat.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsdat.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsdataobjects.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsdataobjects.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsdataobjects{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsdataobjects{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsdat{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsdat{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsfw.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsfw.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsfw{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsfw{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/coreproviders.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/coreproviders.dso	build	armv5_urel
+/epoc32/release/armv5/lib/coreproviders{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/coreproviders{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ecuart.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ecuart.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ecuart{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ecuart{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esock.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esock.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esock_api_ext.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esock_api_ext.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esock_api_ext{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esock_api_ext{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esockmessagesimpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esockmessagesimpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esockmessagesimpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esockmessagesimpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esocksvr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esocksvr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esocksvr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esocksvr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/esock{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/esock{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/factories.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/factories.dso	build	armv5_urel
+/epoc32/release/armv5/lib/factories{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/factories{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loopback.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loopback.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loopback{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loopback{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mbufmgr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mbufmgr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mbufmgr.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/mbufmgr.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/mbufmgrimpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mbufmgrimpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mbufmgrimpl.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/mbufmgrimpl.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/mbufmgrimpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mbufmgrimpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mbufmgrimpl{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/mbufmgrimpl{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/mbufmgr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mbufmgr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mbufmgr{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/mbufmgr{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/meshmachine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/meshmachine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/meshmachine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/meshmachine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/messageintercept.esockdebug.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/messageintercept.esockdebug.dso	build	armv5_urel
+/epoc32/release/armv5/lib/messageintercept{000a0000}.esockdebug.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/messageintercept{000a0000}.esockdebug.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mobilitycoreproviders.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mobilitycoreproviders.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mobilitycoreproviders{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mobilitycoreproviders{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netinterfaces.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netinterfaces.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netinterfaces{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netinterfaces{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netmeta.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netmeta.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netmeta{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netmeta{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netmsg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netmsg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netmsg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netmsg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netsm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netsm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netsm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netsm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netstsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netstsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netstsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netstsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netsubscribe.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netsubscribe.dso	build	armv5_urel
+/epoc32/release/armv5/lib/netsubscribe{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/netsubscribe{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nodemessages.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nodemessages.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nodemessages{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nodemessages{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/procroot.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/procroot.dso	build	armv5_urel
+/epoc32/release/armv5/lib/procrootsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/procrootsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/procrootsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/procrootsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/procroot{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/procroot{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/responsemsg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/responsemsg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/responsemsg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/responsemsg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/serverden.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/serverden.dso	build	armv5_urel
+/epoc32/release/armv5/lib/serverden{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/serverden{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/shimnotifiercli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/shimnotifiercli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/shimnotifiercli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/shimnotifiercli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/simpleselectorbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/simpleselectorbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/simpleselectorbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/simpleselectorbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upscoreproviders.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upscoreproviders.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upscoreproviders{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upscoreproviders{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/virtualconstructors.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/virtualconstructors.dso	build	armv5_urel
+/epoc32/release/armv5/lib/virtualconstructors{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/virtualconstructors{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/_rohid_ced.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/_rohid_ced.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_rohid_ceddump.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/_rohid_ceddump.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentdialog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentdialog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentshellnotifier.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agentshellnotifier.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32exe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32exe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32root.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32root.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32start.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32start.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ced.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ced.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ceddump.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ceddump.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cflog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cflog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commdb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commdb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsbufs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsbufs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsbufskern.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsbufskern.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdataobjects.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdataobjects.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdataobjectsecom.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdataobjectsecom.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsfw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsfw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/connservparams.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/connservparams.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/coreproviders.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/coreproviders.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/coreprovidersecom.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/coreprovidersecom.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecuart.csy	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecuart.csy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eintsock_transport.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eintsock_transport.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/esock.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/esock.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/esock_api_ext.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/esock_api_ext.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/esock_params.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/esock_params.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/esockmessages.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/esockmessages.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/esockmessagesimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/esockmessagesimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/esocksvr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/esocksvr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/factories.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/factories.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/loopback.csy	build	armv5_udeb
+/epoc32/release/armv5/udeb/loopback.csy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbufmgr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbufmgr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbufmgrimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mbufmgrimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/meshmachine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/meshmachine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/messageintercept.esockdebug.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/messageintercept.esockdebug.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mobilitycoreproviders.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mobilitycoreproviders.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netinterfaces.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netinterfaces.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netmessages.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netmessages.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netmeta.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netmeta.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netmsg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netmsg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netsm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netsm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netstsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netstsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/netsubscribe.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/netsubscribe.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nodemessages.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nodemessages.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/procroot.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/procroot.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/procrootsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/procrootsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/responsemsg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/responsemsg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/serverden.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/serverden.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/shimnotifiercli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/shimnotifiercli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/shimnotifiersvr.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/shimnotifiersvr.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/simpleselectorbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/simpleselectorbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/subconparams.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/subconparams.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upscoreproviders.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upscoreproviders.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/virtualconstructors.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/virtualconstructors.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/_rohid_ced.exe	build	armv5_urel
+/epoc32/release/armv5/urel/_rohid_ced.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/_rohid_ceddump.exe	build	armv5_urel
+/epoc32/release/armv5/urel/_rohid_ceddump.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/agentdialog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agentdialog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agentshellnotifier.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agentshellnotifier.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/c32.dll	build	armv5_urel
+/epoc32/release/armv5/urel/c32.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/c32exe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/c32exe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/c32root.dll	build	armv5_urel
+/epoc32/release/armv5/urel/c32root.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/c32start.exe	build	armv5_urel
+/epoc32/release/armv5/urel/c32start.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ced.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ced.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ceddump.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ceddump.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cflog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cflog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commdb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commdb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsbufs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commsbufs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsbufskern.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/commsbufskern.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsdat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commsdat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsdataobjects.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commsdataobjects.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsdataobjectsecom.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commsdataobjectsecom.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsfw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commsfw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/connservparams.dll	build	armv5_urel
+/epoc32/release/armv5/urel/connservparams.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/coreproviders.dll	build	armv5_urel
+/epoc32/release/armv5/urel/coreproviders.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/coreprovidersecom.dll	build	armv5_urel
+/epoc32/release/armv5/urel/coreprovidersecom.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecuart.csy	build	armv5_urel
+/epoc32/release/armv5/urel/ecuart.csy.map	build	armv5_urel
+/epoc32/release/armv5/urel/eintsock_transport.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eintsock_transport.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/esock.dll	build	armv5_urel
+/epoc32/release/armv5/urel/esock.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/esock_api_ext.dll	build	armv5_urel
+/epoc32/release/armv5/urel/esock_api_ext.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/esock_params.dll	build	armv5_urel
+/epoc32/release/armv5/urel/esock_params.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/esockmessages.dll	build	armv5_urel
+/epoc32/release/armv5/urel/esockmessages.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/esockmessagesimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/esockmessagesimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/esocksvr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/esocksvr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/factories.dll	build	armv5_urel
+/epoc32/release/armv5/urel/factories.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/loopback.csy	build	armv5_urel
+/epoc32/release/armv5/urel/loopback.csy.map	build	armv5_urel
+/epoc32/release/armv5/urel/mbufmgr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mbufmgr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mbufmgrimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mbufmgrimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/meshmachine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/meshmachine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/messageintercept.esockdebug.dll	build	armv5_urel
+/epoc32/release/armv5/urel/messageintercept.esockdebug.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mobilitycoreproviders.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mobilitycoreproviders.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netinterfaces.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netinterfaces.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netmessages.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netmessages.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netmeta.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netmeta.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netmsg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netmsg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netsm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netsm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netstsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netstsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/netsubscribe.dll	build	armv5_urel
+/epoc32/release/armv5/urel/netsubscribe.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nodemessages.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nodemessages.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/procroot.dll	build	armv5_urel
+/epoc32/release/armv5/urel/procroot.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/procrootsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/procrootsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/responsemsg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/responsemsg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/serverden.dll	build	armv5_urel
+/epoc32/release/armv5/urel/serverden.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/shimnotifiercli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/shimnotifiercli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/shimnotifiersvr.exe	build	armv5_urel
+/epoc32/release/armv5/urel/shimnotifiersvr.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/simpleselectorbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/simpleselectorbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/subconparams.dll	build	armv5_urel
+/epoc32/release/armv5/urel/subconparams.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upscoreproviders.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upscoreproviders.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/virtualconstructors.dll	build	armv5_urel
+/epoc32/release/armv5/urel/virtualconstructors.dll.map	build	armv5_urel
+/epoc32/release/armv5smp/udeb/commsbufs.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/commsbufs.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/commsbufskern.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/commsbufskern.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/mbufmgr.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/mbufmgr.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/mbufmgrimpl.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/mbufmgrimpl.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/urel/commsbufs.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/commsbufs.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/commsbufskern.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/commsbufskern.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/mbufmgr.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/mbufmgr.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/mbufmgrimpl.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/mbufmgrimpl.dll.map	build	armv5smp_urel
+/epoc32/release/eabi/agentdialogu.def	export	
+/epoc32/release/wins/agentdialogu.def	export	
+/epoc32/release/winscw/udeb/_rohid_ced.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/_rohid_ceddump.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/agentdialog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agentdialog.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32exe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32root.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32root.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32start.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ced.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ceddump.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cflog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cflog.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commdb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commdb.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsbufs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsbufs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsbufskern.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsbufskern.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdat.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdataobjects.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdataobjects.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdataobjectsecom.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsfw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsfw.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/connservparams.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/coreproviders.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/coreproviders.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/coreprovidersecom.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecuart.csy	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecuart.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eintsock_transport.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/esock.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/esock.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/esock_api_ext.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/esock_api_ext.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/esock_params.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/esockmessages.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/esockmessagesimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/esockmessagesimpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/esocksvr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/esocksvr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/factories.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/factories.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/loopback.csy	build	winscw_udeb
+/epoc32/release/winscw/udeb/loopback.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mbufmgr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mbufmgr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mbufmgrimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mbufmgrimpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/meshmachine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/meshmachine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/messageintercept.esockdebug.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/messageintercept.esockdebug.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mobilitycoreproviders.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mobilitycoreproviders.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/netinterfaces.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netinterfaces.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/netmessages.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netmeta.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netmeta.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/netmsg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netmsg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/netsm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netsm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/netstsrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netstsrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/netsubscribe.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/netsubscribe.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nodemessages.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nodemessages.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/procroot.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/procroot.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/procrootsrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/procrootsrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/responsemsg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/responsemsg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/serverden.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/serverden.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/shimnotifiercli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/shimnotifiercli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/shimnotifiersvr.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/simpleselectorbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/simpleselectorbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/subconparams.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upscoreproviders.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upscoreproviders.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/virtualconstructors.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/virtualconstructors.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f7988/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/c32.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/c32_first.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/c32_fourth.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/c32_second.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/c32_third.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/c32start.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/esock.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/esock_dip.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/esock_mip.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/esock_smswap.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/esock_tr.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/commsdataobjectsecom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/connservparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/coreprovidersecom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/eintsock_transport.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/esock_params.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/esockmessages.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/netmessages.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/subconparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/sys/bin/tnotifiers/agentshellnotifier.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/system/data/meshpreface1.cfg	export	
+/epoc32/release/winscw/udeb/z/system/install/c32exe.sis	export	
+/epoc32/release/winscw/urel/_rohid_ced.exe	build	winscw_urel
+/epoc32/release/winscw/urel/_rohid_ced.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/_rohid_ceddump.exe	build	winscw_urel
+/epoc32/release/winscw/urel/_rohid_ceddump.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/agentdialog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agentdialog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/c32.dll	build	winscw_urel
+/epoc32/release/winscw/urel/c32.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/c32exe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/c32exe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/c32root.dll	build	winscw_urel
+/epoc32/release/winscw/urel/c32root.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/c32start.exe	build	winscw_urel
+/epoc32/release/winscw/urel/c32start.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ced.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ced.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ceddump.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ceddump.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cflog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cflog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commdb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commdb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsbufs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commsbufs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsbufskern.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/commsbufskern.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsdat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commsdat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsdataobjects.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commsdataobjects.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsdataobjectsecom.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commsdataobjectsecom.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsfw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commsfw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/connservparams.dll	build	winscw_urel
+/epoc32/release/winscw/urel/connservparams.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/coreproviders.dll	build	winscw_urel
+/epoc32/release/winscw/urel/coreproviders.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/coreprovidersecom.dll	build	winscw_urel
+/epoc32/release/winscw/urel/coreprovidersecom.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecuart.csy	build	winscw_urel
+/epoc32/release/winscw/urel/ecuart.csy.map	build	winscw_urel
+/epoc32/release/winscw/urel/eintsock_transport.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eintsock_transport.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/esock.dll	build	winscw_urel
+/epoc32/release/winscw/urel/esock.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/esock_api_ext.dll	build	winscw_urel
+/epoc32/release/winscw/urel/esock_api_ext.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/esock_params.dll	build	winscw_urel
+/epoc32/release/winscw/urel/esock_params.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/esockmessages.dll	build	winscw_urel
+/epoc32/release/winscw/urel/esockmessages.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/esockmessagesimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/esockmessagesimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/esocksvr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/esocksvr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/factories.dll	build	winscw_urel
+/epoc32/release/winscw/urel/factories.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/loopback.csy	build	winscw_urel
+/epoc32/release/winscw/urel/loopback.csy.map	build	winscw_urel
+/epoc32/release/winscw/urel/mbufmgr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mbufmgr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mbufmgrimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mbufmgrimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/meshmachine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/meshmachine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/messageintercept.esockdebug.dll	build	winscw_urel
+/epoc32/release/winscw/urel/messageintercept.esockdebug.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mobilitycoreproviders.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mobilitycoreproviders.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netinterfaces.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netinterfaces.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netmessages.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netmessages.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netmeta.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netmeta.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netmsg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netmsg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netsm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netsm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netstsrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netstsrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/netsubscribe.dll	build	winscw_urel
+/epoc32/release/winscw/urel/netsubscribe.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nodemessages.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nodemessages.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/procroot.dll	build	winscw_urel
+/epoc32/release/winscw/urel/procroot.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/procrootsrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/procrootsrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/responsemsg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/responsemsg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/serverden.dll	build	winscw_urel
+/epoc32/release/winscw/urel/serverden.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/shimnotifiercli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/shimnotifiercli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/shimnotifiersvr.exe	build	winscw_urel
+/epoc32/release/winscw/urel/shimnotifiersvr.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/simpleselectorbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/simpleselectorbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/subconparams.dll	build	winscw_urel
+/epoc32/release/winscw/urel/subconparams.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upscoreproviders.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upscoreproviders.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/virtualconstructors.dll	build	winscw_urel
+/epoc32/release/winscw/urel/virtualconstructors.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101f7988/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101f7988/c32.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/c32_first.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/c32_fourth.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/c32_second.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/c32_third.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/c32start.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7988/esock.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/esock_dip.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/esock_mip.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/esock_smswap.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7988/esock_tr.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7989/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/commsdataobjectsecom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/connservparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/coreprovidersecom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/eintsock_transport.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/esock_params.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/esockmessages.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/netmessages.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/subconparams.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/sys/bin/tnotifiers/agentshellnotifier.dll	build	winscw_urel
+/epoc32/release/winscw/urel/z/sys/bin/tnotifiers/agentshellnotifier.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/system/data/meshpreface1.cfg	export	
+/epoc32/release/winscw/urel/z/system/install/c32exe.sis	export	
+/epoc32/rom/include/agentdialog.iby	export	
+/epoc32/rom/include/agentshellnotifier.iby	export	
+/epoc32/rom/include/c32.iby	export	
+/epoc32/rom/include/c32start.iby	export	
+/epoc32/rom/include/ced.iby	export	
+/epoc32/rom/include/ceddump.iby	export	
+/epoc32/rom/include/cflog.iby	export	
+/epoc32/rom/include/commdb.iby	export	
+/epoc32/rom/include/commsbufs.iby	export	
+/epoc32/rom/include/commsbufskern.iby	export	
+/epoc32/rom/include/commsdat.iby	export	
+/epoc32/rom/include/commsdataobjects.iby	export	
+/epoc32/rom/include/commsdataobjectsecom.iby	export	
+/epoc32/rom/include/commsfw.iby	export	
+/epoc32/rom/include/commsrootserver.iby	export	
+/epoc32/rom/include/connservparams.iby	export	
+/epoc32/rom/include/coreproviders.iby	export	
+/epoc32/rom/include/coreprovidersecom.iby	export	
+/epoc32/rom/include/ecuart.iby	export	
+/epoc32/rom/include/elements.iby	export	
+/epoc32/rom/include/esock.iby	export	
+/epoc32/rom/include/esock_api_ext.iby	export	
+/epoc32/rom/include/esock_core.iby	export	
+/epoc32/rom/include/esock_params.iby	export	
+/epoc32/rom/include/esockmessageintercept.iby	export	
+/epoc32/rom/include/esockmessages.iby	export	
+/epoc32/rom/include/factories.iby	export	
+/epoc32/rom/include/loopback.iby	export	
+/epoc32/rom/include/meshmachine.iby	export	
+/epoc32/rom/include/mobilitycoreproviders.iby	export	
+/epoc32/rom/include/netinterfaces.iby	export	
+/epoc32/rom/include/netmessages.iby	export	
+/epoc32/rom/include/netmeta.iby	export	
+/epoc32/rom/include/netmsg.iby	export	
+/epoc32/rom/include/netsm.iby	export	
+/epoc32/rom/include/netstsrv.iby	export	
+/epoc32/rom/include/netsubscribe.iby	export	
+/epoc32/rom/include/nodemessages.iby	export	
+/epoc32/rom/include/responsemsg.iby	export	
+/epoc32/rom/include/rootserver.iby	export	
+/epoc32/rom/include/serverden.iby	export	
+/epoc32/rom/include/shimnotifier.iby	export	
+/epoc32/rom/include/simpleselectorbase.iby	export	
+/epoc32/rom/include/subconparams.iby	export	
+/epoc32/rom/include/upscoreproviders.iby	export	
+/epoc32/rom/include/virtualconstructors.iby	export	
+/epoc32/tools/cfg2xml.bat	export	
+/epoc32/tools/cfg2xml.jar	export	
+/epoc32/tools/commdb-schema/92schema/agentlookuptable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/btdefaulttable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/btdevicetable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/btpersisttable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/btsecuritytable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/cdma2000packetservicetable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/chargecardtable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/commdb.xsd	export	
+/epoc32/tools/commdb-schema/92schema/commtypes.xsd	export	
+/epoc32/tools/commdb-schema/92schema/connectionpreferencestable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/contents.xml	export	
+/epoc32/tools/commdb-schema/92schema/contents.xsd	export	
+/epoc32/tools/commdb-schema/92schema/defaultcdma2000table.xsd	export	
+/epoc32/tools/commdb-schema/92schema/defaultgprstable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/dialinisptable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/dialoutisptable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/globalsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/iaptable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/incominggprstable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/informationtable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/lanbearertable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/lanservicetable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/locationtable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/modembearertable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/networktable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/outgoinggprstable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/panserviceextensionstable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/primitivetypes.xsd	export	
+/epoc32/tools/commdb-schema/92schema/proxytable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/securesockettable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/virtualbearertable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/vpnservicetable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/wapaccesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/wapipbearertable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/wapsmsbearertable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/wlanserviceextensiontable.xsd	export	
+/epoc32/tools/commdb-schema/92schema/xlinkattributes.xsd	export	
+/epoc32/tools/commdb-schema/93schema/agentlookuptable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/btdefaulttable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/btdevicetable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/btpersisttable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/btsecuritytable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/cdma2000packetservicetable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/chargecardtable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/commdb.xsd	export	
+/epoc32/tools/commdb-schema/93schema/commtypes.xsd	export	
+/epoc32/tools/commdb-schema/93schema/connectionpreferencestable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/contents.xml	export	
+/epoc32/tools/commdb-schema/93schema/contents.xsd	export	
+/epoc32/tools/commdb-schema/93schema/defaultcdma2000table.xsd	export	
+/epoc32/tools/commdb-schema/93schema/defaultgprstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/dialinisptable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/dialoutisptable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/eapsecuritysettingstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/eaptlssettingstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/globalsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/iaptable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/incominggprstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/informationtable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/lanbearertable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/lanservicetable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/leapsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/locationtable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/modembearertable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/networktable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/outgoinggprstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/panserviceextensionstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/primitivetypes.xsd	export	
+/epoc32/tools/commdb-schema/93schema/proxytable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/securesockettable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/tunnelledeapsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/virtualbearertable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/vpnservicetable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/wapaccesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/wapipbearertable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/wapsmsbearertable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/wlanserviceextensiontable.xsd	export	
+/epoc32/tools/commdb-schema/93schema/xlinkattributes.xsd	export	
+/epoc32/tools/commdb-schema/94schema/accesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/agentlookuptable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/bearertypetable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/btdefaulttable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/btdevicetable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/btpersisttable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/btsecuritytable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/cdma2000packetservicetable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/chargecardtable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/commdb.xsd	export	
+/epoc32/tools/commdb-schema/94schema/commtypes.xsd	export	
+/epoc32/tools/commdb-schema/94schema/configaccesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/connectionpreferencestable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/contents.xml	export	
+/epoc32/tools/commdb-schema/94schema/contents.xsd	export	
+/epoc32/tools/commdb-schema/94schema/defaultcdma2000table.xsd	export	
+/epoc32/tools/commdb-schema/94schema/defaultgprstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/dialinisptable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/dialoutisptable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/eapsecuritysettingstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/eaptlssettingstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/globalsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/iappriorityselectionpolicytable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/iaptable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/incominggprstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/informationtable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/lanbearertable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/lanservicetable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/leapsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/locationtable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/modembearertable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/networktable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/outgoinggprstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/panserviceextensionstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/primitivetypes.xsd	export	
+/epoc32/tools/commdb-schema/94schema/proxytable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/securesockettable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/tunnelledeapsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/virtualbearertable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/vpnservicetable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/wapaccesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/wapipbearertable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/wapsmsbearertable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/wlanserviceextensiontable.xsd	export	
+/epoc32/tools/commdb-schema/94schema/xlinkattributes.xsd	export	
+/epoc32/tools/commdb-schema/95schema/accesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/agentlookuptable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/bearertypetable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/btdefaulttable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/btdevicetable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/btpersisttable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/btsecuritytable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/cdma2000packetservicetable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/chargecardtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/commdb.xsd	export	
+/epoc32/tools/commdb-schema/95schema/commtypes.xsd	export	
+/epoc32/tools/commdb-schema/95schema/configaccesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/connectionpreferencestable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/contents.xml	export	
+/epoc32/tools/commdb-schema/95schema/contents.xsd	export	
+/epoc32/tools/commdb-schema/95schema/cprtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/defaultcdma2000table.xsd	export	
+/epoc32/tools/commdb-schema/95schema/defaultgprstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/dialinisptable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/dialoutisptable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/eapsecuritysettingstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/eaptlssettingstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/globalsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/iappriorityselectionpolicytable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/iaptable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/incominggprstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/informationtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/lanbearertable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/lanservicetable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/leapsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/locationtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/mcprtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/modembearertable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/networktable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/outgoinggprstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/panserviceextensionstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/primitivetypes.xsd	export	
+/epoc32/tools/commdb-schema/95schema/protocoltable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/proxytable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/scprtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/securesockettable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/tiertable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/tunnelledeapsettingstable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/virtualbearertable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/vpnservicetable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/wapaccesspointtable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/wapipbearertable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/wapsmsbearertable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/wlanserviceextensiontable.xsd	export	
+/epoc32/tools/commdb-schema/95schema/xlinkattributes.xsd	export	
+/epoc32/tools/commsfw/esockmessages.definition.txt	export	
+/epoc32/tools/commsfw/ipmessages.definition.txt	export	
+/epoc32/tools/commsfw/messagesequencetool.doc	export	
+/epoc32/tools/commsfw/nodemessages.definition.txt	export	
+/epoc32/tools/commsfw/parse.ini	export	
+/epoc32/tools/commsfw/parseit.bat	export	
+/epoc32/tools/commsfw/parselog.pl	export	
+/epoc32/tools/commsfw/parseprocessthread.pl	export	
+/epoc32/tools/commsfw/parseseq.pl	export	
+/epoc32/tools/commsfw/relateitvrml.bat	export	
+/epoc32/tools/commsfw/relations.pl	export	
+/epoc32/tools/commsfw/relationships.txt	export	
+/epoc32/tools/commsfw/relationsvrml.pl	export	
+/epoc32/tools/commsfw/utracedecoder.exe	export	
+/epoc32/tools/cxmled.bat	export	
+/epoc32/tools/cxmled.jar	export	
+/epoc32/tools/makefile_templates/converged-comms/createcommdbs.meta	export	
+/epoc32/tools/makefile_templates/converged-comms/createcommdbs.mk	export	
+/epoc32/tools/makefile_templates/converged-comms/installdefaultcommdb.meta	export	
+/epoc32/tools/makefile_templates/converged-comms/installdefaultcommdb.mk	export	
+/epoc32/winscw/c/defaultcommdb/CommsDb.dat	build	armv5_udeb
+/epoc32/winscw/c/defaultcommdb/CommsDb.dat	build	armv5_urel
+/epoc32/winscw/c/defaultcommdb/CommsDb.dat	build	winscw_udeb
+/epoc32/winscw/c/defaultcommdb/CommsDb.dat	build	winscw_urel

@@ -1,0 +1,45 @@
+# /****************************************************************************
+# **
+# ** Copyright (C) 2010 Nokia Corporation and/or its subsidiary(-ies).
+# ** Contact: Nokia Corporation (qt-info@nokia.com)
+# **
+# ** This file is part of symbian-sbsv2 mkspec.
+# **
+# ****************************************************************************/
+
+
+SINGLETON:=$(call sanitise,TARGET_$(PREDEP_TARGET))
+
+$(call makepathfor,$(PREDEP_TARGET))
+
+MY_CMD:=$(COMMAND)
+
+# If the command has a drive letter, don't prepend EPOCROOT
+ifneq ($(findstring :,$(firstword $(COMMAND))), :)
+    # Additional checking is necessary for the Linux compilation
+    ifneq ($(findstring $(EPOCROOT), $(firstword $(COMMAND))), $(EPOCROOT))
+        ifeq ($(findstring /epoc32, $(firstword $(COMMAND))), /epoc32)
+	    MY_CMD:=$(EPOCROOT)$(COMMAND)
+	 endif
+    endif
+endif
+
+define qmake_extra_pre_targetdep
+EXPORT:: $(PREDEP_TARGET)
+
+# Prevent duplicate targets from being created
+$(SINGLETON):=1
+
+$(PREDEP_TARGET): $(DEPS) 
+	$(call startrule,qmake_extra_pre_targetdep,FORCESUCCESS) \
+	$(MY_CMD) \
+	$(call endrule,qmake_extra_pre_targetdep)
+endef
+
+ifeq ($($(SINGLETON)),)
+$(eval $(qmake_extra_pre_targetdep))
+$(eval $(call GenerateStandardCleanTarget,$(PREDEP_TARGET),''))
+endif	
+
+
+

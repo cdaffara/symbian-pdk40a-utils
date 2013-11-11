@@ -1,0 +1,299 @@
+/epoc32/data/z/private/10003a3f/import/apps/phonebook_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/phonebook_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/phonebookservices_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/phonebookservices_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.manifest	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.qtplugin	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.xml	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C353/qtg_large_friend.svg	export	
+/epoc32/data/z/resource/apps/phonebook.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/phonebook.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/phonebookservices.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/phonebookservices.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/hb/splashml/phonebook.docml	export	
+/epoc32/data/z/resource/hb/splashml/phonebook.splashml	export	
+/epoc32/data/z/resource/plugins/cntfindplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cntfindplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cntsortplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cntsortplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/phbksyncplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/phbksyncplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/contacts_stub.sis	export	
+/epoc32/data/z/system/install/contactwidgethsplugin_stub.sis	build	armv5_urel
+/epoc32/include/app/phbksync.h	export	
+/epoc32/include/phonebook.rsg	resource	armv5_urel
+/epoc32/include/phonebook.rsg	resource	winscw_udeb
+/epoc32/include/phonebookservices.rsg	resource	armv5_urel
+/epoc32/include/phonebookservices.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/cntabstractengine.h	export	
+/epoc32/include/platform/app/cntabstractview.h	export	
+/epoc32/include/platform/app/cntabstractviewmanager.h	export	
+/epoc32/include/platform/app/cnteditviewitem.h	export	
+/epoc32/include/platform/app/cnteditviewitemcallback.h	export	
+/epoc32/include/platform/app/cnteditviewitemsupplier.h	export	
+/epoc32/include/platform/app/cntextensiongroupcallback.h	export	
+/epoc32/include/platform/app/cntinfoprovider.h	export	
+/epoc32/include/platform/app/cntinfoproviderfactory.h	export	
+/epoc32/include/platform/app/cntservicescontact.h	export	
+/epoc32/include/platform/app/cntuiactionextension.h	export	
+/epoc32/include/platform/app/cntuicontactcardextension.h	export	
+/epoc32/include/platform/app/cntuids.h	export	
+/epoc32/include/platform/app/cntuiextensionfactory.h	export	
+/epoc32/include/platform/app/cntuiextensiongroup.h	export	
+/epoc32/include/platform/app/cntuigroupsupplier.h	export	
+/epoc32/include/platform/app/cntuisocialextension.h	export	
+/epoc32/include/platform/app/cntviewparams.h	export	
+/epoc32/include/platform/app/cntviewsupplier.h	export	
+/epoc32/include/platform/app/pbapcli.h	export	
+/epoc32/include/platform/app/prcpresencebuddyinfo_qt.h	export	
+/epoc32/include/platform/app/prcpresencereader_qt.h	export	
+/epoc32/include/platform/app/prcpresencewriter_qt.h	export	
+/epoc32/include/platform/app/presencecacheglobal_qt.h	export	
+/epoc32/release/armv5/lib/cntactionsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntactionsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntactionsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntactionsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntcommonui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntcommonui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntcommonui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntcommonui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cnthistorymodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cnthistorymodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cnthistorymodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cnthistorymodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntimageutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntimageutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntimageutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntimageutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntlistmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntlistmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntlistmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntlistmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntsimutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntsimutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntsimutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntsimutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contactwidgethsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contactwidgethsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contactwidgethsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contactwidgethsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pbapcli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pbapcli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pbapcli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pbapcli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pbaplogeng.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pbaplogeng.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pbaplogeng{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pbaplogeng{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phbksyncsvr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phbksyncsvr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phbksyncsvr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phbksyncsvr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheclient2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheclient2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheclient2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheclient2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheqt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheqt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheqt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheqt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presencecacheutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presencecacheutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/btaccesshost.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaccesshost.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntactionsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntactionsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntcommonui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntcommonui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntfindplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntfindplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cnthistorymodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cnthistorymodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntimageutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntimageutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntlistmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntlistmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntsimutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntsimutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntsortplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntsortplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/contactwidgethsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/contactwidgethsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pbapcli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pbapcli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pbaplogeng.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pbaplogeng.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phbksyncplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phbksyncplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phbksyncsvr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/phbksyncsvr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phbksyncsvrexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/phbksyncsvrexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonebook.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonebook.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonebookservices.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonebookservices.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheclient2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheclient2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheqt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheqt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheserver2.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheserver2.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presencecacheutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/btaccesshost.exe	build	armv5_urel
+/epoc32/release/armv5/urel/btaccesshost.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntactionsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntactionsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntcommonui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntcommonui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntfindplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntfindplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cnthistorymodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cnthistorymodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntimageutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntimageutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntlistmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntlistmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntsimutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntsimutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntsortplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntsortplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/contactwidgethsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/contactwidgethsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pbapcli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pbapcli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pbaplogeng.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pbaplogeng.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phbksyncplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phbksyncplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phbksyncsvr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/phbksyncsvr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phbksyncsvrexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/phbksyncsvrexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonebook.exe	build	armv5_urel
+/epoc32/release/armv5/urel/phonebook.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonebookservices.exe	build	armv5_urel
+/epoc32/release/armv5/urel/phonebookservices.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheclient2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheclient2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheqt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheqt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheserver2.exe	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheserver2.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presencecacheutils.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/btaccesshost.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntactionsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntactionsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntcommonui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntcommonui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntfindplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cnthistorymodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cnthistorymodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntimageutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntimageutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntlistmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntlistmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntsimutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntsimutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntsortplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/contactwidgethsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/contactwidgethsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pbapcli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pbapcli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pbaplogeng.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pbaplogeng.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phbksyncplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phbksyncsvr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phbksyncsvr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phbksyncsvrexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonebook.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonebookservices.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheclient2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheclient2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheqt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheqt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheserver2.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presencecacheutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/phonebook_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/phonebookservices_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.manifest	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.xml	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C353/qtg_large_friend.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/phonebook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/phonebookservices.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/phonebook.docml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/phonebook.splashml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/cntfindplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cntsortplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/phbksyncplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/btaccesshost.exe	build	winscw_urel
+/epoc32/release/winscw/urel/btaccesshost.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntactionsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntactionsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntcommonui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntcommonui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntfindplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntfindplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cnthistorymodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cnthistorymodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntimageutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntimageutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntlistmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntlistmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntsimutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntsimutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntsortplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntsortplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/contactwidgethsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/contactwidgethsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pbapcli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pbapcli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pbaplogeng.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pbaplogeng.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phbksyncplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phbksyncplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phbksyncsvr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/phbksyncsvr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phbksyncsvrexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/phbksyncsvrexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonebook.exe	build	winscw_urel
+/epoc32/release/winscw/urel/phonebook.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonebookservices.exe	build	winscw_urel
+/epoc32/release/winscw/urel/phonebookservices.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheclient2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheclient2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheqt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheqt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheserver2.exe	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheserver2.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presencecacheutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/phonebook_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/phonebookservices_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.manifest	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C353/contactwidgethsplugin.xml	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C353/qtg_large_friend.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/phonebook.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/phonebookservices.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cntfindplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cntsortplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/phbksyncplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/contacts.confml	export	
+/epoc32/rom/config/assets/s60/implml/contacts_2002FF54.crml	export	
+/epoc32/rom/config/assets/s60/implml/contacts_200315A8.crml	export	
+/epoc32/rom/include/core/app/contactwidgeths.iby	export	
+/epoc32/rom/include/core/app/phonebook.iby	export	
+/epoc32/rom/include/core/app/phonebookservices.iby	export	
+/epoc32/rom/include/core/app/presencecache.iby	export	
+/epoc32/rom/include/core/app/presencecacheqt.iby	export	
+/epoc32/rom/include/language/app/contactwidgeths_resources.iby	export	
+/epoc32/rom/include/language/app/phonebookresources.iby	export	
+/epoc32/rom/include/pbap.iby	export	
+/epoc32/rom/include/phbksync.iby	export	

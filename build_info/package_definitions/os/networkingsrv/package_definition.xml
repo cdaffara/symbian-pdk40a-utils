@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="networkingsrv" level="services" levels="adaptation hw-if plugin framework server app-if" long-name="Networking Services">
+<collection name="esockapiextensions" long-name="ESock API Extensions" level="app-if">
+<component name="internetsockets" long-name="Internet Sockets" introduced="ER5" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/esockapiextensions/internetsockets/group" mrp="/sf/os/networkingsrv/esockapiextensions/internetsockets/group/networking_insock.mrp"/>
+</component>
+</collection>
+<collection name="tcpiputils" long-name="TCP/IP Utilities" level="plugin">
+<component name="dnd" long-name="DND" introduced="7.0" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/tcpiputils/dnd/group" mrp="/sf/os/networkingsrv/tcpiputils/dnd/group/networking_dnd.mrp"/>
+</component>
+<component name="dhcp" long-name="DHCP" introduced="8.0" purpose="optional">
+<unit bldFile="/sf/os/networkingsrv/tcpiputils/dhcp/group" mrp="/sf/os/networkingsrv/tcpiputils/dhcp/group/networking_dhcp.mrp"/>
+</component>
+<component name="networkaddressandporttranslation" long-name="Network Address and Port Translation" introduced="^2" purpose="mandatory" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/tcpiputils/networkaddressandporttranslation/group" mrp="/sf/os/networkingsrv/tcpiputils/networkaddressandporttranslation/group/networking_napt.mrp"/>
+</component>
+<component name="punycodeconv" long-name="Punycode Converter" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/tcpiputils/punycodeconv/group" mrp="/sf/os/networkingsrv/tcpiputils/punycodeconv/group/networking_punycodeconverter.mrp"/>
+</component>
+</collection>
+<collection name="linklayercontrol" long-name="Link Layer Control" level="hw-if">
+<component name="nullagt" long-name="NULL AGT" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/linklayercontrol/nullagt/group" mrp="/sf/os/networkingsrv/linklayercontrol/nullagt/group/networking_nullagt.mrp"/>
+</component>
+<component name="genericscprparameters" long-name="Generic SCPR Parameters" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/networkingsrv/linklayercontrol/genericscprparameters/group" mrp="/sf/os/networkingsrv/linklayercontrol/genericscprparameters/group/networking_genericscprparams.mrp"/>
+</component>
+<component name="mbmsparameters" long-name="MBMS Parameters" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/linklayercontrol/mbmsparameters/group" mrp="/sf/os/networkingsrv/linklayercontrol/mbmsparameters/group/networking_mbmsparams.mrp"/>
+</component>
+<component name="networkinterfacemgr" long-name="Network Interface Manager" introduced="ER5U" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/linklayercontrol/networkinterfacemgr/group" mrp="/sf/os/networkingsrv/linklayercontrol/networkinterfacemgr/group/comms-infras_nifman.mrp" version="2"/>
+</component>
+</collection>
+<collection name="linklayerprotocols" long-name="Link Layer Protocols" level="hw-if">
+<component name="ethernetnif" long-name="Ethernet NIF" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/linklayerprotocols/ethernetnif/group" mrp="/sf/os/networkingsrv/linklayerprotocols/ethernetnif/group/networking_ether802.mrp"/>
+</component>
+<component name="pppnif" long-name="PPP NIF" introduced="ER5" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/linklayerprotocols/pppnif/group" mrp="/sf/os/networkingsrv/linklayerprotocols/pppnif/group/networking_ppp.mrp" version="2"/>
+</component>
+<component name="slipnif" long-name="SLIP NIF" purpose="development" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/linklayerprotocols/slipnif/group" mrp="/sf/os/networkingsrv/linklayerprotocols/slipnif/group/networking_slip.mrp"/>
+</component>
+<component name="tunnelnif" long-name="Tunnel NIF" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/linklayerprotocols/tunnelnif/group" mrp="/sf/os/networkingsrv/linklayerprotocols/tunnelnif/group/networking_tunnelnif.mrp"/>
+</component>
+</collection>
+<collection name="linklayerutils" long-name="Link Layer Utilities" level="hw-if">
+<component name="packetlogger" long-name="Packet Logger" introduced="8.1" purpose="development">
+<unit bldFile="/sf/os/networkingsrv/linklayerutils/packetlogger/group" mrp="/sf/os/networkingsrv/linklayerutils/packetlogger/group/networking_packetlogger.mrp"/>
+</component>
+</collection>
+<collection name="networkcontrol" long-name="Network Control" level="plugin">
+<component name="qoslib" long-name="QoS Library" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/networkingsrv/networkcontrol/qoslib/group" mrp="/sf/os/networkingsrv/networkcontrol/qoslib/group/networking_qoslib.mrp"/>
+</component>
+<component name="pfqoslib" long-name="PF QoS Library" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/networkingsrv/networkcontrol/pfqoslib/group" mrp="/sf/os/networkingsrv/networkcontrol/pfqoslib/group/networking_pfqoslib.mrp"/>
+</component>
+<component name="qosfwprt" long-name="QoS Framework PRT" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/networkcontrol/qosfwconfig/qos/group" mrp="/sf/os/networkingsrv/networkcontrol/qosfwconfig/qos/group/networking_qos.mrp"/>
+</component>
+<component name="qosipscpr" long-name="QoS IP SCPR" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/networkcontrol/qosipscpr/group" mrp="/sf/os/networkingsrv/networkcontrol/qosipscpr/group/networking_qosipscpr.mrp"/>
+</component>
+<component name="ipnetworklayer" long-name="IP Network Layer" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/networkcontrol/ipnetworklayer/group" mrp="/sf/os/networkingsrv/networkcontrol/ipnetworklayer/group/networking_ipproto.mrp"/>
+</component>
+<component name="iptransportlayer" long-name="IP Transport Layer" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/networkcontrol/iptransportlayer/group" mrp="/sf/os/networkingsrv/networkcontrol/iptransportlayer/group/networking_iptransport.mrp"/>
+</component>
+<component name="commsuserpromptmgr" long-name="Comms User Prompt Manager" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/networkcontrol/commsuserpromptmgr/group" mrp="/sf/os/networkingsrv/networkcontrol/commsuserpromptmgr/group/networking_netups.mrp"/>
+</component>
+</collection>
+<collection name="networkprotocols" long-name="Network Protocols" level="plugin">
+<component name="ipeventnotifier" long-name="IP Event Notifier" introduced="8.1" purpose="mandatory" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/networkprotocols/ipeventnotifier/group" mrp="/sf/os/networkingsrv/networkprotocols/ipeventnotifier/group/networking_ipeventnotifier.mrp"/>
+</component>
+<component name="tcpipv4v6prt" long-name="TCP/IPv4/v6 PRT" introduced="7.0" purpose="mandatory" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/networkprotocols/tcpipv4v6prt/group" mrp="/sf/os/networkingsrv/networkprotocols/tcpipv4v6prt/group/networking_tcpip6.mrp"/>
+</component>
+<component name="iphook" long-name="IP Hook" introduced="7.0" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/networkprotocols/iphook/inhook6/group" mrp="/sf/os/networkingsrv/networkprotocols/iphook/inhook6/group/networking_inhook6.mrp"/>
+</component>
+<component name="mobileip" long-name="Mobile IP" introduced="8.1" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/networkprotocols/mobileip/group" mrp="/sf/os/networkingsrv/networkprotocols/mobileip/group/networking_mobileip.mrp"/>
+</component>
+<component name="dnsproxy" long-name="DNS Proxy" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/networkingsrv/networkprotocols/dnsproxy/group" mrp="/sf/os/networkingsrv/networkprotocols/dnsproxy/group/networking_dnsproxy.mrp"/>
+</component>
+</collection>
+<collection name="networksecurity" long-name="Network Security" level="framework">
+<component name="tls" long-name="TLS" introduced="6.0" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/networksecurity/tls/group" mrp="/sf/os/networkingsrv/networksecurity/tls/group/networking_tls.mrp"/>
+</component>
+<component name="tlsprovider" long-name="TLS Provider" introduced="8.1" purpose="mandatory">
+<unit bldFile="/sf/os/networkingsrv/networksecurity/tlsprovider/group" mrp="/sf/os/networkingsrv/networksecurity/tlsprovider/group/security_tlsprovider.mrp"/>
+</component>
+<component name="ipsec" long-name="IPsec" introduced="7.0" purpose="optional">
+<unit bldFile="/sf/os/networkingsrv/networksecurity/ipsec/group" mrp="/sf/os/networkingsrv/networksecurity/ipsec/group/networking_ipsec.mrp"/>
+</component>
+</collection>
+<collection name="networkingtestandutils" long-name="Networking Test and Utils" level="app-if">
+<component name="networkingexamples" long-name="Networking Examples" introduced="7.0" purpose="development">
+<unit bldFile="/sf/os/networkingsrv/networkingtestandutils/networkingexamples/examplecode/group" mrp="/sf/os/networkingsrv/networkingtestandutils/networkingexamples/examplecode/group/networking_examplecode.mrp"/>
+</component>
+</collection>
+<collection name="networkingsrv_info" long-name="Networking Services Info" level="app-if">
+<component name="networkingrom" long-name="Networking ROM" purpose="mandatory">
+<!--  production component: contains the IBY files -->
+<unit bldFile="/sf/os/networkingsrv/networkingsrv_info/networkingrom/group" mrp="/sf/os/networkingsrv/networkingsrv_info/networkingrom/group/networking_general.mrp"/>
+</component>
+<component name="networkingdocs" long-name="Networking Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/networkingsrv/networkingsrv_info/networkingdocs/networking_documentation.mrp"/>
+</component>
+<component name="networkingsrv_metadata" long-name="Networking Services Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/networkingsrv/networkingsrv_info/networkingsrv_metadata/networkingsrv_metadata.mrp"/>
+</component>
+</collection>
+<collection name="pppcompressionplugins" long-name="PPP Compression Plugins" level="plugin">
+<component name="predictorcompression" long-name="Predictor Compression" introduced="6.0" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/networkingsrv/pppcompressionplugins/predictorcompression/group" mrp="/sf/os/networkingsrv/pppcompressionplugins/predictorcompression/group/networking_predcomp.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

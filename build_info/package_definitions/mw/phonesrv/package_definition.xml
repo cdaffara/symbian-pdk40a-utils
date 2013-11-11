@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="phonesrv" level="specific" levels="utils framework server ui specific" long-name="Telephony and SIM Services">
+<collection name="phonesrv_plat" long-name="Telephony and SIM Services Platform Interfaces" level="specific">
+<component name="string_parser_api" long-name="String Parser API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/string_parser_api/group"/>
+</component>
+<component name="cbs_mcn_client_api" long-name="CBS MCN Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/cbs_mcn_client_api/group"/>
+</component>
+<component name="converged_call_engine_api" long-name="Converged Call Engine API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/converged_call_engine_api/group"/>
+</component>
+<component name="aiw_dial_data_consumer_api" long-name="AIW Dial Data Consumer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/aiw_dial_data_consumer_api/group"/>
+</component>
+<component name="phone_client_ussd_api" long-name="Phone Client USSD API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_ussd_api/group"/>
+</component>
+<component name="sat_refresh_api" long-name="SAT Refresh API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/sat_refresh_api/group" filter="!test"/>
+</component>
+<component name="network_handling_engine_api" long-name="Network Handling Engine API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/network_handling_engine_api/group"/>
+</component>
+<component name="phone_client_emergency_call_api" long-name="Phone Client Emergency Call API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_emergency_call_api/group"/>
+</component>
+<component name="sat_configuration_api" long-name="SAT Configuration API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/sat_configuration_api/group"/>
+</component>
+<component name="dial_utils_api" long-name="Dial Utils API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/dial_utils_api/group"/>
+</component>
+<component name="phone_client_image_handler_api" long-name="Phone Client Image Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_image_handler_api/group"/>
+</component>
+<component name="phone_client_messenger_api" long-name="Phone Client Messenger API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_messenger_api/group"/>
+</component>
+<component name="sat_client_api" long-name="SAT Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/sat_client_api/group" filter="!test"/>
+</component>
+<component name="phone_client_api" long-name="Phone Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_api/group"/>
+</component>
+<component name="sat_service_api" long-name="SAT Service API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/sat_service_api/group" filter="!test"/>
+</component>
+<component name="cbs_message_api" long-name="CBS Message API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/cbs_message_api/group"/>
+</component>
+<component name="phone_client_server_information_api" long-name="Phone Client Server Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_server_information_api/group"/>
+</component>
+<component name="phone_client_ussd_internal_api" long-name="Phone Client USSD Internal API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_ussd_internal_api/group"/>
+</component>
+<component name="phone_client_command_handler_api" long-name="Phone Client Command Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_command_handler_api/group"/>
+</component>
+<component name="phone_client_notify_api" long-name="Phone Client Notify API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_notify_api/group"/>
+</component>
+<component name="phone_client_utility_api" long-name="Phone Client Utility API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_client_utility_api/group"/>
+</component>
+<component name="telephony_network_information_api" long-name="Telephony Network Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/telephony_network_information_api/group"/>
+</component>
+<component name="secondary_display_sat_api" long-name="Secondary Display SAT API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/secondary_display_sat_api/group"/>
+</component>
+<component name="callui_reconnect_query_api" long-name="CallUI Reconnect Query API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/callui_reconnect_query_api/group"/>
+</component>
+<component name="service_provider_settings_api" long-name="Service Provider Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/service_provider_settings_api/group"/>
+</component>
+<component name="converged_call_provider_api" long-name="Converged Call Provider API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/converged_call_provider_api/group"/>
+</component>
+<component name="incoming_call_monitor_api" long-name="Incoming Call Monitor API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/incoming_call_monitor_api/group"/>
+</component>
+<component name="default_emergency_numbers_api" long-name="Default Emergency Numbers API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/default_emergency_numbers_api/group"/>
+</component>
+<component name="cenrep_database_api" long-name="Central Repository Database API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/cenrep_database_api/group"/>
+</component>
+<component name="ss_settings_api" long-name="SS Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/ss_settings_api/group"/>
+</component>
+<component name="phone_settings_observer_api" long-name="Phone Settings Observer API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_settings_observer_api/group"/>
+</component>
+<component name="phone_settings_notes_ui_api" long-name="Phone Settings Notes UI API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_settings_notes_ui_api/group"/>
+</component>
+<component name="phone_settings_api" long-name="Phone Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_settings_api/group"/>
+</component>
+<component name="voice_mailbox_number_api" long-name="Voice Mailbox Number API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/voice_mailbox_number_api/group"/>
+</component>
+<component name="voice_mailbox_settings_api" long-name="Voice Mailbox Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/voice_mailbox_settings_api/group"/>
+</component>
+<component name="call_information_api" long-name="Call Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/call_information_api/group" filter="!test"/>
+</component>
+<component name="call_remote_party_information_api" long-name="Call Remote Party Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/call_remote_party_information_api/group" filter="!test"/>
+</component>
+<component name="telephony_mediator_api" long-name="Telephony Mediator API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/telephony_mediator_api/group" filter="!test"/>
+</component>
+<component name="dialpad_api" long-name="Dialpad API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/dialpad_api/group"/>
+</component>
+<component name="phone_settings_ui_notes_api" long-name="Phone Settings UI Notes API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/phonesrv/phonesrv_plat/phone_settings_ui_notes_api/group"/>
+</component>
+</collection>
+<collection name="telutils" long-name="Telephony Utils" level="utils">
+<component name="phoneparser" long-name="Phone Parser" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/telutils/phoneparser/group"/>
+</component>
+<component name="telephonyservice" long-name="Telephony Service" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/telutils/telephonyservice/group"/>
+</component>
+<component name="xqtelephonyservice" long-name="X Qt Telephony Service" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/telutils/xqtelephonyservice" proFile="xqtelephonyservice.pro"/>
+</component>
+<component name="dialpad" long-name="Dial Pad" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/telutils/dialpad" proFile="dialpad.pro"/>
+</component>
+<component name="keysequencerecognitionservice" long-name="Key Sequence Recognition Service" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/telutils/keysequencerecognitionservice" proFile="keysequencerecognitionservice.pro"/>
+</component>
+</collection>
+<collection name="cbs" long-name="Cellular Baseband Services" level="utils">
+<component name="cbsserver" long-name="CBS Server" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/cbs/cbsserver/group"/>
+</component>
+</collection>
+<collection name="cellular" long-name="Cellular" level="server">
+<component name="telephonysettings" long-name="Telephony Settings" filter="s60" purpose="development">
+<unit bldFile="/sf/mw/phonesrv/cellular/telephonysettings/group" filter="!test"/>
+</component>
+<component name="psetwrapper" long-name="Provider Settings Wrapper" introduced="^4" filter="s60" purpose="optional">
+<!-- need to move to own component, not under sssettings -->
+<unit bldFile="/sf/mw/phonesrv/cellular/telephonysettings/xqbindings/psetwrapper" proFile="psetwrapper.pro"/>
+</component>
+<component name="sssettings" long-name="Supplementary Service Settings" filter="s60" purpose="development">
+<unit bldFile="/sf/mw/phonesrv/cellular/sssettings/group" filter="!test"/>
+</component>
+<component name="sssettingswrapper" long-name="Supplementary Service Settings Wrapper" introduced="^4" filter="s60" purpose="optional">
+<!-- need to move to own component, not under sssettings -->
+<unit bldFile="/sf/mw/phonesrv/cellular/sssettings/xqbindings/sssettingswrapper" proFile="sssettingswrapper.pro"/>
+</component>
+<component name="psetnotesui" long-name="Phone Settings Notes UI" filter="s60" purpose="development">
+<unit bldFile="/sf/mw/phonesrv/cellular/psetnotesui/group" filter="!test"/>
+</component>
+<component name="psuinotes" long-name="Phone Settings Notes UI" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/cellular/psuinotes" proFile="psuinotes.pro"/>
+</component>
+<component name="servicerequest" long-name="Service Request" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/cellular/servicerequest/group"/>
+</component>
+</collection>
+<collection name="convergedcallengine" long-name="Converged Call Engine" level="framework">
+<component name="callprovider" long-name="Call Provider" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/convergedcallengine/callprovider/group"/>
+</component>
+<component name="cce" long-name="CCE" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/convergedcallengine/cce/group" filter="!test"/>
+</component>
+<component name="spsettings" long-name="Service Provider Settings" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/convergedcallengine/spsettings/group" filter="!test"/>
+</component>
+<component name="cenrepdatabase" long-name="CCE Cenrep Database" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/convergedcallengine/cenrepdatabase/group"/>
+</component>
+<component name="serviceselector" long-name="Service Selector" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/convergedcallengine/serviceselector/group"/>
+</component>
+</collection>
+<collection name="networkhandling" long-name="Network Handling" level="framework">
+<component name="networkhandlingengine" long-name="Network Handling Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/networkhandling/networkhandlingengine/group"/>
+</component>
+</collection>
+<collection name="phoneclientserver" long-name="Phone Client/Server" level="server">
+<component name="enpolicy" long-name="Emergency Number Policy" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/phoneclientserver/enpolicy/group"/>
+</component>
+<component name="aiwdialdata" long-name="AIW Dial Data" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/phoneclientserver/aiwdialdata/group" filter="!test"/>
+</component>
+<component name="dialutils" long-name="Dial Utils" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/phoneclientserver/dialutils/group" filter="!test"/>
+</component>
+<component name="phoneclient" long-name="Phone Client" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/phoneclientserver/phoneclient/group" filter="!test"/>
+</component>
+<component name="phoneserver" long-name="Phone Server" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/phoneclientserver/phoneserver/group"/>
+</component>
+</collection>
+<collection name="phonecmdhandler" long-name="Phone Command Handler" level="generic">
+<component name="phonecmdhnlr" long-name="Phone Command Handler" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/phonecmdhandler/phonecmdhnlr/group"/>
+</component>
+</collection>
+<collection name="satengine" long-name="SAT Engine" level="server">
+<component name="satserver" long-name="SAT Server" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/satengine/satserver/group"/>
+</component>
+</collection>
+<collection name="satui" long-name="SAT UI" level="ui">
+<component name="satshellcontroller" long-name="SAT Shell Controller" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/satui/satshellcontroller/group"/>
+</component>
+<component name="satapp" long-name="SAT Application" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/satui/satapp" proFile="satapp.pro"/>
+</component>
+</collection>
+<collection name="vmbx" long-name="Voice Mailbox" level="ui">
+<component name="vmbxcpplugin" long-name="Voice Mailbox CP Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/phonesrv/vmbx/vmbxcpplugin" proFile="vmbxcpplugin.pro"/>
+</component>
+<component name="vmbxengine" long-name="Voice Mailbox Engine" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/phonesrv/vmbx/vmbxengine" proFile="vmbxengine.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

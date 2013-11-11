@@ -1,0 +1,201 @@
+/epoc32/include/assp/omap3530_assp/CyAsSymbianStorageDriver.h	export	
+/epoc32/include/assp/omap3530_assp/assp.mmh	export	
+/epoc32/include/assp/omap3530_assp/eabi/usbv.def	export	
+/epoc32/include/assp/omap3530_assp/gpio.h	export	
+/epoc32/include/assp/omap3530_assp/locks.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_assp_priv.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_asspreg.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_gpio.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_hardware_base.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_i2c.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_i2creg.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_irqmap.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_ktrace.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_prcm.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_timer.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_uart.h	export	
+/epoc32/include/assp/omap3530_assp/omap3530_usbc.h	export	
+/epoc32/include/assp/omap3530_shared/omap3_mstick.h	export	
+/epoc32/include/assp/omap3530_shared/tps65950.h	export	
+/epoc32/include/assp/omap3530_shared/tps65950_registers.h	export	
+/epoc32/include/beagle/beagle_gpio.h	export	
+/epoc32/include/beagle/iolines.h	export	
+/epoc32/include/beagle/mconf.h	export	
+/epoc32/include/beagle/variant.h	export	
+/epoc32/include/beagle/variant.mmh	export	
+/epoc32/include/beagle/variantmediadef.h	export	
+/epoc32/release/armv5/_beagle_bootrom.bin	build	armv5_udeb
+/epoc32/release/armv5/_beagle_bootrom.bin	build	armv5_urel
+/epoc32/release/armv5/lib/_beagle_ecust.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_beagle_ecust.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_beagle_ecust{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_beagle_ecust{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_gpio.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_gpio.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_gpio{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_gpio{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_i2c.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_i2c.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_i2c{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_i2c{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_kaomap3530.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_kaomap3530.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_kaomap3530{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_kaomap3530{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_prcm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_prcm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_prcm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_prcm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_uart.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_uart.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_uart{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_uart{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_usbv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_usbv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3530_usbv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3530_usbv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3XXX_mstick.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3XXX_mstick.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_omap3XXX_mstick{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_omap3XXX_mstick{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tps65950.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tps65950.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tps65950{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tps65950{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/_beagle_ecust.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_ecust.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_ekdata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_ekdata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_hal.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_hal.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_lcd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_lcd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_lcd_gce.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_lcd_gce.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_led.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_led.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_medint.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_medint.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_medstaticrd.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_medstaticrd.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_medwb.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_medwb.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_serialmouse.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_serialmouse.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_serialmouse_tshell.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_serialmouse_tshell.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_usbv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_beagle_usbv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_btracex.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_btracex.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_ekern.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_ekern.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_euart.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_euart.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_euser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_euser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_exmoncommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_exmoncommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_exmondebug.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_exmondebug.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_gpio.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_gpio.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_i2c.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_i2c.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_kaomap3530.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_kaomap3530.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_kc_exe.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_prcm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_prcm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_serialkeyboard.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_serialkeyboard.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_serialkeyboard_uisoftkeys.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_serialkeyboard_uisoftkeys.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_uart.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_uart.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_usbcc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3530_usbcc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3XXX_mstick.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omap3XXX_mstick.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tps65950.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tps65950.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/_beagle_ecust.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_ecust.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_ekdata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_ekdata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_hal.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_hal.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_lcd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_lcd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_lcd_gce.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_lcd_gce.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_led.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_led.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_medint.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_medint.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_medstaticrd.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_medstaticrd.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_medwb.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_medwb.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_serialmouse.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_serialmouse.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_serialmouse_tshell.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_serialmouse_tshell.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_usbv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_beagle_usbv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_btracex.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_btracex.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_ekern.exe	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_ekern.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_euart.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_euart.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_euser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_euser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_exmoncommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_exmoncommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_exmondebug.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_exmondebug.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_gpio.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_gpio.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_i2c.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_i2c.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_kaomap3530.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_kaomap3530.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_kc_exe.lib	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_prcm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_prcm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_serialkeyboard.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_serialkeyboard.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_serialkeyboard_uisoftkeys.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_serialkeyboard_uisoftkeys.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_uart.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_uart.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_usbcc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3530_usbcc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3XXX_mstick.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omap3XXX_mstick.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tps65950.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tps65950.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wb.dll.map	build	armv5_urel
+/epoc32/rom/beagle/beagle_tshell_ARMV5_udeb_ROMBUILD.LOG	build	armv5_udeb
+/epoc32/rom/beagle/beagle_tshell_ARMV5_udeb_rom.oby	build	armv5_udeb
+/epoc32/rom/beagle/beagle_tshell_ARMV5_urel_ROMBUILD.LOG	build	armv5_urel
+/epoc32/rom/beagle/beagle_tshell_ARMV5_urel_rom.oby	build	armv5_urel
+/epoc32/rom/beagle/estart.txt	export	
+/epoc32/rom/beagle/header.iby	export	
+/epoc32/rom/beagle/kernel.iby	export	
+/epoc32/rom/beagle/test.iby	export	
+/epoc32/rom/beagle_tshell_ARMV5_udeb.img	build	armv5_udeb
+/epoc32/rom/beagle_tshell_ARMV5_urel.img	build	armv5_urel
+/epoc32/rom/include/base_beagle.iby	export	
+/epoc32/rom/include/beagle.oby	export	
+/epoc32/rom/omapshared/mstick.iby	export	
+/epoc32/rom/omapshared/tps65950.iby	export	
+/nvmemory/drive_c.img	export	

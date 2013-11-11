@@ -1,0 +1,499 @@
+/epoc32/data/z/private/10003a3f/apps/peninputserver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/peninputserver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202be9/10009793.txt	export	
+/epoc32/data/z/private/10202be9/10272618.txt	export	
+/epoc32/data/z/private/10202be9/10272619.txt	export	
+/epoc32/data/z/resource/apps/aknfepuictrls.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/peninputserver.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/peninputserver.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/peninputserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/peninputserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/fep/aknfep.r01	resource	armv5_urel
+/epoc32/data/z/resource/fep/aknfep.r01	resource	winscw_udeb
+/epoc32/data/z/resource/fep/aknfep.rsc	resource	armv5_urel
+/epoc32/data/z/resource/fep/aknfep.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/2000b5e7.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/2000b5e7.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/avkonfep.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/avkonfep.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_01.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_02.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_03.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_04.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_05.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_06.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_07.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_08.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_09.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_102.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_103.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_13.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_14.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_15.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_16.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_17.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_18.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_25.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_26.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_27.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_28.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_29.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_30.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_31.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_33.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_37.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_39.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_42.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_44.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_45.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_49.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_50.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_54.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_57.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_58.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_59.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_65.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_67.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_68.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_70.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_72.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_78.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_79.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_93.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_94.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptikeymappings_itut_96.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/ptiengine.rsc	resource	armv5_urel
+/epoc32/data/z/resource/ptiengine.rsc	resource	winscw_udeb
+/epoc32/include/2000b5e7.rsg	resource	armv5_urel
+/epoc32/include/2000b5e7.rsg	resource	winscw_udeb
+/epoc32/include/aknfep.rsg	resource	armv5_urel
+/epoc32/include/aknfep.rsg	resource	winscw_udeb
+/epoc32/include/aknfepuictrls.mbg	bitmap	armv5_urel
+/epoc32/include/aknfepuictrls.mbg	bitmap	winscw_udeb
+/epoc32/include/mw/AknInputLanguageInfo.h	export	
+/epoc32/include/mw/PtiCompositionDataIF.h	export	
+/epoc32/include/mw/PtiCore.h	export	
+/epoc32/include/mw/PtiDefs.h	export	
+/epoc32/include/mw/PtiDefs.inl	export	
+/epoc32/include/mw/PtiEngine.h	export	
+/epoc32/include/mw/PtiKeyMappings.h	export	
+/epoc32/include/mw/PtiLanguage.h	export	
+/epoc32/include/mw/PtiLanguage.inl	export	
+/epoc32/include/mw/PtiLanguageDatabase.h	export	
+/epoc32/include/mw/PtiObserver.h	export	
+/epoc32/include/mw/PtiUids.hrh	export	
+/epoc32/include/mw/PtiUserDicEntry.h	export	
+/epoc32/include/mw/PtiUserDicEntry.inl	export	
+/epoc32/include/mw/PtiUserDictionary.h	export	
+/epoc32/include/mw/PtiUserDictionary.inl	export	
+/epoc32/include/mw/fepbase.h	export	
+/epoc32/include/mw/fepbconfig.h	export	
+/epoc32/include/mw/fepbutils.h	export	
+/epoc32/include/mw/ocrcommon.h	export	
+/epoc32/include/mw/ocrsrv.h	export	
+/epoc32/include/peninputserver.rsg	resource	armv5_urel
+/epoc32/include/peninputserver.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/AknFepGlobalEnums.h	export	
+/epoc32/include/platform/mw/AknFepInternalCRKeys.h	export	
+/epoc32/include/platform/mw/AknFepInternalPSKeys.h	export	
+/epoc32/include/platform/mw/PtiHwrRecognizer.h	export	
+/epoc32/include/platform/mw/PtiIndicDefs.h	export	
+/epoc32/include/platform/mw/PtiKeyMapData.h	export	
+/epoc32/include/platform/mw/PtiKeyboardDatabase.h	export	
+/epoc32/include/platform/mw/PtiMHwrRecognizer.h	export	
+/epoc32/include/platform/mw/aknfeppeninputenums.h	export	
+/epoc32/include/platform/mw/aknfeppensupportinterface.h	export	
+/epoc32/include/platform/mw/aknfepuiinterface.h	export	
+/epoc32/include/platform/mw/aknfepuimenus.h	export	
+/epoc32/include/platform/mw/fepbpanic.h	export	
+/epoc32/include/platform/mw/peninputclient.h	export	
+/epoc32/include/platform/mw/peninputcmd.h	export	
+/epoc32/include/platform/mw/peninputcmdparam.h	export	
+/epoc32/include/platform/mw/peninputgenericitutcustomization.h	export	
+/epoc32/include/platform/mw/peninputserverhandler.h	export	
+/epoc32/include/platform/mw/peninputsrveventhandler.h	export	
+/epoc32/include/ptiengine.rsg	resource	armv5_urel
+/epoc32/include/ptiengine.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/PtiEngine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/PtiEngine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/PtiEngine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/PtiEngine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknfepuiinterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknfepuiinterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknfepuiinterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknfepuiinterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akninputlanguage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akninputlanguage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/akninputlanguage{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/akninputlanguage{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fepbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fepbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fepbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fepbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peninputClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peninputClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peninputClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peninputClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peninputlayouteng.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peninputlayouteng.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peninputlayouteng{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peninputlayouteng{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peninputlayoutinterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peninputlayoutinterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/peninputlayoutinterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/peninputlayoutinterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/2000B5E7.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/2000B5E7.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PtiEngine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PtiEngine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknfepuiinterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknfepuiinterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/akninputlanguage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/akninputlanguage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avkonfep.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avkonfep.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fepbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fepbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputanim.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputanim.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputlayouteng.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputlayouteng.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputlayoutinterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputlayoutinterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/peninputserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/2000B5E7.dll	build	armv5_urel
+/epoc32/release/armv5/urel/2000B5E7.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PtiEngine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PtiEngine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknfepuiinterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknfepuiinterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/akninputlanguage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/akninputlanguage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avkonfep.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avkonfep.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fepbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fepbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/peninputClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/peninputClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/peninputanim.dll	build	armv5_urel
+/epoc32/release/armv5/urel/peninputanim.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/peninputlayouteng.dll	build	armv5_urel
+/epoc32/release/armv5/urel/peninputlayouteng.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/peninputlayoutinterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/peninputlayoutinterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/peninputserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/peninputserver.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/2000B5E7.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiEngine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiEngine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_01.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_02.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_03.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_04.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_05.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_06.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_07.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_08.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_09.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_102.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_103.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_13.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_14.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_15.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_16.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_17.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_18.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_25.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_26.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_27.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_28.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_29.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_30.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_31.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_33.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_37.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_39.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_42.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_44.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_45.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_49.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_50.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_54.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_57.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_58.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_59.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_65.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_67.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_68.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_70.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_72.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_78.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_79.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_93.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_94.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PtiKeymappings_ITUT_96.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknfepuiinterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknfepuiinterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/akninputlanguage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/akninputlanguage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avkonfep.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fepbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fepbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputanim.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputlayouteng.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputlayouteng.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputlayoutinterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputlayoutinterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/peninputserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/peninputserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202be9/10009793.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10272618.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10272619.txt	export	
+/epoc32/release/winscw/udeb/z/resource/apps/aknfepuictrls.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/peninputserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/peninputserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/fep/aknfep.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/fep/aknfep.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/2000b5e7.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/avkonfep.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_01.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_02.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_03.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_04.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_05.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_06.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_07.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_08.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_09.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_102.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_103.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_13.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_14.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_15.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_16.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_17.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_18.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_25.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_26.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_27.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_28.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_29.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_30.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_31.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_33.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_37.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_39.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_42.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_44.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_45.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_49.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_50.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_54.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_57.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_58.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_59.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_65.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_67.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_68.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_70.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_72.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_78.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_79.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_93.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_94.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptikeymappings_itut_96.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/ptiengine.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/2000B5E7.dll	build	winscw_urel
+/epoc32/release/winscw/urel/2000B5E7.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiEngine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiEngine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_01.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_01.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_02.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_02.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_03.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_03.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_04.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_04.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_05.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_05.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_06.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_06.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_07.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_07.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_08.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_08.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_09.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_09.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_102.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_102.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_103.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_103.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_13.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_13.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_14.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_14.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_15.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_15.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_16.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_16.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_17.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_17.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_18.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_18.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_25.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_25.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_26.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_26.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_27.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_27.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_28.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_28.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_29.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_29.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_30.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_30.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_31.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_31.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_33.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_33.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_37.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_37.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_39.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_39.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_42.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_42.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_44.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_44.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_45.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_45.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_49.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_49.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_50.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_50.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_54.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_54.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_57.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_57.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_58.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_58.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_59.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_59.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_65.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_65.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_67.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_67.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_68.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_68.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_70.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_70.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_72.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_72.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_78.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_78.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_79.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_79.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_93.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_93.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_94.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_94.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_96.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PtiKeymappings_ITUT_96.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknfepuiinterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknfepuiinterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/akninputlanguage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/akninputlanguage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avkonfep.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avkonfep.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fepbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fepbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/peninputClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/peninputClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/peninputanim.dll	build	winscw_urel
+/epoc32/release/winscw/urel/peninputanim.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/peninputlayouteng.dll	build	winscw_urel
+/epoc32/release/winscw/urel/peninputlayouteng.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/peninputlayoutinterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/peninputlayoutinterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/peninputserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/peninputserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/peninputserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10202be9/10009793.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10272618.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10272619.txt	export	
+/epoc32/release/winscw/urel/z/resource/apps/aknfepuictrls.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/peninputserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/peninputserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/fep/aknfep.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/fep/aknfep.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/2000b5e7.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/avkonfep.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_01.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_02.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_03.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_04.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_05.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_06.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_07.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_08.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_09.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_102.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_103.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_13.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_14.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_15.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_16.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_17.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_18.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_25.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_26.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_27.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_28.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_29.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_30.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_31.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_33.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_37.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_39.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_42.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_44.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_45.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_49.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_50.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_54.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_57.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_58.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_59.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_65.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_67.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_68.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_70.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_72.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_78.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_79.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_93.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_94.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptikeymappings_itut_96.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/ptiengine.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/japan/confml/aknfep_japan.confml	export	
+/epoc32/rom/config/assets/s60/confml/aknfep.confml	export	
+/epoc32/rom/config/assets/s60/implml/aknfep_101F876D.crml	export	
+/epoc32/rom/config/assets/thai/confml/aknfep_thai.confml	export	
+/epoc32/rom/include/core/mw/PtiEngine.iby	export	
+/epoc32/rom/include/core/mw/aknfepuiinterface.iby	export	
+/epoc32/rom/include/core/mw/akninputlanguage.iby	export	
+/epoc32/rom/include/core/mw/peninputarc.iby	export	
+/epoc32/rom/include/customer/mw/aknfep_variant.iby	export	
+/epoc32/rom/include/fepbase.iby	export	
+/epoc32/rom/include/language/mw/aknfepResources.iby	export	
+/sf/mw/inputmethods/inc/aknfeppeninputimeplugin.h	export	
+/sf/mw/inputmethods/inc/peninputcmdparamext.h	export	
+/sf/mw/inputmethods/inc/peninputlayouteng.h	export	
+/sf/mw/inputmethods/inc/peninputlayoutplugininterface.h	export	
+/sf/mw/inputmethods/inc/peninputuilayoutbase.h	export	
+/sf/mw/inputmethods/inc/peninputuilayoutownerinf.h	export	

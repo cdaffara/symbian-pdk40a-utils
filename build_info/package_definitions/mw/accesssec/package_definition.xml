@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="accesssec" level="generic" levels="plugin framework server generic specific" long-name="Access Security">
+<collection name="accesssec_plat" long-name="Access Security Platform Interfaces" level="specific">
+<component name="eap_vpn_api" long-name="EAP VPN API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/accesssec/accesssec_plat/eap_vpn_api/group"/>
+</component>
+<component name="eap_type_api" long-name="EAP Type API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/accesssec/accesssec_plat/eap_type_api/group"/>
+</component>
+<component name="eap_qt_configuration_api" long-name="EAP Qt Configuration API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/accesssec/accesssec_plat" proFile="accesssec_plat.pro"/>
+</component>
+</collection>
+<collection name="securitysettings" long-name="WLAN Security Settings" level="specific">
+<component name="accesssec_qtconfigutils" long-name="Access Security Config Utils" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/accesssec/securitysettings/qtconfigutils" proFile="qtconfigutils.pro"/>
+</component>
+<component name="cpwlansecurityuiplugins" long-name="Control Panel WLAN Security UI Plugins" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/accesssec/securitysettings/cpwlansecurityuiplugins" proFile="cpwlansecurityuiplugins.pro"/>
+</component>
+<component name="cpeapuiplugins" long-name="Control Panel EAP UI Pugins" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/accesssec/securitysettings/cpeapuiplugins" proFile="cpeapuiplugins.pro"/>
+</component>
+<component name="eapqtdialogs" long-name="EAP Qt Dialogs" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/accesssec/securitysettings/eapqtdialogs" proFile="eapqtdialogs.pro"/>
+</component>
+</collection>
+<collection name="eapol" long-name="EAPOL" level="framework">
+<component name="eapol_framework" long-name="EAPOL Framework" introduced="9.2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/accesssec/eapol/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

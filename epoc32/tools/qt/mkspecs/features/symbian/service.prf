@@ -1,0 +1,21 @@
+!exists($$_PRO_FILE_PWD_/$$SERVICE.FILE) {
+    error("Missing service configuration file '$$_PRO_FILE_PWD_/$$SERVICE.FILE'")
+} else {
+    XQSRESOURCE_FILE_TAIL = _reg.rss
+    XQSRESOURCE_FILE = $$TARGET$$XQSRESOURCE_FILE_TAIL
+
+    SERVICE_DETAILS = $$cat( $$_PRO_FILE_PWD_/$$SERVICE.FILE)
+    SERVICE_DETAILS = $$escape_expand($$SERVICE_DETAILS)
+    SERVICE_DETAILS ~= s/\"/\\\"/
+
+    # The below four section will be removed in the nearest future
+    contains (SERVICE.OPTIONS, embeddable) { RSS_RULES *= "embeddability = KAppEmbeddable;" }	
+    contains (SERVICE.OPTIONS, hidden)     { RSS_RULES *= "hidden = KAppIsHidden;" }
+
+    RSS_RULES *= "newfile = KAppDoesNotSupportNewFile;"
+
+    RSS_RULES.header *= "$${LITERAL_HASH}include <xqserviceipcconst.h>"
+    RSS_RULES.header *= "$${LITERAL_HASH}include <eikon.rh>"
+    RSS_RULES.service_list += "uid = KXQServiceUid2; datatype_list = {}; opaque_data = r_service_configuration_reg;"
+    RSS_RULES.footer += "RESOURCE TBUF r_service_configuration_reg " {" buf = \"$$SERVICE_DETAILS\""; " }" 
+}

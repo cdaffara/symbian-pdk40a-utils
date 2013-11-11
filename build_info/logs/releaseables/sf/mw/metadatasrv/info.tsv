@@ -1,0 +1,21 @@
+/epoc32/data/z/system/install/mgfetchstub.SIS	export	
+/epoc32/include/mw/MGFetch.h	export	
+/epoc32/include/mw/MMGFetchCanceler.h	export	
+/epoc32/include/mw/MMGFetchVerifier.h	export	
+/epoc32/include/mw/MediaFileTypes.hrh	export	
+/epoc32/include/platform/mw/mediafetch.hrh	export	
+/epoc32/include/platform/mw/mediafetchimplementation.h	export	
+/epoc32/include/platform/mw/mediafetchimplementation.inl	export	
+/epoc32/release/armv5/lib/MGFetch.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MGFetch.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MGFetch{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MGFetch{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/MGFetch.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MGFetch.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/MGFetch.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MGFetch.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/MGFetch.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MGFetch.lib	build	winscw_udeb
+/epoc32/release/winscw/urel/MGFetch.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MGFetch.dll.map	build	winscw_urel
+/epoc32/rom/include/core/mw/mediafetch.iby	export	

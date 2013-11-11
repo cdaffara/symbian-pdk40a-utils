@@ -1,0 +1,611 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/nmailcpplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/nmail/settings/nmipssettings.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/nmail/uiext/nmimapclientplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/nmail/uiext/nmpopclientplugin.qtplugin	export	
+/epoc32/data/z/private/10003a3f/import/apps/emailstorepreinstall_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/emailstorepreinstall_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/messagestoreexe_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/messagestoreexe_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/nmailagent_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/nmailagent_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/nmailui_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/nmailui_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202BE9/2000E53D.txt	export	
+/epoc32/data/z/private/10202BE9/2002C326.txt	export	
+/epoc32/data/z/private/10202be9/2001E277.txt	export	
+/epoc32/data/z/private/10202be9/2003EA97.txt	export	
+/epoc32/data/z/private/2002AC7F/des/nmhswidget.xml	export	
+/epoc32/data/z/private/2002AC7F/des/nmregister.xml	export	
+/epoc32/data/z/private/2002DD15/nmhswidget.xml	export	
+/epoc32/data/z/private/2002DD16/nmregister.xml	export	
+/epoc32/data/z/resource/apps/aol.svg	export	
+/epoc32/data/z/resource/apps/aol_brand_graphics.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/emailstorepreinstall.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/emailstorepreinstall.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/gmail.svg	export	
+/epoc32/data/z/resource/apps/google_brand_graphics.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/mail_for_exchange_brand_graphics.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/messagestoreexe.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/messagestoreexe.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/microsoft.svg	export	
+/epoc32/data/z/resource/apps/microsoft_brand_graphics.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/nmailagent.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/nmailagent.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/nmailui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/nmailui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/ovi.svg	export	
+/epoc32/data/z/resource/apps/ovi_brand_graphics.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/yahoo.svg	export	
+/epoc32/data/z/resource/apps/yahoo_brand_graphics.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/hb/splashml/mail_editor.docml	export	
+/epoc32/data/z/resource/hb/splashml/mail_editor.splashml	export	
+/epoc32/data/z/resource/hb/splashml/mail_messagelist.docml	export	
+/epoc32/data/z/resource/hb/splashml/mail_messagelist.splashml	export	
+/epoc32/data/z/resource/hb/splashml/mail_viewer.docml	export	
+/epoc32/data/z/resource/hb/splashml/mail_viewer.splashml	export	
+/epoc32/data/z/resource/messaging/ipsmtmui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/ipsmtmui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/ipsuidatamtm.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/ipsuidatamtm.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/imap4.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/imap4.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/imap4.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/imap4.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/pop3.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/pop3.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/pop3.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/pop3.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/smtp.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/smtp.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/smtp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/smtp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/emailclientapi.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/emailclientapi.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ipssosaoplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ipssosaoplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ipssosplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ipssosplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/emailstore_stub.sis	export	
+/epoc32/data/z/system/install/nmhswidget_stub.sis	export	
+/epoc32/include/aol_brand_graphics.mbg	bitmap	armv5_urel
+/epoc32/include/aol_brand_graphics.mbg	bitmap	winscw_udeb
+/epoc32/include/emailstorepreinstall.rsg	resource	armv5_urel
+/epoc32/include/emailstorepreinstall.rsg	resource	winscw_udeb
+/epoc32/include/google_brand_graphics.mbg	bitmap	armv5_urel
+/epoc32/include/google_brand_graphics.mbg	bitmap	winscw_udeb
+/epoc32/include/ipsmtmui.rsg	resource	armv5_urel
+/epoc32/include/ipsmtmui.rsg	resource	winscw_udeb
+/epoc32/include/ipsuidatamtm.rsg	resource	armv5_urel
+/epoc32/include/ipsuidatamtm.rsg	resource	winscw_udeb
+/epoc32/include/mail_for_exchange_brand_graphics.mbg	bitmap	armv5_urel
+/epoc32/include/mail_for_exchange_brand_graphics.mbg	bitmap	winscw_udeb
+/epoc32/include/messagestoreexe.rsg	resource	armv5_urel
+/epoc32/include/messagestoreexe.rsg	resource	winscw_udeb
+/epoc32/include/microsoft_brand_graphics.mbg	bitmap	armv5_urel
+/epoc32/include/microsoft_brand_graphics.mbg	bitmap	winscw_udeb
+/epoc32/include/nmailagent.rsg	resource	armv5_urel
+/epoc32/include/nmailagent.rsg	resource	winscw_udeb
+/epoc32/include/nmailui.rsg	resource	armv5_urel
+/epoc32/include/nmailui.rsg	resource	winscw_udeb
+/epoc32/include/ovi_brand_graphics.mbg	bitmap	armv5_urel
+/epoc32/include/ovi_brand_graphics.mbg	bitmap	winscw_udeb
+/epoc32/include/platform/app/email_services_api.h	export	
+/epoc32/include/platform/app/emailapidefs.h	export	
+/epoc32/include/platform/app/emailclientapi.hrh	export	
+/epoc32/include/platform/app/emailinterfacefactory.h	export	
+/epoc32/include/platform/app/emailinterfacefactory.inl	export	
+/epoc32/include/platform/app/emailmru.h	export	
+/epoc32/include/platform/app/emailsorting.h	export	
+/epoc32/include/platform/app/emailutilitiesdef.h	export	
+/epoc32/include/platform/app/memailaddress.h	export	
+/epoc32/include/platform/app/memailclientapi.h	export	
+/epoc32/include/platform/app/memailcontent.h	export	
+/epoc32/include/platform/app/memailfolder.h	export	
+/epoc32/include/platform/app/memailmailbox.h	export	
+/epoc32/include/platform/app/memailmessage.h	export	
+/epoc32/include/platform/app/memailmessagesearch.h	export	
+/epoc32/include/platform/app/mmailboxcontentobserver.h	export	
+/epoc32/include/platform/app/mmailboxsyncobserver.h	export	
+/epoc32/include/platform/app/mmessageiterator.h	export	
+/epoc32/include/platform/app/nmapiattachment.h	export	
+/epoc32/include/platform/app/nmapicommon.h	export	
+/epoc32/include/platform/app/nmapidef.h	export	
+/epoc32/include/platform/app/nmapiemailaddress.h	export	
+/epoc32/include/platform/app/nmapiemailservice.h	export	
+/epoc32/include/platform/app/nmapienvelopelisting.h	export	
+/epoc32/include/platform/app/nmapieventnotifier.h	export	
+/epoc32/include/platform/app/nmapifolder.h	export	
+/epoc32/include/platform/app/nmapifolderlisting.h	export	
+/epoc32/include/platform/app/nmapimailbox.h	export	
+/epoc32/include/platform/app/nmapimailboxlisting.h	export	
+/epoc32/include/platform/app/nmapimailboxsettings.h	export	
+/epoc32/include/platform/app/nmapimailboxsettingsdata.h	export	
+/epoc32/include/platform/app/nmapimessage.h	export	
+/epoc32/include/platform/app/nmapimessagebody.h	export	
+/epoc32/include/platform/app/nmapimessagecontent.h	export	
+/epoc32/include/platform/app/nmapimessageenvelope.h	export	
+/epoc32/include/platform/app/nmapimessagemanager.h	export	
+/epoc32/include/platform/app/nmapimessagesearch.h	export	
+/epoc32/include/platform/app/nmapimessagetask.h	export	
+/epoc32/include/platform/app/nmapioperation.h	export	
+/epoc32/include/platform/app/nmapisettingsmanager.h	export	
+/epoc32/include/platform/app/nmapitextcontent.h	export	
+/epoc32/include/platform/app/nmcontacthistorymodel.h	export	
+/epoc32/include/platform/app/nmcontacthistorymodelcommon.h	export	
+/epoc32/include/platform/app/nmuieventsnotifier.h	export	
+/epoc32/include/platform/app/nmuriparser.h	export	
+/epoc32/include/yahoo_brand_graphics.mbg	bitmap	armv5_urel
+/epoc32/include/yahoo_brand_graphics.mbg	bitmap	winscw_udeb
+/epoc32/release/armv5/lib/FSFWCommonLib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FSFWCommonLib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FSFWCommonLib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FSFWCommonLib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ImsPointSecMonitor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ImsPointSecMonitor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ImsPointSecMonitor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ImsPointSecMonitor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MessageStoreServer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MessageStoreServer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MessageStoreServer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MessageStoreServer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RfsMsgStorePlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RfsMsgStorePlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RfsMsgStorePlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RfsMsgStorePlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/baseplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/baseplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/baseplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/baseplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/debuglog.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/debuglog.dso	build	armv5_urel
+/epoc32/release/armv5/lib/debuglog{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/debuglog{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/emailclientapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/emailclientapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/emailclientapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/emailclientapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fsmailframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fsmailframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fsmailframework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fsmailframework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipssosaoplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipssosaoplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipssosaoplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipssosaoplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipssosplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipssosplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipssosplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipssosplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/messagestoreclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/messagestoreclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/messagestoreclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/messagestoreclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailclientapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailclientapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailclientapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailclientapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailcpplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailcpplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailcpplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailcpplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailuiengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailuiengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailuiengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailuiengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailuiwidgets.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailuiwidgets.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmailuiwidgets{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmailuiwidgets{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmframeworkadapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmframeworkadapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmframeworkadapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmframeworkadapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmhswidget.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmhswidget.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmhswidget{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmhswidget{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmimapclientplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmimapclientplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmimapclientplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmimapclientplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmipsmtms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmipsmtms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmipsmtms{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmipsmtms{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmipssettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmipssettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmipssettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmipssettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmpopclientplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmpopclientplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmpopclientplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmpopclientplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmregister.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmregister.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmregister{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmregister{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmsettingui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmsettingui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmsettingui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmsettingui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmutilities.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmutilities.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nmutilities{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nmutilities{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/EmailStorePreInstall.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/EmailStorePreInstall.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FSFWCommonLib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FSFWCommonLib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ImsPointSecMonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ImsPointSecMonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageStoreExe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageStoreExe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageStoreServer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageStoreServer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RfsMsgStorePlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RfsMsgStorePlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/baseplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/baseplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/debuglog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/debuglog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/emailclientapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/emailclientapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fsmailframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fsmailframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipssosaoplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipssosaoplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipssosplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipssosplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/messagestoreclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/messagestoreclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailagent.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailagent.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailclientapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailclientapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailcpplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailcpplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailui.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailui.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailuiengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailuiengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailuiwidgets.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmailuiwidgets.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmframeworkadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmframeworkadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmhswidget.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmhswidget.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmimapclientplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmimapclientplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmipsmtms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmipsmtms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmipssettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmipssettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmpopclientplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmpopclientplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmregister.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmregister.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmregisterinstaller.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmregisterinstaller.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmsettingui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmsettingui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmutilities.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nmutilities.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/EmailStorePreInstall.exe	build	armv5_urel
+/epoc32/release/armv5/urel/EmailStorePreInstall.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/FSFWCommonLib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FSFWCommonLib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ImsPointSecMonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ImsPointSecMonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MessageStoreExe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/MessageStoreExe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/MessageStoreServer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MessageStoreServer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RfsMsgStorePlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RfsMsgStorePlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/baseplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/baseplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/debuglog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/debuglog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/emailclientapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/emailclientapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fsmailframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fsmailframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipssosaoplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipssosaoplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipssosplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipssosplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/messagestoreclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/messagestoreclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmailagent.exe	build	armv5_urel
+/epoc32/release/armv5/urel/nmailagent.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmailbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmailbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmailclientapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmailclientapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmailcpplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmailcpplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmailui.exe	build	armv5_urel
+/epoc32/release/armv5/urel/nmailui.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmailuiengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmailuiengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmailuiwidgets.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmailuiwidgets.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmframeworkadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmframeworkadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmhswidget.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmhswidget.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmimapclientplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmimapclientplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmipsmtms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmipsmtms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmipssettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmipssettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmpopclientplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmpopclientplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmregister.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmregister.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmregisterinstaller.exe	build	armv5_urel
+/epoc32/release/armv5/urel/nmregisterinstaller.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmsettingui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmsettingui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nmutilities.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nmutilities.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/EmailStorePreInstall.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/FSFWCommonLib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FSFWCommonLib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ImsPointSecMonitor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ImsPointSecMonitor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MessageStoreExe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/MessageStoreServer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MessageStoreServer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RfsMsgStorePlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RfsMsgStorePlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/baseplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/baseplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/debuglog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/debuglog.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/emailclientapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/emailclientapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fsmailframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fsmailframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipssosaoplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipssosaoplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipssosplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipssosplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/messagestoreclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/messagestoreclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailagent.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailclientapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailclientapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailcpplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailcpplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailui.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailuiengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailuiengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailuiwidgets.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmailuiwidgets.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmframeworkadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmframeworkadapter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmhswidget.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmhswidget.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmimapclientplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmimapclientplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmipsmtms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmipsmtms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmipssettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmipssettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmpopclientplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmpopclientplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmregister.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmregister.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmregisterinstaller.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmsettingui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmsettingui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmutilities.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nmutilities.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/emailstorepreinstall_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/messagestoreexe_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/nmailagent_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/nmailui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202BE9/2000E53D.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202BE9/2002C326.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/2001E277.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/2003EA97.txt	export	
+/epoc32/release/winscw/udeb/z/private/2002DD15/nmhswidget.xml	export	
+/epoc32/release/winscw/udeb/z/private/2002DD16/nmregister.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/aol.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/aol_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/emailstorepreinstall.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/gmail.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/google_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/mail_for_exchange_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/messagestoreexe.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/microsoft.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/microsoft_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/nmailagent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/nmailui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ovi.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/ovi_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/yahoo.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/yahoo_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/mail_editor.docml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/mail_editor.splashml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/mail_messagelist.docml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/mail_messagelist.splashml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/mail_viewer.docml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/mail_viewer.splashml	export	
+/epoc32/release/winscw/udeb/z/resource/messaging/ipsmtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/ipsuidatamtm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/imap4.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/imap4.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/pop3.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/pop3.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/smtp.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/smtp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/emailclientapi.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ipssosaoplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ipssosplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/EmailStorePreInstall.exe	build	winscw_urel
+/epoc32/release/winscw/urel/EmailStorePreInstall.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/FSFWCommonLib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FSFWCommonLib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ImsPointSecMonitor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ImsPointSecMonitor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MessageStoreExe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/MessageStoreExe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/MessageStoreServer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MessageStoreServer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RfsMsgStorePlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RfsMsgStorePlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/baseplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/baseplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/debuglog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/debuglog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/emailclientapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/emailclientapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fsmailframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fsmailframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipssosaoplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipssosaoplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipssosplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipssosplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/messagestoreclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/messagestoreclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmailagent.exe	build	winscw_urel
+/epoc32/release/winscw/urel/nmailagent.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmailbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmailbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmailclientapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmailclientapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmailcpplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmailcpplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmailui.exe	build	winscw_urel
+/epoc32/release/winscw/urel/nmailui.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmailuiengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmailuiengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmailuiwidgets.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmailuiwidgets.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmframeworkadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmframeworkadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmhswidget.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmhswidget.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmimapclientplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmimapclientplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmipsmtms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmipsmtms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmipssettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmipssettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmpopclientplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmpopclientplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmregister.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmregister.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmregisterinstaller.exe	build	winscw_urel
+/epoc32/release/winscw/urel/nmregisterinstaller.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmsettingui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmsettingui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nmutilities.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nmutilities.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/emailstorepreinstall_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/messagestoreexe_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/nmailagent_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/nmailui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10202BE9/2000E53D.txt	export	
+/epoc32/release/winscw/urel/z/private/10202BE9/2002C326.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/2001E277.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/2003EA97.txt	export	
+/epoc32/release/winscw/urel/z/private/2002DD15/nmhswidget.xml	export	
+/epoc32/release/winscw/urel/z/private/2002DD16/nmregister.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/aol.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/aol_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/emailstorepreinstall.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/gmail.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/google_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/mail_for_exchange_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/messagestoreexe.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/microsoft.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/microsoft_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/nmailagent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/nmailui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ovi.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/ovi_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/yahoo.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/yahoo_brand_graphics.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/hb/splashml/mail_editor.docml	export	
+/epoc32/release/winscw/urel/z/resource/hb/splashml/mail_editor.splashml	export	
+/epoc32/release/winscw/urel/z/resource/hb/splashml/mail_messagelist.docml	export	
+/epoc32/release/winscw/urel/z/resource/hb/splashml/mail_messagelist.splashml	export	
+/epoc32/release/winscw/urel/z/resource/hb/splashml/mail_viewer.docml	export	
+/epoc32/release/winscw/urel/z/resource/hb/splashml/mail_viewer.splashml	export	
+/epoc32/release/winscw/urel/z/resource/messaging/ipsmtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/ipsuidatamtm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/imap4.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/imap4.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/pop3.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/pop3.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/smtp.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/smtp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/emailclientapi.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ipssosaoplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ipssosplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/nmipssettings.confml	export	
+/epoc32/rom/config/assets/s60/confml/nmutilities.confml	export	
+/epoc32/rom/config/assets/s60/implml/nmipssettings_2002C30D.crml	export	
+/epoc32/rom/config/assets/s60/implml/nmutilities_200255BA.crml	export	
+/epoc32/rom/include/core/app/FSEmailFramework.iby	export	
+/epoc32/rom/include/core/app/FreestyleIpsServices.iby	export	
+/epoc32/rom/include/core/app/emailclientapi.iby	export	
+/epoc32/rom/include/core/app/emailstore.iby	export	
+/epoc32/rom/include/core/app/nmail.iby	export	
+/epoc32/rom/include/core/app/nmailagent.iby	export	
+/epoc32/rom/include/core/app/nmailclientapi.iby	export	
+/epoc32/rom/include/core/app/nmailcpplugin.iby	export	
+/epoc32/rom/include/core/app/nmframeworkadapter.iby	export	
+/epoc32/rom/include/core/app/nmhswidget.iby	export	
+/epoc32/rom/include/core/app/nmimapclientplugin.iby	export	
+/epoc32/rom/include/core/app/nmindicatorplugin.iby	export	
+/epoc32/rom/include/core/app/nmipssettings.iby	export	
+/epoc32/rom/include/core/app/nmpopclientplugin.iby	export	
+/epoc32/rom/include/core/app/nmregister.iby	export	
+/epoc32/rom/include/core/app/nmsettingui.iby	export	
+/epoc32/rom/include/core/app/nmutilities.iby	export	
+/epoc32/rom/include/language/app/nmaillanguage.iby	export	
+/epoc32/rom/include/language/app/nmhswidgetlanguage.iby	export	
+/epoc32/rom/include/language/app/nmipssettingslanguage.iby	export	
+/epoc32/rom/include/language/app/nmregisterlanguage.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/nmailcpplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/nmail/settings/nmipssettings.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/nmail/uiext/nmimapclientplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/nmail/uiext/nmpopclientplugin.qtplugin	export	
+/epoc32/winscw/c/private/2002AC7F/des/nmhswidget.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/nmregister.xml	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgbaseoperation.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgcommon.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgconnectandrefreshfolderlist.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgimap4populateop.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgonlineoperation.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgpropertywatcher.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgsmtpoperation.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgsosbaseplugin.h	export	
+/sf/app/commonemail/ipsservices/inc/ipsplgsosbaseplugin.hrh	export	
+/sf/app/commonemail/ipsservices/inc/ipssettingkeys.h	export	
+/sf/app/commonemail/ipsservices/inc/nmipssettingitems.h	export	

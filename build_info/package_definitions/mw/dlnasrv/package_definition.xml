@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="dlnasrv" level="specific" levels="stack server ctrl framework plugin" long-name="DLNA Services">
+<!-- uncomment all the units when configuration is in place, they're currently #included from other xxx_build components -->
+<collection name="dlnasrv_plat" long-name="DLNA Services Platform Interfaces" level="plugin">
+<component name="upnp_media_server_settings_api" long-name="UPnP Media Server Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_media_server_settings_api/group"/>
+</component>
+<component name="upnp_av_objects_api" long-name="UPnP A/V Objects API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_av_objects_api/group"/>
+</component>
+<component name="upnp_media_server_api" long-name="UPnP Media Server API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_media_server_api/group"/>
+</component>
+<component name="upnp_security_plugin_api" long-name="UPnP Security Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_security_plugin_api/group"/>
+</component>
+<component name="upnp_avcp_api" long-name="UPnP AVCP API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_avcp_api/group"/>
+</component>
+<component name="upnp_media_server_metadata_api" long-name="UPnP Media Server Metadata API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_media_server_metadata_api/group"/>
+</component>
+<component name="upnp_command_api" long-name="UPnP Command API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_command_api/group"/>
+</component>
+<component name="upnp_plugin_api" long-name="UPnP Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/dlnasrv/dlnasrv_plat/upnp_plugin_api/group"/>
+</component>
+</collection>
+<collection name="upnpavcontrolpoint" long-name="UPnP A/V Control Point" level="plugin">
+<component name="avcontrolframework" long-name="A/V Control Famework" introduced="9.1" deprecated="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpavcontrolpoint/avcontrolframework/group"/>
+</component>
+<component name="upnpavcontrolpoint_build" long-name="UPnP A/V Control Point Build" introduced="9.1" deprecated="^3" filter="s60" purpose="optional">
+<!-- put exports in other component instead -->
+<unit bldFile="/sf/mw/dlnasrv/upnpavcontrolpoint/group"/>
+</component>
+</collection>
+<collection name="upnpmediaserver" long-name="UPnP Media Server" level="server">
+<component name="avobjects" long-name="A/V Objects" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpmediaserver/avobjects/group"/>
+</component>
+<component name="mediaserverclient" long-name="Media Server Client" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpmediaserver/mediaserverclient/group"/>
+</component>
+<component name="connectionmanagerservice" long-name="Connection Manager Service" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpmediaserver/connectionmanagerservice/group"/>
+</component>
+<component name="contentdirectoryservice" long-name="Content Directory Service" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpmediaserver/contentdirectoryservice/group"/>
+</component>
+<component name="mediaserverengine" long-name="Media Server Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpmediaserver/mediaserverengine/group"/>
+</component>
+<component name="upnpmediaserver_build" long-name="UPnP Media Server Build" filter="s60" purpose="optional">
+<!-- move exports into one of above components -->
+<unit bldFile="/sf/mw/dlnasrv/upnpmediaserver/group"/>
+</component>
+</collection>
+<collection name="upnpavcontroller" long-name="UPnP A/V Controller" level="ctrl">
+<component name="upnpxmlparser" long-name="UPnP XML Parser" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpavcontroller/upnpxmlparser/group"/>
+</component>
+<component name="upnpavcontrollerserver" long-name="UPnP A/V Controller Server" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpavcontroller/upnpavcontrollerserver/group"/>
+</component>
+<component name="upnpavcontrollerclient" long-name="UPnP A/V Ccontroller Client" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpavcontroller/upnpavcontrollerclient/group"/>
+</component>
+<component name="upnpavcontrollerhelper" long-name="UPnP A/V Controller Helper" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpavcontroller/upnpavcontrollerhelper/group"/>
+</component>
+<component name="upnpavcontroller_build" long-name="UPnP A/V Controller Build" introduced="^2" filter="s60" purpose="optional">
+<!-- move exports content into one of above components -->
+<unit bldFile="/sf/mw/dlnasrv/upnpavcontroller/group"/>
+</component>
+</collection>
+<collection name="upnpframework" long-name="UPnP Framework" level="framework">
+<component name="upnputilities" long-name="UPnP Utilities" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpframework/upnputilities/group"/>
+</component>
+<component name="upnpmusicadapter" long-name="UPnP Music Adapter" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpframework/upnpmusicadapter/group"/>
+</component>
+<component name="upnpcommand" long-name="UPnP Command" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpframework/upnpcommand/group"/>
+</component>
+<component name="upnpframework_build" long-name="UPnP Framework Build" introduced="^2" filter="s60" purpose="optional">
+<!-- move exports content into one or more of above components -->
+<unit bldFile="/sf/mw/dlnasrv/upnpframework/group"/>
+</component>
+</collection>
+<collection name="upnpsettings" long-name="UPnP Settings" level="framework">
+<component name="upnpsettingsengine" long-name="UPnP Settings Engine" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpsettings/upnpsettingsengine/group"/>
+</component>
+<component name="upnpsettings_build" long-name="UPnP Settings Build" introduced="^2" filter="s60" purpose="optional">
+<!-- move exports content into one of above components -->
+<unit bldFile="/sf/mw/dlnasrv/upnpsettings/group"/>
+</component>
+</collection>
+<collection name="upnpsharing" long-name="UPnP Sharing" level="server">
+<component name="upnpdlnaprofiler" long-name="UPnP DLNA Profiler" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpsharing/upnpdlnaprofiler/group"/>
+</component>
+<component name="upnpsecurity" long-name="UPnP Security" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpsharing/upnpsecurity/group"/>
+</component>
+<component name="upnpcontentserver" long-name="UPnP Content Server" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpsharing/upnpcontentserver/group"/>
+</component>
+<component name="applicationengine" long-name="UPnP Application Engine" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/dlnasrv/upnpsharing/applicationengine/group"/>
+</component>
+<component name="upnpsharing_build" long-name="UPnP Sharing Build" introduced="^2" filter="s60" purpose="optional">
+<!-- move exports content into one of above components -->
+<unit bldFile="/sf/mw/dlnasrv/upnpsharing/group"/>
+</component>
+</collection>
+<collection name="upnpmpxplugins" long-name="UPnP MPX Plugins" level="plugin">
+<component name="upnpplaybackplugins" long-name="UPnP Playback Plugins" introduced="^2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/dlnasrv/upnpmpxplugins/upnpplaybackplugins/group"/>
+</component>
+<component name="upnpmpxplugins_build" long-name="UPnP MPX Plugins Build" introduced="^2" filter="s60" purpose="optional">
+<!-- move exports content into other component? -->
+<unit bldFile="/sf/mw/dlnasrv/upnpmpxplugins/group"/>
+</component>
+</collection>
+<collection name="dlnasrv_info" long-name="DLNA Services Info" level="plugin"/>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

@@ -1,0 +1,219 @@
+/epoc32/data/z/private/10003a3f/import/apps/videotelui_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/videotelui_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/videotelui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/videotelui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lcvtengineplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lcvtengineplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/vtmediatorplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/vtmediatorplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/displaysink_stub.sis	export	
+/epoc32/data/z/system/install/lcvtplugin_stub.sis	export	
+/epoc32/data/z/system/install/videosource_stub.sis	export	
+/epoc32/data/z/system/install/videoteleng_stub.sis	export	
+/epoc32/data/z/system/install/videotelui_stub.sis	export	
+/epoc32/data/z/system/install/vtmediatorplugin_stub.sis	export	
+/epoc32/include/platform/app/videotelephonydomainpskeys.h	export	
+/epoc32/include/videotelui.rsg	resource	armv5_urel
+/epoc32/include/videotelui.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/cscallctrl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cscallctrl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cscallctrl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cscallctrl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/displaysink.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/displaysink.dso	build	armv5_urel
+/epoc32/release/armv5/lib/displaysink{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/displaysink{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lcvtindicatorcontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lcvtindicatorcontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lcvtindicatorcontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lcvtindicatorcontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lcvtindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lcvtindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lcvtindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lcvtindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videosource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videosource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videosource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videosource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoteleng.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoteleng.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoteleng{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoteleng{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videotelproto.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videotelproto.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videotelproto{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videotelproto{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vtimageconverter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vtimageconverter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vtimageconverter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vtimageconverter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vtimagetransforms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vtimagetransforms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vtimagetransforms{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vtimagetransforms{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vtlogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vtlogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vtlogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vtlogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/cscallctrl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cscallctrl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/displaysink.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/displaysink.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lcvtengineplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lcvtengineplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lcvtindicatorcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lcvtindicatorcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lcvtindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lcvtindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videosource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videosource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoteleng.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoteleng.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videotelproto.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videotelproto.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videotelui.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/videotelui.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtimageconverter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtimageconverter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtimagetransforms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtimagetransforms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtlogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtlogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtmediatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vtmediatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/cscallctrl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cscallctrl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/displaysink.dll	build	armv5_urel
+/epoc32/release/armv5/urel/displaysink.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lcvtengineplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lcvtengineplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lcvtindicatorcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lcvtindicatorcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lcvtindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lcvtindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videosource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videosource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videoteleng.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videoteleng.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videotelproto.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videotelproto.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videotelui.exe	build	armv5_urel
+/epoc32/release/armv5/urel/videotelui.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/vtimageconverter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vtimageconverter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vtimagetransforms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vtimagetransforms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vtlogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vtlogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vtmediatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vtmediatorplugin.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/cscallctrl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cscallctrl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/displaysink.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/displaysink.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lcvtengineplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lcvtindicatorcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lcvtindicatorcontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lcvtindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lcvtindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videosource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videosource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoteleng.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoteleng.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videotelproto.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videotelproto.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videotelui.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/vtimageconverter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vtimageconverter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/vtimagetransforms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vtimagetransforms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/vtlogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vtlogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/vtmediatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/videotelui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/videotelui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lcvtengineplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/vtmediatorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/cscallctrl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cscallctrl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/displaysink.dll	build	winscw_urel
+/epoc32/release/winscw/urel/displaysink.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lcvtengineplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lcvtengineplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lcvtindicatorcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lcvtindicatorcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lcvtindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lcvtindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videosource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videosource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videoteleng.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videoteleng.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videotelproto.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videotelproto.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videotelui.exe	build	winscw_urel
+/epoc32/release/winscw/urel/videotelui.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/vtimageconverter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vtimageconverter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vtimagetransforms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vtimagetransforms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vtlogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vtlogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vtmediatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vtmediatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/videotelui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/videotelui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lcvtengineplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/vtmediatorplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/CI_s60videotelephony.confml	export	
+/epoc32/rom/config/assets/s60/confml/s60videotelephony.confml	export	
+/epoc32/rom/config/assets/s60/implml/s60videotelephony_102072D0.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60videotelephony_10281872.crml	export	
+/epoc32/rom/include/core/app/displaysink.iby	export	
+/epoc32/rom/include/core/app/lcvt.iby	export	
+/epoc32/rom/include/core/app/lcvtindctr.iby	export	
+/epoc32/rom/include/core/app/lcvtindicatorplugin.iby	export	
+/epoc32/rom/include/core/app/videosource.iby	export	
+/epoc32/rom/include/core/app/videoteleng.iby	export	
+/epoc32/rom/include/core/app/videotelui.iby	export	
+/epoc32/rom/include/core/app/vtmediatorplugin.iby	export	
+/epoc32/rom/include/language/app/videoteluiResources.iby	export	
+/sf/app/videotelephony/inc/MVtProtocolHandler.h	export	
+/sf/app/videotelephony/inc/capivideosource.h	export	
+/sf/app/videotelephony/inc/capivideosource.inl	export	
+/sf/app/videotelephony/inc/cvtengmodel.h	export	
+/sf/app/videotelephony/inc/cvtimage.h	export	
+/sf/app/videotelephony/inc/cvtimagebitmap.h	export	
+/sf/app/videotelephony/inc/cvtimageconverter.h	export	
+/sf/app/videotelephony/inc/cvtimageconverter.inl	export	
+/sf/app/videotelephony/inc/cvtimageiyuv.h	export	
+/sf/app/videotelephony/inc/cvtimagerotator.h	export	
+/sf/app/videotelephony/inc/cvtimagescaler.h	export	
+/sf/app/videotelephony/inc/cvtlogger.h	export	
+/sf/app/videotelephony/inc/mdisplaysink.h	export	
+/sf/app/videotelephony/inc/mvtengaudio.h	export	
+/sf/app/videotelephony/inc/mvtengcamerapreferences.h	export	
+/sf/app/videotelephony/inc/mvtengcommandhandler.h	export	
+/sf/app/videotelephony/inc/mvtengcommandobserver.h	export	
+/sf/app/videotelephony/inc/mvtengeventobserver.h	export	
+/sf/app/videotelephony/inc/mvtengframeobserver.h	export	
+/sf/app/videotelephony/inc/mvtengmedia.h	export	
+/sf/app/videotelephony/inc/mvtengrecord2file.h	export	
+/sf/app/videotelephony/inc/mvtengsessioninfo.h	export	
+/sf/app/videotelephony/inc/tdisplaysinkparamsdp.h	export	
+/sf/app/videotelephony/inc/tdisplaysinkparamsdsa.h	export	
+/sf/app/videotelephony/inc/tdisplaysinkparamsdsa.inl	export	
+/sf/app/videotelephony/inc/tdisplaysinkparamsnga.h	export	
+/sf/app/videotelephony/inc/tvtengrendering.h	export	
+/sf/app/videotelephony/inc/tvtengrendering.inl	export	
+/sf/app/videotelephony/inc/tvtengrenderingdp.h	export	
+/sf/app/videotelephony/inc/tvtengrenderingdp.inl	export	
+/sf/app/videotelephony/inc/tvtengrenderingdsa.h	export	
+/sf/app/videotelephony/inc/tvtengrenderingdsa.inl	export	
+/sf/app/videotelephony/inc/tvtengrenderingnga.h	export	
+/sf/app/videotelephony/inc/tvtengrenderingnga.inl	export	
+/sf/app/videotelephony/inc/videotelephonyinternalcrkeys.h	export	
+/sf/app/videotelephony/inc/videotelephonyvariant.hrh	export	
+/sf/app/videotelephony/inc/vtengcommands.h	export	
+/sf/app/videotelephony/inc/vtengevents.h	export	
+/sf/app/videotelephony/inc/vtinternalmediatorapi.h	export	
+/sf/app/videotelephony/inc/vtlogger.hrh	export	

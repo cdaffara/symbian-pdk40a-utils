@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="imghandling" level="specific" levels="lib util if" long-name="Image Handling">
+<collection name="imagehandling_plat" long-name="Image Handling Platform Interfaces" level="if">
+<component name="image_handling_library_api" long-name="Image Handling Library API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imghandling/imagehandling_plat/image_handling_library_api/group"/>
+</component>
+<component name="3gp_library_api" long-name="3GP Library API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imghandling/imagehandling_plat/3gp_library_api/group"/>
+</component>
+<component name="thumbnailmanager_api" long-name="Thumbnail Manager API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/imghandling/imagehandling_plat/thumbnailmanager_api/group" filter="!test"/>
+</component>
+</collection>
+<collection name="imagehandlinglib" long-name="Image Handling Library" level="lib">
+<!-- collection is really a component, need to move down a directory -->
+<component name="ihl" long-name="IHL" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imghandling/imagehandlinglib/group"/>
+</component>
+</collection>
+<collection name="imagehandlingutilities" long-name="Image Handling Utilities" level="util">
+<component name="thumbnailmanager" long-name="Thumbnail Manager" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imghandling/imagehandlingutilities/thumbnailmanager/group"/>
+</component>
+<component name="thumbnailmanagerqt" long-name="Thumbnail Manager Qt" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/imghandling/imagehandlingutilities/thumbnailmanager/thumbnailmanagerqt" filter="!test" proFile="thumbnailmanagerqt.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

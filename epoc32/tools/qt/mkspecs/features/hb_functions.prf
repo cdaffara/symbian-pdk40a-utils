@@ -1,0 +1,168 @@
+#
+#############################################################################
+##
+## Copyright (C) 2008-2010 Nokia Corporation and/or its subsidiary(-ies).
+## All rights reserved.
+## Contact: Nokia Corporation (developer.feedback@nokia.com)
+##
+## This file is part of the UI Extensions for Mobile.
+##
+## GNU Lesser General Public License Usage
+## This file may be used under the terms of the GNU Lesser General Public
+## License version 2.1 as published by the Free Software Foundation and
+## appearing in the file LICENSE.LGPL included in the packaging of this file.
+## Please review the following information to ensure the GNU Lesser General
+## Public License version 2.1 requirements will be met:
+## http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html.
+##
+## In addition, as a special exception, Nokia gives you certain additional
+## rights.  These rights are described in the Nokia Qt LGPL Exception
+## version 1.1, included in the file LGPL_EXCEPTION.txt in this package.
+##
+## If you have questions regarding the use of this file, please contact
+## Nokia at developer.feedback@nokia.com.
+##
+#############################################################################
+#
+
+defineReplace(hbLibraryTarget) {
+    unset(LIBRARY_NAME)
+    LIBRARY_NAME = $$1
+    # the following leads to ugly vcproj names but had to be commented
+    # out, because it broke vcproj generator dependency checks
+    #!debug_and_release|build_pass { <-- 
+        CONFIG(debug, debug|release) {
+            mac:RET = $$member(LIBRARY_NAME, 0)_debug
+            else:win32:RET = $$member(LIBRARY_NAME, 0)d
+        }
+    #}
+    isEmpty(RET):RET = $$LIBRARY_NAME
+    return($$RET)
+}
+
+# params: <collection/library>
+# eg. hbAddLibrary(hbcore/HbCore)
+defineTest(hbAddLibrary) {
+    PARTS = $$split(1, "/")
+    COLLECTION = $$lower($$first(PARTS))
+    LIBRARY = $$last(PARTS)
+
+    INCLUDEPATH *= $${HB_BUILD_DIR}/include/$${COLLECTION}
+    INCLUDEPATH *= $${HB_BUILD_DIR}/include/$${COLLECTION}/restricted
+    INCLUDEPATH *= $${HB_BUILD_DIR}/include/$${COLLECTION}/private
+    DEPENDPATH *= $${HB_BUILD_DIR}/include/$${COLLECTION}
+    DEPENDPATH *= $${HB_BUILD_DIR}/include/$${COLLECTION}/restricted
+    DEPENDPATH *= $${HB_BUILD_DIR}/include/$${COLLECTION}/private
+
+    LIBS *= -L$${HB_BUILD_DIR}/lib
+    LIBS *= -l$$hbLibraryTarget($$LIBRARY)
+    unix:HB_COVERAGE_EXCLUDE += \"*/$$COLLECTION/*\"
+
+    export(LIBS)
+    export(INCLUDEPATH)
+    export(DEPENDPATH)
+    export(HB_COVERAGE_EXCLUDE)
+    return(true)
+}
+
+# params: <collection>
+# NOTE: exports PUBLIC_HEADERS, RESTRICTED_HEADERS and CONVENIENCE_HEADERS
+# eg. hbExportHeaders(hbcore)
+defineTest(hbExportHeaders) {
+    for(PUBLIC_HEADER, PUBLIC_HEADERS) {
+        PUBLIC_HEADER = $$section(PUBLIC_HEADER, ":", 1)
+        EXPORT_PATH = $$sprintf($$HB_EXPORT_DIR, $$1, $$basename(PUBLIC_HEADER))
+        BLD_INF_RULES.prj_exports *= "$$PUBLIC_HEADER $$EXPORT_PATH"
+    }
+    for(RESTRICTED_HEADER, RESTRICTED_HEADERS) {
+        RESTRICTED_HEADER = $$section(RESTRICTED_HEADER, ":", 1)
+        EXPORT_PATH = $$sprintf($$HB_RESTRICTED_EXPORT_DIR, $$1, $$basename(RESTRICTED_HEADER))
+        BLD_INF_RULES.prj_exports *= "$$RESTRICTED_HEADER $$EXPORT_PATH"
+    }
+    for(CONVENIENCE_HEADER, CONVENIENCE_HEADERS) {
+        CONVENIENCE_HEADER = $$section(CONVENIENCE_HEADER, ":", 1)
+        EXPORT_PATH = $$sprintf($$HB_EXPORT_DIR, $$1, $$basename(CONVENIENCE_HEADER))
+        BLD_INF_RULES.prj_exports *= "$$CONVENIENCE_HEADER $$EXPORT_PATH"
+    }
+    export(BLD_INF_RULES.prj_exports)
+    return(true)
+}
+
+# params: -
+# eg. $$hbUnixStyle():CMD=/path/to/cmd else:CMD=\path\to\cmd
+defineTest(hbUnixStyle) {
+    contains(QMAKE_HOST.os, Windows):isEmpty(QMAKE_SH) {
+        unixstyle = false
+    } else {
+        unixstyle = true
+    }
+    return($$unixstyle)
+}
+
+# params: <path>
+# eg. features.path = $$hbNativePath($$[QMAKE_MKSPECS]/features)
+defineReplace(hbNativePath) {
+    contains(QMAKE_HOST.os, Windows) {
+        isEmpty(QMAKE_SH) {
+            1 = $$replace(1, \\\\, $$QMAKE_DIR_SEP)
+            1 = $$replace(1, /, $$QMAKE_DIR_SEP)
+        } else {
+            1 = $$replace(1, \\\\, /)
+            1 = $$replace(1, /, /)
+        }
+    } else {
+        1 = $$replace(1, \\\\, $$QMAKE_DIR_SEP)
+        1 = $$replace(1, /, $$QMAKE_DIR_SEP)
+    }
+    
+    return($$quote(\"$$1\"))
+}
+
+# params: <tool name>
+# eg. hbfoo.command = $$hbToolCommand(hbfoo)
+defineReplace(hbToolCommand) {
+    symbian {
+        # tool in PATH?
+        exists(/dev/null) {
+            DEVNULL = /dev/null
+        } else {
+            DEVNULL = nul
+        }
+        system($$1 > $$DEVNULL 2>&1):return($$1)
+
+        # host build is runnable?
+        hbtoolcmd = $$hbNativePath($$HB_BUILD_DIR/bin/$$1)
+        system($$hbtoolcmd > $$DEVNULL 2>&1):return($$hbtoolcmd)
+
+        # tool in HB_BIN_DIR?
+        hbtoolcmd = $$hbNativePath($$HB_BIN_DIR/$$1)
+        system($$hbtoolcmd > $$DEVNULL 2>&1):return($$hbtoolcmd)
+
+        # pre-built tool is runnable?
+        hbtoolcmd = $$hbNativePath($$sprintf("%1%2", $$HB_SOURCE_DIR/bin/$$1, "_symbian.exe"))
+        system($$hbtoolcmd > $$DEVNULL 2>&1):return($$hbtoolcmd)
+    }
+    # fall back to <builddir>/bin
+    return($$hbNativePath($$HB_BUILD_DIR/bin/$$1))
+}
+
+# params: <file> <dir>
+defineReplace(hbCopyCommand) {
+    file = $$hbNativePath($$1)
+    dir = $$hbNativePath($$2)
+
+    contains(QMAKE_HOST.os, Windows):isEmpty(QMAKE_SH) {
+        chk_dir_exists = if not exist $$dir
+        mkdir = mkdir $$dir
+        copy = copy /y $$file $$dir
+    } else {
+        chk_dir_exists = test -d $$dir
+        mkdir = mkdir -p $$dir
+        copy = cp $$file $$dir
+    }
+
+    hbUnixStyle(): chk_dir_exists_mkdir = $$chk_dir_exists || $$mkdir
+    else:chk_dir_exists_mkdir = $$chk_dir_exists $$mkdir
+
+    return(($$chk_dir_exists_mkdir) && $$copy)
+}

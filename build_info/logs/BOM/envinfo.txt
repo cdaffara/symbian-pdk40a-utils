@@ -1,0 +1,15 @@
+Machine	C100726
+OS Name	Microsoft(R) Windows(R) Server 2003, Enterprise Edition
+OS Version	5.2.3790 Service Pack 2 Build 3790
+Perl	5.10.1
+Python	2.5.4
+Mercurial	1.5
+7-Zip	4.65
+EPOCROOT	\
+sbs	2.15.2 [2010-09-13 sf 8dd670a9f34f]
+mwccsym2	3.2.5 build 487
+RVCT2.2	[Build 686]
+RVCT4.0	[Build 821] 
+GCC4.4.1	(Sourcery G++ Lite 2010q1-190) 4.4.1
+helium	7.0
+java	"1.6.0_12"

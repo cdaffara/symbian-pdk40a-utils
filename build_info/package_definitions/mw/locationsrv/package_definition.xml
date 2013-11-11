@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="locationsrv" level="specific" levels="plugin fw server if" long-name="Location Services">
+<collection name="locsrv_pub" long-name="Location Services Public Interfaces" level="if">
+<component name="landmarks_search_api" long-name="Landmarks Search API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_pub/landmarks_search_api/group"/>
+</component>
+<component name="landmarks_api" long-name="Landmarks API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_pub/landmarks_api/group"/>
+</component>
+<component name="landmarks_database_management_api" long-name="Landmarks Database Management API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_pub/landmarks_database_management_api/group"/>
+</component>
+<component name="location_triggering_api" long-name="Location Triggering API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_pub/location_triggering_api/group"/>
+</component>
+<component name="blid_application_satellite_info_api" long-name="BLID Application Satellite Info API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_pub/blid_application_satellite_info_api/group"/>
+</component>
+</collection>
+<collection name="locsrv_plat" long-name="Location Services Platform Interfaces" level="if">
+<component name="geocoding_api" long-name="Geocoding API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/geocoding_api/group"/>
+</component>
+<component name="supl_pos_message_plugin_api" long-name="SUPL POS Message Plugin API" filter="s60" purpose="optional" class="api placeholder">
+<!-- placeholder
+    <meta rel="Api" href="locsrv_plat/supl_pos_message_plugin_api/supl_pos_message_plugin_api.metaxml"/>
+    <unit bldFile="locsrv_plat/supl_pos_message_plugin_api/group"/>
+	 -->
+</component>
+<component name="landmarks_category_definition_api" long-name="Landmarks Category Definition API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/landmarks_category_definition_api/group"/>
+</component>
+<component name="supl_settings_api" long-name="SUPL Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/supl_settings_api/group"/>
+</component>
+<component name="np_proxy_configuration_api" long-name="NP Proxy Configuration API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/np_proxy_configuration_api/group"/>
+</component>
+<component name="supl_terminal_initiation_api" long-name="SUPL Terminal Initiation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/supl_terminal_initiation_api/group"/>
+</component>
+<component name="supl_network_initiation_api" long-name="SUPL Network Initiation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/supl_network_initiation_api/group"/>
+</component>
+<component name="oma_supl_configuration_parameter_api" long-name="OMA SUPL Configuration Parameter API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/oma_supl_configuration_parameter_api/group"/>
+</component>
+<component name="location_triggering_management_api" long-name="Location Triggering Management API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/location_triggering_management_api/group"/>
+</component>
+<component name="location_triggering_status_information_api" long-name="Location Triggering Status Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/location_triggering_status_information_api/group"/>
+</component>
+<component name="oma_supl_asn_codec_plugin_api" long-name="OMA SUPL ASN Codec Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/oma_supl_asn_codec_plugin_api/group"/>
+</component>
+<component name="query_and_notification_api" long-name="Query and Notification API" introduced="^3" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/query_and_notification_api/group"/>
+</component>
+<component name="location_local_variation_api" long-name="Location Local Variation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/locationsrv/locsrv_plat/location_local_variation_api/group"/>
+</component>
+</collection>
+<collection name="genericpositioningplugins" long-name="Generic Positioning Plugins" level="plugin">
+<component name="locationnpppsy" long-name="Location Positioning Proxy PSY" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/locationsrv/genericpositioningplugins/locationnpppsy/group"/>
+</component>
+<component name="locationsuplpsy" long-name="Location SUPL PSY" introduced="^3" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/locationsrv/genericpositioningplugins/locationsuplpsy/group"/>
+</component>
+<component name="genericpositioningplugins_rom" long-name="Generic Positioning Plugins ROM" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/mw/locationsrv/genericpositioningplugins/rom"/>
+</component>
+</collection>
+<collection name="landmarks" long-name="Landmarks" level="server">
+<component name="locationlandmarks" long-name="Location Landmarks" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/landmarks/locationlandmarks/group"/>
+</component>
+</collection>
+<collection name="locationsystemui" long-name="Location System UI" level="if">
+<component name="locationsysui" long-name="Location System UI" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationsystemui/locationsysui/group"/>
+</component>
+<component name="qtlocationsysui" long-name="Location System Qt UI" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationsystemui/locationsysui" proFile="locsysui.pro"/>
+</component>
+</collection>
+<collection name="supl" long-name="SUPL" level="fw">
+<component name="locationsuplfw" long-name="Location SUPL Framework" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/supl/locationsuplfw/group"/>
+</component>
+<component name="locationomasuplprotocolhandler" long-name="OMA SUPL Protocol Handler" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/supl/locationomasuplprotocolhandler/group"/>
+</component>
+<component name="supltiapiimplementation" long-name="SUPL TI API Implementation" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/supl/supltiapiimplementation/group"/>
+</component>
+</collection>
+<collection name="locationtriggering" long-name="Location Triggering" level="server">
+<component name="ltlogger" long-name="LT Logger" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltlogger/group"/>
+</component>
+<component name="ltclientlib" long-name="LT Client Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltclientlib/group"/>
+</component>
+<component name="ltmanagementlib" long-name="LT Management Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltmanagementlib/group"/>
+</component>
+<component name="ltcontainer" long-name="LT Container" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltcontainer/group"/>
+</component>
+<component name="ltserver" long-name="LT Server" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltserver/group"/>
+</component>
+<component name="ltstrategypluginapi" long-name="LT Strategy Plugin API" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltstrategypluginapi/group"/>
+</component>
+<component name="ltstrategyengine" long-name="LT Strategy Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltstrategyengine/group"/>
+</component>
+<component name="ltmovementdetectionpluginapi" long-name="Movement Detection Plugin API" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltmovementdetectionpluginapi/group"/>
+</component>
+<component name="ltcellidmovementdetector" long-name="Cell ID Movement Detector" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltcellidmovementdetector/group"/>
+</component>
+<component name="ltcontextsourceplugin" long-name="LT Context Source Plugin" introduced="^3" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/ltcontextsourceplugin/group"/>
+</component>
+<component name="locationtriggering_rom" long-name="Location Triggering ROM" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/mw/locationsrv/locationtriggering/rom"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

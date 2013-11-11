@@ -1,0 +1,131 @@
+#
+# Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies).
+# All rights reserved.
+# This component and the accompanying materials are made available
+# under the terms of "Eclipse Public License v1.0"
+# which accompanies this distribution, and is available
+# at the URL "http://www.eclipse.org/legal/epl-v10.html".
+#
+# Initial Contributors:
+# Nokia Corporation - initial contribution.
+#
+# Contributors:
+#
+# Description:
+#
+
+# ============================================================================
+# skingenerator.flm
+# This flm will generate both .skn and also .mif files
+#
+# Header file exporting Function Like Makefile (FLM)
+# The file destinations  relative to EPOCROOT
+# ============================================================================
+
+## Parameters that are expected
+# AKNSSKINNAME
+# AKNSSKINREALNAME
+# AKNSSKINUID
+
+CREATABLEPATHS:=
+CLEANTARGETS:=
+TARGETDIRS:=
+RELEASEABLES:=
+
+# Check if all the inputs are present
+$(if $(AKNSSKINNAME),,$(error Must define AKNSSKINNAME))
+$(if $(AKNSSKINREALNAME),,$(error Must define AKNSSKINREALNAME))
+$(if $(AKNSSKINUID),,$(error Must define AKNSSKINUID))
+
+# AKNSTARGETDIR    --> to copy .skn files
+# AKNSBMPTARGETDIR --> to copy .mif/.mbm files
+
+ifeq ($(PLATFORM),ARMV5)
+  AKNSTARGETDIR:=$(EPOCROOT)/epoc32/data/z/private/10207114/import/$(AKNSSKINUID)
+  AKNSBMPTARGETDIR:=$(EPOCROOT)/epoc32/data/z/resource/skins/$(AKNSSKINUID)
+else
+  AKNSTARGETDIR:=$(EPOCROOT)/epoc32/release/$(PLATFORM)/$(CFG)/z/private/10207114/import/$(AKNSSKINUID)
+  AKNSBMPTARGETDIR:=$(EPOCROOT)/epoc32/release/$(PLATFORM)/$(CFG)/z/resource/skins/$(AKNSSKINUID)
+endif
+
+CREATABLEPATHS:=$(AKNSTARGETDIR) $(AKNSBMPTARGETDIR)
+
+ifeq ($(strip $(AKNSSRCDIR)),)
+# Output dir for the skins
+AKNSSRCDIR:=$(EPOCROOT)/epoc32/include/skins/$(AKNSSKINREALNAME)
+else
+AKNSSRCDIR:=$(EXTENSION_ROOT)/$(AKNSSRCDIR)
+endif
+
+# By default
+#AKNSGENDIR:=
+AKNSDATAGENDIR:=$(EXTENSION_ROOT)/../generated/$(AKNSSKINNAME)/data
+AKNSTARGETDIR:=$(subst //,/,$(AKNSTARGETDIR))
+AKNSBMPTARGETDIR:=$(subst //,/,$(AKNSBMPTARGETDIR))
+AKNSSRCDIR:=$(subst //,/,$(AKNSSRCDIR))
+AKNSGENDIR:=$(subst //,/,$(AKNSGENDIR))
+EPOCTOOLS:=$(subst //,/,$(EPOCTOOLS))
+
+
+TARGETSKN:=$(AKNSTARGETDIR)/$(AKNSSKINREALNAME).skn
+TARGETMIF:=$(AKNSBMPTARGETDIR)/$(AKNSSKINREALNAME).mif
+CREATABLEPATHS:=$(CREATABLEPATHS) $(AKNSGENDIR) $(AKNSDATAGENDIR)
+
+ifeq ($(SKINDEBUG),0)
+$(info <AKNSSKINREALNAME aknsskinrealname=$(AKNSSKINREALNAME)'/>)
+$(info <TARGETSKN targetskn='$(TARGETSKN)'/>)
+$(info <TARGETMIF targetmif='$(TARGETMIF)'/>)
+$(info <AKNSSRCDIR aknssrcdir='$(AKNSSRCDIR)'/>)
+$(info <AKNSDATAGENDIR aknsdatagendir='$(AKNSDATAGENDIR)'/>)
+$(info <CREATABLEPATHS creatablepaths='$(CREATABLEPATHS)'/>)
+endif
+
+SKNMIFGUARD:=$(call sanitise,TARGET_$(TARGETMIF))
+
+define generatesknandmif
+$(SKNMIFGUARD):=1
+RELEASEABLES:=$(TARGETSKN) $(TARGETMIF) $(basename $(TARGETMIF)).mbm
+
+BITMAP:: $(TARGETMIF)
+
+$(TARGETMIF) : $(AKNSDATAGENDIR)/$(AKNSSKINREALNAME).mif
+	$(call startrule,mifmbmcopy,FORCESUCCESS) \
+	$(GNUCP) $$< $$@ && \
+	$(GNUCHMOD) a+rw "$$@" && \
+	$(GNUCP) $$(basename $$<).mbm $$(basename $$@).mbm && \
+	$(GNUCHMOD) a+rw "$$(basename $$@).mbm" && \
+	$(GNUCP) $$(basename $$<).skn $(TARGETSKN) && \
+	$(GNUCHMOD) a+rw "$(TARGETSKN)" \
+	$(call endrule,mifmbmcopy)
+
+$(AKNSDATAGENDIR)/$(AKNSSKINREALNAME).skn : $(SKINCOMPILER) $(AKNSSRCDIR)/$(AKNSSKINNAME).txt
+	$(call startrule,generateskn,FORCESUCCESS) \
+	cd $(AKNSSRCDIR) && $(SKINCOMPILER) -m$(AKNSDATAGENDIR) -t$(AKNSDATAGENDIR) $(AKNSSKINNAME).txt $(AKNSSKINREALNAME) \
+	$(call endrule,generateskn)
+
+#Add the temporary files to the cleanlist
+CLEANTARGETS:=$$(CLEANTARGETS) $(addprefix $(AKNSDATAGENDIR)/,$(addprefix $(AKNSSKINREALNAME),.skn .pkg _MIFlist.txt))
+
+$(AKNSDATAGENDIR)/$(AKNSSKINREALNAME).mif : $(MIFTOOL) $(AKNSDATAGENDIR)/$(AKNSSKINREALNAME).skn
+	$(call startrule,generatemif,FORCESUCCESS)\
+	cd $(AKNSSRCDIR) && \
+	$(MIFTOOL) $(AKNSSKINREALNAME).mif -F$(AKNSDATAGENDIR)/$(AKNSSKINREALNAME)_MIFList.txt && \
+	$(GNUCP) $(AKNSSKINREALNAME).mif $(AKNSDATAGENDIR)/$(AKNSSKINREALNAME).mif && \
+	$(GNUCP) $(AKNSSKINREALNAME).mbm $(AKNSDATAGENDIR)/$(AKNSSKINREALNAME).mbm \
+	$(call endrule,generatemif)
+
+CLEANTARGETS:=$$(CLEANTARGETS) $$(RELEASEABLES) $(addprefix $(AKNSDATAGENDIR)/,$(addprefix $(AKNSSKINREALNAME).,mif mbm))
+endef
+
+ifeq ($($(SKNMIFGUARD)),)
+$(eval -$(generatesknandmif))
+endif
+
+# Create dirs
+$(call makepath,$(CREATABLEPATHS))
+
+# Clean up
+$(eval $(call GenerateStandardCleanTarget,$(CLEANTARGETS)))
+
+# for the abld -what target
+$(eval $(call whatmacro,$(RELEASEABLES),WHATBITMAP))

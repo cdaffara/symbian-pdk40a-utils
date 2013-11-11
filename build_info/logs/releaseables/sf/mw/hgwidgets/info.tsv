@@ -1,0 +1,28 @@
+/epoc32/data/z/system/install/ganeswidgetsstub.sis	export	
+/epoc32/data/z/system/install/hgcacheproxymodelstub.sis	export	
+/epoc32/release/armv5/lib/ganeswidgets.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ganeswidgets.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ganeswidgets{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ganeswidgets{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hgcacheproxymodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hgcacheproxymodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hgcacheproxymodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hgcacheproxymodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/ganeswidgets.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ganeswidgets.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hgcacheproxymodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hgcacheproxymodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/ganeswidgets.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ganeswidgets.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hgcacheproxymodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hgcacheproxymodel.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/ganeswidgets.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ganeswidgets.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hgcacheproxymodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hgcacheproxymodel.lib	build	winscw_udeb
+/epoc32/release/winscw/urel/ganeswidgets.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ganeswidgets.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hgcacheproxymodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hgcacheproxymodel.dll.map	build	winscw_urel
+/epoc32/rom/include/core/mw/ganeswidgets.iby	export	
+/epoc32/rom/include/core/mw/hgcacheproxymodel.iby	export	

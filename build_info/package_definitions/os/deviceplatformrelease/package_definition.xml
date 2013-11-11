@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="deviceplatformrelease" level="services" levels="bld mid top" long-name="Device Platform Release">
+<collection name="s60extras" long-name="S60 Extras" level="mid">
+<!-- collection is really a component. Need to move down a directory -->
+<component name="s60extras_build" long-name="S60 Extras Build" filter="s60" purpose="development" class="config">
+<unit bldFile="/sf/os/deviceplatformrelease/s60extras/group"/>
+</component>
+</collection>
+<collection name="version" long-name="Version" level="top">
+<!-- collection is really a component. Need to move down a directory -->
+<component name="version_build" long-name="Version Build" filter="s60" purpose="development" class="config">
+<unit bldFile="/sf/os/deviceplatformrelease/version/group"/>
+</component>
+</collection>
+<collection name="symbianosbld" long-name="Symbian OS Build" level="bld">
+<component name="cedarutils" long-name="Cedar Utils" purpose="development">
+<unit mrp="/sf/os/deviceplatformrelease/symbianosbld/cedarutils/tools_utils_cedar.mrp"/>
+</component>
+<component name="productionbldcbrconfig" long-name="Production Build CBR Config" filter="gt" purpose="development" class="config">
+<unit mrp="/sf/os/deviceplatformrelease/symbianosbld/productionbldcbrconfig/product_cbr_config.mrp"/>
+</component>
+</collection>
+<collection name="foundation_system" long-name="Foundation System" level="top">
+<component name="system_model" long-name="System Model" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/deviceplatformrelease/foundation_system/system_model/system_model.mrp"/>
+</component>
+<component name="sf_config" long-name="Foundation Config" introduced="^4" filter="s60,build_as_app" purpose="optional">
+<unit bldFile="/sf/os/deviceplatformrelease/foundation_system/sf_config/CI_external/group"/>
+</component>
+<component name="config" long-name="Config" filter="s60" purpose="development" class="config"/>
+<component name="cenrep" long-name="ConE Central Repository Config" filter="sf_build" purpose="development" class="config">
+<!-- will should give the id/path something more unique than cenrep -->
+<unit bldFile="/sf/os/deviceplatformrelease/foundation_system/sf_config/cenrep/group"/>
+</component>
+<component name="rombuild_syborg" long-name="Syborg iMaker Config" introduced="^3" filter="sf_build" purpose="development" class="config">
+<unit bldFile="/sf/os/deviceplatformrelease/foundation_system/sf_config/rombuild/syborg/group"/>
+</component>
+<component name="rombuild_zoom2" long-name="Zoom2 iMaker Config" introduced="^3" filter="sf_build" purpose="development" class="config">
+<unit bldFile="/sf/os/deviceplatformrelease/foundation_system/sf_config/rombuild/zoom2/group"/>
+</component>
+</collection>
+<collection name="deviceplatformrelease_info" long-name="Device Platform Release Info" level="top">
+<component name="deviceplatformrelease_metadata" long-name="Device Platform Release Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/deviceplatformrelease/deviceplatformrelease_info/deviceplatformrelease_metadata/deviceplatformrelease_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

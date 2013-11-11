@@ -1,0 +1,733 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/bearerap/cppacketdataapplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/bearerap/cpwlanapplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpdestinationplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpipsettingsplugin.qtplugin	export	
+/epoc32/data/z/private/10003a3f/import/apps/connview_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/connview_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101F6CFE/backup_registration.xml	export	
+/epoc32/data/z/resource/apengine.r01	resource	armv5_urel
+/epoc32/data/z/resource/apengine.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apengine.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apengine.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/apsettings.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/connectionuiutilities.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/connview.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/connview.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/disconnectdlgui.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/disconnectdlgui.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apsetui.r01	resource	armv5_urel
+/epoc32/data/z/resource/apsetui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apsetui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apsetui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/connectionuiutilities.r01	resource	armv5_urel
+/epoc32/data/z/resource/connectionuiutilities.r01	resource	winscw_udeb
+/epoc32/data/z/resource/connectionuiutilities.rsc	resource	armv5_urel
+/epoc32/data/z/resource/connectionuiutilities.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/connuiutilsnotif.r01	resource	armv5_urel
+/epoc32/data/z/resource/connuiutilsnotif.r01	resource	winscw_udeb
+/epoc32/data/z/resource/connuiutilsnotif.rsc	resource	armv5_urel
+/epoc32/data/z/resource/connuiutilsnotif.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/disconnectdlg.r01	resource	armv5_urel
+/epoc32/data/z/resource/disconnectdlg.r01	resource	winscw_udeb
+/epoc32/data/z/resource/disconnectdlg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/disconnectdlg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cmpluginembdestination.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cmpluginembdestination.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cmpluginlan.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cmpluginlan.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cmpluginpacketdata.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cmpluginpacketdata.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cmpluginvpn.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cmpluginvpn.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cmpluginwlan.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cmpluginwlan.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/commsdatcreatorrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/extendedconnprefecom.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/extendedconnprefecom.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pdpcontextmanager2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/s60mcpr.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/s60mcpr.rsc	resource	winscw_udeb
+/epoc32/include/agentdialog.h	export	
+/epoc32/include/apengine.rsg	resource	armv5_urel
+/epoc32/include/apengine.rsg	resource	winscw_udeb
+/epoc32/include/apsettings.mbg	bitmap	armv5_urel
+/epoc32/include/apsettings.mbg	bitmap	winscw_udeb
+/epoc32/include/apsetui.rsg	resource	armv5_urel
+/epoc32/include/apsetui.rsg	resource	winscw_udeb
+/epoc32/include/connectionuiutilities.mbg	bitmap	armv5_urel
+/epoc32/include/connectionuiutilities.mbg	bitmap	winscw_udeb
+/epoc32/include/connectionuiutilities.rsg	resource	armv5_urel
+/epoc32/include/connectionuiutilities.rsg	resource	winscw_udeb
+/epoc32/include/connuiutilsnotif.rsg	resource	armv5_urel
+/epoc32/include/connuiutilsnotif.rsg	resource	winscw_udeb
+/epoc32/include/connview.rsg	resource	armv5_urel
+/epoc32/include/connview.rsg	resource	winscw_udeb
+/epoc32/include/disconnectdlg.rsg	resource	armv5_urel
+/epoc32/include/disconnectdlg.rsg	resource	winscw_udeb
+/epoc32/include/disconnectdlgui.mbg	bitmap	armv5_urel
+/epoc32/include/disconnectdlgui.mbg	bitmap	winscw_udeb
+/epoc32/include/mw/ActiveApDb.h	export	
+/epoc32/include/mw/ApAccessPointItem.h	export	
+/epoc32/include/mw/ApDataHandler.h	export	
+/epoc32/include/mw/ApEngineConsts.h	export	
+/epoc32/include/mw/ApEngineVer.h	export	
+/epoc32/include/mw/ApListItem.h	export	
+/epoc32/include/mw/ApListItemList.h	export	
+/epoc32/include/mw/ApNetworkItem.h	export	
+/epoc32/include/mw/ApNetworkItemList.h	export	
+/epoc32/include/mw/ApNetworks.h	export	
+/epoc32/include/mw/ApSelect.h	export	
+/epoc32/include/mw/ApSettingsHandlerCommons.h	export	
+/epoc32/include/mw/ApSettingsHandlerUI.h	export	
+/epoc32/include/mw/ApUtils.h	export	
+/epoc32/include/mw/cmapplicationsettingsui.h	export	
+/epoc32/include/mw/cmconnectionmethod.h	export	
+/epoc32/include/mw/cmconnectionmethoddef.h	export	
+/epoc32/include/mw/cmdefconnvalues.h	export	
+/epoc32/include/mw/cmdestination.h	export	
+/epoc32/include/mw/cmgenconnsettings.h	export	
+/epoc32/include/mw/cmmanager.h	export	
+/epoc32/include/mw/cmmanagerdef.h	export	
+/epoc32/include/mw/cmplugincsddef.h	export	
+/epoc32/include/mw/cmplugindialcommondefs.h	export	
+/epoc32/include/mw/cmpluginembdestinationdef.h	export	
+/epoc32/include/mw/cmpluginhscsddef.h	export	
+/epoc32/include/mw/cmpluginpacketdatadef.h	export	
+/epoc32/include/mw/cmpluginvpndef.h	export	
+/epoc32/include/mw/cmpluginwlandef.h	export	
+/epoc32/include/mw/dclcrkeys.h	export	
+/epoc32/include/mw/extendedconnpref.h	export	
+/epoc32/include/mw/rconnmon.h	export	
+/epoc32/include/platform/mw/ApProtHandler.h	export	
+/epoc32/include/platform/mw/ConnMonExt.h	export	
+/epoc32/include/platform/mw/ConnectionUiUtilities.h	export	
+/epoc32/include/platform/mw/DisconnectDlgClient.h	export	
+/epoc32/include/platform/mw/VpnApEngine.h	export	
+/epoc32/include/platform/mw/VpnApItem.h	export	
+/epoc32/include/platform/mw/WlanCdbCols.h	export	
+/epoc32/include/platform/mw/cmapplsettingsui.h	export	
+/epoc32/include/platform/mw/cmcommonconstants.h	export	
+/epoc32/include/platform/mw/cmcommonui.h	export	
+/epoc32/include/platform/mw/cmconnectionmethod_shim.h	export	
+/epoc32/include/platform/mw/cmconnectionmethodext.h	export	
+/epoc32/include/platform/mw/cmdestination_shim.h	export	
+/epoc32/include/platform/mw/cmdestinationext.h	export	
+/epoc32/include/platform/mw/cmmanager_shim.h	export	
+/epoc32/include/platform/mw/cmmanagerdefines_shim.h	export	
+/epoc32/include/platform/mw/cmmanagerext.h	export	
+/epoc32/include/platform/mw/cmmanagerkeys.h	export	
+/epoc32/include/platform/mw/cmmanagertablefields.h	export	
+/epoc32/include/platform/mw/cmpbasesettingsdlg.h	export	
+/epoc32/include/platform/mw/cmpbasesettingsdlgadv.h	export	
+/epoc32/include/platform/mw/cmpbasesettingsdlgip.h	export	
+/epoc32/include/platform/mw/cmpluginbase.h	export	
+/epoc32/include/platform/mw/cmpluginbaseeng.h	export	
+/epoc32/include/platform/mw/cmpluginlanbase.h	export	
+/epoc32/include/platform/mw/cmpluginlanbasedef.h	export	
+/epoc32/include/platform/mw/cmpluginlandef.h	export	
+/epoc32/include/platform/mw/cmpsettingsconsts.h	export	
+/epoc32/include/platform/mw/connectionmonitorpskeys.h	export	
+/epoc32/include/platform/mw/cpbearerapplugininterface.h	export	
+/epoc32/include/platform/mw/cpwlansecurityplugininterface.h	export	
+/epoc32/include/platform/mw/flexperiodic.h	export	
+/epoc32/include/platform/mw/flextimer.h	export	
+/epoc32/include/platform/mw/loc/sc/agentdialog.loc	export	
+/epoc32/include/platform/mw/loc/sc/apengine.loc	export	
+/epoc32/include/platform/mw/loc/sc/apsettingshandlerui.loc	export	
+/epoc32/include/platform/mw/loc/sc/connectionuiutilities.loc	export	
+/epoc32/include/platform/mw/loc/sc/disconnectdlg.loc	export	
+/epoc32/include/platform/mw/mcmdexec.h	export	
+/epoc32/include/platform/mw/mpmconnectscreenid.h	export	
+/epoc32/include/platform/mw/mpmpropertydef.h	export	
+/epoc32/include/platform/mw/mpmvpntoggleapi.h	export	
+/epoc32/include/platform/mw/pdpcontextmanagerinternalcrkeys.h	export	
+/epoc32/include/platform/mw/pdpcontextmanagerpskeys.h	export	
+/epoc32/include/platform/mw/rflextimer.h	export	
+/epoc32/include/platform/mw/wlancontainer.h	export	
+/epoc32/release/armv5/lib/AGENTDIALOG.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AGENTDIALOG.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AGENTDIALOG{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AGENTDIALOG{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/APEngine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/APEngine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/APEngine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/APEngine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ApSettingsHandlerUI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ApSettingsHandlerUI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ApSettingsHandlerUI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ApSettingsHandlerUI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CCONNDLGPLUGIN.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CCONNDLGPLUGIN.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CCONNDLGPLUGIN{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CCONNDLGPLUGIN{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnMonExt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnMonExt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnMonExt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnMonExt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnUiUtilsNotif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnUiUtilsNotif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnUiUtilsNotif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnUiUtilsNotif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnectionUiUtilities.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnectionUiUtilities.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnectionUiUtilities{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnectionUiUtilities{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DisconnectDlg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DisconnectDlg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DisconnectDlgClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DisconnectDlgClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DisconnectDlgClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DisconnectDlgClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DisconnectDlg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DisconnectDlg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cellularindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cellularindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cellularindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cellularindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cellularpromptdialogplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cellularpromptdialogplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cellularpromptdialogplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cellularpromptdialogplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmapplsettingsui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmapplsettingsui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmapplsettingsui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmapplsettingsui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmmanagerdatabase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmmanagerdatabase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmmanagerdatabase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmmanagerdatabase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmmpluginbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmmpluginbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cmmpluginbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cmmpluginbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsdatcreator.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsdatcreator.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commsdatcreator{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commsdatcreator{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/connection_settings_shim.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/connection_settings_shim.dso	build	armv5_urel
+/epoc32/release/armv5/lib/connection_settings_shim{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/connection_settings_shim{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/connmon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/connmon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/connmon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/connmon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpdestinationplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpdestinationplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpdestinationplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpdestinationplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpipsettingsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpipsettingsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpipsettingsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpipsettingsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppacketdataapplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppacketdataapplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppacketdataapplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppacketdataapplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpwlanapplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpwlanapplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpwlanapplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpwlanapplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/extendedconnpref.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/extendedconnpref.dso	build	armv5_urel
+/epoc32/release/armv5/lib/extendedconnpref{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/extendedconnpref{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flextimerclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flextimerclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flextimerclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flextimerclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flextimerengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flextimerengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flextimerengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flextimerengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flextimerservermonitorclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flextimerservermonitorclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flextimerservermonitorclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flextimerservermonitorclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/AGENTDIALOG.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AGENTDIALOG.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/APEngine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/APEngine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ApSettingsHandlerUI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ApSettingsHandlerUI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CCONNDLGPLUGIN.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CCONNDLGPLUGIN.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnMonExt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnMonExt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnUiUtilsNotif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnUiUtilsNotif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnectionUiUtilities.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnectionUiUtilities.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DisconnectDlg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DisconnectDlg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DisconnectDlgClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DisconnectDlgClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cellularindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cellularindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cellularpromptdialogplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cellularpromptdialogplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmapplsettingsui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmapplsettingsui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmanagerdatabase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmanagerdatabase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmpluginbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmpluginbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmmserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginembdestination.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginembdestination.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginlan.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginlan.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginpacketdata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginpacketdata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginvpn.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginvpn.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginwlan.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cmpluginwlan.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdatcreator.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdatcreator.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdatcreatorrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdatcreatorrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdatstartup.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/commsdatstartup.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/connection_settings_shim.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/connection_settings_shim.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/connmon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/connmon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/connmonexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/connmonexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/connview.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/connview.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpdestinationplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpdestinationplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpipsettingsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpipsettingsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppacketdataapplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppacketdataapplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpwlanapplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpwlanapplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dataconnectionlogger.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dataconnectionlogger.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbcreator.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbcreator.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/extendedconnpref.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/extendedconnpref.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/extendedconnprefecom.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/extendedconnprefecom.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerservermonitorclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerservermonitorclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerservermonitorserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/flextimerservermonitorserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/indicatorobserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/indicatorobserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmserver_platsim.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmserver_platsim.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdpcontextmanager2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdpcontextmanager2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/s60mcpr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/s60mcpr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/AGENTDIALOG.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AGENTDIALOG.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/APEngine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/APEngine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ApSettingsHandlerUI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ApSettingsHandlerUI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CCONNDLGPLUGIN.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CCONNDLGPLUGIN.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ConnMonExt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ConnMonExt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ConnUiUtilsNotif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ConnUiUtilsNotif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ConnectionUiUtilities.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ConnectionUiUtilities.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DisconnectDlg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DisconnectDlg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DisconnectDlgClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DisconnectDlgClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cellularindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cellularindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cellularpromptdialogplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cellularpromptdialogplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmapplsettingsui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmapplsettingsui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmmanagerdatabase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmmanagerdatabase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmmpluginbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmmpluginbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmmserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cmmserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginembdestination.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginembdestination.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginlan.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginlan.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginpacketdata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginpacketdata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginvpn.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginvpn.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginwlan.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cmpluginwlan.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsdatcreator.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commsdatcreator.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsdatcreatorrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commsdatcreatorrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commsdatstartup.exe	build	armv5_urel
+/epoc32/release/armv5/urel/commsdatstartup.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/connection_settings_shim.dll	build	armv5_urel
+/epoc32/release/armv5/urel/connection_settings_shim.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/connmon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/connmon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/connmonexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/connmonexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/connview.exe	build	armv5_urel
+/epoc32/release/armv5/urel/connview.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpdestinationplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpdestinationplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpipsettingsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpipsettingsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cppacketdataapplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cppacketdataapplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpwlanapplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpwlanapplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dataconnectionlogger.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dataconnectionlogger.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dbcreator.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dbcreator.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/extendedconnpref.dll	build	armv5_urel
+/epoc32/release/armv5/urel/extendedconnpref.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/extendedconnprefecom.dll	build	armv5_urel
+/epoc32/release/armv5/urel/extendedconnprefecom.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerservermonitorclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerservermonitorclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerservermonitorserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/flextimerservermonitorserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/indicatorobserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/indicatorobserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpmserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mpmserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpmserver_platsim.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mpmserver_platsim.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/pdpcontextmanager2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pdpcontextmanager2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/s60mcpr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/s60mcpr.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/AGENTDIALOG.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AGENTDIALOG.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/APEngine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/APEngine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ApSettingsHandlerUI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ApSettingsHandlerUI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CCONNDLGPLUGIN.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CCONNDLGPLUGIN.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnMonExt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnMonExt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnUiUtilsNotif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnUiUtilsNotif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnectionUiUtilities.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnectionUiUtilities.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DisconnectDlg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DisconnectDlg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DisconnectDlgClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DisconnectDlgClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cellularindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cellularindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cellularpromptdialogplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cellularpromptdialogplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmapplsettingsui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmapplsettingsui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmmanagerdatabase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmmanagerdatabase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmmpluginbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmmpluginbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmmserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmpluginembdestination.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmpluginlan.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmpluginpacketdata.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmpluginvpn.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cmpluginwlan.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdatcreator.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdatcreator.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commsdatstartup.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/connection_settings_shim.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/connection_settings_shim.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/connmon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/connmon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/connmonexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/connview.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpdestinationplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpdestinationplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpipsettingsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpipsettingsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppacketdataapplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppacketdataapplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpwlanapplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpwlanapplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dataconnectionlogger.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dbcreator.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/extendedconnpref.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/extendedconnpref.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/extendedconnprefecom.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerservermonitorclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerservermonitorclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/flextimerservermonitorserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/indicatorobserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpmserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpmserver_platsim.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/s60mcpr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/connview_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101F6CFE/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apengine.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apengine.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/apsettings.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/connectionuiutilities.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/connview.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/disconnectdlgui.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/disconnectdlgui.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apsetui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apsetui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/connectionuiutilities.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/connectionuiutilities.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/connuiutilsnotif.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/connuiutilsnotif.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/disconnectdlg.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/disconnectdlg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cmpluginembdestination.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cmpluginlan.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cmpluginpacketdata.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cmpluginvpn.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cmpluginwlan.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/extendedconnprefecom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/s60mcpr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/system/data/meshpreface1.cfg	export	
+/epoc32/release/winscw/urel/AGENTDIALOG.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AGENTDIALOG.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/APEngine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/APEngine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ApSettingsHandlerUI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ApSettingsHandlerUI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CCONNDLGPLUGIN.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CCONNDLGPLUGIN.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ConnMonExt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ConnMonExt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ConnUiUtilsNotif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ConnUiUtilsNotif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ConnectionUiUtilities.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ConnectionUiUtilities.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DisconnectDlg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DisconnectDlg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DisconnectDlgClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DisconnectDlgClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cellularindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cellularindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cellularpromptdialogplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cellularpromptdialogplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmapplsettingsui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmapplsettingsui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmmanagerdatabase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmmanagerdatabase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmmpluginbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmmpluginbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmmserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cmmserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginembdestination.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginembdestination.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginlan.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginlan.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginpacketdata.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginpacketdata.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginvpn.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginvpn.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginwlan.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cmpluginwlan.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsdatcreator.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commsdatcreator.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commsdatstartup.exe	build	winscw_urel
+/epoc32/release/winscw/urel/commsdatstartup.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/connection_settings_shim.dll	build	winscw_urel
+/epoc32/release/winscw/urel/connection_settings_shim.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/connmon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/connmon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/connmonexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/connmonexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/connview.exe	build	winscw_urel
+/epoc32/release/winscw/urel/connview.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpdestinationplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpdestinationplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpipsettingsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpipsettingsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cppacketdataapplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cppacketdataapplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpwlanapplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpwlanapplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dataconnectionlogger.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dataconnectionlogger.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dbcreator.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dbcreator.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/extendedconnpref.dll	build	winscw_urel
+/epoc32/release/winscw/urel/extendedconnpref.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/extendedconnprefecom.dll	build	winscw_urel
+/epoc32/release/winscw/urel/extendedconnprefecom.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerservermonitorclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerservermonitorclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerservermonitorserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/flextimerservermonitorserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/indicatorobserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/indicatorobserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpmserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mpmserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpmserver_platsim.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mpmserver_platsim.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/s60mcpr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/s60mcpr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/connview_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/101F6CFE/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/apengine.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apengine.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/apsettings.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/connectionuiutilities.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/connview.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/disconnectdlgui.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/disconnectdlgui.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apsetui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apsetui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/connectionuiutilities.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/connectionuiutilities.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/connuiutilsnotif.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/connuiutilsnotif.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/disconnectdlg.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/disconnectdlg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cmpluginembdestination.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cmpluginlan.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cmpluginpacketdata.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cmpluginvpn.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cmpluginwlan.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/extendedconnprefecom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/s60mcpr.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/accesspoints.confml	export	
+/epoc32/rom/config/assets/s60/confml/cmmanager.confml	export	
+/epoc32/rom/config/assets/s60/confml/commsdatcreator.confml	export	
+/epoc32/rom/config/assets/s60/confml/connectiondialogs.confml	export	
+/epoc32/rom/config/assets/s60/confml/dcl.confml	export	
+/epoc32/rom/config/assets/s60/confml/mpm.confml	export	
+/epoc32/rom/config/assets/s60/confml/mpmvpntoggleapi.confml	export	
+/epoc32/rom/config/assets/s60/confml/pdpcontextmanager2.confml	export	
+/epoc32/rom/config/assets/s60/confml/s60mcpr.confml	export	
+/epoc32/rom/config/assets/s60/implml/accesspoints_10008D3A.crml	export	
+/epoc32/rom/config/assets/s60/implml/accesspoints_10008D3B.crml	export	
+/epoc32/rom/config/assets/s60/implml/cmmanager_10207376.crml	export	
+/epoc32/rom/config/assets/s60/implml/commsdatcreator.implml	export	
+/epoc32/rom/config/assets/s60/implml/commsdatcreator_01.gcfml	export	
+/epoc32/rom/config/assets/s60/implml/connectiondialogs_10008D55.crml	export	
+/epoc32/rom/config/assets/s60/implml/connectiondialogs_101FD67E.crml	export	
+/epoc32/rom/config/assets/s60/implml/dcl_101F4CD5.crml	export	
+/epoc32/rom/config/assets/s60/implml/dcl_101F6CFE.crml	export	
+/epoc32/rom/config/assets/s60/implml/mpm_101f6d12.crml	export	
+/epoc32/rom/config/assets/s60/implml/mpm_101f6d50.crml	export	
+/epoc32/rom/config/assets/s60/implml/mpmvpntoggleapi_20016a88.crml	export	
+/epoc32/rom/config/assets/s60/implml/pdpcontextmanager2_102071F5.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60mcpr_101F6D4A.crml	export	
+/epoc32/rom/include/core/app/promptdialogplugin.iby	export	
+/epoc32/rom/include/core/mw/ApEngine.iby	export	
+/epoc32/rom/include/core/mw/ApSettingsHandlerUI.iby	export	
+/epoc32/rom/include/core/mw/ConnMonExt.iby	export	
+/epoc32/rom/include/core/mw/ConnectionDialogs.iby	export	
+/epoc32/rom/include/core/mw/ConnectionUiUtilities.iby	export	
+/epoc32/rom/include/core/mw/DataConnectionLogger.iby	export	
+/epoc32/rom/include/core/mw/DisconnectDlg.iby	export	
+/epoc32/rom/include/core/mw/agentdialog.iby	export	
+/epoc32/rom/include/core/mw/cconndlg.iby	export	
+/epoc32/rom/include/core/mw/cellularindicatorplugin.iby	export	
+/epoc32/rom/include/core/mw/cmapplsettingsui.iby	export	
+/epoc32/rom/include/core/mw/cmmanagerdatabase.iby	export	
+/epoc32/rom/include/core/mw/cmmapi.iby	export	
+/epoc32/rom/include/core/mw/cmmpluginbase.iby	export	
+/epoc32/rom/include/core/mw/cmmpluginpacketdata.iby	export	
+/epoc32/rom/include/core/mw/cmmpluginvpn.iby	export	
+/epoc32/rom/include/core/mw/cmmpluginwlan.iby	export	
+/epoc32/rom/include/core/mw/cmmserver.iby	export	
+/epoc32/rom/include/core/mw/commsdatcreator.iby	export	
+/epoc32/rom/include/core/mw/connection_settings_shim.iby	export	
+/epoc32/rom/include/core/mw/connectionview.iby	export	
+/epoc32/rom/include/core/mw/connmon.iby	export	
+/epoc32/rom/include/core/mw/cpdestinationplugin.iby	export	
+/epoc32/rom/include/core/mw/cpipsettingsplugin.iby	export	
+/epoc32/rom/include/core/mw/cppacketdataapplugin.iby	export	
+/epoc32/rom/include/core/mw/cpwlanapplugin.iby	export	
+/epoc32/rom/include/core/mw/extendedconnpref.iby	export	
+/epoc32/rom/include/core/mw/extendedconnprefecom.iby	export	
+/epoc32/rom/include/core/mw/flextimerclient.iby	export	
+/epoc32/rom/include/core/mw/flextimerengine.iby	export	
+/epoc32/rom/include/core/mw/flextimerserver.iby	export	
+/epoc32/rom/include/core/mw/flextimerservermonitor.iby	export	
+/epoc32/rom/include/core/mw/indicatorobserver.iby	export	
+/epoc32/rom/include/core/mw/mpm.iby	export	
+/epoc32/rom/include/core/mw/mpmserver.iby	export	
+/epoc32/rom/include/core/mw/pdpcontextmanager2.iby	export	
+/epoc32/rom/include/core/mw/s60mcpr.iby	export	
+/epoc32/rom/include/language/app/cellularindicatorplugin_resources.iby	export	
+/epoc32/rom/include/language/app/cmapplsettingsui_resources.iby	export	
+/epoc32/rom/include/language/app/connectionview_resources.iby	export	
+/epoc32/rom/include/language/app/cpdestinationplugin_resources.iby	export	
+/epoc32/rom/include/language/app/cpipsettingsplugin_resources.iby	export	
+/epoc32/rom/include/language/app/cppacketdataapplugin_resources.iby	export	
+/epoc32/rom/include/language/app/promptdialogplugin_resources.iby	export	
+/epoc32/rom/include/language/mw/ApEngineResources.iby	export	
+/epoc32/rom/include/language/mw/ApSettingsHandlerUIResources.iby	export	
+/epoc32/rom/include/language/mw/ConnectionUiUtilitiesResources.iby	export	
+/epoc32/rom/include/language/mw/DisconnectDlgResources.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/bearerap/cppacketdataapplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/bearerap/cpwlanapplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpdestinationplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpipsettingsplugin.qtplugin	export	
+/epoc32/winscw/c/private/10202be9/persists/cccccc00.cre	export	
+/sf/mw/ipconnmgmt/inc/datamobilitycommsdattypes.h	export	
+/sf/mw/ipconnmgmt/inc/rmpm.h	export	
+/sf/mw/ipconnmgmt/inc/rmpm.inl	export	

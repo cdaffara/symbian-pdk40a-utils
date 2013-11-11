@@ -1,0 +1,287 @@
+/epoc32/data/z/pluginstub/usbindicatorplugin.qtplugin	export	
+/epoc32/data/z/private/10003a3f/apps/imageprintui_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/imageprintui_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/usbsettingsapp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/usbsettingsapp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101F9696/backup_registration.xml	export	
+/epoc32/data/z/private/101fe1db/usbpammscfile.rsc	resource	armv5_urel
+/epoc32/data/z/private/101fe1db/usbpammscfile.rsc	resource	winscw_udeb
+/epoc32/data/z/private/1020e470/phonecapability.r01	resource	armv5_urel
+/epoc32/data/z/private/1020e470/phonecapability.r01	resource	winscw_udeb
+/epoc32/data/z/private/1020e470/phonecapability.rsc	resource	armv5_urel
+/epoc32/data/z/private/1020e470/phonecapability.rsc	resource	winscw_udeb
+/epoc32/data/z/private/2000FDA7/phone_as_modem.iso	export	
+/epoc32/data/z/resource/apps/imageprintui.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/imageprintui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/imageprintui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/imageprintui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/usbsettingsapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/usbsettingsapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/imageprintuiprovider.r01	resource	armv5_urel
+/epoc32/data/z/resource/imageprintuiprovider.r01	resource	winscw_udeb
+/epoc32/data/z/resource/imageprintuiprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/imageprintuiprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/imageprintuiprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/imageprintuiprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbbasicpersonality.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbbasicpersonality.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usblocodplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usblocodplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbmscfileclasscontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbmscfileclasscontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbmscpersonality.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbmscpersonality.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbobexclasscontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbobexclasscontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbpamatplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbpamatplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbremotepersonality.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbremotepersonality.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbuinotif.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbuinotif.rsc	resource	winscw_udeb
+/epoc32/include/imageprintui.rsg	resource	armv5_urel
+/epoc32/include/imageprintui.rsg	resource	winscw_udeb
+/epoc32/include/imageprintuiprovider.rsg	resource	armv5_urel
+/epoc32/include/imageprintuiprovider.rsg	resource	winscw_udeb
+/epoc32/include/phonecapability.rsg	resource	armv5_urel
+/epoc32/include/phonecapability.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/SecondaryDisplay/usbuinotifsecondarydisplay.h	export	
+/epoc32/include/platform/mw/UsbWatcherInternalCRKeys.h	export	
+/epoc32/include/platform/mw/UsbWatcherInternalPSKeys.h	export	
+/epoc32/include/platform/mw/cusbdevicecontrolplugin.h	export	
+/epoc32/include/platform/mw/cusbdevicecontrolplugin.inl	export	
+/epoc32/include/platform/mw/cusbpersonality.h	export	
+/epoc32/include/platform/mw/cusbpersonalitynotifier.h	export	
+/epoc32/include/platform/mw/cusbpersonalityplugin.h	export	
+/epoc32/include/platform/mw/dpsdefs.h	export	
+/epoc32/include/platform/mw/dpsoperation.h	export	
+/epoc32/include/platform/mw/dpsoperation.inl	export	
+/epoc32/include/platform/mw/dpsparam.h	export	
+/epoc32/include/platform/mw/dpsparam.inl	export	
+/epoc32/include/platform/mw/loc/sc/imageprintui.loc	export	
+/epoc32/include/platform/mw/loc/sc/imageprintuiprovider.loc	export	
+/epoc32/include/platform/mw/loc/sc/usbuinotif.loc	export	
+/epoc32/include/platform/mw/musbnotifiercallback.h	export	
+/epoc32/include/platform/mw/pictbridge.h	export	
+/epoc32/include/platform/mw/ptpcallbacks.h	export	
+/epoc32/include/platform/mw/ptptransport.h	export	
+/epoc32/include/platform/mw/tusbpersonalityparams.h	export	
+/epoc32/include/platform/mw/usbpersonalityids.h	export	
+/epoc32/include/platform/mw/usbuinotif.h	export	
+/epoc32/include/platform/mw/usbwatcher.h	export	
+/epoc32/include/usbpammscfile.rsg	resource	armv5_urel
+/epoc32/include/usbpammscfile.rsg	resource	winscw_udeb
+/epoc32/include/usbsettingsapp.rsg	resource	armv5_urel
+/epoc32/include/usbsettingsapp.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/usbindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbotgwatcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbotgwatcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbotgwatcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbotgwatcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbpersonality.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbpersonality.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbpersonality{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbpersonality{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbuinotif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbuinotif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbuinotif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbuinotif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbwatcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbwatcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbwatcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbwatcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/USBSettingsApp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/USBSettingsApp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/UsbObexClassController.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/UsbObexClassController.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/UsbWatcher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/UsbWatcher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageprintui.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageprintui.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageprintuiprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/imageprintuiprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbbasicpersonality.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbbasicpersonality.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbdevcon.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbdevcon.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usblocodplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usblocodplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmscfileclasscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmscfileclasscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmscfileserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmscfileserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmscpersonality.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmscpersonality.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbotgwatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbotgwatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbpamatplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbpamatplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbpersonality.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbpersonality.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbremotepersonality.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbremotepersonality.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbuinotif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbuinotif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbwatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbwatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/USBSettingsApp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/USBSettingsApp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/UsbObexClassController.dll	build	armv5_urel
+/epoc32/release/armv5/urel/UsbObexClassController.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/UsbWatcher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/UsbWatcher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/imageprintui.exe	build	armv5_urel
+/epoc32/release/armv5/urel/imageprintui.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/imageprintuiprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/imageprintuiprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbbasicpersonality.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbbasicpersonality.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbdevcon.exe	build	armv5_urel
+/epoc32/release/armv5/urel/usbdevcon.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usblocodplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usblocodplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbmscfileclasscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbmscfileclasscontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbmscfileserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/usbmscfileserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbmscpersonality.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbmscpersonality.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbotgwatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbotgwatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbpamatplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbpamatplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbpersonality.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbpersonality.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbremotepersonality.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbremotepersonality.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbuinotif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbuinotif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbwatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbwatcher.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/USBSettingsApp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/UsbObexClassController.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/UsbWatcher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageprintui.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/imageprintuiprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbbasicpersonality.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbdevcon.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/usblocodplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbmscfileclasscontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbmscfileserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbmscpersonality.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbotgwatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbotgwatcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbpamatplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbpersonality.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbpersonality.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbremotepersonality.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbuinotif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbuinotif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbwatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbwatcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/imageprintui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/usbsettingsapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101F9696/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101fe1db/usbpammscfile.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/1020e470/phonecapability.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/1020e470/phonecapability.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/imageprintui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/imageprintui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/usbsettingsapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/imageprintuiprovider.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/imageprintuiprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/imageprintuiprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbbasicpersonality.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usblocodplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbmscfileclasscontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbmscpersonality.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbobexclasscontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbpamatplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbremotepersonality.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbuinotif.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/USBSettingsApp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/USBSettingsApp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/UsbObexClassController.dll	build	winscw_urel
+/epoc32/release/winscw/urel/UsbObexClassController.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/UsbWatcher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/UsbWatcher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/imageprintui.exe	build	winscw_urel
+/epoc32/release/winscw/urel/imageprintui.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/imageprintuiprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/imageprintuiprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbbasicpersonality.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbbasicpersonality.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbdevcon.exe	build	winscw_urel
+/epoc32/release/winscw/urel/usbdevcon.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/usblocodplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usblocodplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbmscfileclasscontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbmscfileclasscontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbmscfileserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/usbmscfileserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbmscpersonality.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbmscpersonality.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbotgwatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbotgwatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbpamatplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbpamatplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbpersonality.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbpersonality.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbremotepersonality.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbremotepersonality.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbuinotif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbuinotif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbwatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbwatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/imageprintui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/usbsettingsapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/101F9696/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101fe1db/usbpammscfile.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/1020e470/phonecapability.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/1020e470/phonecapability.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/imageprintui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/imageprintui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/usbsettingsapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/imageprintuiprovider.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/imageprintuiprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/imageprintuiprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbbasicpersonality.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usblocodplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbmscfileclasscontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbmscpersonality.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbobexclasscontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbpamatplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbremotepersonality.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbuinotif.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/usbphoneasmodem_mscfile_classcontroller.confml	export	
+/epoc32/rom/config/assets/s60/confml/usbwatcher.confml	export	
+/epoc32/rom/config/assets/s60/implml/usbmanager_mscfile_2000fda8.crml	export	
+/epoc32/rom/config/assets/s60/implml/usbwatcher_101F8801.crml	export	
+/epoc32/rom/include/core/app/usbindicatorplugin.iby	export	
+/epoc32/rom/include/core/mw/UsbBasicPersonality.iby	export	
+/epoc32/rom/include/core/mw/UsbLocodPlugin.iby	export	
+/epoc32/rom/include/core/mw/UsbMscPersonality.iby	export	
+/epoc32/rom/include/core/mw/UsbObexClassController.iby	export	
+/epoc32/rom/include/core/mw/imageprintui.iby	export	
+/epoc32/rom/include/core/mw/imageprintuiprovider.iby	export	
+/epoc32/rom/include/core/mw/usbdevcon.iby	export	
+/epoc32/rom/include/core/mw/usbmscfileclasscontroller.iby	export	
+/epoc32/rom/include/core/mw/usbmscfileserver.iby	export	
+/epoc32/rom/include/core/mw/usbotgwatcher.iby	export	
+/epoc32/rom/include/core/mw/usbpamatplugin.iby	export	
+/epoc32/rom/include/core/mw/usbremotepersonality.iby	export	
+/epoc32/rom/include/core/mw/usbsettingsapp.iby	export	
+/epoc32/rom/include/core/mw/usbuinotif.iby	export	
+/epoc32/rom/include/core/mw/usbwatcher.iby	export	
+/epoc32/rom/include/language/mw/imageprintuiproviderresources.iby	export	
+/epoc32/rom/include/language/mw/imageprintuiresources.iby	export	
+/epoc32/rom/include/language/mw/usbindicatorpluginresources.iby	export	
+/epoc32/rom/include/language/mw/usbsettingsappresources.iby	export	
+/epoc32/rom/include/language/mw/usbuinotifresources.iby	export	

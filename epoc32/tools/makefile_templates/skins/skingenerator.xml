@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+#
+# Copyright (c) 2009 Nokia Corporation and/or its subsidiary(-ies).
+# All rights reserved.
+# This component and the accompanying materials are made available
+# under the terms of "Eclipse Public License v1.0"
+# which accompanies this distribution, and is available
+# at the URL "http://www.eclipse.org/legal/epl-v10.html".
+#
+# Initial Contributors:
+# Nokia Corporation - initial contribution.
+#
+# Contributors:
+#
+# Description:
+#
+# ============================================================================
+#  Name        : skingenerator.xml
+#  Part of     : skins
+#  Description : 
+#  Version     : %version: be1nfmx1#3 %
+# ============================================================================
+-->
+
+<build xmlns="http://symbian.com/xml/build" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://symbian.com/xml/build ../../schema/build/2_0.xsd">
+    <interface name="skins.skingenerator" extends="Symbian.UserFLM" flm="skingenerator.flm">
+
+  		<!-- Helper tools -->
+  		<param name='EPOCTOOLS' default="$(EPOCROOT)/epoc32/tools"/>
+	  	<param name='SKINCOMPILER' default='$(EPOCTOOLS)/AknSkinDescCompiler_NR$(DOTEXE)'/>
+	  	<param name='MIFTOOL' default='$(EPOCTOOLS)/mifconv$(DOTEXE)'/>
+		
+		  <!-- Mifconv parameters which does not have defaults (please notice use of default attribute) -->
+		  <param name='AKNSSKINNAME' default=""/>
+		  <param name='AKNSSKINREALNAME' default=""/>
+		  <param name='AKNSSKINUID' default=""/>
+		  <param name='AKNSSRCDIR' default=""/>
+		  <param name='AKNSGENDIR' default=""/>
+
+		  <param name='SKINDEBUG' default='1'/>
+		  
+    </interface>
+</build>

@@ -1,0 +1,120 @@
+/epoc32/data/z/resource/plugins/thumbnailaudioprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/thumbnailaudioprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/thumbnailimageprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/thumbnailimageprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/thumbnailvideoprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/thumbnailvideoprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/thumbnailmanager_stub.sis	export	
+/epoc32/include/platform/mw/IHLBitmapUtil.h	export	
+/epoc32/include/platform/mw/IHLImageFactory.h	export	
+/epoc32/include/platform/mw/IHLInterfaceIds.h	export	
+/epoc32/include/platform/mw/IHLProcessorFactory.h	export	
+/epoc32/include/platform/mw/IHLViewerFactory.h	export	
+/epoc32/include/platform/mw/MIHLBitmap.h	export	
+/epoc32/include/platform/mw/MIHLBitmapProcessor.h	export	
+/epoc32/include/platform/mw/MIHLFileImage.h	export	
+/epoc32/include/platform/mw/MIHLImage.h	export	
+/epoc32/include/platform/mw/MIHLImageViewer.h	export	
+/epoc32/include/platform/mw/MIHLProcessor.h	export	
+/epoc32/include/platform/mw/MIHLScaler.h	export	
+/epoc32/include/platform/mw/MIHLViewer.h	export	
+/epoc32/include/platform/mw/MIHLViewerObserver.h	export	
+/epoc32/include/platform/mw/TIHLInterfaceType.h	export	
+/epoc32/include/platform/mw/mp4config.h	export	
+/epoc32/include/platform/mw/mp4lib.h	export	
+/epoc32/include/platform/mw/thumbnaildata.h	export	
+/epoc32/include/platform/mw/thumbnailmanager.h	export	
+/epoc32/include/platform/mw/thumbnailmanager_qt.h	export	
+/epoc32/include/platform/mw/thumbnailmanagerobserver.h	export	
+/epoc32/include/platform/mw/thumbnailobjectsource.h	export	
+/epoc32/release/armv5/lib/IHL.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IHL.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IHL{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IHL{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/thumbnailmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/thumbnailmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/thumbnailmanagerqt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/thumbnailmanagerqt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/thumbnailmanagerqt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/thumbnailmanagerqt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/thumbnailmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/thumbnailmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/IHL.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/IHL.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbagdaemon.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbagdaemon.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailaudioprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailaudioprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailimageprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailimageprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailmanagerqt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailmanagerqt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailvideoprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/thumbnailvideoprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmiadrestart.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmiadrestart.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/IHL.dll	build	armv5_urel
+/epoc32/release/armv5/urel/IHL.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/thumbagdaemon.exe	build	armv5_urel
+/epoc32/release/armv5/urel/thumbagdaemon.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailaudioprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailaudioprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailimageprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailimageprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailmanagerqt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailmanagerqt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailvideoprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/thumbnailvideoprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmiadrestart.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tmiadrestart.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/IHL.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/IHL.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbagdaemon.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailaudioprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailimageprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailmanagerqt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailmanagerqt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/thumbnailvideoprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmiadrestart.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/thumbnailaudioprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/thumbnailimageprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/thumbnailvideoprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/IHL.dll	build	winscw_urel
+/epoc32/release/winscw/urel/IHL.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/thumbagdaemon.exe	build	winscw_urel
+/epoc32/release/winscw/urel/thumbagdaemon.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailaudioprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailaudioprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailimageprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailimageprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailmanagerqt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailmanagerqt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailvideoprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/thumbnailvideoprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmiadrestart.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tmiadrestart.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/thumbnailaudioprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/thumbnailimageprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/thumbnailvideoprovider.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/thumbnailmanager.confml	export	
+/epoc32/rom/config/assets/s60/implml/thumbnailmanager_102830b0.crml	export	
+/epoc32/rom/include/core/mw/3GPMP4Lib.iby	export	
+/epoc32/rom/include/core/mw/Ihl.iby	export	
+/epoc32/rom/include/core/mw/thumbagdaemon.iby	export	
+/epoc32/rom/include/core/mw/thumbnailmanager.iby	export	
+/epoc32/rom/include/core/mw/thumbnailmanagerqt.iby	export	

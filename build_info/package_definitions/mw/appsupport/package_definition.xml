@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="appsupport" level="generic" levels="system plugin framework server generic specific" long-name="Generic Application Support">
+<collection name="appsupport_pub" long-name="Generic Application Support Public Interfaces" level="specific">
+<component name="flash_viewer_framework_api" long-name="Flash Viewer Framework API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_pub/flash_viewer_framework_api/group"/>
+</component>
+<component name="network_status_api" long-name="Network Status API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_pub/network_status_api/group"/>
+</component>
+</collection>
+<collection name="appsupport_plat" long-name="Generic Application Support Platform Interfaces" level="specific">
+<component name="action_plugin_api" long-name="Action Plug-In API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/action_plugin_api/group"/>
+</component>
+<component name="application_orientation_api" long-name="Application Orientation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/application_orientation_api/group"/>
+</component>
+<component name="context_access_api" long-name="Context Access API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_access_api/group"/>
+</component>
+<component name="context_framework_services_api" long-name="Context Framework Services API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_framework_services_api/group"/>
+</component>
+<component name="context_framework_client_api" long-name="Context Framework Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_framework_client_api/group"/>
+</component>
+<component name="context_framework_listener_api" long-name="Context Framework Listener API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_framework_listener_api/group"/>
+</component>
+<component name="context_framework_version_api" long-name="Context Framework Version API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_framework_version_api/group"/>
+</component>
+<component name="context_source_plugin_api" long-name="Context Source Plug-In API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_source_plugin_api/group"/>
+</component>
+<component name="context_source_settings_manager_api" long-name="Context Source Settings Manager API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_source_settings_manager_api/group"/>
+</component>
+<component name="context_subscription_api" long-name="Context Subscription API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/context_subscription_api/group"/>
+</component>
+<component name="key_event_framework_api" long-name="Key Event Framework API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/key_event_framework_api/group"/>
+</component>
+<component name="key_event_framework_mapper_api" long-name="Key Event Framework Mapper API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/key_event_framework_mapper_api/group"/>
+</component>
+<component name="media_keys_definition_api" long-name="Media Keys Definition API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/media_keys_definition_api/group"/>
+</component>
+<component name="ood_threshold_api" long-name="OOD Threshold API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/ood_threshold_api/group"/>
+</component>
+<component name="oom_monitor_api" long-name="OOM Monitor API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/oom_monitor_api/group"/>
+</component>
+<component name="oom_monitor_plugin_api" long-name="OOM Monitor Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/oom_monitor_plugin_api/group"/>
+</component>
+<component name="operation_provider_api" long-name="Operation Provider API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/operation_provider_api/group"/>
+</component>
+<component name="phonecmdhandler_api" long-name="Phone Command Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/phonecmdhandler_api/group"/>
+</component>
+<component name="restore_factory_settings_api" long-name="Restore Factory Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/restore_factory_settings_api/group"/>
+</component>
+<component name="restore_factory_settings_plugin_api" long-name="Restore Factory Settings Plug-in API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/restore_factory_settings_plugin_api/group"/>
+</component>
+<component name="secondary_display_accfw_api" long-name="Secondary Display Accessory Framework API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/secondary_display_accfw_api/group"/>
+</component>
+<component name="secondary_display_startup_api" long-name="Secondary Display Startup API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/secondary_display_startup_api/group"/>
+</component>
+<component name="secondary_display_sysap_api" long-name="Secondary Display System Application API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/secondary_display_sysap_api/group"/>
+</component>
+<component name="secondary_display_system_state_api" long-name="Secondary Display System State API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/secondary_display_system_state_api/group"/>
+</component>
+<component name="sensor_user_setting_api" long-name="Sensor User Setting API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/sensor_user_setting_api/group"/>
+</component>
+<component name="startup_configuration_api" long-name="Startup Configuration API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/startup_configuration_api/group"/>
+</component>
+<component name="system_application_key_handler_plugin_api" long-name="System Application Key Handler Plug-in API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/system_application_key_handler_plugin_api/group"/>
+</component>
+<component name="system_application_light_control_plugin_api" long-name="System Application Light Control Plug-in API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/system_application_light_control_plugin_api/group"/>
+</component>
+<component name="system_application_notification_api" long-name="System Application Notification API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/system_application_notification_api/group"/>
+</component>
+<component name="system_application_plugin_callback_api" long-name="System Application Plug-in Callback API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/system_application_plugin_callback_api/group"/>
+</component>
+<component name="flash_mmi_service_interface_custom_api" long-name="Flash MMI Service Interface Custom API" introduced="^2" filter="s60,!sf_build" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/flash_mmi_service_interface_custom_api/group"/>
+</component>
+<component name="flash_netscape_plugin_command_api" long-name="Flash Netscape Plugin Command API" introduced="^2" filter="s60,!sf_build" purpose="optional" class="api">
+<unit bldFile="/sf/mw/appsupport/appsupport_plat/flash_netscape_plugin_command_api/group"/>
+</component>
+</collection>
+<collection name="contextframework" long-name="Context Framework" level="framework">
+<component name="cfw" long-name="Context Framework" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/contextframework/cfw/group"/>
+</component>
+<component name="cfwplugins" long-name="Context Framework Plugins" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/contextframework/cfwplugins/group"/>
+</component>
+</collection>
+<collection name="coreapplicationuis" long-name="Core Application UIs" level="server">
+<component name="dbrecovery" long-name="Database Recovery" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/dbrecovery/group"/>
+</component>
+<component name="nspswsplugin" long-name="NSPS WS Plugin" filter="s60" purpose="optional" plugin="Y">
+<!-- No Service Power Save? Window Server? Please elaborate-->
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/nspswsplugin/group"/>
+</component>
+<component name="rfs" long-name="Restore Factory Settings" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/rfs/group"/>
+</component>
+<component name="rfsplugins" long-name="Restore Factory Settings Plugins" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/rfsplugins/group"/>
+</component>
+<component name="sysap" long-name="System Application" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/sysap/group"/>
+</component>
+<component name="variatedsettings" long-name="Variated Settings" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/variatedsettings/group"/>
+</component>
+<component name="accfwuinotifier" long-name="Accessory Framework UI Notifier" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/accfwuinotifier/group"/>
+</component>
+<component name="kefmapper" long-name="Key Event Framework" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/kefmapper/group"/>
+</component>
+<component name="advancedtspcontroller" long-name="Advanced TSP Controller" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/advancedtspcontroller/group"/>
+</component>
+<component name="powersaveutilities" long-name="Power Save Utilities" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/powersaveutilities" proFile="powersaveutilities.pro"/>
+</component>
+<component name="gsserverenginestub" long-name="GS Server Engine Stub" deprecated="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/gsserverenginestub/group"/>
+</component>
+<component name="gsserverengine" long-name="GS Server Engine" deprecated="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/gsserverengine/group"/>
+</component>
+<component name="sensordatacompensatorplugin" long-name="Sensor Data Compensator Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/sensordatacompensatorplugin/group"/>
+</component>
+<component name="atcmdplugin" long-name="AT Command Plugin" filter="s60,!oem_build" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/atcmdplugin/group"/>
+</component>
+<component name="devicepowermenuplugin" long-name="Device Power Menu Plugin" introduced="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/coreapplicationuis/devicepowermenuplugin" proFile="devicepowermenuplugin.pro"/>
+</component>
+</collection>
+<collection name="flashliteapi_3_1" long-name="Flash Lite API 3.1" level="specific">
+<!--  collection is really a component. Move down a directory -->
+<component name="flashliteapi_3_1_build" long-name="Flash Lite API Build" introduced="^2" filter="s60" purpose="optional"/>
+</collection>
+<collection name="mediakeys" long-name="Media Keys" level="plugin">
+<!--  collection is really a component. Move down a directory -->
+<component name="mediakeys_build" long-name="Media Keys Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/mediakeys/group"/>
+</component>
+</collection>
+<collection name="startupservices" long-name="Startup Services" level="system">
+<component name="splashscreen" long-name="Splash Screen" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/startupservices/splashscreen/group"/>
+</component>
+<component name="startupanimation" long-name="Startup Animation" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/startupservices/startupanimation/group"/>
+</component>
+<component name="startup" long-name="Startup Application" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/startupservices/startup/group"/>
+</component>
+</collection>
+<collection name="sysresmonitoring" long-name="System Resource Monitoring" level="system">
+<component name="oodmonitor" long-name="OOD Monitor" introduced="7.0s" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/sysresmonitoring/oodmonitor/group"/>
+</component>
+<component name="oommonitor" long-name="OOM Monitor" introduced="7.0s" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/sysresmonitoring/oommonitor/group"/>
+</component>
+</collection>
+<collection name="systemsettings" long-name="System Settings" level="system">
+<component name="gssensorplugin" long-name="GS Sensor Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/systemsettings/gssensorplugin/group"/>
+</component>
+<component name="accindicatorplugin" long-name="ACC Indicator Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/systemsettings/accindicatorplugin" proFile="accindicatorplugin.pro"/>
+</component>
+<component name="accindicatorsettings" long-name="ACC Indicator Settings" filter="s60" purpose="optional">
+<!-- can't have a component inside another component -->
+<unit bldFile="/sf/mw/appsupport/systemsettings/accindicatorplugin/accindicatorsettings" proFile="accindicatorsettings.pro"/>
+</component>
+</collection>
+<collection name="filehandling" long-name="File Handling" level="server">
+<component name="fileconverterfw" long-name="File Converter Framework" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/filehandling/fileconverterfw/group" mrp="/sf/mw/appsupport/filehandling/fileconverterfw/group/app-framework_conarc.mrp"/>
+</component>
+<component name="htmltorichtextconverter" long-name="HTML to RichText Converter" introduced="7.0" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/filehandling/htmltorichtextconverter/group" mrp="/sf/mw/appsupport/filehandling/htmltorichtextconverter/group/app-services_chtmltocrtconv.mrp"/>
+</component>
+<component name="richtexttohtmlconverter" long-name="RichText to HTML Converter" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/filehandling/richtexttohtmlconverter/Group" mrp="/sf/mw/appsupport/filehandling/richtexttohtmlconverter/Group/app-services_richtexttohtmlconv.mrp"/>
+</component>
+</collection>
+<collection name="hwresourceadaptation" long-name="Hardware Resource Adaptation" level="generic">
+<component name="hwresourcemgruiplugin" long-name="Hardware Resource Manager UI Plugin" introduced="^2" deprecated="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/hwresourceadaptation/hwresourcemgruiplugin/group" mrp="/sf/mw/appsupport/hwresourceadaptation/hwresourcemgruiplugin/group/telephony_hwrmuiplugin.mrp"/>
+</component>
+</collection>
+<collection name="commonappservices" long-name="Common Application Services" level="framework">
+<component name="alarmserver" long-name="Alarm Server" introduced="7.0" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/commonappservices/alarmserver/Group" mrp="/sf/mw/appsupport/commonappservices/alarmserver/Group/app-services_alarmserver.mrp"/>
+</component>
+<component name="alarmservertest" long-name="Alarm Server Test" introduced="8.1" deprecated="^3" purpose="development">
+<unit bldFile="/sf/mw/appsupport/commonappservices/alarmservertest/TestAlarmSrv" mrp="/sf/mw/appsupport/commonappservices/alarmservertest/TestAlarmSrv/app-services_testalarmsrv.mrp"/>
+</component>
+<component name="appservicesdocs" long-name="Application Services Documentation" purpose="development" class="doc">
+<unit mrp="/sf/mw/appsupport/commonappservices/doc_pub/app-services_documentation.mrp"/>
+</component>
+<component name="backuprestorenotification" long-name="Backup Restore Notification" introduced="8.1" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/commonappservices/backuprestorenotification/group" mrp="/sf/mw/appsupport/commonappservices/backuprestorenotification/group/app-services_BackupRestoreNotification.mrp"/>
+</component>
+</collection>
+<collection name="tzservices" long-name="Time Zone Services" level="plugin">
+<component name="tzserver" long-name="Time Zone Server" introduced="9.1" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/tzservices/tzserver/group" mrp="/sf/mw/appsupport/tzservices/tzserver/group/app-services_tz.mrp"/>
+</component>
+<component name="tzloc" long-name="Time Zone Localization" introduced="9.1" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/tzservices/tzloc/group" mrp="/sf/mw/appsupport/tzservices/tzloc/group/app-services_timezonelocalization.mrp"/>
+</component>
+<component name="tzlocrscfactory" long-name="Time Zone Localization Resource Factory" introduced="9.1" purpose="optional" class="config">
+<unit bldFile="/sf/mw/appsupport/tzservices/tzlocrscfactory/group" mrp="/sf/mw/appsupport/tzservices/tzlocrscfactory/group/app-services_tzlocalizationrscfactory.mrp"/>
+</component>
+<component name="tzdatabase" long-name="Time Zone Database" introduced="9.1" purpose="optional" class="config">
+<unit bldFile="/sf/mw/appsupport/tzservices/tzdatabase/group" mrp="/sf/mw/appsupport/tzservices/tzdatabase/group/app-services_tzdb.mrp"/>
+</component>
+</collection>
+<collection name="contenthandling" long-name="Content Handling" level="plugin">
+<component name="webrecognisers" long-name="Web Recognisers" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/appsupport/contenthandling/webrecognisers/group" mrp="/sf/mw/appsupport/contenthandling/webrecognisers/group/application-protocols_recognisers.mrp"/>
+</component>
+</collection>
+<collection name="openenvutils" long-name="Open Environment Utilities" level="specific">
+<component name="commandshell" long-name="Command Shell" introduced="^3" purpose="development">
+<unit bldFile="/sf/mw/appsupport/openenvutils/commandshell/group" mrp="/sf/mw/appsupport/openenvutils/commandshell/group/oetools_zsh.mrp"/>
+</component>
+<component name="telnetserver" long-name="Telnet Server" introduced="^3" purpose="development">
+<unit bldFile="/sf/mw/appsupport/openenvutils/telnetserver/group" mrp="/sf/mw/appsupport/openenvutils/telnetserver/group/oetools_telnetd.mrp"/>
+</component>
+</collection>
+<collection name="printingsupport" long-name="Printing Support" level="generic">
+<component name="printinguisupport" long-name="Printing UI Support" introduced="^2" deprecated="^3" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/printingsupport/printinguisupport/group" mrp="/sf/mw/appsupport/printingsupport/printinguisupport/group/app-framework_print.mrp"/>
+</component>
+</collection>
+<collection name="appfw" long-name="Application Framework" level="framework">
+<component name="apparchitecture" long-name="Application Architecture" purpose="mandatory">
+<unit bldFile="/sf/mw/appsupport/appfw/apparchitecture/group" mrp="/sf/mw/appsupport/appfw/apparchitecture/group/app-framework_apparc.mrp"/>
+</component>
+<component name="viewserver" long-name="View Server" introduced="6.0" purpose="mandatory">
+<unit bldFile="/sf/mw/appsupport/appfw/viewserver/group" mrp="/sf/mw/appsupport/appfw/viewserver/group/app-framework_viewsrv.mrp"/>
+</component>
+</collection>
+<collection name="applaunchservices" long-name="Application Launch Services" level="generic">
+<component name="aftermarketappstarter" long-name="After Market Application Starter" introduced="^3" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/applaunchservices/aftermarketappstarter/group" mrp="/sf/mw/appsupport/applaunchservices/aftermarketappstarter/group/app-framework_amastart.mrp"/>
+</component>
+<component name="applaunchplugins" long-name="Application Launch Plugins" introduced="^3" purpose="optional">
+<unit bldFile="/sf/mw/appsupport/applaunchservices/applaunchplugins/group" mrp="/sf/mw/appsupport/applaunchservices/applaunchplugins/group/app-framework_aplp.mrp"/>
+</component>
+</collection>
+<collection name="tzpcside" long-name="Time Zone PC Side" level="plugin">
+<component name="tzcompiler" long-name="Time Zone Compiler" introduced="9.1" purpose="optional" class="config PC">
+<unit bldFile="/sf/mw/appsupport/tzpcside/tzcompiler/group" mrp="/sf/mw/appsupport/tzpcside/tzcompiler/group/app-services_tzcompiler.mrp"/>
+</component>
+</collection>
+<collection name="appsupport_info" long-name="Generic Application Support Info" level="specific">
+<component name="appsupport_metadata" long-name="Generic Application Support Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/mw/appsupport/appsupport_info/appsupport_metadata/appsupport_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

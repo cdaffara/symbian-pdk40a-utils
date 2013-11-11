@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="serviceapi" level="specific" levels="os mw1 mw2 app" long-name="Service API">
+<!-- should break up this collection into something meaningful -->
+<collection name="serviceproviders" long-name="Service Providers" level="mw1">
+<!-- are commented out components to be removed? -->
+<component name="sapi_contacts_vpbk" long-name="Contacts Phonebook SAPI" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!--<unit bldFile="serviceproviders/sapi_contacts_vpbk/group"/>-->
+</component>
+<component name="sapi_location" long-name="Location SAPI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/sapi_location/group"/>
+</component>
+<component name="sapi_mediamanagement" long-name="Media Management SAPI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/sapi_mediamanagement/group"/>
+</component>
+<component name="sapi_landmarks" long-name="Landmarks SAPI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/sapi_landmarks/group"/>
+</component>
+<component name="sapi_messaging" long-name="Messaging SAPI" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="serviceproviders/sapi_messaging/group"/> -->
+</component>
+<component name="sapi_applicationmanager" long-name="Application Manager SAPI" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!--  <unit bldFile="serviceproviders/sapi_applicationmanager/group"/>-->
+</component>
+<component name="sapi_calendar" long-name="Calendar SAPI" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="serviceproviders/sapi_calendar/group"/> -->
+</component>
+<component name="sapi_logging" long-name="Logging SAPI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/sapi_logging/group"/>
+</component>
+<component name="sapi_sensor" long-name="Sensor SAPI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/sapi_sensor/group"/>
+</component>
+<component name="sapi_sysinfo" long-name="Sysinfo SAPI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/sapi_sysinfo/group"/>
+</component>
+<component name="sapi_serviceregistry" long-name="Service Registry SAPI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/sapi_serviceregistry/group"/>
+</component>
+<component name="jsapi" long-name="Javascript API" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/jsapi/group"/>
+</component>
+<component name="serviceproviders_build" long-name="Service API Build" filter="s60" purpose="optional">
+<!--  distribute the exports or make this a ROM component by removing the #includes -->
+<unit bldFile="/sf/mw/serviceapi/serviceproviders/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

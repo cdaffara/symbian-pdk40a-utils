@@ -1,0 +1,1025 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/datetimesettingsplugin.qtplugin	export	
+/epoc32/data/z/data/sounds/digital/alarm.aac	export	
+/epoc32/data/z/data/sounds/digital/clock.aac	export	
+/epoc32/data/z/private/10003a3f/import/apps/calendar_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/calendar_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/calenviewerservice_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/calenviewerservice_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/clock_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/clock_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/notes_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/notes_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a5b/backup_registration.xml	export	
+/epoc32/data/z/private/10005901/backup_registration.xml	export	
+/epoc32/data/z/private/10005901/solaritems	export	
+/epoc32/data/z/private/10005903/backup_registration.xml	export	
+/epoc32/data/z/private/10005906/backup_registration.xml	export	
+/epoc32/data/z/private/1020383E/tzdb.dbz	export	
+/epoc32/data/z/private/10282bc4/rules/alarmuisnooze.rul	export	
+/epoc32/data/z/private/200159A2/backup_registration.xml	export	
+/epoc32/data/z/resource/agnversit2strings.r01	resource	armv5_urel
+/epoc32/data/z/resource/agnversit2strings.r01	resource	winscw_udeb
+/epoc32/data/z/resource/agnversit2strings.rsc	resource	armv5_urel
+/epoc32/data/z/resource/agnversit2strings.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/almalert.r01	resource	armv5_urel
+/epoc32/data/z/resource/almalert.r01	resource	winscw_udeb
+/epoc32/data/z/resource/almalert.rsc	resource	armv5_urel
+/epoc32/data/z/resource/almalert.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/calendar.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/calendar.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/calenviewerservice.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/calenviewerservice.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/clock.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/clock.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/notes.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/notes.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/hb/splashml/calendar.docml	export	
+/epoc32/data/z/resource/hb/splashml/calendar.splashml	export	
+/epoc32/data/z/resource/hb/splashml/clockapplication.docml	export	
+/epoc32/data/z/resource/hb/splashml/clockapplication.splashml	export	
+/epoc32/data/z/resource/hb/splashml/notesapplication.docml	export	
+/epoc32/data/z/resource/hb/splashml/notesapplication.splashml	export	
+/epoc32/data/z/resource/mcc/mcc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mcc/mcc.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/agnversit.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/agnversit.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/agnversit2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/agnversit2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/calenlunarchineseplugin.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/calenlunarchineseplugin.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/calenlunarchineseplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/calenlunarchineseplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cconplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cconplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/clocknitzplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/clocknitzplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rversit.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rversit.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/plugins/calendar/agendaeventviewerplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/clock/clocksettingsviewplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/notes/noteseditorplugin.qtplugin	export	
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r01	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r01	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r02	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r02	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.rsc	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups_jerusalem.r01	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups_jerusalem.r01	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups_jerusalem.r02	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups_jerusalem.r02	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups_jerusalem.rsc	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups_jerusalem.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones.r01	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones.r01	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones.r02	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones.r02	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones.rsc	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones_tel_aviv.r01	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones_tel_aviv.r01	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones_tel_aviv.r02	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones_tel_aviv.r02	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones_tel_aviv.rsc	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones_tel_aviv.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/alarmui_stub.sis	export	
+/epoc32/data/z/system/install/calendar_stub.sis	export	
+/epoc32/data/z/system/install/clock_stub.sis	export	
+/epoc32/data/z/system/install/notes_stub.sis	export	
+/epoc32/include/agnversit2strings.rsg	resource	armv5_urel
+/epoc32/include/agnversit2strings.rsg	resource	winscw_udeb
+/epoc32/include/almalert.rsg	resource	armv5_urel
+/epoc32/include/almalert.rsg	resource	winscw_udeb
+/epoc32/include/app/calalarm.h	export	
+/epoc32/include/app/calcalendarinfo.h	export	
+/epoc32/include/app/calcalendariterator.h	export	
+/epoc32/include/app/calcategory.h	export	
+/epoc32/include/app/calcategorymanager.h	export	
+/epoc32/include/app/calchangecallback.h	export	
+/epoc32/include/app/calcommon.h	export	
+/epoc32/include/app/calcontent.h	export	
+/epoc32/include/app/caldataexchange.h	export	
+/epoc32/include/app/caldataformat.h	export	
+/epoc32/include/app/calendarconverter.h	export	
+/epoc32/include/app/calentry.h	export	
+/epoc32/include/app/calentryview.h	export	
+/epoc32/include/app/calfilechangenotification.h	export	
+/epoc32/include/app/calinstance.h	export	
+/epoc32/include/app/calinstanceview.h	export	
+/epoc32/include/app/calinterimapipanic.h	export	
+/epoc32/include/app/caliterator.h	export	
+/epoc32/include/app/calnotification.h	export	
+/epoc32/include/app/calprogresscallback.h	export	
+/epoc32/include/app/calrrule.h	export	
+/epoc32/include/app/calsession.h	export	
+/epoc32/include/app/caltime.h	export	
+/epoc32/include/app/caluser.h	export	
+/epoc32/include/app/vcal.h	export	
+/epoc32/include/app/vcal.inl	export	
+/epoc32/include/app/vcard.h	export	
+/epoc32/include/app/vcard.inl	export	
+/epoc32/include/app/versit.h	export	
+/epoc32/include/app/versit.inl	export	
+/epoc32/include/app/versittls.h	export	
+/epoc32/include/app/vobserv.h	export	
+/epoc32/include/app/vprop.h	export	
+/epoc32/include/app/vprop.inl	export	
+/epoc32/include/app/vrecur.h	export	
+/epoc32/include/app/vrecur.inl	export	
+/epoc32/include/app/vstaticutils.h	export	
+/epoc32/include/app/vtoken.h	export	
+/epoc32/include/app/vuid.h	export	
+/epoc32/include/app/vutil.h	export	
+/epoc32/include/calendar.rsg	resource	armv5_urel
+/epoc32/include/calendar.rsg	resource	winscw_udeb
+/epoc32/include/calenviewerservice.rsg	resource	armv5_urel
+/epoc32/include/calenviewerservice.rsg	resource	winscw_udeb
+/epoc32/include/clock.rsg	resource	armv5_urel
+/epoc32/include/clock.rsg	resource	winscw_udeb
+/epoc32/include/mcc.rsg	resource	armv5_urel
+/epoc32/include/mcc.rsg	resource	winscw_udeb
+/epoc32/include/notes.rsg	resource	armv5_urel
+/epoc32/include/notes.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/AgendaEntry	export	
+/epoc32/include/platform/app/AgendaUtil	export	
+/epoc32/include/platform/app/AgnExportObserver	export	
+/epoc32/include/platform/app/AgnExportObserver.h	export	
+/epoc32/include/platform/app/AgnImportObserver	export	
+/epoc32/include/platform/app/AgnImportObserver.h	export	
+/epoc32/include/platform/app/CalenEditor	export	
+/epoc32/include/platform/app/CalenExporter	export	
+/epoc32/include/platform/app/CalenExporter.h	export	
+/epoc32/include/platform/app/CalenImporter	export	
+/epoc32/include/platform/app/CalenImporter.h	export	
+/epoc32/include/platform/app/CalenInterimUtils2	export	
+/epoc32/include/platform/app/CalenInterimUtils2.h	export	
+/epoc32/include/platform/app/CalenLauncher	export	
+/epoc32/include/platform/app/ClockSettingsViewInterface	export	
+/epoc32/include/platform/app/EventViewerPluginInterface	export	
+/epoc32/include/platform/app/NotesEditorInterface	export	
+/epoc32/include/platform/app/agendaentry.h	export	
+/epoc32/include/platform/app/agendainterfacedefines.h	export	
+/epoc32/include/platform/app/agendautil.h	export	
+/epoc32/include/platform/app/calattachment.h	export	
+/epoc32/include/platform/app/calattachmentmanager.h	export	
+/epoc32/include/platform/app/calendarconverterplugin.h	export	
+/epoc32/include/platform/app/calendardomaincrkeys.h	export	
+/epoc32/include/platform/app/caleneditor.h	export	
+/epoc32/include/platform/app/calenlauncher.h	export	
+/epoc32/include/platform/app/calenmulticaluids.h	export	
+/epoc32/include/platform/app/calinstanceiterator.h	export	
+/epoc32/include/platform/app/clockdomaincrkeys.h	export	
+/epoc32/include/platform/app/clocksettingsviewinterface.h	export	
+/epoc32/include/platform/app/eventviewerplugininterface.h	export	
+/epoc32/include/platform/app/loc/sc/AlmAlert.loc	export	
+/epoc32/include/platform/app/loc/sc/timezonelocalization.loc	export	
+/epoc32/include/platform/app/noteseditorinterface.h	export	
+/epoc32/include/platform/app/vcard3.h	export	
+/epoc32/include/platform/app/versitlinereaderext.h	export	
+/epoc32/include/platform/app/vpropbinaryfile.h	export	
+/epoc32/include/timezonegroups.rsg	resource	armv5_urel
+/epoc32/include/timezonegroups.rsg	resource	winscw_udeb
+/epoc32/include/timezonegroups_jerusalem.rsg	resource	armv5_urel
+/epoc32/include/timezonegroups_jerusalem.rsg	resource	winscw_udeb
+/epoc32/include/timezones.rsg	resource	armv5_urel
+/epoc32/include/timezones.rsg	resource	winscw_udeb
+/epoc32/include/timezones_tel_aviv.rsg	resource	armv5_urel
+/epoc32/include/timezones_tel_aviv.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/agendaeventviewer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agendaeventviewer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agendaeventviewerplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agendaeventviewerplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agendaeventviewerplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agendaeventviewerplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agendaeventviewer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agendaeventviewer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agendainterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agendainterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agendainterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agendainterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agnmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agnmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/agnmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/agnmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknalarmservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknalarmservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aknalarmservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aknalarmservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmalertplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmalertplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmalertplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmalertplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmalertwidget.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmalertwidget.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmalertwidget{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmalertwidget{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/almalert.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/almalert.dso	build	armv5_urel
+/epoc32/release/armv5/lib/almalert{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/almalert{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calencommonutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calencommonutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calencommonutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calencommonutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calencontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calencontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calencontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calencontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calencustomisationmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calencustomisationmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calencustomisationmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calencustomisationmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caleneditor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caleneditor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caleneditor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caleneditor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenglobaldata.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenglobaldata.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenglobaldata{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenglobaldata{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenimp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenimp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenimp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenimp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caleninterimutils2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caleninterimutils2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caleninterimutils2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caleninterimutils2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenlauncher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenlauncher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenlauncher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenlauncher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenlunarchineseplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenlunarchineseplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenlunarchineseplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenlunarchineseplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenregionalutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenregionalutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenregionalutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenregionalutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calensettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calensettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calensettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calensettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenviews.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenviews.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calenviews{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calenviews{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calinterimapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calinterimapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calinterimapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calinterimapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ccon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ccon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ccon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ccon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockalarmclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockalarmclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockalarmclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockalarmclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockalarmeditor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockalarmeditor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockalarmeditor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockalarmeditor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockappcontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockappcontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockappcontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockappcontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockcityselectionlist.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockcityselectionlist.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockcityselectionlist{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockcityselectionlist{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockecomlistener.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockecomlistener.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockecomlistener{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockecomlistener{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockserverclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockserverclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocksettingsutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocksettingsutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocksettingsutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocksettingsutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocksettingsview.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocksettingsview.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocksettingsviewplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocksettingsviewplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocksettingsviewplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocksettingsviewplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocksettingsview{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocksettingsview{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocktimesourceinterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocktimesourceinterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocktimesourceinterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocktimesourceinterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocktimezoneresolver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocktimezoneresolver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clocktimezoneresolver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clocktimezoneresolver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockviewmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockviewmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockviewmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockviewmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockviews.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockviews.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockviews{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockviews{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockwidget.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockwidget.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockwidgetplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockwidgetplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockwidgetplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockwidgetplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/clockwidget{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/clockwidget{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/datetimesettingsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/datetimesettingsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/datetimesettingsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/datetimesettingsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesappcontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesappcontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesappcontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesappcontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/noteseditor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/noteseditor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/noteseditorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/noteseditorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/noteseditorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/noteseditorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/noteseditor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/noteseditor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesmodelhandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesmodelhandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesmodelhandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesmodelhandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesviewmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesviewmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesviewmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesviewmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesviews.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesviews.dso	build	armv5_urel
+/epoc32/release/armv5/lib/notesviews{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/notesviews{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/timezoneclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/timezoneclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/timezoneclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/timezoneclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vcal.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vcal.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vcal{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vcal{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vcard.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vcard.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vcard{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vcard{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/versit.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/versit.dso	build	armv5_urel
+/epoc32/release/armv5/lib/versit2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/versit2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/versit2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/versit2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/versit{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/versit{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/agendaeventviewer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agendaeventviewer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agendaeventviewerplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agendaeventviewerplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agendainterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agendainterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agnmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agnmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agnversit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agnversit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agnversit2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/agnversit2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/agsvexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/agsvexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknalarmservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aknalarmservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmalertplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmalertplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmalertwidget.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmalertwidget.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/almalert.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/almalert.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calencommonutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calencommonutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calencontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calencontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calencustomisationmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calencustomisationmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calendar.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/calendar.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/caleneditor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/caleneditor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenglobaldata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenglobaldata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenimp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenimp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/caleninterimutils2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/caleninterimutils2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenlauncher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenlauncher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenlunarchineseplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenlunarchineseplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenregionalutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenregionalutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calensettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calensettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenviewerservice.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenviewerservice.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenviews.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calenviews.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calinterimapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calinterimapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ccon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ccon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cconplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cconplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clock.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/clock.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockalarmclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockalarmclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockalarmeditor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockalarmeditor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockappcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockappcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockcityselectionlist.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockcityselectionlist.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockecomlistener.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockecomlistener.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocknitzplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocknitzplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocksettingsutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocksettingsutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocksettingsview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocksettingsview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocksettingsviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocksettingsviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocktimesourceinterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocktimesourceinterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocktimezoneresolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clocktimezoneresolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockviewmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockviewmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockviews.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockviews.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockwidget.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockwidget.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockwidgetplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockwidgetplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/datetimesettingsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/datetimesettingsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/notes.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/notes.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesappcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesappcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/noteseditor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/noteseditor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/noteseditorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/noteseditorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesmodelhandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesmodelhandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesviewmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesviewmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesviews.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/notesviews.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rversit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rversit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/timezoneclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/timezoneclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vcal.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vcal.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vcard.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vcard.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/versit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/versit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/versit2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/versit2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/agendaeventviewer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agendaeventviewer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agendaeventviewerplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agendaeventviewerplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agendainterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agendainterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agnmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agnmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agnversit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agnversit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agnversit2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/agnversit2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/agsvexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/agsvexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/aknalarmservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aknalarmservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alarmalertplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alarmalertplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alarmalertwidget.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alarmalertwidget.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/almalert.dll	build	armv5_urel
+/epoc32/release/armv5/urel/almalert.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calencommonutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calencommonutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calencontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calencontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calencustomisationmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calencustomisationmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calendar.exe	build	armv5_urel
+/epoc32/release/armv5/urel/calendar.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/caleneditor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/caleneditor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calenglobaldata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calenglobaldata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calenimp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calenimp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/caleninterimutils2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/caleninterimutils2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calenlauncher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calenlauncher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calenlunarchineseplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calenlunarchineseplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calenregionalutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calenregionalutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calensettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calensettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calenviewerservice.exe	build	armv5_urel
+/epoc32/release/armv5/urel/calenviewerservice.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/calenviews.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calenviews.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calinterimapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calinterimapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ccon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ccon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cconplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cconplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clock.exe	build	armv5_urel
+/epoc32/release/armv5/urel/clock.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockalarmclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockalarmclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockalarmeditor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockalarmeditor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockappcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockappcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockcityselectionlist.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockcityselectionlist.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockecomlistener.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockecomlistener.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clocknitzplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clocknitzplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/clockserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clocksettingsutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clocksettingsutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clocksettingsview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clocksettingsview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clocksettingsviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clocksettingsviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clocktimesourceinterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clocktimesourceinterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clocktimezoneresolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clocktimezoneresolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockviewmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockviewmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockviews.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockviews.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockwidget.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockwidget.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockwidgetplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockwidgetplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/datetimesettingsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/datetimesettingsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/notes.exe	build	armv5_urel
+/epoc32/release/armv5/urel/notes.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/notesappcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/notesappcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/noteseditor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/noteseditor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/noteseditorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/noteseditorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/notesmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/notesmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/notesmodelhandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/notesmodelhandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/notesviewmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/notesviewmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/notesviews.dll	build	armv5_urel
+/epoc32/release/armv5/urel/notesviews.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rversit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rversit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/timezoneclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/timezoneclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vcal.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vcal.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/vcard.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vcard.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/versit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/versit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/versit2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/versit2.dll.map	build	armv5_urel
+/epoc32/release/thumb/udeb/z/private/1020383E/tzdb.dbz	export	
+/epoc32/release/thumb/urel/z/private/1020383E/tzdb.dbz	export	
+/epoc32/release/wins/udeb/z/private/1020383E/tzdb.dbz	export	
+/epoc32/release/wins/urel/z/private/1020383E/tzdb.dbz	export	
+/epoc32/release/winscw/udeb/agendaeventviewer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agendaeventviewer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/agendaeventviewerplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agendaeventviewerplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/agendainterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agendainterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/agnmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agnmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/agnversit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agnversit2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/agsvexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknalarmservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aknalarmservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmalertplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmalertplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmalertwidget.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmalertwidget.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/almalert.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/almalert.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calencommonutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calencommonutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calencontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calencontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calencustomisationmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calencustomisationmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calendar.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/caleneditor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/caleneditor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenglobaldata.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenglobaldata.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenimp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenimp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/caleninterimutils2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/caleninterimutils2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenlauncher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenlauncher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenlunarchineseplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenlunarchineseplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenregionalutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenregionalutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calensettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calensettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenviewerservice.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenviews.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calenviews.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calinterimapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calinterimapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ccon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ccon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cconplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clock.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockalarmclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockalarmclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockalarmeditor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockalarmeditor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockappcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockappcontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockcityselectionlist.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockcityselectionlist.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockecomlistener.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockecomlistener.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocknitzplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocksettingsutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocksettingsutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocksettingsview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocksettingsview.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocksettingsviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocksettingsviewplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocktimesourceinterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocktimesourceinterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocktimezoneresolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clocktimezoneresolver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockviewmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockviewmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockviews.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockviews.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockwidget.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockwidget.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockwidgetplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockwidgetplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/datetimesettingsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/datetimesettingsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/notes.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesappcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesappcontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/noteseditor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/noteseditor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/noteseditorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/noteseditorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesmodelhandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesmodelhandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesviewmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesviewmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesviews.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/notesviews.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rversit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/timezoneclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/timezoneclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/vcal.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vcal.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/vcard.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vcard.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/versit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/versit.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/versit2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/versit2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/data/sounds/digital/alarm.aac	export	
+/epoc32/release/winscw/udeb/z/data/sounds/digital/clock.aac	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/calendar_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/calenviewerservice_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/clock_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/notes_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a5b/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10005901/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10005901/solaritems	export	
+/epoc32/release/winscw/udeb/z/private/10005903/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10005906/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/1020383E/tzdb.dbz	export	
+/epoc32/release/winscw/udeb/z/private/10282bc4/rules/alarmuisnooze.rul	export	
+/epoc32/release/winscw/udeb/z/private/200159A2/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/agnversit2strings.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/agnversit2strings.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/almalert.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/almalert.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/calendar.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/calenviewerservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/clock.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/notes.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mcc/mcc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/agnversit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/agnversit2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/calenlunarchineseplugin.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/calenlunarchineseplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cconplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/clocknitzplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rversit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups.r02	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups_jerusalem.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups_jerusalem.r02	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups_jerusalem.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones.r02	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones_tel_aviv.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones_tel_aviv.r02	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones_tel_aviv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/agendaeventviewer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agendaeventviewer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/agendaeventviewerplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agendaeventviewerplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/agendainterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agendainterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/agnmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agnmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/agnversit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agnversit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/agnversit2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/agnversit2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/agsvexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/agsvexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/aknalarmservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aknalarmservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alarmalertplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alarmalertplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alarmalertwidget.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alarmalertwidget.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/almalert.dll	build	winscw_urel
+/epoc32/release/winscw/urel/almalert.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calencommonutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calencommonutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calencontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calencontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calencustomisationmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calencustomisationmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calendar.exe	build	winscw_urel
+/epoc32/release/winscw/urel/calendar.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/caleneditor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/caleneditor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calenglobaldata.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calenglobaldata.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calenimp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calenimp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/caleninterimutils2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/caleninterimutils2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calenlauncher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calenlauncher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calenlunarchineseplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calenlunarchineseplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calenregionalutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calenregionalutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calensettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calensettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calenviewerservice.exe	build	winscw_urel
+/epoc32/release/winscw/urel/calenviewerservice.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/calenviews.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calenviews.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calinterimapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calinterimapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ccon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ccon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cconplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cconplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clock.exe	build	winscw_urel
+/epoc32/release/winscw/urel/clock.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockalarmclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockalarmclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockalarmeditor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockalarmeditor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockappcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockappcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockcityselectionlist.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockcityselectionlist.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockecomlistener.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockecomlistener.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clocknitzplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clocknitzplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/clockserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clocksettingsutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clocksettingsutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clocksettingsview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clocksettingsview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clocksettingsviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clocksettingsviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clocktimesourceinterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clocktimesourceinterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clocktimezoneresolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clocktimezoneresolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockviewmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockviewmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockviews.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockviews.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockwidget.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockwidget.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockwidgetplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockwidgetplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/datetimesettingsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/datetimesettingsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/notes.exe	build	winscw_urel
+/epoc32/release/winscw/urel/notes.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/notesappcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/notesappcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/noteseditor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/noteseditor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/noteseditorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/noteseditorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/notesmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/notesmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/notesmodelhandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/notesmodelhandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/notesviewmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/notesviewmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/notesviews.dll	build	winscw_urel
+/epoc32/release/winscw/urel/notesviews.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rversit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rversit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/timezoneclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/timezoneclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vcal.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vcal.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/vcard.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vcard.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/versit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/versit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/versit2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/versit2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/data/sounds/digital/alarm.aac	export	
+/epoc32/release/winscw/urel/z/data/sounds/digital/clock.aac	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/calendar_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/calenviewerservice_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/clock_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/notes_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a5b/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10005901/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10005901/solaritems	export	
+/epoc32/release/winscw/urel/z/private/10005903/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10005906/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/1020383E/tzdb.dbz	export	
+/epoc32/release/winscw/urel/z/private/10282bc4/rules/alarmuisnooze.rul	export	
+/epoc32/release/winscw/urel/z/private/200159A2/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/agnversit2strings.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/agnversit2strings.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/almalert.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/almalert.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/calendar.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/calenviewerservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/clock.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/notes.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mcc/mcc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/agnversit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/agnversit2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/calenlunarchineseplugin.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/calenlunarchineseplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cconplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/clocknitzplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rversit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups.r02	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups_jerusalem.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups_jerusalem.r02	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups_jerusalem.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones.r02	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones_tel_aviv.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones_tel_aviv.r02	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones_tel_aviv.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/calendarUI.confml	export	
+/epoc32/rom/config/assets/s60/confml/clockapp.confml	export	
+/epoc32/rom/config/assets/s60/implml/calendarUI_101F874B.crml	export	
+/epoc32/rom/config/assets/s60/implml/clockapp_101F874D.crml	export	
+/epoc32/rom/config/assets/s60/implml/clockapp_101F8876.crml	export	
+/epoc32/rom/config/assets/symbianos/confml/calendar.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/calendar_10003a5b.crml	export	
+/epoc32/rom/include/agnmodel.iby	export	
+/epoc32/rom/include/agnversit.iby	export	
+/epoc32/rom/include/calcon.iby	export	
+/epoc32/rom/include/calinterimapi.iby	export	
+/epoc32/rom/include/cconplugin.iby	export	
+/epoc32/rom/include/core/app/AgnVersit2.iby	export	
+/epoc32/rom/include/core/app/AlmAlert.iby	export	
+/epoc32/rom/include/core/app/CalenImp.iby	export	
+/epoc32/rom/include/core/app/CalenInterimUtils.iby	export	
+/epoc32/rom/include/core/app/agendainterface.iby	export	
+/epoc32/rom/include/core/app/calendar.iby	export	
+/epoc32/rom/include/core/app/calenviewerservice.iby	export	
+/epoc32/rom/include/core/app/clock.iby	export	
+/epoc32/rom/include/core/app/clockengines.iby	export	
+/epoc32/rom/include/core/app/notes.iby	export	
+/epoc32/rom/include/core/app/versit2.iby	export	
+/epoc32/rom/include/core/app/versitrecognizer.iby	export	
+/epoc32/rom/include/customer/app/calenlunarchinese_variant.iby	export	
+/epoc32/rom/include/language/app/AlmAlertResources.iby	export	
+/epoc32/rom/include/language/app/calendarresources.iby	export	
+/epoc32/rom/include/language/app/calenregionalutil.iby	export	
+/epoc32/rom/include/language/app/clockresources.iby	export	
+/epoc32/rom/include/language/app/notesresources.iby	export	
+/epoc32/rom/include/versit.iby	export	
+/epoc32/rom/include/versitrecognizer.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/datetimesettingsplugin.qtplugin	export	
+/sf/app/organizer/calendarengines/inc/AgnExternalInterface.h	export	
+/sf/app/organizer/calendarengines/inc/AgnExternalInterface.inl	export	
+/sf/app/organizer/calendarengines/inc/ICal.h	export	
+/sf/app/organizer/calendarengines/inc/ICalBase.h	export	
+/sf/app/organizer/calendarengines/inc/ICalComponent.h	export	
+/sf/app/organizer/calendarengines/inc/ICalErrors.h	export	
+/sf/app/organizer/calendarengines/inc/ICalKeyWords.h	export	
+/sf/app/organizer/calendarengines/inc/ICalParser.h	export	
+/sf/app/organizer/calendarengines/inc/ICalProperty.h	export	
+/sf/app/organizer/calendarengines/inc/ICalPropertyParam.h	export	
+/sf/app/organizer/calendarengines/inc/ICalRuleSegment.h	export	
+/sf/app/organizer/calendarengines/inc/ICalValue.h	export	
+/sf/app/organizer/calendarengines/inc/calenecomchangeobserver.h	export	
+/sf/app/organizer/calendarengines/inc/calenecomwatcher.h	export	
+/sf/app/organizer/calendarui/inc/CalenInstanceId.inl	export	
+/sf/app/organizer/calendarui/inc/agendaeventviewer.h	export	
+/sf/app/organizer/calendarui/inc/calenactionuiutils.h	export	
+/sf/app/organizer/calendarui/inc/calenagendautils.h	export	
+/sf/app/organizer/calendarui/inc/calencontext.h	export	
+/sf/app/organizer/calendarui/inc/calencontextchangeobserver.h	export	
+/sf/app/organizer/calendarui/inc/calencustomisationmanager.h	export	
+/sf/app/organizer/calendarui/inc/calendateutils.h	export	
+/sf/app/organizer/calendarui/inc/calendocloader.h	export	
+/sf/app/organizer/calendarui/inc/caleninstanceid.h	export	
+/sf/app/organizer/calendarui/inc/calennotificationhandler.h	export	
+/sf/app/organizer/calendarui/inc/calenservicesfactory.h	export	
+/sf/app/organizer/calendarui/inc/calenservicesimpl.h	export	
+/sf/app/organizer/calendarui/inc/calensettings.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/CalenLunarPaths.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/CalenRegionalPluginUids.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/CalenSolarTerms.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/calenextrarowformatter.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/calenlunarinfo.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/calenlunarinfoprovider.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/calenlunarlocalizedinfo.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/calenlunarlocalizer.h	export	
+/sf/app/organizer/calendarui/regionalplugins/inc/calenlunarpanic.h	export	
+/sf/app/organizer/inc/agendaeventviewer.h	export	
+/sf/app/organizer/notes/inc/noteseditor.h	export	
+/sf/app/organizer/notes/inc/noteseditordefines.h	export	

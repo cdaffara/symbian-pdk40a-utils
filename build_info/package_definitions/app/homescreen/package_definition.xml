@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="homescreen" level="apps" levels="support task ss hs" long-name="Home Screen Apps">
+<collection name="homescreen_test" long-name="Home Screen Test" level="support"/>
+<collection name="homescreen_plat" long-name="Home Screen Platform API" level="support">
+<component name="homescreen_plat_build" long-name="Home Screen Platform API Build" purpose="optional">
+<unit bldFile="/sf/app/homescreen/homescreen_plat" proFile="homescreen_plat.pro"/>
+</component>
+</collection>
+<collection name="homescreenapp" long-name="Home Screen Application" level="hs">
+<component name="hsutils" long-name="Home Screen Utils" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/homescreen/homescreenapp/hsutils" proFile="hsutils.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hsdomainmodel" long-name="HS Domain Model" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/homescreen/homescreenapp/hsdomainmodel" proFile="hsdomainmodel.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hs_serviceproviders" long-name="HS Service Providers" introduced="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/homescreen/homescreenapp/serviceproviders" proFile="serviceproviders.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hs_stateplugins" long-name="HS State Plugins" introduced="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/homescreen/homescreenapp/stateplugins" proFile="stateplugins.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hs_widgetplugins" long-name="HS Widget Plugins" introduced="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/homescreen/homescreenapp/widgetplugins" proFile="widgetplugins.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hsapplication" long-name="Home Screen Application" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/homescreen/homescreenapp/hsapplication" proFile="hsapplication.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hsmenuclientplugin" long-name="Home Screen Menu Client Plugin" introduced="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/homescreen/homescreenapp/hsmenuclientplugin" proFile="hsmenuclientplugin.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hshomescreenclientplugin" long-name="HS Menu Client Plugin" introduced="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/homescreen/homescreenapp/hshomescreenclientplugin" proFile="hshomescreenclientplugin.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hswidgetuninstaller" long-name="HS Widget Uninstaller" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/homescreen/homescreenapp/hswidgetuninstaller" proFile="hswidgetuninstaller.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="hsapplicationlauncher" long-name="HS Application Launcher" introduced="^4" purpose="optional">
+<unit bldFile="/sf/app/homescreen/homescreenapp/hsapplicationlauncher" proFile="hsapplicationlauncher.pro" qmakeArgs="-r -config rom"/>
+</component>
+</collection>
+<collection name="screensaver" long-name="Screen Saver" level="ss">
+<!-- break collection into components, or move down a dir and make it a component -->
+<component name="screensaver_build" long-name="Screen Saver Build" purpose="optional">
+<unit bldFile="/sf/app/homescreen/screensaver" proFile="screensaver.pro" qmakeArgs="-r -config rom"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="security" level="services" levels="physical-abstraction plugins libraries management services utilities" long-name="OS Security">
+<collection name="authenticationservices" long-name="Authentication Services" level="utilities">
+<component name="authenticationserver" long-name="Authentication Server" introduced="^4" purpose="optional">
+<unit bldFile="/sf/os/security/authenticationservices/authenticationserver/group" mrp="/sf/os/security/authenticationservices/authenticationserver/group/security_authserver.mrp"/>
+</component>
+</collection>
+<collection name="authorisation" long-name="Authorisation" level="utilities">
+<component name="userpromptservice" long-name="User Prompt Service" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/security/authorisation/userpromptservice/group" mrp="/sf/os/security/authorisation/userpromptservice/group/security_ups.mrp"/>
+</component>
+<component name="userpromptutils" long-name="User Prompt Utils" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/security/authorisation/userpromptutils/group" mrp="/sf/os/security/authorisation/userpromptutils/group/security_ups_utils.mrp"/>
+</component>
+</collection>
+<collection name="contentmgmt" long-name="Content Management" level="utilities">
+<component name="contentaccessfwfordrm" long-name="Content Access Framework for DRM" introduced="9.1" purpose="mandatory">
+<unit bldFile="/sf/os/security/contentmgmt/contentaccessfwfordrm/group" mrp="/sf/os/security/contentmgmt/contentaccessfwfordrm/group/security_caf2.mrp"/>
+</component>
+<component name="cafrecogniserconfig" long-name="CAF Recogniser Config" introduced="9.1" purpose="mandatory">
+<unit bldFile="/sf/os/security/contentmgmt/cafrecogniserconfig" mrp="/sf/os/security/contentmgmt/cafrecogniserconfig/security_reccafconfig.mrp"/>
+</component>
+<component name="referencedrmagent" long-name="Reference DRM Agent" introduced="8.0" purpose="development">
+<unit bldFile="/sf/os/security/contentmgmt/referencedrmagent/RefTestAgent/group" mrp="/sf/os/security/contentmgmt/referencedrmagent/RefTestAgent/group/security_rta.mrp"/>
+</component>
+<component name="cafstreamingsupport" long-name="CAF Streaming Support" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/security/contentmgmt/cafstreamingsupport/group" mrp="/sf/os/security/contentmgmt/cafstreamingsupport/group/security_streamingcaf.mrp"/>
+</component>
+</collection>
+<collection name="crypto" long-name="Crypto Libraries" level="libraries">
+<component name="weakcryptospi" long-name="Weak Crypto SPI" introduced="^3" filter="gt" purpose="optional">
+<unit bldFile="/sf/os/security/crypto/weakcryptospi/group" mrp="/sf/os/security/crypto/weakcryptospi/group/security_cryptospi_weak.mrp"/>
+</component>
+<component name="strongcryptospi" long-name="Strong Crypto SPI" introduced="^3" filter="gt" purpose="optional">
+<unit bldFile="/sf/os/security/crypto/weakcryptospi/strong" mrp="/sf/os/security/crypto/weakcryptospi/group/security_cryptospi_strong.mrp"/>
+</component>
+</collection>
+<collection name="cryptomgmtlibs" long-name="Crypto Management Libraries" level="management">
+<component name="securityutils" long-name="Security Utils" introduced="8.0" purpose="optional">
+<unit bldFile="/sf/os/security/cryptomgmtlibs/securityutils/group" mrp="/sf/os/security/cryptomgmtlibs/securityutils/group/security_common.mrp"/>
+</component>
+<component name="securitydocs" long-name="Security Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/security/cryptomgmtlibs/securitydocs/security_documentation.mrp"/>
+</component>
+<component name="cryptotokenfw" long-name="Crypto Token Framework" introduced="7.0" purpose="optional">
+<unit bldFile="/sf/os/security/cryptomgmtlibs/cryptotokenfw/group" mrp="/sf/os/security/cryptomgmtlibs/cryptotokenfw/group/security_cryptotokens.mrp"/>
+</component>
+<component name="securitycommonutils" long-name="Security Common Utils" introduced="8.0" purpose="mandatory">
+<unit bldFile="/sf/os/security/cryptomgmtlibs/securitycommonutils/group" mrp="/sf/os/security/cryptomgmtlibs/securitycommonutils/group/security_commonutils.mrp"/>
+</component>
+</collection>
+<collection name="securityanddataprivacytools" long-name="Security and Data Privacy Tools" level="services">
+<component name="securityconfig" long-name="Security Config" introduced="9.1" purpose="optional">
+<unit bldFile="/sf/os/security/securityanddataprivacytools/securityconfig/group" mrp="/sf/os/security/securityanddataprivacytools/securityconfig/group/security_config.mrp"/>
+</component>
+<component name="securitytools" long-name="Security Tools" introduced="^3" purpose="optional" class="PC">
+<unit bldFile="/sf/os/security/securityanddataprivacytools/securitytools/group" mrp="/sf/os/security/securityanddataprivacytools/securitytools/group/security_tools.mrp"/>
+</component>
+</collection>
+<collection name="cryptoplugins" long-name="Crypto Plugins" level="plugins">
+<component name="cryptospiplugins" long-name="Crypto SPI Plugins" introduced="^3" filter="gt" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/security/cryptoplugins/cryptospiplugins/group" mrp="/sf/os/security/cryptoplugins/cryptospiplugins/group/security_cryptospi_plugins.mrp"/>
+</component>
+</collection>
+<collection name="cryptoservices" long-name="Crypto Services" level="plugins">
+<component name="certificateandkeymgmt" long-name="Certificate and Key Management" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/os/security/cryptoservices/certificateandkeymgmt/group" mrp="/sf/os/security/cryptoservices/certificateandkeymgmt/group/security_certman.mrp"/>
+</component>
+<component name="filebasedcertificateandkeystores" long-name="File-based Certificate and Key Stores" introduced="8.0" purpose="optional">
+<unit bldFile="/sf/os/security/cryptoservices/filebasedcertificateandkeystores/group" mrp="/sf/os/security/cryptoservices/filebasedcertificateandkeystores/group/security_filetokens.mrp"/>
+</component>
+<component name="rootcertificates" long-name="Root Certificates" introduced="7.0s" filter="sf_build" purpose="optional">
+<unit bldFile="/sf/os/security/cryptoservices/rootcertificates/group" mrp="/sf/os/security/cryptoservices/rootcertificates/group/rootcerts.mrp"/>
+</component>
+<component name="browserrootcertificates" long-name="Browser Root Certificates" introduced="^2" filter="sf_build" purpose="optional">
+<unit mrp="/sf/os/security/cryptoservices/browserrootcertificates/browserrootcerts.mrp"/>
+</component>
+<component name="asnpkcs" long-name="ASN PKCS" introduced="8.0" purpose="optional">
+<unit bldFile="/sf/os/security/cryptoservices/asnpkcs/group" mrp="/sf/os/security/cryptoservices/asnpkcs/group/security_asnpkcs.mrp"/>
+</component>
+</collection>
+<collection name="security_info" long-name="OS Security Info" level="utilities">
+<component name="security_metadata" long-name="OS Security Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/security/security_info/security_metadata/security_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

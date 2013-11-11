@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="ostesttools" level="services" levels="fw trace analysis" long-name="OS Test tools">
+<collection name="stif" long-name="STIF" level="fw">
+<component name="stif_plat" long-name="STIF Platform Interfaces" filter="s60" purpose="development" class="api">
+<unit bldFile="/sf/os/ostesttools/stif/stif_plat/group"/>
+</component>
+<component name="TestInterface" long-name="Test Interface" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/TestInterface/group"/>
+</component>
+<component name="TestServer" long-name="Test Server" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/TestServer/group"/>
+</component>
+<component name="TestEngine" long-name="Test Engine" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/TestEngine/group"/>
+</component>
+<component name="TestServerStarter" long-name="Test Server Starter" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/TestServerStarter/group"/>
+</component>
+<component name="StifTFwIf" long-name="STIF Test Framework Interface" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/StifTFwIf/group"/>
+</component>
+<component name="ConsoleUI" long-name="Console UI" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/ConsoleUI/group"/>
+</component>
+<component name="TestCombiner" long-name="Test Combiner" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/TestCombiner/group"/>
+</component>
+<component name="DemoModule" long-name="Demo Module" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/DemoModule/group"/>
+</component>
+<component name="ATSLogger" long-name="ATS Logger" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/ATSLogger/group"/>
+</component>
+<component name="ATSInterface" long-name="ATS Interface" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/ATSInterface/group"/>
+</component>
+<component name="TestScripter" long-name="Test Scripter" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/TestScripter/group"/>
+</component>
+<component name="SUEvent" long-name="SU Event" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/SUEvent/group"/>
+</component>
+<component name="StifKernelTestClassBase" long-name="STIF Kernel Test Class Base" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/stif/StifKernelTestClassBase/group"/>
+</component>
+<component name="stif_data" long-name="STIF Data" filter="s60" purpose="development" class="config">
+<!--  This is a component. Should move down a directory. or move into other STIF components-->
+<unit bldFile="/sf/os/ostesttools/stif/group"/>
+</component>
+</collection>
+<collection name="hti" long-name="Harmonized Test Interface" level="trace">
+<component name="hti_plat" long-name="HTI Platform Interfaces" filter="s60" purpose="development" class="api">
+<unit bldFile="/sf/os/ostesttools/hti/hti_plat/group"/>
+</component>
+<component name="HtiCfg" long-name="HTI Config" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/hti/HtiCfg/group"/>
+</component>
+<component name="HtiAutoStart" long-name="HTI Autostart" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/hti/HtiAutoStart/group"/>
+</component>
+<component name="HtiFramework" long-name="HTI Framework" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/hti/HtiFramework/group"/>
+</component>
+<component name="hticommplugins" long-name="HTI Communication Plugins" filter="s60" purpose="development" plugin="Y">
+<!-- need to #include these from a single unit or separate into component at the right directory level -->
+<unit bldFile="/sf/os/ostesttools/hti/HtiCommPlugins/HtiBtCommPlugin/group"/>
+<unit bldFile="/sf/os/ostesttools/hti/HtiCommPlugins/HtiIPCommPlugin/group"/>
+<unit bldFile="/sf/os/ostesttools/hti/HtiCommPlugins/HtiSerialCommPlugin/group"/>
+<unit bldFile="/sf/os/ostesttools/hti/HtiCommPlugins/HtiUsbSerialCommPlugin/group"/>
+</component>
+<component name="htiserviceplugins" long-name="HTI Service Plugins" filter="s60" purpose="development" plugin="Y">
+<!-- need to #include these from a single unit or separate into component at the right directory level -->
+<unit bldFile="/sf/os/ostesttools/hti/HtiServicePlugins/HtiAppServicePlugin/group"/>
+<unit bldFile="/sf/os/ostesttools/hti/HtiServicePlugins/HtiEchoServicePlugin/group"/>
+<unit bldFile="/sf/os/ostesttools/hti/HtiServicePlugins/HtiFtpServicePlugin/group"/>
+<unit bldFile="/sf/os/ostesttools/hti/HtiServicePlugins/HtiIpProxyServicePlugin/group"/>
+<unit bldFile="/sf/os/ostesttools/hti/HtiServicePlugins/HtiStifTfServicePlugin/group"/>
+</component>
+<component name="HtiFileHlp" long-name="HTI File Help" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/hti/HtiFileHlp/group"/>
+</component>
+<component name="HtiWatchdog" long-name="HTI Watchdog" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ostesttools/hti/HtiWatchdog/group"/>
+</component>
+<component name="hti_build" long-name="HTI Build" filter="s60" purpose="development">
+<!--  move exports into self-contained component.-->
+<unit bldFile="/sf/os/ostesttools/hti/group"/>
+</component>
+</collection>
+<collection name="symbianunittestfw" long-name="Symbian Unit Test Framework" level="analysis">
+<component name="symbianunittestfw_build" long-name="Symbian Unit Test Framework Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/os/ostesttools/symbianunittestfw/group"/>
+</component>
+</collection>
+<collection name="testexecmdw" level="analysis">
+<component name="tef" long-name="Test Execute Framework" introduced="^4" purpose="optional">
+<unit bldFile="/sf/os/ostesttools/testexecmdw/tef/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

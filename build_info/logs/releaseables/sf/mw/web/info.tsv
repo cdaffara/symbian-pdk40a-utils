@@ -1,0 +1,944 @@
+/epoc32/data/Z/private/100012a5/policy/101FD685.SPD	export	
+/epoc32/data/Z/private/100012a5/policy/10281F95.SPD	export	
+/epoc32/data/z/Resource/widgetinstallerui.r01	resource	armv5_urel
+/epoc32/data/z/Resource/widgetinstallerui.r01	resource	winscw_udeb
+/epoc32/data/z/Resource/widgetinstallerui.rsc	resource	armv5_urel
+/epoc32/data/z/Resource/widgetinstallerui.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/codviewer_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/codviewer_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/ddviewer_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/ddviewer_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/roapapp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/roapapp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/schemeapp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/schemeapp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/widgetui_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/widgetui_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10008d38/BookmarkImportSample.txt	export	
+/epoc32/data/z/private/10008d38/backup_registration.xml	export	
+/epoc32/data/z/private/1020728E/backup_registration.xml	export	
+/epoc32/data/z/private/1020728E/default_feeds.xml	export	
+/epoc32/data/z/private/10282f06/WidgetAccessPolicy.xml	export	
+/epoc32/data/z/private/10282f06/Widget_lproj.xml	export	
+/epoc32/data/z/private/2000B4D8/backup_registration.xml	export	
+/epoc32/data/z/resource/aiwbrowserprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/aiwbrowserprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/codviewer.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/codviewer.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/codviewer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/codviewer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/connman.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/connman.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/ddviewer.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/ddviewer.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/ddviewer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/ddviewer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/downloadmgruilib.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/downloadmgruilib.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/roapapp.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/roapapp.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/roapapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/roapapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/schemeapp.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/schemeapp.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/schemeapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/schemeapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/schemeapp_aif.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/webkit.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/webkit.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/apps/webkiticons.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/webkitutilsicons.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/widgetui.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/widgetui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/widgetui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/widgetui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/browserdialogsprovider.r01	resource	armv5_urel
+/epoc32/data/z/resource/browserdialogsprovider.r01	resource	winscw_udeb
+/epoc32/data/z/resource/browserdialogsprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/browserdialogsprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/browsertelservice.r01	resource	armv5_urel
+/epoc32/data/z/resource/browsertelservice.r01	resource	winscw_udeb
+/epoc32/data/z/resource/browsertelservice.rsc	resource	armv5_urel
+/epoc32/data/z/resource/browsertelservice.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/codui.r01	resource	armv5_urel
+/epoc32/data/z/resource/codui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/codui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/codui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/connectionmanager.r01	resource	armv5_urel
+/epoc32/data/z/resource/connectionmanager.r01	resource	winscw_udeb
+/epoc32/data/z/resource/connectionmanager.rsc	resource	armv5_urel
+/epoc32/data/z/resource/connectionmanager.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/downloadmgruilib.r01	resource	armv5_urel
+/epoc32/data/z/resource/downloadmgruilib.r01	resource	winscw_udeb
+/epoc32/data/z/resource/downloadmgruilib.rsc	resource	armv5_urel
+/epoc32/data/z/resource/downloadmgruilib.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/aiwbrowserprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/aiwbrowserprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/browserrec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/browserrec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/codrecog.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/codrecog.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ddrecog.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ddrecog.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/memoryplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/memoryplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/schemedispatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/schemedispatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/widgetinstallerui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/widgetinstallerui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/widgetmemoryplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/widgetmemoryplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/widgetrecognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/widgetrecognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wrtharvester.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wrtharvester.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wrtharvester.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wrtharvester.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/webkit.r01	resource	armv5_urel
+/epoc32/data/z/resource/webkit.r01	resource	winscw_udeb
+/epoc32/data/z/resource/webkit.rsc	resource	armv5_urel
+/epoc32/data/z/resource/webkit.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/webkitutils.r01	resource	armv5_urel
+/epoc32/data/z/resource/webkitutils.r01	resource	winscw_udeb
+/epoc32/data/z/resource/webkitutils.rsc	resource	armv5_urel
+/epoc32/data/z/resource/webkitutils.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/widgetmenu.r01	resource	armv5_urel
+/epoc32/data/z/resource/widgetmenu.r01	resource	winscw_udeb
+/epoc32/data/z/resource/widgetmenu.rsc	resource	armv5_urel
+/epoc32/data/z/resource/widgetmenu.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wrtharvester.r01	resource	armv5_urel
+/epoc32/data/z/resource/wrtharvester.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wrtharvester.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wrtharvester.rsc	resource	winscw_udeb
+/epoc32/include/aiwbrowserprovider.rsg	resource	armv5_urel
+/epoc32/include/aiwbrowserprovider.rsg	resource	winscw_udeb
+/epoc32/include/browserdialogsprovider.rsg	resource	armv5_urel
+/epoc32/include/browserdialogsprovider.rsg	resource	winscw_udeb
+/epoc32/include/browsertelservice.rsg	resource	armv5_urel
+/epoc32/include/browsertelservice.rsg	resource	winscw_udeb
+/epoc32/include/codui.rsg	resource	armv5_urel
+/epoc32/include/codui.rsg	resource	winscw_udeb
+/epoc32/include/codviewer.rsg	resource	armv5_urel
+/epoc32/include/codviewer.rsg	resource	winscw_udeb
+/epoc32/include/connectionmanager.rsg	resource	armv5_urel
+/epoc32/include/connectionmanager.rsg	resource	winscw_udeb
+/epoc32/include/connman.mbg	bitmap	armv5_urel
+/epoc32/include/connman.mbg	bitmap	winscw_udeb
+/epoc32/include/ddviewer.rsg	resource	armv5_urel
+/epoc32/include/ddviewer.rsg	resource	winscw_udeb
+/epoc32/include/downloadmgruilib.mbg	bitmap	armv5_urel
+/epoc32/include/downloadmgruilib.mbg	bitmap	winscw_udeb
+/epoc32/include/downloadmgruilib.rsg	resource	armv5_urel
+/epoc32/include/downloadmgruilib.rsg	resource	winscw_udeb
+/epoc32/include/mw/BrCtlDefs.h	export	
+/epoc32/include/mw/BrCtlDialogsProvider.h	export	
+/epoc32/include/mw/BrCtlDownloadObserver.h	export	
+/epoc32/include/mw/BrCtlLayoutObserver.h	export	
+/epoc32/include/mw/BrCtlLinkResolver.h	export	
+/epoc32/include/mw/BrCtlSoftkeysObserver.h	export	
+/epoc32/include/mw/BrCtlSpecialLoadObserver.h	export	
+/epoc32/include/mw/BrCtlWindowObserver.h	export	
+/epoc32/include/mw/BrowserPluginInterface.h	export	
+/epoc32/include/mw/BrowserUiInternalCRKeys.h	export	
+/epoc32/include/mw/BrowserUiSDKCRKeys.h	export	
+/epoc32/include/mw/CDownloadMgrUiBase.h	export	
+/epoc32/include/mw/CDownloadMgrUiDownloadMenu.h	export	
+/epoc32/include/mw/CDownloadMgrUiDownloadsList.h	export	
+/epoc32/include/mw/CDownloadMgrUiLibRegistry.h	export	
+/epoc32/include/mw/CDownloadMgrUiUserInteractions.h	export	
+/epoc32/include/mw/CEcomBrowserPluginInterface.h	export	
+/epoc32/include/mw/DownloadMgrClient.h	export	
+/epoc32/include/mw/DownloadsListDlgObserver.h	export	
+/epoc32/include/mw/HttpDownloadMgrCommon.h	export	
+/epoc32/include/mw/MemoryManager.h	export	
+/epoc32/include/mw/PluginAdapterInterface.h	export	
+/epoc32/include/mw/activefavouritesdbnotifier.h	export	
+/epoc32/include/mw/brctlinterface.h	export	
+/epoc32/include/mw/favouritesdb.h	export	
+/epoc32/include/mw/favouritesdbIncremental.h	export	
+/epoc32/include/mw/favouritesdbnotifier.h	export	
+/epoc32/include/mw/favouritesdbobserver.h	export	
+/epoc32/include/mw/favouritesfile.h	export	
+/epoc32/include/mw/favouritesfile.inl	export	
+/epoc32/include/mw/favouriteshandle.h	export	
+/epoc32/include/mw/favouriteshandle.inl	export	
+/epoc32/include/mw/favouritesitem.h	export	
+/epoc32/include/mw/favouritesitemdata.h	export	
+/epoc32/include/mw/favouritesitemlist.h	export	
+/epoc32/include/mw/favouriteslimits.h	export	
+/epoc32/include/mw/favouritessession.h	export	
+/epoc32/include/mw/favouritessession.inl	export	
+/epoc32/include/mw/favouriteswapap.h	export	
+/epoc32/include/mw/jri.h	export	
+/epoc32/include/mw/np_defines.h	export	
+/epoc32/include/mw/npapi.h	export	
+/epoc32/include/mw/npupp.h	export	
+/epoc32/include/mw/obsolete/protypes.h	export	
+/epoc32/include/mw/prcpucfg.h	export	
+/epoc32/include/mw/prtypes.h	export	
+/epoc32/include/platform/mw/AiwBrowserCommands.hrh	export	
+/epoc32/include/platform/mw/ApChangeObserver.h	export	
+/epoc32/include/platform/mw/BrowserDialogsProvider.h	export	
+/epoc32/include/platform/mw/BrowserDialogsProviderObserver.h	export	
+/epoc32/include/platform/mw/BrowserLauncher.h	export	
+/epoc32/include/platform/mw/BrowserOverriddenSettings.h	export	
+/epoc32/include/platform/mw/BrowserOverriddenSettings.inl	export	
+/epoc32/include/platform/mw/Browser_platform_variant.hrh	export	
+/epoc32/include/platform/mw/CodDownload.h	export	
+/epoc32/include/platform/mw/ConnectionObserver.h	export	
+/epoc32/include/platform/mw/ConnectionObservers.h	export	
+/epoc32/include/platform/mw/DownloadMgrClientApiExt.h	export	
+/epoc32/include/platform/mw/DownloadedContentHandler.h	export	
+/epoc32/include/platform/mw/FeedAttributes.h	export	
+/epoc32/include/platform/mw/FeedsEntity.h	export	
+/epoc32/include/platform/mw/FeedsInterface.h	export	
+/epoc32/include/platform/mw/FeedsMap.h	export	
+/epoc32/include/platform/mw/FeedsServerClient.h	export	
+/epoc32/include/platform/mw/FeedsServerFeed.h	export	
+/epoc32/include/platform/mw/FeedsServerFolderItem.h	export	
+/epoc32/include/platform/mw/FeedsServerMsg.h	export	
+/epoc32/include/platform/mw/FeedsServerRequestHandler.h	export	
+/epoc32/include/platform/mw/FeedsServerSettings.h	export	
+/epoc32/include/platform/mw/FolderAttributes.h	export	
+/epoc32/include/platform/mw/HttpDownloadData.h	export	
+/epoc32/include/platform/mw/IdPair.h	export	
+/epoc32/include/platform/mw/InternetConnectionManager.h	export	
+/epoc32/include/platform/mw/LeakTracker.h	export	
+/epoc32/include/platform/mw/MConnection.h	export	
+/epoc32/include/platform/mw/RecentUrlStore.h	export	
+/epoc32/include/platform/mw/SchemeDefs.hrh	export	
+/epoc32/include/platform/mw/SchemeHandler.h	export	
+/epoc32/include/platform/mw/SchemeHandler.inl	export	
+/epoc32/include/platform/mw/Transaction.h	export	
+/epoc32/include/platform/mw/WebUtilsInternalCRKeys.h	export	
+/epoc32/include/platform/mw/WidgetPropertyValue.h	export	
+/epoc32/include/platform/mw/WidgetRegistryClient.h	export	
+/epoc32/include/platform/mw/WidgetRegistryConstants.h	export	
+/epoc32/include/platform/mw/WidgetRegistryData.h	export	
+/epoc32/include/platform/mw/XmlEncoding.h	export	
+/epoc32/include/platform/mw/cuseragent.h	export	
+/epoc32/include/platform/mw/loc/sc/AiwBrowserProvider.loc	export	
+/epoc32/include/platform/mw/loc/sc/BrowserDialogsProvider.loc	export	
+/epoc32/include/platform/mw/loc/sc/BrowserTelService.loc	export	
+/epoc32/include/platform/mw/loc/sc/CodViewer.loc	export	
+/epoc32/include/platform/mw/loc/sc/DownloadMgrUiLib.loc	export	
+/epoc32/include/platform/mw/loc/sc/SchemeApp.loc	export	
+/epoc32/include/platform/mw/loc/sc/Toolbar.loc	export	
+/epoc32/include/platform/mw/loc/sc/Webkit.loc	export	
+/epoc32/include/platform/mw/loc/sc/WidgetInstallerUI.loc	export	
+/epoc32/include/platform/mw/loc/sc/WidgetUi.loc	export	
+/epoc32/include/platform/mw/loc/sc/connectionmanager.loc	export	
+/epoc32/include/platform/mw/loc/sc/wrtharvester.loc	export	
+/epoc32/include/platform/mw/npscript.h	export	
+/epoc32/include/platform/mw/rt_gesturehelper.h	export	
+/epoc32/include/platform/mw/rt_gestureobserver.h	export	
+/epoc32/include/platform/mw/webutilssdkcrkeys.h	export	
+/epoc32/include/platform/mw/widgetappdefs.rh	export	
+/epoc32/include/roapapp.rsg	resource	armv5_urel
+/epoc32/include/roapapp.rsg	resource	winscw_udeb
+/epoc32/include/schemeapp.rsg	resource	armv5_urel
+/epoc32/include/schemeapp.rsg	resource	winscw_udeb
+/epoc32/include/webkit.mbg	bitmap	armv5_urel
+/epoc32/include/webkit.mbg	bitmap	winscw_udeb
+/epoc32/include/webkit.rsg	resource	armv5_urel
+/epoc32/include/webkit.rsg	resource	winscw_udeb
+/epoc32/include/webkiticons.mbg	bitmap	armv5_urel
+/epoc32/include/webkiticons.mbg	bitmap	winscw_udeb
+/epoc32/include/webkitutils.rsg	resource	armv5_urel
+/epoc32/include/webkitutils.rsg	resource	winscw_udeb
+/epoc32/include/webkitutilsicons.mbg	bitmap	armv5_urel
+/epoc32/include/webkitutilsicons.mbg	bitmap	winscw_udeb
+/epoc32/include/widgetinstallerui.rsg	resource	armv5_urel
+/epoc32/include/widgetinstallerui.rsg	resource	winscw_udeb
+/epoc32/include/widgetmenu.rsg	resource	armv5_urel
+/epoc32/include/widgetmenu.rsg	resource	winscw_udeb
+/epoc32/include/widgetui.rsg	resource	armv5_urel
+/epoc32/include/widgetui.rsg	resource	winscw_udeb
+/epoc32/include/wrtharvester.rsg	resource	armv5_urel
+/epoc32/include/wrtharvester.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/BrowserCache.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BrowserCache.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BrowserCache{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BrowserCache{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BrowserTelService.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BrowserTelService.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BrowserTelService{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BrowserTelService{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CodDownload.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CodDownload.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CodDownload{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CodDownload{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CodEng.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CodEng.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CodEng{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CodEng{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CodUi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CodUi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CodUi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CodUi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnectionManager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnectionManager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConnectionManager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConnectionManager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DownloadMgr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DownloadMgr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DownloadMgrUiLib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DownloadMgrUiLib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DownloadMgrUiLib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DownloadMgrUiLib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DownloadMgr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DownloadMgr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FavouritesEngine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FavouritesEngine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FavouritesEngine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FavouritesEngine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FeedsServerApi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FeedsServerApi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FeedsServerApi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FeedsServerApi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FeedsServerClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FeedsServerClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FeedsServerClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FeedsServerClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HttpDMServEng.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HttpDMServEng.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HttpDMServEng{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HttpDMServEng{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/JavaScriptCore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/JavaScriptCore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/JavaScriptCore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/JavaScriptCore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MemMan.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MemMan.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MemMan{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MemMan{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RECENTURLSTORE.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RECENTURLSTORE.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RECENTURLSTORE{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RECENTURLSTORE{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WidgetInstaller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WidgetInstaller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WidgetInstaller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WidgetInstaller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WidgetRegistryClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WidgetRegistryClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WidgetRegistryClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WidgetRegistryClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/browserdialogsprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/browserdialogsprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/browserdialogsprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/browserdialogsprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/browserengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/browserengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/browserengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/browserengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jsdevice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jsdevice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jsdevice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jsdevice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/npscript.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/npscript.dso	build	armv5_urel
+/epoc32/release/armv5/lib/npscript{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/npscript{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pagescaler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pagescaler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pagescaler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pagescaler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rt_gesturehelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rt_gesturehelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rt_gesturehelper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rt_gesturehelper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/webkitutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/webkitutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/webkitutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/webkitutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/webutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/webutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/webutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/webutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/widgetengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/widgetengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/widgetengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/widgetengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/AiwBrowserProvider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AiwBrowserProvider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BrowserCache.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BrowserCache.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BrowserRec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BrowserRec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BrowserTelService.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BrowserTelService.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodDownload.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodDownload.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodEng.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodEng.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodRecog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodRecog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodUi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodUi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodViewer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/CodViewer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnectionManager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnectionManager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DdRecog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DdRecog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DdViewer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/DdViewer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DownloadMgr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DownloadMgr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DownloadMgrServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/DownloadMgrServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DownloadMgrUiLib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DownloadMgrUiLib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FavouritesEngine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FavouritesEngine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FavouritesSrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/FavouritesSrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FeedsServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/FeedsServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FeedsServerApi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FeedsServerApi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FeedsServerClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FeedsServerClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HttpDMServEng.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HttpDMServEng.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/JavaScriptCore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/JavaScriptCore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MemMan.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MemMan.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RECENTURLSTORE.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RECENTURLSTORE.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoapApp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoapApp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SchemeApp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SchemeApp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SchemeDispatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SchemeDispatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCoreDerivedSources.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorebindings.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorebridge.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorecss.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCoredom.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCoreediting.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorehistory.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorehtml.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCoreloader.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorepage.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCoreplatform.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorerendering.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebCorexml.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WebKit.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetBackupRestore.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetBackupRestore.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetInstaller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetInstaller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetInstallerUI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetInstallerUI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetRecognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetRecognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetRegistry.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetRegistry.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetRegistryClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetRegistryClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetUi.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/WidgetUi.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/browserdialogsprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/browserdialogsprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/browserengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/browserengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/jsdevice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/jsdevice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/memoryplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/memoryplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/npscript.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/npscript.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pagescaler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pagescaler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/plugins.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/rt_gesturehelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rt_gesturehelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/webcore_xmlparser.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/webkitutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/webkitutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/webutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/webutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/widgetengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/widgetengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/widgetlauncher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/widgetlauncher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/widgetmemoryplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/widgetmemoryplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wrtharvester.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wrtharvester.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/AiwBrowserProvider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AiwBrowserProvider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BrowserCache.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BrowserCache.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BrowserRec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BrowserRec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BrowserTelService.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BrowserTelService.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CodDownload.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CodDownload.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CodEng.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CodEng.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CodRecog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CodRecog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CodUi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CodUi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CodViewer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/CodViewer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ConnectionManager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ConnectionManager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DdRecog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DdRecog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DdViewer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/DdViewer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DownloadMgr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DownloadMgr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DownloadMgrServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/DownloadMgrServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DownloadMgrUiLib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DownloadMgrUiLib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FavouritesEngine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FavouritesEngine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FavouritesSrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/FavouritesSrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/FeedsServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/FeedsServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/FeedsServerApi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FeedsServerApi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FeedsServerClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FeedsServerClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HttpDMServEng.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HttpDMServEng.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/JavaScriptCore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/JavaScriptCore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MemMan.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MemMan.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RECENTURLSTORE.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RECENTURLSTORE.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RoapApp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/RoapApp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SchemeApp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SchemeApp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SchemeDispatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SchemeDispatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WebCoreDerivedSources.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorebindings.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorebridge.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorecss.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCoredom.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCoreediting.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorehistory.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorehtml.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCoreloader.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorepage.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCoreplatform.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorerendering.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebCorexml.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WebKit.lib	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetBackupRestore.exe	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetBackupRestore.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetInstaller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetInstaller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetInstallerUI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetInstallerUI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetRecognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetRecognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetRegistry.exe	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetRegistry.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetRegistryClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetRegistryClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetUi.exe	build	armv5_urel
+/epoc32/release/armv5/urel/WidgetUi.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/browserdialogsprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/browserdialogsprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/browserengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/browserengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/jsdevice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/jsdevice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/memoryplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/memoryplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/npscript.dll	build	armv5_urel
+/epoc32/release/armv5/urel/npscript.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pagescaler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pagescaler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/plugins.lib	build	armv5_urel
+/epoc32/release/armv5/urel/rt_gesturehelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rt_gesturehelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/webcore_xmlparser.lib	build	armv5_urel
+/epoc32/release/armv5/urel/webkitutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/webkitutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/webutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/webutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/widgetengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/widgetengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/widgetlauncher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/widgetlauncher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/widgetmemoryplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/widgetmemoryplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wrtharvester.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wrtharvester.dll.map	build	armv5_urel
+/epoc32/release/winscw/UDEB/Z/private/100012a5/policy/101FD685.SPD	export	
+/epoc32/release/winscw/UDEB/Z/private/100012a5/policy/10281F95.SPD	export	
+/epoc32/release/winscw/UREL/Z/private/100012a5/policy/101FD685.SPD	export	
+/epoc32/release/winscw/UREL/Z/private/100012a5/policy/10281F95.SPD	export	
+/epoc32/release/winscw/udeb/AiwBrowserProvider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BrowserCache.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BrowserCache.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/BrowserRec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BrowserTelService.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BrowserTelService.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodDownload.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodDownload.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodEng.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodEng.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodRecog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodUi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodUi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CodViewer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnectionManager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConnectionManager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DdRecog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DdViewer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DownloadMgr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DownloadMgr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DownloadMgrServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DownloadMgrUiLib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DownloadMgrUiLib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FavouritesEngine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FavouritesEngine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FavouritesSrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/FeedsServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/FeedsServerApi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FeedsServerApi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FeedsServerClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FeedsServerClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HttpDMServEng.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HttpDMServEng.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/JavaScriptCore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/JavaScriptCore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MemMan.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MemMan.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RECENTURLSTORE.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RECENTURLSTORE.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoapApp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SchemeApp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SchemeDispatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCoreDerivedSources.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorebindings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorebridge.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorecss.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCoredom.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCoreediting.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorehistory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorehtml.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCoreloader.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorepage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCoreplatform.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorerendering.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebCorexml.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WebKit.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetBackupRestore.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetInstaller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetInstaller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetInstallerUI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetRecognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetRegistry.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetRegistryClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetRegistryClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WidgetUi.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/browserdialogsprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/browserdialogsprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/browserengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/browserengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/jsdevice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jsdevice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/memoryplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/npscript.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/npscript.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pagescaler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pagescaler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/plugins.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rt_gesturehelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rt_gesturehelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/webcore_xmlparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/webkitutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/webkitutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/webutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/webutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/widgetengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/widgetengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/widgetlauncher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/widgetmemoryplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wrtharvester.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/Resource/widgetinstallerui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/Resource/widgetinstallerui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/codviewer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/ddviewer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/roapapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/schemeapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/widgetui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aiwbrowserprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/codviewer.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/codviewer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/connman.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/connman.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ddviewer.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ddviewer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/downloadmgruilib.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/downloadmgruilib.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/roapapp.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/roapapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/schemeapp.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/schemeapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/schemeapp_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/webkit.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/webkiticons.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/webkitutilsicons.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/widgetui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/widgetui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/browserdialogsprovider.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/browserdialogsprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/browsertelservice.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/browsertelservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/codui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/codui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/connectionmanager.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/connectionmanager.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/downloadmgruilib.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/downloadmgruilib.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/aiwbrowserprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/browserrec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/codrecog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ddrecog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/memoryplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/schemedispatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/widgetinstallerui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/widgetmemoryplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/widgetrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wrtharvester.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wrtharvester.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/webkit.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/webkit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/webkitutils.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/webkitutils.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/widgetmenu.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/widgetmenu.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wrtharvester.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wrtharvester.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/AiwBrowserProvider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AiwBrowserProvider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BrowserCache.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BrowserCache.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BrowserRec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BrowserRec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BrowserTelService.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BrowserTelService.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CodDownload.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CodDownload.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CodEng.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CodEng.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CodRecog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CodRecog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CodUi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CodUi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CodViewer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/CodViewer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ConnectionManager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ConnectionManager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DdRecog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DdRecog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DdViewer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/DdViewer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DownloadMgr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DownloadMgr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DownloadMgrServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/DownloadMgrServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DownloadMgrUiLib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DownloadMgrUiLib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FavouritesEngine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FavouritesEngine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FavouritesSrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/FavouritesSrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/FeedsServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/FeedsServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/FeedsServerApi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FeedsServerApi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FeedsServerClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FeedsServerClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HttpDMServEng.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HttpDMServEng.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/JavaScriptCore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/JavaScriptCore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MemMan.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MemMan.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RECENTURLSTORE.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RECENTURLSTORE.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RoapApp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/RoapApp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SchemeApp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SchemeApp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SchemeDispatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SchemeDispatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WebCoreDerivedSources.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorebindings.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorebridge.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorecss.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCoredom.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCoreediting.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorehistory.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorehtml.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCoreloader.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorepage.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCoreplatform.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorerendering.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebCorexml.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WebKit.lib	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetBackupRestore.exe	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetBackupRestore.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetInstaller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetInstaller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetInstallerUI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetInstallerUI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetRecognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetRecognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetRegistry.exe	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetRegistry.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetRegistryClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetRegistryClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetUi.exe	build	winscw_urel
+/epoc32/release/winscw/urel/WidgetUi.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/browserdialogsprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/browserdialogsprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/browserengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/browserengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/jsdevice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/jsdevice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/memoryplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/memoryplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/npscript.dll	build	winscw_urel
+/epoc32/release/winscw/urel/npscript.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pagescaler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pagescaler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/plugins.lib	build	winscw_urel
+/epoc32/release/winscw/urel/rt_gesturehelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rt_gesturehelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/webcore_xmlparser.lib	build	winscw_urel
+/epoc32/release/winscw/urel/webkitutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/webkitutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/webutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/webutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/widgetengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/widgetengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/widgetlauncher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/widgetlauncher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/widgetmemoryplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/widgetmemoryplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wrtharvester.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wrtharvester.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/Resource/widgetinstallerui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/Resource/widgetinstallerui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/codviewer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/ddviewer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/roapapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/schemeapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/widgetui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aiwbrowserprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/codviewer.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/codviewer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/connman.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/connman.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ddviewer.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ddviewer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/downloadmgruilib.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/downloadmgruilib.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/roapapp.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/roapapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/schemeapp.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/schemeapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/schemeapp_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/webkit.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/webkiticons.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/webkitutilsicons.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/widgetui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/widgetui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/browserdialogsprovider.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/browserdialogsprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/browsertelservice.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/browsertelservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/codui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/codui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/connectionmanager.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/connectionmanager.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/downloadmgruilib.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/downloadmgruilib.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/aiwbrowserprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/browserrec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/codrecog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ddrecog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/memoryplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/schemedispatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/widgetinstallerui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/widgetmemoryplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/widgetrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wrtharvester.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wrtharvester.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/webkit.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/webkit.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/webkitutils.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/webkitutils.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/widgetmenu.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/widgetmenu.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wrtharvester.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wrtharvester.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/httpcachemanager.confml	export	
+/epoc32/rom/config/assets/s60/confml/webutils.confml	export	
+/epoc32/rom/config/assets/s60/confml/widgetinstaller.confml	export	
+/epoc32/rom/config/assets/s60/implml/httpcachemanager_101F8557.crml	export	
+/epoc32/rom/config/assets/s60/implml/webutils_101F8731.crml	export	
+/epoc32/rom/config/assets/s60/implml/widgetinstaller_1028281F.crml	export	
+/epoc32/rom/include/core/mw/BrowserDialogsProvider.iby	export	
+/epoc32/rom/include/core/mw/BrowserRecognizers.iby	export	
+/epoc32/rom/include/core/mw/CodHandler.iby	export	
+/epoc32/rom/include/core/mw/ConnectionManager.iby	export	
+/epoc32/rom/include/core/mw/Device.iby	export	
+/epoc32/rom/include/core/mw/DownloadMgr.iby	export	
+/epoc32/rom/include/core/mw/DownloadMgrUiLib.iby	export	
+/epoc32/rom/include/core/mw/FavouritesEngine.iby	export	
+/epoc32/rom/include/core/mw/FeedsEngine.iby	export	
+/epoc32/rom/include/core/mw/RecentUrlStore.iby	export	
+/epoc32/rom/include/core/mw/SchemeHandler.iby	export	
+/epoc32/rom/include/core/mw/WidgetBackupRestore.iby	export	
+/epoc32/rom/include/core/mw/WidgetEngine.iby	export	
+/epoc32/rom/include/core/mw/WidgetInstaller.iby	export	
+/epoc32/rom/include/core/mw/WidgetRegistry.iby	export	
+/epoc32/rom/include/core/mw/browsertelservice.iby	export	
+/epoc32/rom/include/core/mw/rt_gesturehelper.iby	export	
+/epoc32/rom/include/core/mw/webkit.iby	export	
+/epoc32/rom/include/core/mw/webutils.iby	export	
+/epoc32/rom/include/core/mw/wrtharvester.iby	export	
+/epoc32/rom/include/customer/mw/favouriges_variant.iby	export	
+/epoc32/rom/include/language/mw/BrowserDialogsProviderResources.iby	export	
+/epoc32/rom/include/language/mw/CodHandlerResources.iby	export	
+/epoc32/rom/include/language/mw/ConnectionManagerResources.iby	export	
+/epoc32/rom/include/language/mw/DownloadMgrUiLibResources.iby	export	
+/epoc32/rom/include/language/mw/FeedsResources.iby	export	
+/epoc32/rom/include/language/mw/SchemeHandlerResources.iby	export	
+/epoc32/rom/include/language/mw/WidgetEngineResources.iby	export	
+/epoc32/rom/include/language/mw/webkitResources.iby	export	
+/epoc32/rom/include/language/mw/wrtharvesterResources.iby	export	
+/epoc32/rombuild/Browser_romfiles.txt	export	
+/epoc32/wins/c/private/10008d38/backup_registration.xml	export	
+/epoc32/wins/c/private/1020728E/backup_registration.xml	export	
+/epoc32/winscw/c/private/10008d38/BookmarkImportSample.txt	export	
+/epoc32/winscw/c/private/10008d38/backup_registration.xml	export	
+/epoc32/winscw/c/private/1020728E/backup_registration.xml	export	
+/epoc32/winscw/c/private/1020728E/default_feeds.xml	export	
+/epoc32/winscw/c/private/10282f06/WidgetAccessPolicy.xml	export	
+/epoc32/winscw/c/private/10282f06/Widget_lproj.xml	export	
+/epoc32/winscw/c/private/2000B4D8/backup_registration.xml	export	
+/sf/mw/web/inc/BrowserTelService.h	export	
+/sf/mw/web/inc/BrowserTelServiceEtelWatcher.h	export	
+/sf/mw/web/inc/WidgetInstaller.h	export	

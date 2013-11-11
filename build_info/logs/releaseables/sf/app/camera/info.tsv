@@ -1,0 +1,42 @@
+/epoc32/data/z/private/10003a3f/import/apps/cxui_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/cxui_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/20027017/backup_registration.xml	export	
+/epoc32/data/z/resource/apps/cxui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/cxui.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/camerax_stub.sis	export	
+/epoc32/data/z/system/sounds/digital/autoFocus.wav	export	
+/epoc32/data/z/system/sounds/digital/capture.wav	export	
+/epoc32/data/z/system/sounds/digital/selftimer.wav	export	
+/epoc32/data/z/system/sounds/digital/videoStart.wav	export	
+/epoc32/data/z/system/sounds/digital/videoStop.wav	export	
+/epoc32/include/cxui.rsg	resource	armv5_urel
+/epoc32/include/cxui.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/cxengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cxengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cxengine{000a0002}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cxengine{000a0002}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/cxengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cxengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cxui.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cxui.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/cxengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cxengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cxui.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cxui.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/cxengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cxengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cxui.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/cxui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/cxui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/cxengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cxengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cxui.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cxui.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/cxui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/cxui.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/camerax.confml	export	
+/epoc32/rom/config/assets/s60/confml/cameraxvariation.confml	export	
+/epoc32/rom/config/assets/s60/implml/camerax_20027017.crml	export	
+/epoc32/rom/config/assets/s60/implml/cameraxvariation_20027018.crml	export	
+/epoc32/rom/include/core/app/camerax.iby	export	
+/epoc32/rom/include/language/app/cameraxresources.iby	export	

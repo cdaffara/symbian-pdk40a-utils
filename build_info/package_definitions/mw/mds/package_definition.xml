@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="mds" level="specific" levels="mgr eng server int" long-name="Metadata Services">
+<collection name="mds_plat" long-name="Metadata Services Platform Interfaces" level="int">
+<component name="context_engine_plugin_api" long-name="Context Engine Plugin API" introduced="^2" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mds/mds_plat/context_engine_plugin_api/group" filter="!test"/>
+</component>
+<component name="harvester_framework_api" long-name="Harvester Framework API" introduced="^2" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mds/mds_plat/harvester_framework_api/group" filter="!test"/>
+<!-- can only have one unit with the same filter, #include the following from the previous unit -->
+</component>
+<component name="location_manager_api" long-name="Location Manager API" introduced="^2" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mds/mds_plat/location_manager_api/group" filter="!test"/>
+</component>
+<component name="metadata_engine_api" long-name="Metadata Engine API" introduced="^2" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mds/mds_plat/metadata_engine_api/group" filter="!test"/>
+</component>
+<component name="content_listing_framework_collection_manager_api" long-name="Content Listing Framework Collection Manager API" introduced="^2" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mds/mds_plat/content_listing_framework_collection_manager_api/group" filter="!test"/>
+</component>
+<component name="content_listing_framework_extended_api" long-name="Content Listing Framework Extended API" introduced="^2" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mds/mds_plat/content_listing_framework_extended_api/group"/>
+</component>
+</collection>
+<collection name="mds_pub" long-name="Metadata Services Public Interfaces" level="int">
+<component name="content_listing_framework_api" long-name="Content Listing Framework API" introduced="^2" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mds/mds_pub/content_listing_framework_api/group" filter="!test"/>
+</component>
+</collection>
+<collection name="metadataengine" long-name="Metadata Engine" level="eng">
+<component name="metadataengine_build" long-name="Metadata Engine Build" introduced="^2" filter="s60" purpose="optional">
+<!--collection is really a component. Move down a directory  -->
+<unit bldFile="/sf/mw/mds/metadataengine/group"/>
+</component>
+</collection>
+<collection name="locationmanager" long-name="Location Manager" level="mgr">
+<component name="geotagger" long-name="Geo Tagger" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/locationmanager/geotagger/group"/>
+</component>
+<component name="locationtrail" long-name="Location Trail" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/locationmanager/locationtrail/group"/>
+</component>
+<component name="locationmanager_server" long-name="Location Manager Server" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/locationmanager/server/group"/>
+</component>
+<component name="locationmanager_client" long-name="Location Manager Client" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/locationmanager/client/group"/>
+</component>
+<component name="locationmanager_data" long-name="Location Manager Data" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/locationmanager/data"/>
+</component>
+</collection>
+<collection name="contextengine" long-name="Context Engine" level="eng">
+<component name="contextengine_build" long-name="Context Engine Build" introduced="^2" filter="s60" purpose="optional">
+<!-- collection is really a component. Move down a directory -->
+<unit bldFile="/sf/mw/mds/contextengine/group"/>
+</component>
+</collection>
+<collection name="harvester" long-name="Harvester" level="eng">
+<component name="blacklistclient" long-name="Blacklist Client" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/harvester/blacklistclient/group"/>
+</component>
+<component name="blacklistserver" long-name="Blacklist Server" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/harvester/blacklistserver/group"/>
+</component>
+<component name="harvester_common" long-name="Harvester Common" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/harvester/common/group"/>
+</component>
+<component name="composerplugins" long-name="Composer Plugins" introduced="^2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/mds/harvester/composerplugins/group"/>
+</component>
+<component name="harvesterplugins" long-name="Harvester Plugins" introduced="^2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/mds/harvester/harvesterplugins/group"/>
+</component>
+<component name="monitorplugins" long-name="Monitor Plugins" introduced="^2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/mds/harvester/monitorplugins/group"/>
+</component>
+<component name="harvester_server" long-name="Harvester Server" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/harvester/server/group"/>
+</component>
+<component name="harvester_client" long-name="Harvester Client" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/harvester/client/group"/>
+</component>
+<component name="harvester_data" long-name="Harvester Data" introduced="^2" filter="s60" purpose="optional" class="config">
+<!-- consider moving these exports into the other components -->
+<unit bldFile="/sf/mw/mds/harvester/data"/>
+</component>
+</collection>
+<collection name="watchdog" long-name="Watchdog" level="server">
+<!-- collection is really a component. Move down a directory -->
+<component name="mdswatchdog" long-name="Metadata Watchdog" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/watchdog/group"/>
+</component>
+</collection>
+<collection name="clfwrapper" long-name="Content Listing Framework Wrapper" level="int">
+<!-- collection is really a component. Move down a directory -->
+<component name="clfwrapper_build" long-name="CLF Wrapper Build" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mds/clfwrapper/group"/>
+</component>
+</collection>
+<collection name="mds_info" long-name="Metadata Services Info" level="int">
+<component name="mds_rom" long-name="Metadata Services ROM" introduced="^2" filter="s60" purpose="optional" class="config">
+<!-- consider moving these exports into the other collections -->
+<unit bldFile="/sf/mw/mds/rom"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

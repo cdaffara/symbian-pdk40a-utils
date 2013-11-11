@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="videotelephony" level="apps" levels="engine plugin prot ui" long-name="Video Telephony Apps">
+<collection name="videotelephony_plat" long-name="VT Apps Platform Interfaces" level="ui">
+<component name="video_telephony_media_configuration_api" long-name="Video Telephony Media Configuration API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/videotelephony/videotelephony_plat/video_telephony_media_configuration_api/group"/>
+</component>
+</collection>
+<collection name="vtengines" long-name="Video Telephony Engines" level="engine">
+<component name="videoteleng" long-name="Video Telephony Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videotelephony/vtengines/videoteleng/Group"/>
+</component>
+<component name="vtmediatorplugin" long-name="VT Mediator Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/videotelephony/vtengines/vtmediatorplugin/group"/>
+</component>
+</collection>
+<collection name="vtuis" long-name="Video Telephony UIs" level="ui">
+<component name="lcvtplugin" long-name="Video Telephony Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/videotelephony/vtuis/lcvtplugin/group"/>
+</component>
+<component name="lcvtapp" long-name="Video Telephony Application" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videotelephony/vtuis/lcvtapp" proFile="lcvtapp.pro"/>
+</component>
+<component name="lcvtindicatorplugin" long-name="Video Telephony Indicator Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/videotelephony/vtuis/lcvtindicatorplugin" proFile="lcvtindicatorplugin.pro"/>
+</component>
+<component name="lcvtindicatorcontroller" long-name="Video Telephony Indicator Controller" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videotelephony/vtuis/lcvtindicatorcontroller" proFile="lcvtindicatorcontroller.pro"/>
+</component>
+</collection>
+<collection name="vtprotocolplugins" long-name="VT Protocol Plugins" level="plugin">
+<component name="displaysink" long-name="Display Sink" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videotelephony/vtprotocolplugins/DisplaySink/group"/>
+</component>
+<component name="videosource" long-name="Video Source" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videotelephony/vtprotocolplugins/VideoSource/group"/>
+</component>
+</collection>
+<collection name="vtprotocolsstub" long-name="VT Protocols Stub" level="prot">
+<!--  this collection is really a component, move down a directory -->
+<component name="videotelproto" long-name="Video Telephony Protocol" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videotelephony/vtprotocolsstub/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

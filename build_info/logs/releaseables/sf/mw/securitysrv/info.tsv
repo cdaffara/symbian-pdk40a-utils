@@ -1,0 +1,741 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/cpadvancedsecplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/cppincodeplugin.qtplugin	export	
+/epoc32/data/C/resource/qt/plugins/controlpanel/devicelockplugin.qtplugin	export	
+/epoc32/data/z/pluginstub/secuinotificationdialogplugin.qtplugin	export	
+/epoc32/data/z/pluginstub/untrustedcertdialog.qtplugin	export	
+/epoc32/data/z/private/10003a3f/apps/certsaver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/certsaver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/autolock_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/autolock_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101f72a6/certclients.dat	export	
+/epoc32/data/z/resource/apps/autolock.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/autolock.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/certsaver.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/certsaver.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/certsaver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/certsaver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/devencstarter.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/devencstarter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/devencstarter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/devencstarter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/remotelock.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/remotelock.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/remotelock.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/remotelock.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/devcertstore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/devcertstore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/devencrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/devencrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/devkeystore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/devkeystore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/devsrvcertstore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/devsrvcertstore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/gbauicc2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/gbauicc2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpfiltergba2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpfiltergba2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pk5recognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pk5recognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pkcs12recognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pkcs12recognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/securitydialognotifier.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/securitydialognotifier.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/securitynotifierwrapper.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/securitynotifierwrapper.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wimplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wimplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/secui.r01	resource	armv5_urel
+/epoc32/data/z/resource/secui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/secui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/secui.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/CenRepStub.sis	export	
+/epoc32/data/z/system/install/gba_stub.sis	export	
+/epoc32/include/autolock.rsg	resource	armv5_urel
+/epoc32/include/autolock.rsg	resource	winscw_udeb
+/epoc32/include/certsaver.rsg	resource	armv5_urel
+/epoc32/include/certsaver.rsg	resource	winscw_udeb
+/epoc32/include/devencstarter.rsg	resource	armv5_urel
+/epoc32/include/devencstarter.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/CCMSAttribute.h	export	
+/epoc32/include/platform/mw/CCMSAuthenticatedData.h	export	
+/epoc32/include/platform/mw/CCMSCertificateChoices.h	export	
+/epoc32/include/platform/mw/CCMSContentInfo.h	export	
+/epoc32/include/platform/mw/CCMSEncapsulatedContentInfo.h	export	
+/epoc32/include/platform/mw/CCMSIssuerAndSerialNumber.h	export	
+/epoc32/include/platform/mw/CCMSKEKRecipientInfo.h	export	
+/epoc32/include/platform/mw/CCMSKeyAgreeRecipientInfo.h	export	
+/epoc32/include/platform/mw/CCMSKeyIdentifier.h	export	
+/epoc32/include/platform/mw/CCMSKeyTransRecipientInfo.h	export	
+/epoc32/include/platform/mw/CCMSOriginatorIdentifierOrKey.h	export	
+/epoc32/include/platform/mw/CCMSOriginatorInfo.h	export	
+/epoc32/include/platform/mw/CCMSOriginatorPublicKey.h	export	
+/epoc32/include/platform/mw/CCMSRecipientEncryptedKey.h	export	
+/epoc32/include/platform/mw/CCMSRecipientInfo.h	export	
+/epoc32/include/platform/mw/CCMSSequence.h	export	
+/epoc32/include/platform/mw/CCMSSignedData.h	export	
+/epoc32/include/platform/mw/CCMSSignerInfo.h	export	
+/epoc32/include/platform/mw/CCMSX509AlgorithmIdentifier.h	export	
+/epoc32/include/platform/mw/CCMSX509AttributeCertificate.h	export	
+/epoc32/include/platform/mw/CCMSX509AttributeCertificateInfo.h	export	
+/epoc32/include/platform/mw/CCMSX509Certificate.h	export	
+/epoc32/include/platform/mw/CCMSX509CertificateList.h	export	
+/epoc32/include/platform/mw/CCMSX509GeneralName.h	export	
+/epoc32/include/platform/mw/CCMSX509GeneralNames.h	export	
+/epoc32/include/platform/mw/CCMSX509IssuerSerial.h	export	
+/epoc32/include/platform/mw/CCMSX509Signed.h	export	
+/epoc32/include/platform/mw/CCMSX509SubjectPublicKeyInfo.h	export	
+/epoc32/include/platform/mw/CCMSX509Validity.h	export	
+/epoc32/include/platform/mw/DevEncConstants.h	export	
+/epoc32/include/platform/mw/DevEncDiskStatusObserver.h	export	
+/epoc32/include/platform/mw/DevEncDiskUtils.h	export	
+/epoc32/include/platform/mw/DevEncEngineBase.h	export	
+/epoc32/include/platform/mw/DevEncEngineConstants.h	export	
+/epoc32/include/platform/mw/DevEncExternalCRKeys.h	export	
+/epoc32/include/platform/mw/DevEncKeyUtils.h	export	
+/epoc32/include/platform/mw/DevEncMmcObserver.h	export	
+/epoc32/include/platform/mw/DevEncProtectedPSKey.h	export	
+/epoc32/include/platform/mw/DevEncSession.h	export	
+/epoc32/include/platform/mw/DevEncSessionBase.h	export	
+/epoc32/include/platform/mw/GbaUtility.h	export	
+/epoc32/include/platform/mw/JavaUtils.h	export	
+/epoc32/include/platform/mw/LockDomainCRKeys.h	export	
+/epoc32/include/platform/mw/MCMSModule.h	export	
+/epoc32/include/platform/mw/MmcInfo.h	export	
+/epoc32/include/platform/mw/PKIDlg.h	export	
+/epoc32/include/platform/mw/ProvSC.h	export	
+/epoc32/include/platform/mw/RemoteLockSettings.h	export	
+/epoc32/include/platform/mw/WimCert.h	export	
+/epoc32/include/platform/mw/X509CertNameParser.h	export	
+/epoc32/include/platform/mw/devicelockaccessapi.h	export	
+/epoc32/include/platform/mw/gbauilityexport.h	export	
+/epoc32/include/platform/mw/gbautility_qt.h	export	
+/epoc32/include/platform/mw/keyencryptor.h	export	
+/epoc32/include/platform/mw/keyguardaccessapi.h	export	
+/epoc32/include/platform/mw/keylockpolicyapi.h	export	
+/epoc32/include/platform/mw/loc/sc/certsaver.loc	export	
+/epoc32/include/platform/mw/loc/sc/remotelock.loc	export	
+/epoc32/include/platform/mw/loc/sc/secui.loc	export	
+/epoc32/include/platform/mw/lockappclientserver.h	export	
+/epoc32/include/platform/mw/mpkcs12.h	export	
+/epoc32/include/platform/mw/ocsp.h	export	
+/epoc32/include/platform/mw/ocsppolicy.h	export	
+/epoc32/include/platform/mw/ocsprequestandresponse.h	export	
+/epoc32/include/platform/mw/ocsptransport.h	export	
+/epoc32/include/platform/mw/secui.h	export	
+/epoc32/include/platform/mw/secui.hrh	export	
+/epoc32/include/platform/mw/secuicodequerydialog.h	export	
+/epoc32/include/platform/mw/secuimanualsecuritysettings.h	export	
+/epoc32/include/platform/mw/secuisecurityhandler.h	export	
+/epoc32/include/platform/mw/secuisecuritysettings.h	export	
+/epoc32/include/platform/mw/secuisystemlock.h	export	
+/epoc32/include/remotelock.rsg	resource	armv5_urel
+/epoc32/include/remotelock.rsg	resource	winscw_udeb
+/epoc32/include/secui.rsg	resource	armv5_urel
+/epoc32/include/secui.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/CMS.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CMS.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CMS{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CMS{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevTokenClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevTokenClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevTokenClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevTokenClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevTokenShared.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevTokenShared.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevTokenShared{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevTokenShared{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IndicatorAutolockPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IndicatorAutolockPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IndicatorAutolockPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IndicatorAutolockPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IntegrityCheckClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IntegrityCheckClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/IntegrityCheckClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/IntegrityCheckClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RLockSettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RLockSettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RLockSettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RLockSettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Scard.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Scard.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Scard{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Scard{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SwimReader.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SwimReader.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SwimReader{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SwimReader{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WIMCLIENT.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WIMCLIENT.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WIMCLIENT{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WIMCLIENT{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WimUtil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WimUtil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WimUtil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WimUtil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/X509CertNameParser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/X509CertNameParser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/X509CertNameParser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/X509CertNameParser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/autolockuseractivityservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/autolockuseractivityservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/autolockuseractivityservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/autolockuseractivityservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpadvancedsecplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpadvancedsecplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpadvancedsecplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpadvancedsecplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppincodeplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppincodeplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppincodeplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppincodeplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/crber.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/crber.dso	build	armv5_urel
+/epoc32/release/armv5/lib/crber{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/crber{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/crpkcs12.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/crpkcs12.dso	build	armv5_urel
+/epoc32/release/armv5/lib/crpkcs12{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/crpkcs12{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devenccommonutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devenccommonutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devenccommonutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devenccommonutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devicelockplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devicelockplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devicelockplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devicelockplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gba2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gba2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gba2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gba2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/keylockpolicyapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/keylockpolicyapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/keylockpolicyapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/keylockpolicyapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lockclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lockclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lockclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lockclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocsp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocsp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocspcommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocspcommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocspcommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocspcommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocsptransport.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocsptransport.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocsptransport{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocsptransport{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocsp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocsp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secuinotificationdialogplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secuinotificationdialogplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secuinotificationdialogplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secuinotificationdialogplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securitynotifier.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securitynotifier.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securitynotifier{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securitynotifier{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/untrustedcertdialog.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/untrustedcertdialog.dso	build	armv5_urel
+/epoc32/release/armv5/lib/untrustedcertdialog{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/untrustedcertdialog{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/Autolock.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/Autolock.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CMS.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CMS.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CertSaver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/CertSaver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevCertStore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevCertStore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevEncRfsPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevEncRfsPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevEncStarter.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevEncStarter.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevKeyStore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevKeyStore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevSrvCertStore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevSrvCertStore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevTokenClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevTokenClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevTokenServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevTokenServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevTokenShared.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevTokenShared.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/IndicatorAutolockPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/IndicatorAutolockPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/IntegrityCheck.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/IntegrityCheck.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/IntegrityCheckClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/IntegrityCheckClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/IntegrityCheckServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/IntegrityCheckServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PKCS12Recognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PKCS12Recognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Pk5Recognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/Pk5Recognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RLock.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/RLock.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RLockSettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RLockSettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Scard.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/Scard.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SwimReader.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SwimReader.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/TrkDummy.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/TrkDummy.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/TrkDummy1.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/TrkDummy1.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/TrkDummy2.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/TrkDummy2.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WIMCLIENT.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WIMCLIENT.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WimPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WimPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WimServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/WimServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WimUtil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WimUtil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Wimi.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/X509CertNameParser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/X509CertNameParser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/autolockuseractivityservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/autolockuseractivityservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpadvancedsecplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpadvancedsecplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppincodeplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppincodeplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/crber.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/crber.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/crpkcs12.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/crpkcs12.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/devenccommonutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/devenccommonutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/devicelockplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/devicelockplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gba2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gba2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gbaserver2.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/gbaserver2.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gbauicc2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gbauicc2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpfiltergba2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpfiltergba2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/keylockpolicyapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/keylockpolicyapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lockapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/lockapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lockclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lockclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocsp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocsp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocspcommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocspcommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocsptransport.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocsptransport.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/secui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/secui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/secuinotificationdialogplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/secuinotificationdialogplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitydialognotifier.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitydialognotifier.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitydialognotifiersrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitydialognotifiersrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitynotifier.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitynotifier.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitynotifierwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitynotifierwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/untrustedcertdialog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/untrustedcertdialog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/Autolock.exe	build	armv5_urel
+/epoc32/release/armv5/urel/Autolock.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/CMS.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CMS.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CertSaver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/CertSaver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevCertStore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevCertStore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevEncRfsPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevEncRfsPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevEncStarter.exe	build	armv5_urel
+/epoc32/release/armv5/urel/DevEncStarter.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevKeyStore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevKeyStore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevSrvCertStore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevSrvCertStore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevTokenClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevTokenClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevTokenServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/DevTokenServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevTokenShared.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevTokenShared.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/IndicatorAutolockPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/IndicatorAutolockPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/IntegrityCheck.exe	build	armv5_urel
+/epoc32/release/armv5/urel/IntegrityCheck.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/IntegrityCheckClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/IntegrityCheckClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/IntegrityCheckServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/IntegrityCheckServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/PKCS12Recognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PKCS12Recognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/Pk5Recognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/Pk5Recognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RLock.exe	build	armv5_urel
+/epoc32/release/armv5/urel/RLock.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/RLockSettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RLockSettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/Scard.dll	build	armv5_urel
+/epoc32/release/armv5/urel/Scard.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SwimReader.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SwimReader.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/TrkDummy.exe	build	armv5_urel
+/epoc32/release/armv5/urel/TrkDummy.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/TrkDummy1.exe	build	armv5_urel
+/epoc32/release/armv5/urel/TrkDummy1.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/TrkDummy2.exe	build	armv5_urel
+/epoc32/release/armv5/urel/TrkDummy2.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/WIMCLIENT.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WIMCLIENT.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WimPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WimPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WimServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/WimServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/WimUtil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WimUtil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/Wimi.lib	build	armv5_urel
+/epoc32/release/armv5/urel/X509CertNameParser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/X509CertNameParser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/autolockuseractivityservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/autolockuseractivityservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cpadvancedsecplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpadvancedsecplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cppincodeplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cppincodeplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/crber.dll	build	armv5_urel
+/epoc32/release/armv5/urel/crber.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/crpkcs12.dll	build	armv5_urel
+/epoc32/release/armv5/urel/crpkcs12.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/devenccommonutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/devenccommonutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/devicelockplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/devicelockplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gba2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gba2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gbaserver2.exe	build	armv5_urel
+/epoc32/release/armv5/urel/gbaserver2.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/gbauicc2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gbauicc2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpfiltergba2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpfiltergba2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/keylockpolicyapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/keylockpolicyapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lockapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/lockapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/lockclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lockclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ocsp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ocsp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ocspcommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ocspcommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ocsptransport.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ocsptransport.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/secui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/secui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/secuinotificationdialogplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/secuinotificationdialogplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/securitydialognotifier.dll	build	armv5_urel
+/epoc32/release/armv5/urel/securitydialognotifier.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/securitydialognotifiersrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/securitydialognotifiersrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/securitynotifier.dll	build	armv5_urel
+/epoc32/release/armv5/urel/securitynotifier.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/securitynotifierwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/securitynotifierwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/untrustedcertdialog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/untrustedcertdialog.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/Autolock.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/CMS.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CMS.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CertSaver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevCertStore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevEncRfsPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevEncStarter.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevKeyStore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevSrvCertStore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevTokenClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevTokenClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevTokenServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevTokenShared.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevTokenShared.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/IndicatorAutolockPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/IndicatorAutolockPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/IntegrityCheck.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/IntegrityCheckClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/IntegrityCheckClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/IntegrityCheckServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/PKCS12Recognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/Pk5Recognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RLock.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/RLockSettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RLockSettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/Scard.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/Scard.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SwimReader.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SwimReader.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/TrkDummy.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/TrkDummy1.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/TrkDummy2.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/WIMCLIENT.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WIMCLIENT.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WimPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WimServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/WimUtil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WimUtil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/Wimi.lib	export	
+/epoc32/release/winscw/udeb/X509CertNameParser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/X509CertNameParser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/autolockuseractivityservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/autolockuseractivityservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpadvancedsecplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpadvancedsecplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppincodeplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppincodeplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/crber.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/crber.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/crpkcs12.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/crpkcs12.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/devenccommonutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/devenccommonutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/devicelockplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/devicelockplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gba2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gba2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gbaserver2.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/gbauicc2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpfiltergba2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/keylockpolicyapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/keylockpolicyapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lockapp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/lockclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lockclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocsp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocsp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocspcommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocspcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocsptransport.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocsptransport.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/secui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/secui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/secuinotificationdialogplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/secuinotificationdialogplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/securitydialognotifier.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/securitydialognotifiersrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/securitynotifier.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/securitynotifier.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/securitynotifierwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/untrustedcertdialog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/untrustedcertdialog.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/Private/101f72a6/certclients.dat	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/certsaver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/autolock_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/autolock.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/certsaver.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/certsaver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/devencstarter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/devencstarter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/remotelock.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/remotelock.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/devcertstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/devencrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/devkeystore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/devsrvcertstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/gbauicc2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpfiltergba2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pk5recognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pkcs12recognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/securitydialognotifier.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/securitynotifierwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wimplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/secui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/secui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/Autolock.exe	build	winscw_urel
+/epoc32/release/winscw/urel/Autolock.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/CMS.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CMS.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CertSaver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/CertSaver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevCertStore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevCertStore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevEncRfsPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevEncRfsPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevEncStarter.exe	build	winscw_urel
+/epoc32/release/winscw/urel/DevEncStarter.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevKeyStore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevKeyStore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevSrvCertStore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevSrvCertStore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevTokenClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevTokenClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevTokenServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/DevTokenServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevTokenShared.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevTokenShared.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/IndicatorAutolockPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/IndicatorAutolockPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/IntegrityCheck.exe	build	winscw_urel
+/epoc32/release/winscw/urel/IntegrityCheck.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/IntegrityCheckClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/IntegrityCheckClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/IntegrityCheckServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/IntegrityCheckServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/PKCS12Recognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PKCS12Recognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/Pk5Recognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/Pk5Recognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RLock.exe	build	winscw_urel
+/epoc32/release/winscw/urel/RLock.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/RLockSettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RLockSettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/Scard.dll	build	winscw_urel
+/epoc32/release/winscw/urel/Scard.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SwimReader.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SwimReader.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/TrkDummy.exe	build	winscw_urel
+/epoc32/release/winscw/urel/TrkDummy.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/TrkDummy1.exe	build	winscw_urel
+/epoc32/release/winscw/urel/TrkDummy1.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/TrkDummy2.exe	build	winscw_urel
+/epoc32/release/winscw/urel/TrkDummy2.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/WIMCLIENT.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WIMCLIENT.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WimPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WimPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WimServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/WimServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/WimUtil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WimUtil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/Wimi.lib	export	
+/epoc32/release/winscw/urel/X509CertNameParser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/X509CertNameParser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/autolockuseractivityservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/autolockuseractivityservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpadvancedsecplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpadvancedsecplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cppincodeplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cppincodeplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/crber.dll	build	winscw_urel
+/epoc32/release/winscw/urel/crber.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/crpkcs12.dll	build	winscw_urel
+/epoc32/release/winscw/urel/crpkcs12.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/devenccommonutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/devenccommonutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/devicelockplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/devicelockplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gba2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gba2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gbaserver2.exe	build	winscw_urel
+/epoc32/release/winscw/urel/gbaserver2.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/gbauicc2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gbauicc2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpfiltergba2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpfiltergba2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/keylockpolicyapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/keylockpolicyapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lockapp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/lockapp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/lockclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lockclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ocsp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ocsp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ocspcommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ocspcommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ocsptransport.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ocsptransport.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/secui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/secui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/secuinotificationdialogplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/secuinotificationdialogplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/securitydialognotifier.dll	build	winscw_urel
+/epoc32/release/winscw/urel/securitydialognotifier.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/securitydialognotifiersrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/securitydialognotifiersrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/securitynotifier.dll	build	winscw_urel
+/epoc32/release/winscw/urel/securitynotifier.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/securitynotifierwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/securitynotifierwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/untrustedcertdialog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/untrustedcertdialog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/Private/101f72a6/certclients.dat	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/certsaver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/autolock_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/autolock.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/certsaver.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/certsaver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/devencstarter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/devencstarter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/remotelock.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/remotelock.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/devcertstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/devencrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/devkeystore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/devsrvcertstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/gbauicc2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpfiltergba2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pk5recognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pkcs12recognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/securitydialognotifier.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/securitynotifierwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wimplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/secui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/secui.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/Autolock.confml	export	
+/epoc32/rom/config/assets/s60/confml/devencui.confml	export	
+/epoc32/rom/config/assets/s60/confml/lock.confml	export	
+/epoc32/rom/config/assets/s60/confml/remotelock.confml	export	
+/epoc32/rom/config/assets/s60/implml/devencui_200025A6.crml	export	
+/epoc32/rom/config/assets/s60/implml/lock_10283322.crml	export	
+/epoc32/rom/config/assets/s60/implml/remotelock_101FB654.crml	export	
+/epoc32/rom/include/core/app/Autolock.iby	export	
+/epoc32/rom/include/core/app/AutolockSrv.iby	export	
+/epoc32/rom/include/core/app/cpsecplugins.iby	export	
+/epoc32/rom/include/core/app/devicelockplugin.iby	export	
+/epoc32/rom/include/core/app/indicatorautolockplugin.iby	export	
+/epoc32/rom/include/core/app/integritycheck.iby	export	
+/epoc32/rom/include/core/app/lockclient.iby	export	
+/epoc32/rom/include/core/app/pincodeplugin.iby	export	
+/epoc32/rom/include/core/app/secuinotificationdialogplugin.iby	export	
+/epoc32/rom/include/core/mw/CMS.iby	export	
+/epoc32/rom/include/core/mw/CertSaver.iby	export	
+/epoc32/rom/include/core/mw/DevEncDiskUtils.iby	export	
+/epoc32/rom/include/core/mw/DevToken.iby	export	
+/epoc32/rom/include/core/mw/RemoteLock.iby	export	
+/epoc32/rom/include/core/mw/StubSIS.iby	export	
+/epoc32/rom/include/core/mw/gba.iby	export	
+/epoc32/rom/include/core/mw/keylockpolicyapi.iby	export	
+/epoc32/rom/include/core/mw/lockapp.iby	export	
+/epoc32/rom/include/core/mw/ocsp.iby	export	
+/epoc32/rom/include/core/mw/ocsp_ncp.iby	export	
+/epoc32/rom/include/core/mw/pkcs12.iby	export	
+/epoc32/rom/include/core/mw/secui.iby	export	
+/epoc32/rom/include/core/mw/securitydialognotifier.iby	export	
+/epoc32/rom/include/core/mw/securitydialognotifiersrv.iby	export	
+/epoc32/rom/include/core/mw/untrustedcertdialog.iby	export	
+/epoc32/rom/include/core/mw/wim.iby	export	
+/epoc32/rom/include/core/mw/x509certnameparser.iby	export	
+/epoc32/rom/include/language/app/advancedsecurity_resources.iby	export	
+/epoc32/rom/include/language/app/devicelockplugin_resources.iby	export	
+/epoc32/rom/include/language/app/secuinotificationdialogplugin_resources.iby	export	
+/epoc32/rom/include/language/mw/CertSaver_resources.iby	export	
+/epoc32/rom/include/language/mw/RemoteLockResources.iby	export	
+/epoc32/rom/include/language/mw/secuiresources.iby	export	
+/epoc32/rom/include/language/mw/untrustedcertdialog_resources.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cpadvancedsecplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cppincodeplugin.qtplugin	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/devicelockplugin.qtplugin	export	
+/sf/mw/securitysrv/inc/DigSigningNote.h	export	
+/sf/mw/securitysrv/inc/securityuisprivatepskeys.h	export	

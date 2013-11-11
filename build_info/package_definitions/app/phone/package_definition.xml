@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="phone" level="apps" span="2" levels="engine plugin ui app" long-name="Phone Apps">
+<collection name="phoneapp" long-name="Phone Application" level="app">
+<component name="blacklist" long-name="Phone Blacklist Clearing" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phoneapp/blacklist/group"/>
+</component>
+<component name="phoneringingtoneplayer" long-name="Phone Ringingtone Player" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phoneringingtoneplayer/group"/>
+</component>
+<component name="phoneuicontrol" long-name="Phone UI Control" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phoneuicontrol/group"/>
+</component>
+<component name="phoneuistates" long-name="Phone UI States" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phoneuistates/group"/>
+</component>
+<component name="phoneuiutils" long-name="Phone UI Utils" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phoneuiutils/group"/>
+</component>
+<component name="silenceactionplugin" long-name="Silence Action Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phoneapp/silenceactionplugin/group"/>
+</component>
+<component name="phonemediatorcenter" long-name="Phone Mediator Center" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phonemediatorcenter/group"/>
+</component>
+<component name="phoneuiview2" long-name="Phone UI View" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phoneuiview2" proFile="phoneuiview2.pro"/>
+</component>
+<component name="phoneuiqtviewadapter" long-name="Phone UI Qt View Adapter" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phoneapp/phoneuiqtviewadapter" proFile="phoneuiqtviewadapter.pro"/>
+</component>
+<component name="phonestringloader" long-name="Phone String Loader" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phonestringloader" proFile="phonestringloader.pro"/>
+</component>
+<component name="phoneui2" long-name="Phone UI" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phoneui2" proFile="phoneui2.pro"/>
+</component>
+<component name="phoneuivoipextension" long-name="Phone UI VOIP Extension" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneapp/phoneuivoipextension/group"/>
+</component>
+</collection>
+<collection name="phoneengine" long-name="Phone Engine" level="engine">
+<component name="phonecntfinder2" long-name="Phone Contact Finder" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/phonecntfinder2" proFile="phonecntfinder2.pro"/>
+</component>
+<component name="audiohandling" long-name="Phone Audio Handling" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/audiohandling/group"/>
+</component>
+<component name="callhandling" long-name="Call Handling" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/callhandling/group"/>
+</component>
+<component name="contacthandling2" long-name="Phone Contact Handling" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/contacthandling2/group"/>
+</component>
+<component name="loghandling" long-name="Phone Log Handling" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/loghandling/group"/>
+</component>
+<component name="engineinfo" long-name="Phone Engine Info" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/engineinfo/group"/>
+</component>
+<component name="phonemodel" long-name="Phone Model" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/phonemodel" proFile="phonemodel.pro"/>
+</component>
+<component name="servicehandling" long-name="Phone Service Handling" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/servicehandling/group"/>
+</component>
+<component name="phoneservices" long-name="Phone Server" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/phoneservices" proFile="phoneservices.pro"/>
+</component>
+<component name="networkhandlingstarter" long-name="Network Handling Starter" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneengine/networkhandlingstarter" proFile="networkhandlingstarter.pro"/>
+</component>
+</collection>
+<collection name="phoneuis" long-name="Phone UIs" level="ui">
+<component name="bubblemanager2" long-name="Phone Bubble Manager" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneuis/bubblemanager2" proFile="bubblemanager2.pro"/>
+</component>
+<component name="telephonydevicemode" long-name="Telephony Device Mode" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneuis/telephonydevicemode/group"/>
+</component>
+<component name="ussdeditor" long-name="USSD Editor" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/phone/phoneuis/ussdeditor" proFile="ussdeditor.pro"/>
+</component>
+</collection>
+<collection name="phone_plat" long-name="Phone Apps Platform Interfaces" level="app">
+<component name="3d_ringing_tone_enabler_api" long-name="3D Ringing Tone Enabler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/3d_ringing_tone_enabler_api/group"/>
+</component>
+<component name="telephony_comms_information_api" long-name="Telephony Comms Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_comms_information_api/group"/>
+</component>
+<component name="telephony_information_api" long-name="Telephony Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_information_api/group"/>
+</component>
+<component name="telephony_device_mode_api" long-name="Telephony Device Mode API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_device_mode_api/group"/>
+</component>
+<component name="telephony_menu_extension_api" long-name="Telephony Menu Extension API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_menu_extension_api/group"/>
+</component>
+<component name="telephony_remote_party_information_api" long-name="Telephony Remote Party Information API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_remote_party_information_api/group"/>
+</component>
+<component name="telephony_video_mailbox_settings_api" long-name="Telephony Video Mailbox Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_video_mailbox_settings_api/group"/>
+</component>
+<component name="telephony_microphone_mute_status_api" long-name="Telephony Microphone Mute Status API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_microphone_mute_status_api/group"/>
+</component>
+<component name="telephony_logging_extension_api" long-name="Telephony Logging Extension API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_logging_extension_api/group"/>
+</component>
+<component name="telephony_matching_extension_api" long-name="Telephony Matching Extension API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_matching_extension_api/group"/>
+</component>
+<component name="phone_application_commands_api" long-name="Phone Application Commands API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/phone_application_commands_api/group"/>
+</component>
+<component name="phone_application_voip_commands_api" long-name="Phone Application VOIP Commands API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/phone_application_voip_commands_api/group"/>
+</component>
+<component name="phone_telephony_mediator_api" long-name="Telephony Mediator API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/telephony_mediator_api/group"/>
+</component>
+<component name="video_telephony_mediator_api" long-name="Video Telephony Mediator API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/video_telephony_mediator_api/group"/>
+</component>
+<component name="video_telephony_control_mediator_api" long-name="Video Telephony Control Mediator API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/phone/phone_plat/video_telephony_control_mediator_api/group"/>
+</component>
+</collection>
+<collection name="phoneplugins" long-name="Phone Plugins" level="plugin">
+<component name="csplugin" long-name="Circuit Switched Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phoneplugins/csplugin/group"/>
+</component>
+<component name="phoneindicatorplugin" long-name="Phone Indicator Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phoneplugins/phoneindicatorplugin" proFile="phoneindicatorplugin.pro"/>
+</component>
+<component name="dialerwidgetplugin" long-name="Dialer Widget Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phoneplugins/dialerwidgetplugin" proFile="dialerwidgetplugin.pro"/>
+</component>
+<component name="infowidgetplugin" long-name="Info Widget Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phoneplugins/infowidgetplugin" proFile="infowidgetplugin.pro"/>
+</component>
+</collection>
+<collection name="phonesettings" long-name="Phone Settings" level="plugin">
+<component name="cpphonesettingsplugins" long-name="Control Panel Phone Settings Plugins" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/phone/phonesettings/cpphonesettingsplugins" proFile="cpphonesettingsplugins.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

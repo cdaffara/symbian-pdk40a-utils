@@ -1,0 +1,13 @@
+/epoc32/tools/makefile_templates/s60/mifconv.flm	export	
+/epoc32/tools/makefile_templates/s60/mifconv.meta	export	
+/epoc32/tools/makefile_templates/s60/mifconv.mk	export	
+/epoc32/tools/makefile_templates/s60/mifconv.xml	export	
+/epoc32/tools/makefile_templates/s60/mifconv_global_options.make	export	
+/epoc32/tools/makefile_templates/s60/mifconv_option_reader.make	export	
+/epoc32/tools/makefile_templates/s60/mifconv_option_reader_recursive.make	export	
+/epoc32/tools/makefile_templates/s60/mifconv_step1.make	export	
+/epoc32/tools/makefile_templates/s60/mifconv_step2.make	export	
+/epoc32/tools/makefile_templates/s60/mifconv_step3.make	export	
+/epoc32/tools/makefile_templates/s60/mifconv_step4.make	export	
+/epoc32/tools/mifconv.exe	build	tools2_rel
+/epoc32/tools/mifconv_wrapper.py	export	

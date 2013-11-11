@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="videoplayer" level="apps" levels="support plugin util apps" long-name="Video Player Apps">
+<collection name="videoplayer_plat" long-name="Video Player Apps Platform Interfaces" level="apps">
+<component name="videoplayer_startup_api" long-name="Video Player Startup API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/videoplayer/videoplayer_plat/videoplayer_startup_api/group"/>
+</component>
+<component name="videocollection_api" long-name="Video Collection API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/videoplayer/videoplayer_plat/videocollection_api/group"/>
+</component>
+</collection>
+<collection name="videocollection" long-name="Video Collection" level="util">
+<component name="mpxmyvideoscollection" long-name="MPX My Videos Collection" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videoplayer/videocollection/mpxmyvideoscollection/group" filter="!test"/>
+</component>
+<component name="videocollectionwrapper" long-name="Video Collection Wrapper" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videoplayer/videocollection/videocollectionwrapper" proFile="videocollectionwrapper.pro" qmakeArgs="-r"/>
+</component>
+<component name="videocollectionview" long-name="Video Collection View" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videoplayer/videocollection/videocollectionview" proFile="videocollectionview.pro" qmakeArgs="-r"/>
+</component>
+<component name="videofiledetailsview" long-name="Video File Details View" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videoplayer/videocollection/videofiledetailsview" proFile="videofiledetailsview.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="mediasettings" long-name="Media Settings" level="support">
+<component name="mediasettingsengine" long-name="Media Settings Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videoplayer/mediasettings/mediasettingsengine/group"/>
+</component>
+<component name="videosettingsplugin" long-name="Video Settings Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/videoplayer/mediasettings/videosettingsplugin" proFile="videosettingsplugin.pro"/>
+</component>
+</collection>
+<collection name="videoplayerapp" long-name="Video Player App" level="apps">
+<component name="videoplayerengine" long-name="Video Player Engine" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videoplayer/videoplayerapp/videoplayerengine" proFile="videoplayerengine.pro" qmakeArgs="-r"/>
+</component>
+<component name="hbvideoplayer" long-name="Video Player" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/videoplayer/videoplayerapp/videoplayer" proFile="videoplayer.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="videoplayback" long-name="Video Playback Plugins" level="plugin">
+<component name="videoplaybackview" long-name="HB Video Playback View" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/videoplayer/videoplayback/videoplaybackview" proFile="videoplaybackview.pro" qmakeArgs="-r"/>
+</component>
+<component name="videoplaybackviewplugin" long-name="HB Video Playback View Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/videoplayer/videoplayback/videoplaybackviewplugin" proFile="videoplaybackviewplugin.pro" qmakeArgs="-r"/>
+</component>
+<component name="videohelix" long-name="Video Helix" introduced="^3" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/videoplayer/videoplayback/videohelix/group" filter="!test"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

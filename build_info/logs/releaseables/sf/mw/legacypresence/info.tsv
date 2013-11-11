@@ -1,0 +1,113 @@
+/epoc32/data/z/resource/plugins/xdmdevicemanagementadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/xdmdevicemanagementadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/xdmprovisioning.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/xdmprovisioning.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/xdmprovisioningtexts.r01	resource	armv5_urel
+/epoc32/data/z/resource/xdmprovisioningtexts.r01	resource	winscw_udeb
+/epoc32/data/z/resource/xdmprovisioningtexts.rsc	resource	armv5_urel
+/epoc32/data/z/resource/xdmprovisioningtexts.rsc	resource	winscw_udeb
+/epoc32/include/platform/mw/XdmCredentials.h	export	
+/epoc32/include/platform/mw/XdmDirectory.h	export	
+/epoc32/include/platform/mw/XdmDocument.h	export	
+/epoc32/include/platform/mw/XdmDocumentNode.h	export	
+/epoc32/include/platform/mw/XdmEngine.h	export	
+/epoc32/include/platform/mw/XdmEngineDomainCRKeys.h	export	
+/epoc32/include/platform/mw/XdmErrors.h	export	
+/epoc32/include/platform/mw/XdmNamespaceContainer.h	export	
+/epoc32/include/platform/mw/XdmNodeAttribute.h	export	
+/epoc32/include/platform/mw/XdmNodeFactory.h	export	
+/epoc32/include/platform/mw/XdmNodeInterface.h	export	
+/epoc32/include/platform/mw/XdmOperation.h	export	
+/epoc32/include/platform/mw/XdmOperationFactory.h	export	
+/epoc32/include/platform/mw/XdmProtocol.h	export	
+/epoc32/include/platform/mw/XdmProtocolInfo.h	export	
+/epoc32/include/platform/mw/XdmProtocolUidList.h	export	
+/epoc32/include/platform/mw/XdmSettingsApi.h	export	
+/epoc32/include/platform/mw/XdmSettingsCollection.h	export	
+/epoc32/include/platform/mw/XdmSettingsProperty.h	export	
+/epoc32/include/platform/mw/cpresencexdm.h	export	
+/epoc32/include/platform/mw/crlsxdm.h	export	
+/epoc32/include/platform/mw/loc/sc/xdmprovisioningadapter.loc	export	
+/epoc32/include/platform/mw/mrlspresxdmasynchandler.h	export	
+/epoc32/include/platform/mw/msgbearerobscallback.h	export	
+/epoc32/include/platform/mw/msgconnmanagerapi.h	export	
+/epoc32/include/platform/mw/msimpleattribute.h	export	
+/epoc32/include/platform/mw/msimpleconnection.h	export	
+/epoc32/include/platform/mw/msimpleconnectionobserver.h	export	
+/epoc32/include/platform/mw/msimplecontent.h	export	
+/epoc32/include/platform/mw/msimpledocument.h	export	
+/epoc32/include/platform/mw/msimpleelement.h	export	
+/epoc32/include/platform/mw/msimpleetagobserver.h	export	
+/epoc32/include/platform/mw/msimplefilterdocument.h	export	
+/epoc32/include/platform/mw/msimplemeta.h	export	
+/epoc32/include/platform/mw/msimplenamespace.h	export	
+/epoc32/include/platform/mw/msimplepresencelist.h	export	
+/epoc32/include/platform/mw/msimplepublisher.h	export	
+/epoc32/include/platform/mw/msimplepublishobserver.h	export	
+/epoc32/include/platform/mw/msimplewatcher.h	export	
+/epoc32/include/platform/mw/msimplewatcherobserver.h	export	
+/epoc32/include/platform/mw/msimplewinfo.h	export	
+/epoc32/include/platform/mw/msimplewinfoobserver.h	export	
+/epoc32/include/platform/mw/msimplewinfowatcher.h	export	
+/epoc32/include/platform/mw/prescondidentitymany.h	export	
+/epoc32/include/platform/mw/prescondidentityone.h	export	
+/epoc32/include/platform/mw/prescondmisc.h	export	
+/epoc32/include/platform/mw/prescondsphere.h	export	
+/epoc32/include/platform/mw/prescondvalidity.h	export	
+/epoc32/include/platform/mw/presenceactionxdm.h	export	
+/epoc32/include/platform/mw/presencetransformxdm.h	export	
+/epoc32/include/platform/mw/pressettingsapi.h	export	
+/epoc32/include/platform/mw/pressettingsset.h	export	
+/epoc32/include/platform/mw/rlspresxdmconsts.h	export	
+/epoc32/include/platform/mw/simpleenginedomaincrkeys.h	export	
+/epoc32/include/platform/mw/simpleerrors.h	export	
+/epoc32/include/platform/mw/simplefactory.h	export	
+/epoc32/include/platform/mw/simpleinstantmessage.h	export	
+/epoc32/include/platform/mw/simpleinstantmsgobserver.h	export	
+/epoc32/include/platform/mw/simpleutils.h	export	
+/epoc32/include/xdmprovisioningtexts.rsg	resource	armv5_urel
+/epoc32/include/xdmprovisioningtexts.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/xdmdevicemanagementadapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xdmdevicemanagementadapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xdmdevicemanagementadapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xdmdevicemanagementadapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xdmprovisioning.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xdmprovisioning.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xdmprovisioning{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xdmprovisioning{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xdmsettingsapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xdmsettingsapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xdmsettingsapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xdmsettingsapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/xdmdevicemanagementadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xdmdevicemanagementadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xdmprovisioning.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xdmprovisioning.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xdmsettingsapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xdmsettingsapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/xdmdevicemanagementadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xdmdevicemanagementadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xdmprovisioning.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xdmprovisioning.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xdmsettingsapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xdmsettingsapi.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/xdmdevicemanagementadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xdmdevicemanagementadapter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xdmprovisioning.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xdmprovisioning.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xdmsettingsapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xdmsettingsapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/xdmdevicemanagementadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/xdmprovisioning.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/xdmprovisioningtexts.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/xdmprovisioningtexts.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/xdmdevicemanagementadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xdmdevicemanagementadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xdmprovisioning.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xdmprovisioning.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xdmsettingsapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xdmsettingsapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/xdmdevicemanagementadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/xdmprovisioning.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/xdmprovisioningtexts.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/xdmprovisioningtexts.rsc	resource	winscw_udeb

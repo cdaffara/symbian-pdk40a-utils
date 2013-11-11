@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="mmmw" level="generic" levels="plugin framework server generic specific" long-name="Multimedia Middleware">
+<collection name="mmmw_plat" long-name="Multimedia Middleware Platform Interfaces" level="specific">
+<component name="multimedia_data_source_api" long-name="Multimedia Data Source API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/multimedia_data_source_api/group"/>
+</component>
+<component name="enhanced_media_client_api" long-name="Enhanced Media Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/enhanced_media_client_api/group" filter="!test"/>
+</component>
+<component name="stream_control_custom_command_api" long-name="Stream Control Custom Command API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/stream_control_custom_command_api/group"/>
+</component>
+<component name="emc_buffer_source_api" long-name="EMC Buffer Source API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/emc_buffer_source_api/group"/>
+</component>
+<component name="emc_file_source_api" long-name="EMC File Source API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/emc_file_source_api/group"/>
+</component>
+<component name="audio_metadata_reader_api" long-name="Audio MetaData Reader API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/audio_metadata_reader_api/group" filter="!test"/>
+</component>
+<component name="emc_volume_effect_api" long-name="EMC Volume Effect API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/emc_volume_effect_api/group"/>
+</component>
+<component name="emc_balance_effect_api" long-name="EMC Balance Effect API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/emc_balance_effect_api/group"/>
+</component>
+<component name="emc_descriptor_source_api" long-name="EMC Descriptor Source API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/emc_descriptor_source_api/group"/>
+</component>
+<component name="emc_drm_config_intfc_api" long-name="EMC DRM Config Intfc API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/emc_drm_config_intfc_api/group"/>
+</component>
+<component name="voip_audio_services_api" long-name="VoIP Audio Services" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/voip_audio_services_api/group" filter="!test"/>
+</component>
+<component name="configuration_components_factory_api" long-name="Configuration Components Factory API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/configuration_components_factory_api/group"/>
+</component>
+<component name="audio_output_control_utility_api" long-name="Audio Output Control Utility API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/audio_output_control_utility_api/group" filter="!test"/>
+</component>
+<component name="audio_output_control_utility_proxy_api" long-name="Audio Output Control Utility Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/audio_output_control_utility_proxy_api/group"/>
+</component>
+<component name="emc_audio_effects_api" long-name="EMC Audio Effects API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/emc_audio_effects_api/group"/>
+</component>
+<component name="call_audio_control_api" long-name="Call AudioControl API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/call_audio_control_api/group" filter="!test"/>
+</component>
+<component name="radio_utilities_api" long-name="Radio Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/radio_utilities_api/group" filter="!test"/>
+</component>
+<component name="radio_preset_utilities_api" long-name="Radio Preset Utilities API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/radio_preset_utilities_api/group"/>
+</component>
+<component name="radio_monitor_api" long-name="Radio Monitor API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/radio_monitor_api/group"/>
+</component>
+<component name="thumbnail_engine_api" long-name="Thumbnail Engine API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/thumbnail_engine_api/group" filter="!test"/>
+</component>
+<component name="telephony_multimedia_service_api" long-name="Telephony Multimedia Service API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/telephony_multimedia_service_api/group" filter="!test"/>
+</component>
+<component name="openmax_al_api" long-name="OpenMAX AL API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/openmax_al_api/group" filter="!test"/>
+</component>
+<component name="openmax_al_ext_api" long-name="OpenMAX AL Extensions API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/openmax_al_ext_api/group"/>
+</component>
+<component name="system_tone_service_api" long-name="System Tone Service API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmmw/mmmw_plat/system_tone_service_api/group"/>
+</component>
+</collection>
+<collection name="khronosfws" long-name="Khronos Frameworks" level="framework">
+<component name="openmax_al" long-name="OpenMAX AL" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/khronosfws/openmax_al/group"/>
+</component>
+</collection>
+<collection name="mmfenh" long-name="MMF Enhancements" level="generic">
+<component name="advancedaudiocontroller" long-name="Advanced Audio Controllers" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/mmmw/mmfenh/advancedaudiocontroller/group"/>
+</component>
+<component name="audiooutputcontrolutility" long-name="Audio Output Control Utility" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmfenh/audiooutputcontrolutility/group"/>
+</component>
+<component name="configurationcomponentsfactory" long-name="Configuration Components Factory" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmfenh/configurationcomponentsfactory/group"/>
+</component>
+<component name="enhancedaudioplayerutility" long-name="Enhanced Audio Player Utility" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmfenh/enhancedaudioplayerutility/group"/>
+</component>
+<component name="enhancedmediaclient" long-name="Enhanced Media Client" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmfenh/enhancedmediaclient/group"/>
+</component>
+<component name="profilesettingsmonitor" long-name="Profile Settings Monitor" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmfenh/profilesettingsmonitor/group"/>
+</component>
+<component name="mmfenh_test" long-name="MMF Enhancements Tests" filter="s60,test,module_test,pref_test" purpose="development"/>
+</collection>
+<collection name="mmserv" long-name="Multimedia Services" level="specific">
+<component name="callaudiocontrol" long-name="Call Audio Control" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/callaudiocontrol/group"/>
+</component>
+<component name="metadatautility" long-name="Metadata Utility" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/metadatautility/group"/>
+</component>
+<component name="radioutility" long-name="Radio Utility" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/radioutility/group"/>
+</component>
+<component name="thumbnailengine" long-name="Thumbnail Engine" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/thumbnailengine/group"/>
+</component>
+<component name="tms" long-name="Telephony Multimedia Service" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/tms/group"/>
+</component>
+<component name="voipaudioservices" long-name="VoIP Audio Services" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/voipaudioservices/group"/>
+</component>
+<component name="lib3gpextparser" long-name="3GP Extension Metadata Parser Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/metadatautility/3GPExtParserLib/group"/>
+</component>
+<component name="sts" long-name="System Tone Service" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmmw/mmserv/sts/group"/>
+</component>
+</collection>
+<collection name="mmmw_info" long-name="Multimedia Middleware Info" level="specific">
+<component name="mmmw_metadata" long-name="Multimedia Middleware Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/mw/mmmw/mmmw_info/mmmw_metadata/mmmw_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

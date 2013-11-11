@@ -1,0 +1,13 @@
+HB_INSTALL_DIR = $$quote($${EPOCROOT}epoc32)
+HB_BIN_DIR = $$quote($${EPOCROOT}epoc32/bin)
+HB_LIB_DIR = $$quote($${EPOCROOT}epoc32/lib)
+HB_DOC_DIR = $$quote($${EPOCROOT}epoc32/doc)
+HB_INCLUDE_DIR = $$quote($${EPOCROOT}epoc32/include/mw/hb)
+HB_PLUGINS_DIR = $$quote($${EPOCROOT}resource/qt/plugins/hb)
+HB_FEATURES_DIR = $$quote(/epoc32/tools/qt/mkspecs/features)
+HB_RESOURCES_DIR = $$quote($${EPOCROOT}epoc32/resources)
+HB_PLUGINS_EXPORT_DIR = $$quote($${EPOCROOT}epoc32/winscw/c/resource/qt/plugins/hb)
+DEFINES += HB_GESTURE_FW
+DEFINES += HB_EFFECTS
+DEFINES += HB_TEXT_MEASUREMENT_UTILITY
+QMAKE_RPATHDIR += $${HB_LIB_DIR}

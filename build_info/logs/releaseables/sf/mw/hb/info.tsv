@@ -1,0 +1,674 @@
+/epoc32/data/z/private/10003a3f/import/apps/hbdevicedialogappserver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hbdevicedialogappserver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/hbfeatureconfigapp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hbfeatureconfigapp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/hbsplashgenerator_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hbsplashgenerator_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/hbthemechanger_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hbthemechanger_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/hbthemeserver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hbthemeserver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202BE9/20022E82.txt	export	
+/epoc32/data/z/private/10202BE9/2002C304.txt	export	
+/epoc32/data/z/private/10202BE9/2002C384.txt	export	
+/epoc32/data/z/private/10202BE9/2002C3AE.txt	export	
+/epoc32/data/z/resource/apps/hbdevicedialogappserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hbdevicedialogappserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/hbfeatureconfigapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hbfeatureconfigapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/hbsplashgenerator.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hbsplashgenerator.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/hbthemechanger.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hbthemechanger.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/hbthemeserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hbthemeserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/displaydefinition.xml	export	
+/epoc32/data/z/resource/plugins/hbthemeserveroogmplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hbthemeserveroogmplugin.rsc	resource	winscw_udeb
+/epoc32/include/hbdevicedialogappserver.rsg	resource	armv5_urel
+/epoc32/include/hbdevicedialogappserver.rsg	resource	winscw_udeb
+/epoc32/include/hbfeatureconfigapp.rsg	resource	armv5_urel
+/epoc32/include/hbfeatureconfigapp.rsg	resource	winscw_udeb
+/epoc32/include/hbsplashgenerator.rsg	resource	armv5_urel
+/epoc32/include/hbsplashgenerator.rsg	resource	winscw_udeb
+/epoc32/include/hbthemechanger.rsg	resource	armv5_urel
+/epoc32/include/hbthemechanger.rsg	resource	winscw_udeb
+/epoc32/include/hbthemeserver.rsg	resource	armv5_urel
+/epoc32/include/hbthemeserver.rsg	resource	winscw_udeb
+/epoc32/include/mw/hb/hbcore/Hb	export	
+/epoc32/include/mw/hb/hbcore/HbAbstractButton	export	
+/epoc32/include/mw/hb/hbcore/HbAbstractVkbHost	export	
+/epoc32/include/mw/hb/hbcore/HbAction	export	
+/epoc32/include/mw/hb/hbcore/HbActivityManager	export	
+/epoc32/include/mw/hb/hbcore/HbAnchor	export	
+/epoc32/include/mw/hb/hbcore/HbAnchorLayout	export	
+/epoc32/include/mw/hb/hbcore/HbApplication	export	
+/epoc32/include/mw/hb/hbcore/HbColorScheme	export	
+/epoc32/include/mw/hb/hbcore/HbCore	export	
+/epoc32/include/mw/hb/hbcore/HbDeviceDialog	export	
+/epoc32/include/mw/hb/hbcore/HbDeviceDialogInterface	export	
+/epoc32/include/mw/hb/hbcore/HbDeviceDialogPlugin	export	
+/epoc32/include/mw/hb/hbcore/HbDeviceDialogPluginInterface	export	
+/epoc32/include/mw/hb/hbcore/HbDeviceProfile	export	
+/epoc32/include/mw/hb/hbcore/HbDeviceProfileChangedEvent	export	
+/epoc32/include/mw/hb/hbcore/HbDialog	export	
+/epoc32/include/mw/hb/hbcore/HbDigitsOnlyFilter	export	
+/epoc32/include/mw/hb/hbcore/HbDirectoryNameLocalizer	export	
+/epoc32/include/mw/hb/hbcore/HbDockWidget	export	
+/epoc32/include/mw/hb/hbcore/HbEditorInterface	export	
+/epoc32/include/mw/hb/hbcore/HbEffect	export	
+/epoc32/include/mw/hb/hbcore/HbEmailAddressFilter	export	
+/epoc32/include/mw/hb/hbcore/HbEvent	export	
+/epoc32/include/mw/hb/hbcore/HbExtendedLocale	export	
+/epoc32/include/mw/hb/hbcore/HbExtraDictionaryCollection	export	
+/epoc32/include/mw/hb/hbcore/HbExtraDictionaryFactory	export	
+/epoc32/include/mw/hb/hbcore/HbExtraUDDirectoryEntry	export	
+/epoc32/include/mw/hb/hbcore/HbExtraUserDictionary	export	
+/epoc32/include/mw/hb/hbcore/HbFeedback	export	
+/epoc32/include/mw/hb/hbcore/HbFeedbackEngine	export	
+/epoc32/include/mw/hb/hbcore/HbFeedbackManager	export	
+/epoc32/include/mw/hb/hbcore/HbFeedbackPlugin	export	
+/epoc32/include/mw/hb/hbcore/HbFeedbackPluginGroup	export	
+/epoc32/include/mw/hb/hbcore/HbFeedbackPluginInterface	export	
+/epoc32/include/mw/hb/hbcore/HbFindFile	export	
+/epoc32/include/mw/hb/hbcore/HbFontSpec	export	
+/epoc32/include/mw/hb/hbcore/HbFormattedNumbersFilter	export	
+/epoc32/include/mw/hb/hbcore/HbFrameBackground	export	
+/epoc32/include/mw/hb/hbcore/HbFrameDrawer	export	
+/epoc32/include/mw/hb/hbcore/HbFrameItem	export	
+/epoc32/include/mw/hb/hbcore/HbGlobal	export	
+/epoc32/include/mw/hb/hbcore/HbGraphicsScene	export	
+/epoc32/include/mw/hb/hbcore/HbIcon	export	
+/epoc32/include/mw/hb/hbcore/HbIconAnimationDefinition	export	
+/epoc32/include/mw/hb/hbcore/HbIconAnimationManager	export	
+/epoc32/include/mw/hb/hbcore/HbIconAnimator	export	
+/epoc32/include/mw/hb/hbcore/HbIconItem	export	
+/epoc32/include/mw/hb/hbcore/HbIndicator	export	
+/epoc32/include/mw/hb/hbcore/HbIndicatorInterface	export	
+/epoc32/include/mw/hb/hbcore/HbIndicatorPluginInterface	export	
+/epoc32/include/mw/hb/hbcore/HbInputContextPlugin	export	
+/epoc32/include/mw/hb/hbcore/HbInputFilter	export	
+/epoc32/include/mw/hb/hbcore/HbInputFocusObject	export	
+/epoc32/include/mw/hb/hbcore/HbInputLanguage	export	
+/epoc32/include/mw/hb/hbcore/HbInputLowerCaseFilter	export	
+/epoc32/include/mw/hb/hbcore/HbInputMethod	export	
+/epoc32/include/mw/hb/hbcore/HbInputMethodDescriptor	export	
+/epoc32/include/mw/hb/hbcore/HbInputModeProperties	export	
+/epoc32/include/mw/hb/hbcore/HbInputSettingProxy	export	
+/epoc32/include/mw/hb/hbcore/HbInputState	export	
+/epoc32/include/mw/hb/hbcore/HbInputUpperCaseFilter	export	
+/epoc32/include/mw/hb/hbcore/HbInputUtils	export	
+/epoc32/include/mw/hb/hbcore/HbInstance	export	
+/epoc32/include/mw/hb/hbcore/HbKeymap	export	
+/epoc32/include/mw/hb/hbcore/HbKeymapFactory	export	
+/epoc32/include/mw/hb/hbcore/HbLanguageDatabase	export	
+/epoc32/include/mw/hb/hbcore/HbLanguageDatabaseInterface	export	
+/epoc32/include/mw/hb/hbcore/HbLanguageUtil	export	
+/epoc32/include/mw/hb/hbcore/HbLocaleUtil	export	
+/epoc32/include/mw/hb/hbcore/HbLongPressVisualizer	export	
+/epoc32/include/mw/hb/hbcore/HbMainWindow	export	
+/epoc32/include/mw/hb/hbcore/HbMappedKey	export	
+/epoc32/include/mw/hb/hbcore/HbMarqueeItem	export	
+/epoc32/include/mw/hb/hbcore/HbMenu	export	
+/epoc32/include/mw/hb/hbcore/HbNumberGrouping	export	
+/epoc32/include/mw/hb/hbcore/HbPanGesture	export	
+/epoc32/include/mw/hb/hbcore/HbParameterLengthLimiter	export	
+/epoc32/include/mw/hb/hbcore/HbPhoneNumberFilter	export	
+/epoc32/include/mw/hb/hbcore/HbPinchGesture	export	
+/epoc32/include/mw/hb/hbcore/HbPopup	export	
+/epoc32/include/mw/hb/hbcore/HbPredictionBase	export	
+/epoc32/include/mw/hb/hbcore/HbPredictionCallback	export	
+/epoc32/include/mw/hb/hbcore/HbPredictionEngine	export	
+/epoc32/include/mw/hb/hbcore/HbPredictionEngineChinese	export	
+/epoc32/include/mw/hb/hbcore/HbPredictionFactory	export	
+/epoc32/include/mw/hb/hbcore/HbPredictionPlugin	export	
+/epoc32/include/mw/hb/hbcore/HbRichTextItem	export	
+/epoc32/include/mw/hb/hbcore/HbScrollArea	export	
+/epoc32/include/mw/hb/hbcore/HbScrollBar	export	
+/epoc32/include/mw/hb/hbcore/HbShrinkingVkbHost	export	
+/epoc32/include/mw/hb/hbcore/HbSmileyTheme	export	
+/epoc32/include/mw/hb/hbcore/HbSplashScreen	export	
+/epoc32/include/mw/hb/hbcore/HbStackedLayout	export	
+/epoc32/include/mw/hb/hbcore/HbStackedWidget	export	
+/epoc32/include/mw/hb/hbcore/HbStaticVkbHost	export	
+/epoc32/include/mw/hb/hbcore/HbStringUtil	export	
+/epoc32/include/mw/hb/hbcore/HbStyle	export	
+/epoc32/include/mw/hb/hbcore/HbStyleLoader	export	
+/epoc32/include/mw/hb/hbcore/HbStyleParameters	export	
+/epoc32/include/mw/hb/hbcore/HbSwipeGesture	export	
+/epoc32/include/mw/hb/hbcore/HbTapAndHoldGesture	export	
+/epoc32/include/mw/hb/hbcore/HbTapGesture	export	
+/epoc32/include/mw/hb/hbcore/HbTextItem	export	
+/epoc32/include/mw/hb/hbcore/HbTheme	export	
+/epoc32/include/mw/hb/hbcore/HbToolBar	export	
+/epoc32/include/mw/hb/hbcore/HbToolBarExtension	export	
+/epoc32/include/mw/hb/hbcore/HbToolButton	export	
+/epoc32/include/mw/hb/hbcore/HbToolTip	export	
+/epoc32/include/mw/hb/hbcore/HbTouchArea	export	
+/epoc32/include/mw/hb/hbcore/HbTranslator	export	
+/epoc32/include/mw/hb/hbcore/HbUrlFilter	export	
+/epoc32/include/mw/hb/hbcore/HbUserDictionary	export	
+/epoc32/include/mw/hb/hbcore/HbView	export	
+/epoc32/include/mw/hb/hbcore/HbVirtualKeyboard	export	
+/epoc32/include/mw/hb/hbcore/HbVkbHost	export	
+/epoc32/include/mw/hb/hbcore/HbVkbHostBridge	export	
+/epoc32/include/mw/hb/hbcore/HbWidget	export	
+/epoc32/include/mw/hb/hbcore/HbWidgetBase	export	
+/epoc32/include/mw/hb/hbcore/HbWidgetFeedback	export	
+/epoc32/include/mw/hb/hbcore/HbWindowObscuredChangedEvent	export	
+/epoc32/include/mw/hb/hbcore/hbabstractbutton.h	export	
+/epoc32/include/mw/hb/hbcore/hbabstractvkbhost.h	export	
+/epoc32/include/mw/hb/hbcore/hbaction.h	export	
+/epoc32/include/mw/hb/hbcore/hbactivitymanager.h	export	
+/epoc32/include/mw/hb/hbcore/hbanchor.h	export	
+/epoc32/include/mw/hb/hbcore/hbanchorlayout.h	export	
+/epoc32/include/mw/hb/hbcore/hbapplication.h	export	
+/epoc32/include/mw/hb/hbcore/hbcolorscheme.h	export	
+/epoc32/include/mw/hb/hbcore/hbcommoncrkeys.h	export	
+/epoc32/include/mw/hb/hbcore/hbcore.h	export	
+/epoc32/include/mw/hb/hbcore/hbdevicedialog.h	export	
+/epoc32/include/mw/hb/hbcore/hbdevicedialoginterface.h	export	
+/epoc32/include/mw/hb/hbcore/hbdevicedialogplugin.h	export	
+/epoc32/include/mw/hb/hbcore/hbdevicedialogsymbian.h	export	
+/epoc32/include/mw/hb/hbcore/hbdeviceprofile.h	export	
+/epoc32/include/mw/hb/hbcore/hbdialog.h	export	
+/epoc32/include/mw/hb/hbcore/hbdirectorynamelocalizer.h	export	
+/epoc32/include/mw/hb/hbcore/hbdockwidget.h	export	
+/epoc32/include/mw/hb/hbcore/hbeffect.h	export	
+/epoc32/include/mw/hb/hbcore/hbevent.h	export	
+/epoc32/include/mw/hb/hbcore/hbextendedlocale.h	export	
+/epoc32/include/mw/hb/hbcore/hbfeedbackengine.h	export	
+/epoc32/include/mw/hb/hbcore/hbfeedbackmanager.h	export	
+/epoc32/include/mw/hb/hbcore/hbfeedbacknamespace.h	export	
+/epoc32/include/mw/hb/hbcore/hbfeedbackplugin.h	export	
+/epoc32/include/mw/hb/hbcore/hbfeedbackplugingroup.h	export	
+/epoc32/include/mw/hb/hbcore/hbfeedbackplugininterface.h	export	
+/epoc32/include/mw/hb/hbcore/hbfindfile.h	export	
+/epoc32/include/mw/hb/hbcore/hbfontspec.h	export	
+/epoc32/include/mw/hb/hbcore/hbframebackground.h	export	
+/epoc32/include/mw/hb/hbcore/hbframedrawer.h	export	
+/epoc32/include/mw/hb/hbcore/hbframeitem.h	export	
+/epoc32/include/mw/hb/hbcore/hbglobal.h	export	
+/epoc32/include/mw/hb/hbcore/hbgraphicsscene.h	export	
+/epoc32/include/mw/hb/hbcore/hbi18ndef.h	export	
+/epoc32/include/mw/hb/hbcore/hbicon.h	export	
+/epoc32/include/mw/hb/hbcore/hbiconanimationdefinition.h	export	
+/epoc32/include/mw/hb/hbcore/hbiconanimationmanager.h	export	
+/epoc32/include/mw/hb/hbcore/hbiconanimator.h	export	
+/epoc32/include/mw/hb/hbcore/hbiconitem.h	export	
+/epoc32/include/mw/hb/hbcore/hbindicator.h	export	
+/epoc32/include/mw/hb/hbcore/hbindicatorinterface.h	export	
+/epoc32/include/mw/hb/hbcore/hbindicatorplugininterface.h	export	
+/epoc32/include/mw/hb/hbcore/hbindicatorsymbian.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputcontextplugin.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputdef.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputeditorinterface.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputextradictionarycollection.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputextradictionaryfactory.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputextrauserdictionary.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputfilter.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputfocusobject.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputkeymap.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputkeymapfactory.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputlanguage.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputlanguagedatabase.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputmethod.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputmethoddescriptor.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputmodeproperties.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputpredictioncallback.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputpredictionengine.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputpredictionfactory.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputsettingproxy.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputstandardfilters.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputstate.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputuserdictionary.h	export	
+/epoc32/include/mw/hb/hbcore/hbinpututils.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputvirtualkeyboard.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputvkbhost.h	export	
+/epoc32/include/mw/hb/hbcore/hbinputvkbhostbridge.h	export	
+/epoc32/include/mw/hb/hbcore/hbinstance.h	export	
+/epoc32/include/mw/hb/hbcore/hblanguageutil.h	export	
+/epoc32/include/mw/hb/hbcore/hblocaleutil.h	export	
+/epoc32/include/mw/hb/hbcore/hblongpressvisualizer.h	export	
+/epoc32/include/mw/hb/hbcore/hbmainwindow.h	export	
+/epoc32/include/mw/hb/hbcore/hbmarqueeitem.h	export	
+/epoc32/include/mw/hb/hbcore/hbmenu.h	export	
+/epoc32/include/mw/hb/hbcore/hbnamespace.h	export	
+/epoc32/include/mw/hb/hbcore/hbnumbergrouping.h	export	
+/epoc32/include/mw/hb/hbcore/hbpangesture.h	export	
+/epoc32/include/mw/hb/hbcore/hbparameterlengthlimiter.h	export	
+/epoc32/include/mw/hb/hbcore/hbpinchgesture.h	export	
+/epoc32/include/mw/hb/hbcore/hbpopup.h	export	
+/epoc32/include/mw/hb/hbcore/hbrichtextitem.h	export	
+/epoc32/include/mw/hb/hbcore/hbs60events.h	export	
+/epoc32/include/mw/hb/hbcore/hbscrollarea.h	export	
+/epoc32/include/mw/hb/hbcore/hbscrollbar.h	export	
+/epoc32/include/mw/hb/hbcore/hbshrinkingvkbhost.h	export	
+/epoc32/include/mw/hb/hbcore/hbsmileytheme.h	export	
+/epoc32/include/mw/hb/hbcore/hbsplashscreen.h	export	
+/epoc32/include/mw/hb/hbcore/hbstackedlayout.h	export	
+/epoc32/include/mw/hb/hbcore/hbstackedwidget.h	export	
+/epoc32/include/mw/hb/hbcore/hbstaticvkbhost.h	export	
+/epoc32/include/mw/hb/hbcore/hbstringutil.h	export	
+/epoc32/include/mw/hb/hbcore/hbstyle.h	export	
+/epoc32/include/mw/hb/hbcore/hbstyleloader.h	export	
+/epoc32/include/mw/hb/hbcore/hbstyleparameters.h	export	
+/epoc32/include/mw/hb/hbcore/hbswipegesture.h	export	
+/epoc32/include/mw/hb/hbcore/hbsymbianvariant.h	export	
+/epoc32/include/mw/hb/hbcore/hbtapandholdgesture.h	export	
+/epoc32/include/mw/hb/hbcore/hbtapgesture.h	export	
+/epoc32/include/mw/hb/hbcore/hbtextitem.h	export	
+/epoc32/include/mw/hb/hbcore/hbtextresolversymbian.h	export	
+/epoc32/include/mw/hb/hbcore/hbtheme.h	export	
+/epoc32/include/mw/hb/hbcore/hbtoolbar.h	export	
+/epoc32/include/mw/hb/hbcore/hbtoolbarextension.h	export	
+/epoc32/include/mw/hb/hbcore/hbtoolbutton.h	export	
+/epoc32/include/mw/hb/hbcore/hbtooltip.h	export	
+/epoc32/include/mw/hb/hbcore/hbtoucharea.h	export	
+/epoc32/include/mw/hb/hbcore/hbtranslator.h	export	
+/epoc32/include/mw/hb/hbcore/hbview.h	export	
+/epoc32/include/mw/hb/hbcore/hbwidget.h	export	
+/epoc32/include/mw/hb/hbcore/hbwidgetbase.h	export	
+/epoc32/include/mw/hb/hbcore/hbwidgetfeedback.h	export	
+/epoc32/include/mw/hb/hbcore/restricted/hbactivityplugininterface_r.h	export	
+/epoc32/include/mw/hb/hbcore/restricted/hbcorepskeys_r.h	export	
+/epoc32/include/mw/hb/hbcore/restricted/hbfeaturemanager_r.h	export	
+/epoc32/include/mw/hb/hbfeedback/HbAbstractFeedback	export	
+/epoc32/include/mw/hb/hbfeedback/HbContinuousFeedback	export	
+/epoc32/include/mw/hb/hbfeedback/HbFeedback	export	
+/epoc32/include/mw/hb/hbfeedback/HbFeedbackSettings	export	
+/epoc32/include/mw/hb/hbfeedback/HbInstantFeedback	export	
+/epoc32/include/mw/hb/hbfeedback/hbabstractfeedback.h	export	
+/epoc32/include/mw/hb/hbfeedback/hbcontinuousfeedback.h	export	
+/epoc32/include/mw/hb/hbfeedback/hbfeedback.h	export	
+/epoc32/include/mw/hb/hbfeedback/hbfeedbacksettings.h	export	
+/epoc32/include/mw/hb/hbfeedback/hbinstantfeedback.h	export	
+/epoc32/include/mw/hb/hbinput/HbCandidateList	export	
+/epoc32/include/mw/hb/hbinput/HbExactWordPopup	export	
+/epoc32/include/mw/hb/hbinput/HbHwToolCluster	export	
+/epoc32/include/mw/hb/hbinput/HbInput	export	
+/epoc32/include/mw/hb/hbinput/HbInputButton	export	
+/epoc32/include/mw/hb/hbinput/HbInputButtonGroup	export	
+/epoc32/include/mw/hb/hbinput/HbInputCommonDialogs	export	
+/epoc32/include/mw/hb/hbinput/HbInputMethodSelectionList	export	
+/epoc32/include/mw/hb/hbinput/HbInputModeIndicator	export	
+/epoc32/include/mw/hb/hbinput/HbInputScreenshotWidget	export	
+/epoc32/include/mw/hb/hbinput/HbInputSettingList	export	
+/epoc32/include/mw/hb/hbinput/HbInputSettingWidget	export	
+/epoc32/include/mw/hb/hbinput/HbInputSmileyPicker	export	
+/epoc32/include/mw/hb/hbinput/HbInputVirtualRocker	export	
+/epoc32/include/mw/hb/hbinput/HbInputVkbWidget	export	
+/epoc32/include/mw/hb/hbinput/HbSctKeyboard	export	
+/epoc32/include/mw/hb/hbinput/hbinput.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputbutton.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputbuttongroup.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputcandidatelist.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputcommondialogs.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputexactwordpopup.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputhwtoolcluster.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputmethodselectionlist.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputmodeindicator.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputscreenshotwidget.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputsctkeyboard.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputsettinglist.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputsettingwidget.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputsmileypicker.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputvirtualrocker.h	export	
+/epoc32/include/mw/hb/hbinput/hbinputvkbwidget.h	export	
+/epoc32/include/mw/hb/hbutils/HbDocumentLoader	export	
+/epoc32/include/mw/hb/hbutils/HbDocumentLoaderPlugin	export	
+/epoc32/include/mw/hb/hbutils/HbDocumentLoaderPluginInterface	export	
+/epoc32/include/mw/hb/hbutils/HbUtils	export	
+/epoc32/include/mw/hb/hbutils/hbdocumentloader.h	export	
+/epoc32/include/mw/hb/hbutils/hbdocumentloaderplugin.h	export	
+/epoc32/include/mw/hb/hbutils/hbutils.h	export	
+/epoc32/include/mw/hb/hbutils/restricted/hbthemeservices_r.h	export	
+/epoc32/include/mw/hb/hbwidgets/HbAbstractEdit	export	
+/epoc32/include/mw/hb/hbwidgets/HbAbstractItemView	export	
+/epoc32/include/mw/hb/hbwidgets/HbAbstractSliderControl	export	
+/epoc32/include/mw/hb/hbwidgets/HbAbstractViewItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbCheckBox	export	
+/epoc32/include/mw/hb/hbwidgets/HbColorDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbComboBox	export	
+/epoc32/include/mw/hb/hbwidgets/HbDataForm	export	
+/epoc32/include/mw/hb/hbwidgets/HbDataFormModel	export	
+/epoc32/include/mw/hb/hbwidgets/HbDataFormModelItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbDataFormViewItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbDateTimeEdit	export	
+/epoc32/include/mw/hb/hbwidgets/HbDateTimePicker	export	
+/epoc32/include/mw/hb/hbwidgets/HbDeviceMessageBox	export	
+/epoc32/include/mw/hb/hbwidgets/HbDeviceNotificationDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbDeviceProgressDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbFormatDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbGridView	export	
+/epoc32/include/mw/hb/hbwidgets/HbGridViewItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbGroupBox	export	
+/epoc32/include/mw/hb/hbwidgets/HbIndexFeedback	export	
+/epoc32/include/mw/hb/hbwidgets/HbInputDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbLabel	export	
+/epoc32/include/mw/hb/hbwidgets/HbLineEdit	export	
+/epoc32/include/mw/hb/hbwidgets/HbListView	export	
+/epoc32/include/mw/hb/hbwidgets/HbListViewItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbListWidget	export	
+/epoc32/include/mw/hb/hbwidgets/HbListWidgetItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbMessageBox	export	
+/epoc32/include/mw/hb/hbwidgets/HbModelIterator	export	
+/epoc32/include/mw/hb/hbwidgets/HbNotificationDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbProgressBar	export	
+/epoc32/include/mw/hb/hbwidgets/HbProgressDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbProgressSlider	export	
+/epoc32/include/mw/hb/hbwidgets/HbPushButton	export	
+/epoc32/include/mw/hb/hbwidgets/HbRadioButtonList	export	
+/epoc32/include/mw/hb/hbwidgets/HbRatingSlider	export	
+/epoc32/include/mw/hb/hbwidgets/HbSearchPanel	export	
+/epoc32/include/mw/hb/hbwidgets/HbSelectionDialog	export	
+/epoc32/include/mw/hb/hbwidgets/HbSlider	export	
+/epoc32/include/mw/hb/hbwidgets/HbSliderPopup	export	
+/epoc32/include/mw/hb/hbwidgets/HbTextEdit	export	
+/epoc32/include/mw/hb/hbwidgets/HbTransparentWindow	export	
+/epoc32/include/mw/hb/hbwidgets/HbTreeView	export	
+/epoc32/include/mw/hb/hbwidgets/HbTreeViewItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbTumbleView	export	
+/epoc32/include/mw/hb/hbwidgets/HbTumbleViewItem	export	
+/epoc32/include/mw/hb/hbwidgets/HbValidator	export	
+/epoc32/include/mw/hb/hbwidgets/HbValidatorField	export	
+/epoc32/include/mw/hb/hbwidgets/HbVolumeSliderPopup	export	
+/epoc32/include/mw/hb/hbwidgets/HbWidgets	export	
+/epoc32/include/mw/hb/hbwidgets/HbZoomSliderPopup	export	
+/epoc32/include/mw/hb/hbwidgets/hbabstractedit.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbabstractitemview.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbabstractslidercontrol.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbabstractviewitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbcheckbox.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbcolordialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbcombobox.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdataform.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdataformmodel.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdataformmodelitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdataformviewitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdatetimeedit.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdatetimepicker.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdevicemessagebox.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdevicemessageboxsymbian.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdevicenotificationdialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdevicenotificationdialogsymbian.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdeviceprogressdialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbdeviceprogressdialogsymbian.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbformatdialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbgridview.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbgridviewitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbgroupbox.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbindexfeedback.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbinputdialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hblabel.h	export	
+/epoc32/include/mw/hb/hbwidgets/hblineedit.h	export	
+/epoc32/include/mw/hb/hbwidgets/hblistview.h	export	
+/epoc32/include/mw/hb/hbwidgets/hblistviewitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hblistwidget.h	export	
+/epoc32/include/mw/hb/hbwidgets/hblistwidgetitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbmessagebox.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbmodeliterator.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbnotificationdialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbprogressbar.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbprogressdialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbprogressslider.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbpushbutton.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbradiobuttonlist.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbratingslider.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbsearchpanel.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbselectiondialog.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbslider.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbsliderpopup.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbtextedit.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbtransparentwindow.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbtreeview.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbtreeviewitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbtumbleview.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbtumbleviewitem.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbvalidator.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbvalidatorfield.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbvolumesliderpopup.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbwidgets.h	export	
+/epoc32/include/mw/hb/hbwidgets/hbzoomsliderpopup.h	export	
+/epoc32/release/armv5/lib/HbAutoComplete.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbAutoComplete.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbAutoComplete{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbAutoComplete{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbCore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbCore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbCore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbCore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbDeviceMessageBoxPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbDeviceMessageBoxPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbDeviceMessageBoxPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbDeviceMessageBoxPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbDeviceNotificationDialogPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbDeviceNotificationDialogPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbDeviceNotificationDialogPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbDeviceNotificationDialogPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbDeviceProgressDialogPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbDeviceProgressDialogPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbDeviceProgressDialogPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbDeviceProgressDialogPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbFeedback.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbFeedback.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbFeedbackEffectPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbFeedbackEffectPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbFeedbackEffectPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbFeedbackEffectPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbFeedback{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbFeedback{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbIm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbIm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbIm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbIm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbIndicatorMenuPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbIndicatorMenuPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbIndicatorMenuPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbIndicatorMenuPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbInput.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbInput.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbInput{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbInput{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbTouchInput.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbTouchInput.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbTouchInput{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbTouchInput{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbUtils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbUtils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbUtils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbUtils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbWidgets.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbWidgets.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HbWidgets{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HbWidgets{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/HbAutoComplete.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbAutoComplete.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbCore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbCore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbDeviceMessageBoxPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbDeviceMessageBoxPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbDeviceNotificationDialogPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbDeviceNotificationDialogPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbDeviceProgressDialogPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbDeviceProgressDialogPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbFeedback.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbFeedback.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbFeedbackEffectPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbFeedbackEffectPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbIm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbIm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbIndicatorMenuPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbIndicatorMenuPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbInput.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbInput.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbTouchInput.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbTouchInput.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbUtils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbUtils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbWidgets.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HbWidgets.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbdevicedialogappserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbdevicedialogappserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbfeatureconfigapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbfeatureconfigapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbsplashgenerator.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbsplashgenerator.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbthemechanger.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbthemechanger.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbthemeserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbthemeserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbthemeserveroogmplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbthemeserveroogmplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/HbAutoComplete.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbAutoComplete.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbCore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbCore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbDeviceMessageBoxPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbDeviceMessageBoxPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbDeviceNotificationDialogPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbDeviceNotificationDialogPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbDeviceProgressDialogPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbDeviceProgressDialogPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbFeedback.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbFeedback.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbFeedbackEffectPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbFeedbackEffectPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbIm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbIm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbIndicatorMenuPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbIndicatorMenuPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbInput.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbInput.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbTouchInput.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbTouchInput.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbUtils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbUtils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HbWidgets.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HbWidgets.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hbdevicedialogappserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hbdevicedialogappserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hbfeatureconfigapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hbfeatureconfigapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hbsplashgenerator.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hbsplashgenerator.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hbthemechanger.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hbthemechanger.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hbthemeserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hbthemeserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hbthemeserveroogmplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hbthemeserveroogmplugin.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/HbAutoComplete.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbAutoComplete.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbCore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbCore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbDeviceMessageBoxPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbDeviceMessageBoxPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbDeviceNotificationDialogPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbDeviceNotificationDialogPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbDeviceProgressDialogPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbDeviceProgressDialogPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbFeedback.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbFeedback.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbFeedbackEffectPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbFeedbackEffectPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbIm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbIm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbIndicatorMenuPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbIndicatorMenuPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbInput.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbInput.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbTouchInput.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbTouchInput.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbUtils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbUtils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbWidgets.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HbWidgets.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbdevicedialogappserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbfeatureconfigapp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbsplashgenerator.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbthemechanger.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbthemeserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbthemeserveroogmplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hbdevicedialogappserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hbfeatureconfigapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hbsplashgenerator_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hbthemechanger_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hbthemeserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202BE9/20022E82.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202BE9/2002C304.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202BE9/2002C384.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202BE9/2002C3AE.txt	export	
+/epoc32/release/winscw/udeb/z/resource/apps/hbdevicedialogappserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/hbfeatureconfigapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/hbsplashgenerator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/hbthemechanger.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/hbthemeserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/displaydefinition.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/hbthemeserveroogmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/HbAutoComplete.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbAutoComplete.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbCore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbCore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbDeviceMessageBoxPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbDeviceMessageBoxPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbDeviceNotificationDialogPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbDeviceNotificationDialogPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbDeviceProgressDialogPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbDeviceProgressDialogPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbFeedback.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbFeedback.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbFeedbackEffectPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbFeedbackEffectPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbIm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbIm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbIndicatorMenuPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbIndicatorMenuPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbInput.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbInput.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbTouchInput.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbTouchInput.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbUtils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbUtils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HbWidgets.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HbWidgets.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hbdevicedialogappserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hbdevicedialogappserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hbfeatureconfigapp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hbfeatureconfigapp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hbsplashgenerator.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hbsplashgenerator.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hbthemechanger.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hbthemechanger.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hbthemeserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hbthemeserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hbthemeserveroogmplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hbthemeserveroogmplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hbdevicedialogappserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hbfeatureconfigapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hbsplashgenerator_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hbthemechanger_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hbthemeserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10202BE9/20022E82.txt	export	
+/epoc32/release/winscw/urel/z/private/10202BE9/2002C304.txt	export	
+/epoc32/release/winscw/urel/z/private/10202BE9/2002C384.txt	export	
+/epoc32/release/winscw/urel/z/private/10202BE9/2002C3AE.txt	export	
+/epoc32/release/winscw/urel/z/resource/apps/hbdevicedialogappserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/hbfeatureconfigapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/hbsplashgenerator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/hbthemechanger.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/hbthemeserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/displaydefinition.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/hbthemeserveroogmplugin.rsc	resource	winscw_udeb
+/epoc32/tools/qt/mkspecs/features/docml2bin.prf	export	
+/epoc32/tools/qt/mkspecs/features/hb.prf	export	
+/epoc32/tools/qt/mkspecs/features/hb_functions.prf	export	
+/epoc32/tools/qt/mkspecs/features/hb_install.prf	export	
+/epoc32/winscw/c/resource/hbi18n/translations/collations.qm	export	
+/epoc32/winscw/c/resource/hbi18n/translations/directorylocalizer_de_DE.qm	export	
+/epoc32/winscw/c/resource/hbi18n/translations/directorylocalizer_en_GB.qm	export	
+/epoc32/winscw/c/resource/hbi18n/translations/language_list.txt	export	
+/epoc32/winscw/c/resource/hbi18n/translations/languages.qm	export	
+/epoc32/winscw/c/resource/hbi18n/translations/languages_OLD.qm	export	
+/epoc32/winscw/c/resource/hbi18n/translations/locale_mappings.txt	export	
+/epoc32/winscw/c/resource/hbi18n/translations/regions.qm	export	

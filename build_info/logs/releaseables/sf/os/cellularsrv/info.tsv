@@ -1,0 +1,626 @@
+/epoc32/data/c/private/101f7989/esock/smswap.sms.esk	export	
+/epoc32/data/c/private/101f7989/esock/smswap.wap.esk	export	
+/epoc32/data/z/private/101f7988/etel.cmi	export	
+/epoc32/data/z/private/101f7989/esock/smswap.sms.esk	export	
+/epoc32/data/z/private/101f7989/esock/smswap.wap.esk	export	
+/epoc32/data/z/private/101f7989/ltsydata.ini	export	
+/epoc32/data/z/private/101f7989/operatorvariants.ini	export	
+/epoc32/data/z/private/101f7989/sms/smsu.rsc	resource	armv5_urel
+/epoc32/data/z/private/101f7989/sms/smsu.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/errors/csderr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/csderr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ctsysystemstateplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ctsysystemstateplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/indicatorwatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/indicatorwatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pdp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pdp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/qos3gpp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/qos3gpp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rawip.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rawip.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rawip2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rawip2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/signalstrengthwatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/signalstrengthwatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/swswapmsg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/swswapmsg.rsc	resource	winscw_udeb
+/epoc32/data/z/system/data/hwwapstackconfig.ini	export	
+/epoc32/include/connectprog.h	export	
+/epoc32/include/ctsy/tflogger.h	export	
+/epoc32/include/def/bwins/licenseetsyu.def	export	
+/epoc32/include/def/eabi/licenseetsyu.def	export	
+/epoc32/include/dial.h	export	
+/epoc32/include/dial.inl	export	
+/epoc32/include/dial_consts.h	export	
+/epoc32/include/emsinformationelement.h	export	
+/epoc32/include/emsinformationelement.inl	export	
+/epoc32/include/emspictureie.inl	export	
+/epoc32/include/es_wsms.h	export	
+/epoc32/include/es_wsms.inl	export	
+/epoc32/include/et_clsvr.h	export	
+/epoc32/include/et_struc.h	export	
+/epoc32/include/etel.inl	export	
+/epoc32/include/etel3rdparty.h	export	
+/epoc32/include/eteldefaultqos.h	export	
+/epoc32/include/etelpckt.inl	export	
+/epoc32/include/etslotnum.h	export	
+/epoc32/include/exterror.h	export	
+/epoc32/include/faxdefn.h	export	
+/epoc32/include/gprsprog.h	export	
+/epoc32/include/gsmubuf.h	export	
+/epoc32/include/gsmuelem.h	export	
+/epoc32/include/gsmuelem.inl	export	
+/epoc32/include/gsmuetel.h	export	
+/epoc32/include/gsmuetel.inl	export	
+/epoc32/include/gsmuieoperations.h	export	
+/epoc32/include/gsmumsg.h	export	
+/epoc32/include/gsmumsg.inl	export	
+/epoc32/include/gsmunmspacemobmsg.h	export	
+/epoc32/include/gsmunmspacemobph.h	export	
+/epoc32/include/gsmunmspacemobstore.h	export	
+/epoc32/include/gsmunonieoperations.h	export	
+/epoc32/include/gsmupdu.h	export	
+/epoc32/include/gsmupdu.inl	export	
+/epoc32/include/gsmuset.h	export	
+/epoc32/include/gsmuset.inl	export	
+/epoc32/include/gsmustor.h	export	
+/epoc32/include/gsmustor.inl	export	
+/epoc32/include/mbmstypes.h	export	
+/epoc32/include/networking/qos3gpp_subconparams.h	export	
+/epoc32/include/networking/qos3gpp_subconparams.inl	export	
+/epoc32/include/platform/csdprog.h	export	
+/epoc32/include/platform/ctsy/ltsy/cctsydispatchercallback.h	export	
+/epoc32/include/platform/ctsy/ltsy/cphonebookentry.h	export	
+/epoc32/include/platform/ctsy/ltsy/ltsylogger.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchcallcontrolinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchcallcontrolmultipartyinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchcellbroadcastinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchfactory.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchpacketservicesinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchphonebookeninterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchphonebookinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchphonebookoninterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchphoneinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchsatinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchsecurityinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchsiminterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchsmsinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/mltsydispatchsupplementaryservicesinterface.h	export	
+/epoc32/include/platform/ctsy/ltsy/sat_defs.h	export	
+/epoc32/include/platform/ctsy/mltsyfactory.h	export	
+/epoc32/include/platform/ctsy/mltsyfactorybase.h	export	
+/epoc32/include/platform/ctsy/mmtsy_names.h	export	
+/epoc32/include/platform/ctsy/pluginapi/cmmdatapackage.h	export	
+/epoc32/include/platform/ctsy/pluginapi/mmessagerouter.h	export	
+/epoc32/include/platform/ctsy/pluginapi/mmmessagemanagercallback.h	export	
+/epoc32/include/platform/ctsy/pluginapi/mtelephonyaudiocontrol.h	export	
+/epoc32/include/platform/ctsy/pluginapi/mtelephonyaudiocontrolcallback.h	export	
+/epoc32/include/platform/ctsy/rmmcustomapi.h	export	
+/epoc32/include/platform/ctsy/serviceapi/cmmcustomsecuritytsyconstants.h	export	
+/epoc32/include/platform/ctsy/serviceapi/cmmcustomvendorext.h	export	
+/epoc32/include/platform/ctsy/serviceapi/cmmgsmphonestorageutility.h	export	
+/epoc32/include/platform/ctsy/serviceapi/cmmsmsutility.h	export	
+/epoc32/include/platform/ctsy/serviceapi/cmmutility.h	export	
+/epoc32/include/platform/ctsy/serviceapi/ctsydomaincrkeys.h	export	
+/epoc32/include/platform/ctsy/serviceapi/ctsydomainpskeys.h	export	
+/epoc32/include/platform/ctsy/serviceapi/ctsypaniccodes.h	export	
+/epoc32/include/platform/ctsy/serviceapi/ctsysatmessagingbase.h	export	
+/epoc32/include/platform/ctsy/serviceapi/gsmerror.h	export	
+/epoc32/include/platform/ctsy/serviceapi/mctsysatservice.h	export	
+/epoc32/include/platform/ctsy/serviceapi/mcustomvendorextcomplete.h	export	
+/epoc32/include/platform/ctsy/serviceapi/mmgsmwcdmautils.h	export	
+/epoc32/include/platform/ctsy/serviceapi/mmtsy_defaults.h	export	
+/epoc32/include/platform/ctsy/serviceapi/mmtsy_ipcdefs.h	export	
+/epoc32/include/platform/ctsy/serviceapi/mstktsycallorigin.h	export	
+/epoc32/include/platform/ctsy/serviceapi/mstktsysatservice.h	export	
+/epoc32/include/platform/emsanimationie.h	export	
+/epoc32/include/platform/emsformatie.h	export	
+/epoc32/include/platform/emsobjectdistributionie.h	export	
+/epoc32/include/platform/emspictureie.h	export	
+/epoc32/include/platform/emssoundie.h	export	
+/epoc32/include/platform/emsuserpromptie.h	export	
+/epoc32/include/platform/errors/generic/csderr.ra	export	
+/epoc32/include/platform/errors/generic/csderr.rls	export	
+/epoc32/include/platform/errors/generic/etelerr.ra	export	
+/epoc32/include/platform/errors/generic/etelerr.rls	export	
+/epoc32/include/platform/errors/generic/gsmerr.ra	export	
+/epoc32/include/platform/errors/generic/gsmerr.rls	export	
+/epoc32/include/platform/errors/generic/psderr.ra	export	
+/epoc32/include/platform/errors/generic/psderr.rls	export	
+/epoc32/include/platform/et_phone.h	export	
+/epoc32/include/platform/et_phone.inl	export	
+/epoc32/include/platform/et_phone_util.h	export	
+/epoc32/include/platform/et_struct.h	export	
+/epoc32/include/platform/et_tsy.h	export	
+/epoc32/include/platform/etbuffer.h	export	
+/epoc32/include/platform/etel.h	export	
+/epoc32/include/platform/etelext.h	export	
+/epoc32/include/platform/etelmm.h	export	
+/epoc32/include/platform/etelmmcs.h	export	
+/epoc32/include/platform/etelmmerr.h	export	
+/epoc32/include/platform/etelpckt.h	export	
+/epoc32/include/platform/etelqos.h	export	
+/epoc32/include/platform/etelsat.h	export	
+/epoc32/include/platform/etelutils.h	export	
+/epoc32/include/platform/etsvr_slots.h	export	
+/epoc32/include/platform/fax_reversebytes.h	export	
+/epoc32/include/platform/gsmusar.h	export	
+/epoc32/include/platform/mmlist.h	export	
+/epoc32/include/platform/mmretrieve.h	export	
+/epoc32/include/platform/mpbutil.h	export	
+/epoc32/include/platform/nd_err.h	export	
+/epoc32/include/platform/networking/bca.h	export	
+/epoc32/include/platform/networking/bca2.h	export	
+/epoc32/include/platform/networking/bca2factory.h	export	
+/epoc32/include/platform/networking/bcafactory.h	export	
+/epoc32/include/platform/networking/etelbearers.h	export	
+/epoc32/include/platform/networking/imsextn.h	export	
+/epoc32/include/platform/networking/nd_std.h	export	
+/epoc32/include/platform/networking/pdpdef.h	export	
+/epoc32/include/platform/networking/pdpprovision.h	export	
+/epoc32/include/platform/networking/psdavailabilitylistener.h	export	
+/epoc32/include/platform/networking/qos3gpp_subconparams_factory.h	export	
+/epoc32/include/platform/networking/sblpextn.h	export	
+/epoc32/include/platform/networking/umtsextn.h	export	
+/epoc32/include/platform/networking/umtsnifcontrolif.h	export	
+/epoc32/include/platform/pcktcs.h	export	
+/epoc32/include/platform/pcktlist.h	export	
+/epoc32/include/platform/pcktretrieve.h	export	
+/epoc32/include/platform/satcs.h	export	
+/epoc32/include/platform/test/mockltsyindicatorids.h	export	
+/epoc32/include/platform/wapmsgerr.h	export	
+/epoc32/include/smsu.rsg	resource	armv5_urel
+/epoc32/include/smsu.rsg	resource	winscw_udeb
+/epoc32/include/smsuact.h	export	
+/epoc32/include/smsuaddr.h	export	
+/epoc32/include/smsulog.h	export	
+/epoc32/include/smsulog.inl	export	
+/epoc32/include/smsuset.h	export	
+/epoc32/include/smsuset.inl	export	
+/epoc32/include/smsustrm.h	export	
+/epoc32/include/smsustrm.inl	export	
+/epoc32/include/telephony.inl	export	
+/epoc32/include/tsy.hrh	export	
+/epoc32/include/tsy.rh	export	
+/epoc32/include/wap_sock.h	export	
+/epoc32/include/wapmessage.h	export	
+/epoc32/release/armv5/lib/c32bca.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32bca.dso	build	armv5_urel
+/epoc32/release/armv5/lib/c32bca2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32bca2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/c32bca2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32bca2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/c32bca{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/c32bca{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commontsy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commontsy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commontsyfordispatcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commontsyfordispatcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commontsyfordispatcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commontsyfordispatcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commontsy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commontsy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ctsydispatcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ctsydispatcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ctsydispatcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ctsydispatcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/customapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/customapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/customapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/customapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dial.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dial.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dial{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dial{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etel3rdparty.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etel3rdparty.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etel3rdparty{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etel3rdparty{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etelmm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etelmm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etelmm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etelmm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etelpckt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etelpckt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etelpckt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etelpckt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etelsat.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etelsat.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etelsat{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etelsat{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/etel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/etel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gsmu.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gsmu.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gsmu{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gsmu{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/licenseetsy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/licenseetsy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/licenseetsy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/licenseetsy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonetsy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonetsy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonetsywithdispatcher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonetsywithdispatcher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonetsywithdispatcher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonetsywithdispatcher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/phonetsy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/phonetsy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qosextnapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qosextnapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qosextnapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qosextnapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/simatktsy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/simatktsy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/simatktsy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/simatktsy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smsprot.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smsprot.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smsprot{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smsprot{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smsu.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smsu.dso	build	armv5_urel
+/epoc32/release/armv5/lib/smsu{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/smsu{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telwatcherbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telwatcherbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telwatcherbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telwatcherbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/umtsif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/umtsif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/umtsif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/umtsif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wapmsgcli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wapmsgcli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wapmsgcli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wapmsgcli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wapprot.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wapprot.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wapprot{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wapprot{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/LICENSEETSY_STUB.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/LICENSEETSY_STUB.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SIMATKTSY_STUB.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SIMATKTSY_STUB.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32bca.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32bca.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32bca2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/c32bca2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commontsy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commontsy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commontsyfordispatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commontsyfordispatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/csd.agt	build	armv5_udeb
+/epoc32/release/armv5/udeb/csd.agt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctsydispatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctsydispatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctsysystemstateplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctsysystemstateplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/customapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/customapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dial.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dial.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/etel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/etel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/etel3rdparty.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/etel3rdparty.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/etelmm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/etelmm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/etelpckt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/etelpckt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/etelsat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/etelsat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gsmu.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gsmu.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/guqos.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/guqos.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/indicatorwatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/indicatorwatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mm.tsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/mm.tsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonetsy.tsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonetsy.tsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonetsywithdispatcher.tsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/phonetsywithdispatcher.tsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/psd.agt	build	armv5_udeb
+/epoc32/release/armv5/udeb/psd.agt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qos3gpp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qos3gpp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qosextnapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qosextnapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rawip.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rawip.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rawip2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rawip2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/signalstrengthwatcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/signalstrengthwatcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smsprot.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/smsprot.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smsu.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/smsu.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swswapmsg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swswapmsg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/telwatcherbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/telwatcherbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/umtsif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/umtsif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapmsgcli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapmsgcli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapprot.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/wapprot.prt.map	build	armv5_udeb
+/epoc32/release/armv5/urel/LICENSEETSY_STUB.dll	build	armv5_urel
+/epoc32/release/armv5/urel/LICENSEETSY_STUB.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SIMATKTSY_STUB.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SIMATKTSY_STUB.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/c32bca.dll	build	armv5_urel
+/epoc32/release/armv5/urel/c32bca.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/c32bca2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/c32bca2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commontsy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commontsy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commontsyfordispatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commontsyfordispatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/csd.agt	build	armv5_urel
+/epoc32/release/armv5/urel/csd.agt.map	build	armv5_urel
+/epoc32/release/armv5/urel/ctsydispatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ctsydispatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ctsysystemstateplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ctsysystemstateplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/customapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/customapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dial.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dial.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/etel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/etel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/etel3rdparty.dll	build	armv5_urel
+/epoc32/release/armv5/urel/etel3rdparty.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/etelmm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/etelmm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/etelpckt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/etelpckt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/etelsat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/etelsat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gsmu.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gsmu.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/guqos.prt	build	armv5_urel
+/epoc32/release/armv5/urel/guqos.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/indicatorwatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/indicatorwatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mm.tsy	build	armv5_urel
+/epoc32/release/armv5/urel/mm.tsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/pdp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pdp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonetsy.tsy	build	armv5_urel
+/epoc32/release/armv5/urel/phonetsy.tsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/phonetsywithdispatcher.tsy	build	armv5_urel
+/epoc32/release/armv5/urel/phonetsywithdispatcher.tsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/psd.agt	build	armv5_urel
+/epoc32/release/armv5/urel/psd.agt.map	build	armv5_urel
+/epoc32/release/armv5/urel/qos3gpp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qos3gpp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qosextnapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qosextnapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rawip.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rawip.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rawip2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rawip2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/signalstrengthwatcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/signalstrengthwatcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/smsprot.prt	build	armv5_urel
+/epoc32/release/armv5/urel/smsprot.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/smsu.dll	build	armv5_urel
+/epoc32/release/armv5/urel/smsu.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swswapmsg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swswapmsg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/telwatcherbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/telwatcherbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/umtsif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/umtsif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wapmsgcli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wapmsgcli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wapprot.prt	build	armv5_urel
+/epoc32/release/armv5/urel/wapprot.prt.map	build	armv5_urel
+/epoc32/release/winscw/udeb/LICENSEETSY.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SIMATKTSY.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32bca.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32bca.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32bca2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/c32bca2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commontsy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commontsy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commontsyfordispatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commontsyfordispatcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/csd.agt	build	winscw_udeb
+/epoc32/release/winscw/udeb/ctsydispatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ctsydispatcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ctsysystemstateplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/customapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/customapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dial.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dial.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/etel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/etel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/etel3rdparty.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/etel3rdparty.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/etelmm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/etelmm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/etelpckt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/etelpckt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/etelsat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/etelsat.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gsmu.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gsmu.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/guqos.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/indicatorwatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/licenseetsy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mm.tsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/pdp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonetsy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonetsy.tsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonetsywithdispatcher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/phonetsywithdispatcher.tsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/psd.agt	build	winscw_udeb
+/epoc32/release/winscw/udeb/qos3gpp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qosextnapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qosextnapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rawip.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rawip2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/signalstrengthwatcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/simatktsy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/smsprot.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/smsprot.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/smsu.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/smsu.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swswapmsg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/telwatcherbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/telwatcherbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/umtsif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/umtsif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapmsgcli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapmsgcli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapprot.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wapprot.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f7988/etel.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/esock/smswap.sms.esk	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/ltsydata.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/operatorvariants.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/sms/smsu.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/csderr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ctsysystemstateplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/indicatorwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pdp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/qos3gpp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rawip.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rawip2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/signalstrengthwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/swswapmsg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/system/data/hwwapstackconfig.ini	export	
+/epoc32/release/winscw/urel/LICENSEETSY.dll	build	winscw_urel
+/epoc32/release/winscw/urel/LICENSEETSY.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SIMATKTSY.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SIMATKTSY.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/c32bca.dll	build	winscw_urel
+/epoc32/release/winscw/urel/c32bca.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/c32bca2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/c32bca2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commontsy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commontsy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commontsyfordispatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commontsyfordispatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/csd.agt	build	winscw_urel
+/epoc32/release/winscw/urel/csd.agt.map	build	winscw_urel
+/epoc32/release/winscw/urel/ctsydispatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ctsydispatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ctsysystemstateplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ctsysystemstateplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/customapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/customapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dial.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dial.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/etel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/etel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/etel3rdparty.dll	build	winscw_urel
+/epoc32/release/winscw/urel/etel3rdparty.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/etelmm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/etelmm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/etelpckt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/etelpckt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/etelsat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/etelsat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gsmu.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gsmu.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/guqos.prt	build	winscw_urel
+/epoc32/release/winscw/urel/guqos.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/indicatorwatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/indicatorwatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mm.tsy	build	winscw_urel
+/epoc32/release/winscw/urel/mm.tsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/pdp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pdp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonetsy.tsy	build	winscw_urel
+/epoc32/release/winscw/urel/phonetsy.tsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/phonetsywithdispatcher.tsy	build	winscw_urel
+/epoc32/release/winscw/urel/phonetsywithdispatcher.tsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/psd.agt	build	winscw_urel
+/epoc32/release/winscw/urel/psd.agt.map	build	winscw_urel
+/epoc32/release/winscw/urel/qos3gpp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qos3gpp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qosextnapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qosextnapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rawip.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rawip.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rawip2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rawip2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/signalstrengthwatcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/signalstrengthwatcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/smsprot.prt	build	winscw_urel
+/epoc32/release/winscw/urel/smsprot.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/smsu.dll	build	winscw_urel
+/epoc32/release/winscw/urel/smsu.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swswapmsg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swswapmsg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/telwatcherbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/telwatcherbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/umtsif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/umtsif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wapmsgcli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wapmsgcli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wapprot.prt	build	winscw_urel
+/epoc32/release/winscw/urel/wapprot.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101f7988/etel.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7989/esock/smswap.sms.esk	export	
+/epoc32/release/winscw/urel/z/private/101f7989/ltsydata.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/operatorvariants.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/sms/smsu.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/csderr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ctsysystemstateplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/indicatorwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pdp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/qos3gpp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rawip.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rawip2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/signalstrengthwatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/swswapmsg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/system/data/hwwapstackconfig.ini	export	
+/epoc32/rom/config/assets/symbianos/confml/ctsy.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/ctsy_102029A2.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/ctsy_10282826.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/ctsy_10282827.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/ctsy_10282DFE.crml	export	
+/epoc32/rom/include/c32bca.iby	export	
+/epoc32/rom/include/csd.iby	export	
+/epoc32/rom/include/ctsy.iby	export	
+/epoc32/rom/include/ctsydispatcher.iby	export	
+/epoc32/rom/include/ctsysystemstateplugin.iby	export	
+/epoc32/rom/include/dial.iby	export	
+/epoc32/rom/include/etel.iby	export	
+/epoc32/rom/include/etelisv.iby	export	
+/epoc32/rom/include/etelmm.iby	export	
+/epoc32/rom/include/etelpckt.iby	export	
+/epoc32/rom/include/etelsat.iby	export	
+/epoc32/rom/include/guqos.iby	export	
+/epoc32/rom/include/mmtsy.iby	export	
+/epoc32/rom/include/pdp.iby	export	
+/epoc32/rom/include/psdagt.iby	export	
+/epoc32/rom/include/qos3gpp.iby	export	
+/epoc32/rom/include/qosextnapi.iby	export	
+/epoc32/rom/include/rawipnif.iby	export	
+/epoc32/rom/include/smsstack.iby	export	
+/epoc32/rom/include/sysawatcher.iby	export	
+/epoc32/rom/include/telephony.iby	export	
+/epoc32/rom/include/telwatcher.iby	export	
+/epoc32/rom/include/umtsif.iby	export	
+/epoc32/rom/include/wapmessage.iby	export	
+/epoc32/winscw/c/private/101f7989/esock/smswap.sms.esk	export	
+/epoc32/winscw/c/private/101f7989/esock/smswap.wap.esk	export	

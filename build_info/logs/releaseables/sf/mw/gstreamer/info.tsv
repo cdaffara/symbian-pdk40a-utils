@@ -1,0 +1,687 @@
+/epoc32/data/z/system/install/gstreamer_stub.sis	export	
+/epoc32/include/platform/mw/gstreamer/gst/app/gstappbuffer.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/app/gstappsink.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/app/gstappsrc.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/audio-enumtypes.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/audio.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/gstaudioclock.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/gstaudiofilter.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/gstaudiosink.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/gstaudiosrc.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/gstbaseaudiosink.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/gstbaseaudiosrc.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/gstringbuffer.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/mixerutils.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/audio/multichannel.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gstadapter.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gstbasesink.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gstbasesrc.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gstbasetransform.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gstcollectpads.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gstdataqueue.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gstpushsrc.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/base/gsttypefindhelper.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/cdda/gstcddabasesrc.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/controller/gstcontroller.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/controller/gstcontrolsource.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/controller/gstinterpolationcontrolsource.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/dataprotocol/dataprotocol.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/fft/gstfft.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/fft/gstfftf32.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/fft/gstfftf64.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/fft/gstffts16.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/fft/gstffts32.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/floatcast/floatcast.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/glib-compat.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gst.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gst_global.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstbin.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstbuffer.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstbufferlist.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstbus.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstcaps.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstchildproxy.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstclock.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstcompat.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstconfig.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstdebugutils.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstelement.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstelementfactory.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstenumtypes.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsterror.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstevent.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstfilter.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstformat.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstghostpad.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstindex.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstindexfactory.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstinfo.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstinterface.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstiterator.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstmacros.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstmarshal.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstmessage.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstminiobject.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstobject.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstpad.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstpadtemplate.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstparamspecs.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstparse.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstpipeline.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstplugin.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstpluginfeature.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstpoll.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstpreset.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstquery.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstregistry.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstregistrybinary.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstsegment.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gststructure.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstsystemclock.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsttaglist.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsttagsetter.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsttask.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsttaskpool.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsttrace.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsttypefind.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsttypefindfactory.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gsturi.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstutils.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstvalue.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstversion.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/gstxml.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/colorbalance.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/colorbalancechannel.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/gstspeechencoderconfig.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/interfaces-enumtypes.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/mixer.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/mixeroptions.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/mixertrack.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/navigation.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/propertyprobe.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/tuner.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/tunerchannel.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/tunernorm.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/interfaces/xoverlay.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/net/gstnet.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/net/gstnetclientclock.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/net/gstnettimepacket.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/net/gstnettimeprovider.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/netbuffer/gstnetbuffer.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/pbutils/descriptions.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/pbutils/install-plugins.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/pbutils/missing-plugins.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/pbutils/pbutils-enumtypes.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/pbutils/pbutils.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/riff/riff-ids.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/riff/riff-media.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/riff/riff-read.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/rtp/gstbasertpaudiopayload.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/rtp/gstbasertpdepayload.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/rtp/gstbasertppayload.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/rtp/gstrtcpbuffer.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/rtp/gstrtpbuffer.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/rtp/gstrtppayloads.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/tag/tag.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/video/gstvideofilter.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/video/gstvideosink.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/video/video-enumtypes.h	export	
+/epoc32/include/platform/mw/gstreamer/gst/video/video.h	export	
+/epoc32/release/armv5/lib/GstAudioRecordBin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/GstAudioRecordBin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/GstAudioRecordBin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/GstAudioRecordBin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gstqtmux.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gstqtmux.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gstqtmux{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gstqtmux{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstadder.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstadder.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstadder{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstadder{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstamrmux.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstamrmux.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstamrmux{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstamrmux{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstapp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstapp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstapp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstapp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudio.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudio.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudioconvert.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudioconvert.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudioconvert{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudioconvert{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudiorate.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudiorate.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudiorate{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudiorate{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudioresample.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudioresample.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudioresample{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudioresample{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudiotestsrc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudiotestsrc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudiotestsrc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudiotestsrc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstaudio{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstaudio{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcdda.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcdda.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcdda{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcdda{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcoreelements.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcoreelements.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcoreelements{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcoreelements{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcoreindexers.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcoreindexers.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstcoreindexers{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstcoreindexers{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdataprotocol.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdataprotocol.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdataprotocol{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdataprotocol{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdecodebin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdecodebin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdecodebin2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdecodebin2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdecodebin2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdecodebin2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdecodebin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdecodebin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdevsoundext.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdevsoundext.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdevsoundext{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdevsoundext{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdevsoundsink.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdevsoundsink.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdevsoundsink{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdevsoundsink{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdevsoundsrc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdevsoundsrc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstdevsoundsrc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstdevsoundsrc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstffmpegcolorspace.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstffmpegcolorspace.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstffmpegcolorspace{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstffmpegcolorspace{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstfft.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstfft.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstfft{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstfft{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstgdp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstgdp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstgdp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstgdp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstinterfaces.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstinterfaces.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstinterfaces{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstinterfaces{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstnet.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstnet.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstnetbuffer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstnetbuffer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstnetbuffer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstnetbuffer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstnet{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstnet{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstpbutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstpbutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstpbutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstpbutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstplaybin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstplaybin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstplaybin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstplaybin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstqueue2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstqueue2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstqueue2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstqueue2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstreamer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstreamer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstreamer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstreamer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstriff.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstriff.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstriff{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstriff{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstrtp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstrtp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstrtp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstrtp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstsubparse.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstsubparse.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstsubparse{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstsubparse{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgsttag.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgsttag.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgsttag{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgsttag{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgsttcp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgsttcp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgsttcp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgsttcp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgsttypefindfunctions.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgsttypefindfunctions.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgsttypefindfunctions{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgsttypefindfunctions{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideorate.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideorate.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideorate{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideorate{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideoscale.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideoscale.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideoscale{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideoscale{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideotestsrc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideotestsrc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideotestsrc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideotestsrc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvideo{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvideo{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvolume.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvolume.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstvolume{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstvolume{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstwavenc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstwavenc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstwavenc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstwavenc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstwavparse.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstwavparse.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libgstwavparse{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libgstwavparse{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/GSTRegistryGenerator.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/GSTRegistryGenerator.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/GstAudioRecordBin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/GstAudioRecordBin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gst-inspect.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/gst-inspect.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gst-launch.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/gst-launch.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gst-typefind.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/gst-typefind.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gstqtmux.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gstqtmux.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstadder.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstadder.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstamrmux.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstamrmux.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstapp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstapp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudio.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudio.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudioconvert.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudioconvert.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudiorate.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudiorate.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudioresample.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudioresample.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudiotestsrc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstaudiotestsrc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcdda.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcdda.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcoreelements.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcoreelements.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcoreindexers.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstcoreindexers.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdataprotocol.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdataprotocol.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdecodebin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdecodebin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdecodebin2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdecodebin2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdevsoundext.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdevsoundext.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdevsoundsink.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdevsoundsink.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdevsoundsrc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstdevsoundsrc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstffmpegcolorspace.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstffmpegcolorspace.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstfft.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstfft.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstgdp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstgdp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstinterfaces.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstinterfaces.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstnet.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstnet.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstnetbuffer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstnetbuffer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstpbutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstpbutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstplaybin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstplaybin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstqueue2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstqueue2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstreamer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstreamer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstriff.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstriff.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstrtp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstrtp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstsubparse.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstsubparse.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgsttag.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgsttag.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgsttcp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgsttcp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgsttypefindfunctions.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgsttypefindfunctions.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideorate.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideorate.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideoscale.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideoscale.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideotestsrc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvideotestsrc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvolume.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstvolume.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstwavenc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstwavenc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstwavparse.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libgstwavparse.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/GSTRegistryGenerator.exe	build	armv5_urel
+/epoc32/release/armv5/urel/GSTRegistryGenerator.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/GstAudioRecordBin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/GstAudioRecordBin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gst-inspect.exe	build	armv5_urel
+/epoc32/release/armv5/urel/gst-inspect.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/gst-launch.exe	build	armv5_urel
+/epoc32/release/armv5/urel/gst-launch.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/gst-typefind.exe	build	armv5_urel
+/epoc32/release/armv5/urel/gst-typefind.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/gstqtmux.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gstqtmux.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstadder.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstadder.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstamrmux.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstamrmux.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstapp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstapp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudio.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudio.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudioconvert.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudioconvert.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudiorate.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudiorate.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudioresample.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudioresample.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudiotestsrc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstaudiotestsrc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcdda.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcdda.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcoreelements.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcoreelements.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcoreindexers.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstcoreindexers.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdataprotocol.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdataprotocol.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdecodebin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdecodebin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdecodebin2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdecodebin2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdevsoundext.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdevsoundext.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdevsoundsink.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdevsoundsink.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdevsoundsrc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstdevsoundsrc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstffmpegcolorspace.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstffmpegcolorspace.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstfft.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstfft.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstgdp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstgdp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstinterfaces.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstinterfaces.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstnet.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstnet.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstnetbuffer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstnetbuffer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstpbutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstpbutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstplaybin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstplaybin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstqueue2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstqueue2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstreamer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstreamer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstriff.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstriff.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstrtp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstrtp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstsubparse.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstsubparse.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgsttag.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgsttag.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgsttcp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgsttcp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgsttypefindfunctions.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgsttypefindfunctions.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideorate.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideorate.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideoscale.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideoscale.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideotestsrc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvideotestsrc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvolume.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstvolume.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstwavenc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstwavenc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libgstwavparse.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libgstwavparse.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/GSTRegistryGenerator.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/GstAudioRecordBin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/GstAudioRecordBin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gst-inspect.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/gst-launch.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/gst-typefind.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/gstqtmux.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gstqtmux.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstadder.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstadder.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstamrmux.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstamrmux.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstapp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstapp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudio.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudio.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudioconvert.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudioconvert.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudiorate.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudiorate.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudioresample.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudioresample.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudiotestsrc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstaudiotestsrc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcdda.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcdda.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcoreelements.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcoreelements.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcoreindexers.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstcoreindexers.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdataprotocol.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdataprotocol.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdecodebin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdecodebin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdecodebin2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdecodebin2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdevsoundext.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdevsoundext.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdevsoundsink.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdevsoundsink.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdevsoundsrc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstdevsoundsrc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstffmpegcolorspace.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstffmpegcolorspace.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstfft.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstfft.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstgdp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstgdp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstinterfaces.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstinterfaces.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstnet.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstnet.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstnetbuffer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstnetbuffer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstpbutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstpbutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstplaybin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstplaybin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstqueue2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstqueue2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstreamer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstreamer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstriff.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstriff.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstrtp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstrtp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstsubparse.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstsubparse.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgsttag.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgsttag.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgsttcp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgsttcp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgsttypefindfunctions.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgsttypefindfunctions.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideorate.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideorate.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideoscale.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideoscale.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideotestsrc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvideotestsrc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvolume.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstvolume.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstwavenc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstwavenc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstwavparse.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libgstwavparse.lib	build	winscw_udeb
+/epoc32/release/winscw/urel/GSTRegistryGenerator.exe	build	winscw_urel
+/epoc32/release/winscw/urel/GSTRegistryGenerator.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/GstAudioRecordBin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/GstAudioRecordBin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gst-inspect.exe	build	winscw_urel
+/epoc32/release/winscw/urel/gst-inspect.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/gst-launch.exe	build	winscw_urel
+/epoc32/release/winscw/urel/gst-launch.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/gst-typefind.exe	build	winscw_urel
+/epoc32/release/winscw/urel/gst-typefind.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/gstqtmux.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gstqtmux.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstadder.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstadder.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstamrmux.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstamrmux.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstapp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstapp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudio.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudio.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudioconvert.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudioconvert.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudiorate.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudiorate.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudioresample.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudioresample.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudiotestsrc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstaudiotestsrc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcdda.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcdda.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcoreelements.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcoreelements.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcoreindexers.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstcoreindexers.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdataprotocol.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdataprotocol.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdecodebin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdecodebin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdecodebin2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdecodebin2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdevsoundext.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdevsoundext.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdevsoundsink.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdevsoundsink.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdevsoundsrc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstdevsoundsrc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstffmpegcolorspace.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstffmpegcolorspace.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstfft.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstfft.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstgdp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstgdp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstinterfaces.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstinterfaces.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstnet.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstnet.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstnetbuffer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstnetbuffer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstpbutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstpbutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstplaybin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstplaybin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstqueue2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstqueue2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstreamer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstreamer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstriff.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstriff.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstrtp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstrtp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstsubparse.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstsubparse.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgsttag.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgsttag.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgsttcp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgsttcp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgsttypefindfunctions.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgsttypefindfunctions.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideorate.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideorate.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideoscale.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideoscale.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideotestsrc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvideotestsrc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvolume.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstvolume.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstwavenc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstwavenc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libgstwavparse.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libgstwavparse.dll.map	build	winscw_urel
+/epoc32/rom/include/core/mw/gstreamer.iby	export	
+/epoc32/winscw/c/gstreamer/plugins_list/gst_dll_2001F41F.txt	export	

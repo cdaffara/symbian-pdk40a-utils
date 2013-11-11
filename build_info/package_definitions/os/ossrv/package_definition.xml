@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="ossrv" level="services" levels="physical-abstraction app-libs encoding translation data-services utilities" long-name="Generic OS Services">
+<collection name="ossrv_pub" long-name="Generic OS Services Public Interfaces" level="utilities">
+<component name="boost_apis" long-name="Boost APIs" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/boost_apis/group"/>
+</component>
+<component name="cpp_wrappers" long-name="Cpp wrappers" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/cpp_wrappers/group"/>
+</component>
+<component name="character_type_apis" long-name="Character Type APIs" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/character_type_apis/group"/>
+</component>
+<component name="compiler_specific_runtime_support" long-name="Compiler Specific Runtime Support" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/compiler_specific_runtime_support/group"/>
+</component>
+<component name="ossrv_configuration_api" long-name="Generic OS Services Configuration API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/configuration/group"/>
+</component>
+<component name="crypto_authentication_codes_and_hash_functions_api" long-name="Crypto Authentication Codes and Hash Functions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/crypto_authentication_codes_and_hash_functions_api/group"/>
+</component>
+<component name="crypto_auxillary_functions_api" long-name="Crypto Auxillary Functions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/crypto_auxillary_functions_api/group"/>
+</component>
+<component name="crypto_certificates_api" long-name="Crypto Certificates API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/crypto_certificates_api/group"/>
+</component>
+<component name="crypto_inputoutput_and_data_encoding_api" long-name="Crypto Input/Output and Data Encoding API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/crypto_inputoutput_and_data_encoding_api/group"/>
+</component>
+<component name="crypto_public_key_cryptography_and_key_agreement_api" long-name="Crypto Public Key Cryptography and Key Agreement API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/crypto_public_key_cryptography_and_key_agreement_api/group"/>
+</component>
+<component name="crypto_symmetric_ciphers_api" long-name="Crypto Symmetric Ciphers API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/crypto_symmetric_ciphers_api/group"/>
+</component>
+<component name="crypto_utility_functions_api" long-name="Crypto Utility Functions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/crypto_utility_functions_api/group"/>
+</component>
+<component name="cryptogaphy_related_api" long-name="Cryptogaphy Related API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/cryptogaphy_related_api/group"/>
+</component>
+<component name="ossrv_debug_api" long-name="Generic OS Services Debug API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/debug/group"/>
+</component>
+<component name="ossrv_exceptions_api" long-name="Generic OS Services Exceptions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/exceptions/group"/>
+</component>
+<component name="io_stream_api" long-name="I/O stream API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/io_stream_api/group"/>
+</component>
+<component name="localization_function_api" long-name="Localization Function API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/localization_function_api/group"/>
+</component>
+<component name="math_operations_api" long-name="Math Operations API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/math_operations_api/group"/>
+</component>
+<component name="ossrv_memory_api" long-name="Generic OS Services Memory API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/memory/group"/>
+</component>
+<component name="no_namespace_headers" long-name="No Namespace Headers" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/no_namespace_headers/group"/>
+</component>
+<component name="openc_headers" long-name="OpenC headers" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/openc_headers/group"/>
+</component>
+<component name="openc_wrappers" long-name="OpenC wrappers" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/openc_wrappers/group"/>
+</component>
+<component name="ssl_general_api" long-name="SSL General API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/ssl_general_api/group"/>
+</component>
+<component name="ssl_protocol_methods_api" long-name="SSL Protocol Methods API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/ssl_protocol_methods_api/group"/>
+</component>
+<component name="standard_compressiondecompression_api" long-name="Standard Compression/Decompression API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/standard_compressiondecompression_api/group"/>
+</component>
+<component name="stl" long-name="STL API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/stl/group"/>
+</component>
+<component name="thread_api" long-name="Thread API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/thread_api/group"/>
+</component>
+<component name="type_attributes" long-name="Type Attributes API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/type_attributes/group"/>
+</component>
+<component name="typeinfo" long-name="Type Info API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/typeinfo/group"/>
+</component>
+<component name="utility_apis" long-name="Utility APIs" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/utility_apis/group"/>
+</component>
+<component name="wide_character_classapis" long-name="Wide character class/apis" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/wide_character_classapis/group"/>
+</component>
+<component name="dbus_api" long-name="Dbus API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/dbus/group"/>
+</component>
+<component name="dbus-glib_api" long-name="D-Bus GLib API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_pub/dbus-glib/group"/>
+</component>
+</collection>
+<collection name="ossrv_plat" long-name="Generic OS Services Platform Interfaces" level="utilities">
+<component name="libutils_apis" long-name="Utility Library APIs" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/ossrv/ossrv_plat/libutils/group"/>
+</component>
+</collection>
+<collection name="stdlibs" long-name="Standard Libraries" level="translation">
+<component name="libcrypt" long-name="Crypt Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/stdlibs/libcrypt/group"/>
+</component>
+</collection>
+<collection name="ssl" long-name="SSL" level="data-services">
+<component name="libcrypto" long-name="Crypto Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/ssl/libcrypto/group"/>
+</component>
+<component name="libssl" long-name="SSL Library" filter="s60" purpose="development">
+<unit bldFile="/sf/os/ossrv/ssl/libssl/group"/>
+</component>
+</collection>
+<collection name="glib" long-name="GLib" level="utilities">
+<component name="glibbackend" long-name="GLib Backend" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/glib/build/symbian/glibbackend/group"/>
+<!-- Move to here: <unit bldFile="glib/glibbackend/group"/> -->
+</component>
+<component name="libglib" long-name="GLib Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/glib/build/symbian/glib/group"/>
+<!-- Move to here: <unit bldFile="glib/libglib/group"/> -->
+</component>
+<component name="libgthread" long-name="Libg Thread" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/glib/build/symbian/gthread/group"/>
+<!-- Move to here:     <unit bldFile="glib/libgthread/group"/> -->
+</component>
+<component name="libgmodule" long-name="Libg Module" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/glib/build/symbian/gmodule/group"/>
+<!-- Move to here:         <unit bldFile="glib/libgmodule/group"/> -->
+</component>
+<component name="libgobject" long-name="Libg Object" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/glib/build/symbian/gobject/group"/>
+<!-- Move to here:         <unit bldFile="glib/libgobject/group"/> -->
+</component>
+</collection>
+<collection name="stdcpp" long-name="C++ Standard Library" level="translation">
+<!-- collection is really a component. Needs to be moved down a directory -->
+<component name="stdcpp_build" long-name="Stdcpp" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/stdcpp/group"/>
+</component>
+</collection>
+<collection name="ofdbus" long-name="Open Foundation D-Bus" level="utilities">
+<component name="dbus" long-name="D-Bus" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/ofdbus/dbus/group"/>
+</component>
+<component name="dbus-glib" long-name="D-Bus GLib" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/ofdbus/dbus-glib/group"/>
+</component>
+<component name="ofdbus_rom" long-name="D-Bus ROM" filter="s60" purpose="optional">
+<!-- Contains IBY for for dbus. Should remove #includes to above components and move this down a directory 
+            Consider moving IBY file to one of the above as well and removing this component entirely -->
+<unit bldFile="/sf/os/ossrv/ofdbus/group"/>
+</component>
+</collection>
+<collection name="utilitylibraries" long-name="Utility Libraries" level="encoding">
+<component name="libutils" long-name="Utility Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/ossrv/utilitylibraries/libutils/group"/>
+</component>
+</collection>
+<collection name="genericservices" long-name="Generic Services" level="utilities">
+<component name="s60compatibilityheaders" long-name="S60 Compatibility Headers" filter="gt" purpose="optional">
+<unit bldFile="/sf/os/ossrv/genericservices/s60compatibilityheaders/groupsymtb101sf" mrp="/sf/os/ossrv/genericservices/s60compatibilityheaders/groupsymtb101sf/tools_s60_header_compatsymtb101sf.mrp" version="tb101sf"/>
+</component>
+<component name="mimerecognitionfw" long-name="MIME Recognition Framework" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/genericservices/mimerecognitionfw/group" mrp="/sf/os/ossrv/genericservices/mimerecognitionfw/group/app-framework_emime.mrp"/>
+</component>
+<component name="systemagent" long-name="System Agent" introduced="9.0" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/genericservices/systemagent/group" mrp="/sf/os/ossrv/genericservices/systemagent/group/syslibs_sysagent2.mrp"/>
+</component>
+<component name="taskscheduler" long-name="Task Scheduler" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/os/ossrv/genericservices/taskscheduler/group" mrp="/sf/os/ossrv/genericservices/taskscheduler/group/syslibs_schsvr.mrp"/>
+</component>
+<component name="activebackupclient" long-name="Active Backup Client" purpose="optional">
+<unit bldFile="/sf/os/ossrv/genericservices/activebackupclient/group" mrp="/sf/os/ossrv/genericservices/activebackupclient/group/connectivity_abclient.mrp"/>
+</component>
+<component name="syslibsdocs" long-name="Syslibs Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/ossrv/genericservices/syslibsdocs/syslibs_documentation.mrp"/>
+</component>
+<component name="httputils" long-name="HTTP Utilities Library" introduced="6.2" purpose="optional">
+<unit bldFile="/sf/os/ossrv/genericservices/httputils/group" mrp="/sf/os/ossrv/genericservices/httputils/group/application-protocols_inetprotutil.mrp"/>
+</component>
+</collection>
+<collection name="syslibsapitest" long-name="SysLibs API Tests" level="utilities"/>
+<collection name="compressionlibs" long-name="Compression Libraries" level="data-services">
+<component name="ziplib" long-name="Zip Compression Library" introduced="6.0" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/compressionlibs/ziplib/group" mrp="/sf/os/ossrv/compressionlibs/ziplib/group/syslibs_ezlib2.mrp"/>
+</component>
+</collection>
+<collection name="genericopenlibs" long-name="Generic Open Libraries" level="translation">
+<component name="cstdlib" long-name="C Standard Library" introduced="ER5" purpose="optional">
+<unit bldFile="/sf/os/ossrv/genericopenlibs/cstdlib/group" mrp="/sf/os/ossrv/genericopenlibs/cstdlib/group/syslibs_stdlib.mrp"/>
+</component>
+<component name="cppstdlib" long-name="C++ Standard Library" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/genericopenlibs/cppstdlib/group" mrp="/sf/os/ossrv/genericopenlibs/cppstdlib/group/openenv_libstdcpp.mrp"/>
+</component>
+<component name="openenvcore" long-name="Open Environment Core" introduced="^2" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/genericopenlibs/openenvcore/group" mrp="/sf/os/ossrv/genericopenlibs/openenvcore/group/openenv.mrp"/>
+</component>
+<component name="posixrealtimeextensions" long-name="POSIX Realtime Extensions" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/ossrv/genericopenlibs/posixrealtimeextensions/group" mrp="/sf/os/ossrv/genericopenlibs/posixrealtimeextensions/group/oeaddons_librt.mrp"/>
+</component>
+<component name="liboil" long-name="Liboil" introduced="^4" purpose="optional">
+<unit bldFile="/sf/os/ossrv/genericopenlibs/liboil/group" mrp="/sf/os/ossrv/genericopenlibs/liboil/group/oeaddons_liboil.mrp"/>
+</component>
+</collection>
+<collection name="lowlevellibsandfws" long-name="Low Level Libraries and Frameworks" level="app-libs">
+<component name="pluginfw" long-name="Plugin Framework" introduced="6.2" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/lowlevellibsandfws/pluginfw/Group" mrp="/sf/os/ossrv/lowlevellibsandfws/pluginfw/Group/syslibs_ecom3.mrp" version="3"/>
+</component>
+<component name="apputils" long-name="Application Utilities" introduced="ER5" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/lowlevellibsandfws/apputils/group" mrp="/sf/os/ossrv/lowlevellibsandfws/apputils/group/syslibs_bafl.mrp"/>
+</component>
+<component name="genericusabilitylib" long-name="Generic Usability Library" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/ossrv/lowlevellibsandfws/genericusabilitylib/group" mrp="/sf/os/ossrv/lowlevellibsandfws/genericusabilitylib/group/syslibs_euserhl.mrp"/>
+</component>
+</collection>
+<collection name="ossrv_info" long-name="Generic OS Services Info" level="utilities">
+<component name="ossrv_build" long-name="Generic OS Services Build" filter="s60" purpose="optional">
+<!-- exports should be moved to individual components -->
+<unit bldFile="/sf/os/ossrv/group"/>
+</component>
+<component name="ossrv_metadata" long-name="Generic OS Services Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/ossrv/ossrv_info/ossrv_metadata/ossrv_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

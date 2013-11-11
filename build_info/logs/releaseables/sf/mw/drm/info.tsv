@@ -1,0 +1,945 @@
+/epoc32/data/Z/private/102073ea/excludes/101F51F2.exc	export	
+/epoc32/data/Z/private/102073ea/excludes/10282F1B.exc	export	
+/epoc32/data/z/pluginstub/drmuinotifications.qtplugin	export	
+/epoc32/data/z/private/10003a3f/apps/drmrightsmanager_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/drmrightsmanager_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/wmdrmdlaapp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/wmdrmdlaapp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/drmencryptor_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/drmencryptor_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101F51F2/backup_registration.xml	export	
+/epoc32/data/z/resource/apps/drmencryptor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/drmencryptor.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/drmrightsmanager.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/drmrightsmanager.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/drmrightsmanager.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/drmrightsmanager.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/drmrightsmanager.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/drmrightsmanager_aif.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/wmdrmdla.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/wmdrmdlaapp.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/wmdrmdlaapp.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/wmdrmdlaapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/wmdrmdlaapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/distribution.policy.s60	export	
+/epoc32/data/z/resource/drmcommon.rsc	resource	armv5_urel
+/epoc32/data/z/resource/drmcommon.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/drmhelper.r01	resource	armv5_urel
+/epoc32/data/z/resource/drmhelper.r01	resource	winscw_udeb
+/epoc32/data/z/resource/drmhelper.rsc	resource	armv5_urel
+/epoc32/data/z/resource/drmhelper.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/drmutility.r01	resource	armv5_urel
+/epoc32/data/z/resource/drmutility.r01	resource	winscw_udeb
+/epoc32/data/z/resource/drmutility.rsc	resource	armv5_urel
+/epoc32/data/z/resource/drmutility.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/drmutilitydmgrwrapper.r01	resource	armv5_urel
+/epoc32/data/z/resource/drmutilitydmgrwrapper.r01	resource	winscw_udeb
+/epoc32/data/z/resource/drmutilitydmgrwrapper.rsc	resource	armv5_urel
+/epoc32/data/z/resource/drmutilitydmgrwrapper.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/romtmreg.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/romtmreg.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/romtmreg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/romtmreg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/romtmui.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/romtmui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/romtmui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/romtmui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/drmrel1_0stringdict00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/drmrel1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/drmrel2_1stringdict00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/drmrel2_1stringdict00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpfiltercamese.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpfiltercamese.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpfilterdrm.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpfilterdrm.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/omadrmagent.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/omadrmagent.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recdrm.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recdrm.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rohandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rohandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wmdrmdladefaulthttpplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wmdrmdladefaulthttpplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wmdrmdladefaultuiplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wmdrmdladefaultuiplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/rohandler.r01	resource	armv5_urel
+/epoc32/data/z/resource/rohandler.r01	resource	winscw_udeb
+/epoc32/data/z/resource/rohandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/rohandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wmdrmdlautils.r01	resource	armv5_urel
+/epoc32/data/z/resource/wmdrmdlautils.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wmdrmdlautils.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wmdrmdlautils.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wmdrmpkserver.r01	resource	armv5_urel
+/epoc32/data/z/resource/wmdrmpkserver.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wmdrmpkserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wmdrmpkserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/xhtml/01/0x101F85C7/contents.zip	export	
+/epoc32/data/z/resource/xhtml/01/0x101F85C7/index.xml	export	
+/epoc32/data/z/resource/xhtml/01/0x101F85C7/keywords.xml	export	
+/epoc32/data/z/resource/xhtml/01/0x101F85C7/meta.xml	export	
+/epoc32/data/z/system/install/DRMRightsManager_stub.SIS	export	
+/epoc32/data/z/system/install/OmaDrm_Stub.SIS	export	
+/epoc32/data/z/system/install/commondrm_stub.sis	export	
+/epoc32/data/z/system/install/wmdrm_stub.sis	export	
+/epoc32/include/drmcommon.rsg	resource	armv5_urel
+/epoc32/include/drmcommon.rsg	resource	winscw_udeb
+/epoc32/include/drmencryptor.rsg	resource	armv5_urel
+/epoc32/include/drmencryptor.rsg	resource	winscw_udeb
+/epoc32/include/drmhelper.rsg	resource	armv5_urel
+/epoc32/include/drmhelper.rsg	resource	winscw_udeb
+/epoc32/include/drmrightsmanager.mbg	bitmap	armv5_urel
+/epoc32/include/drmrightsmanager.mbg	bitmap	winscw_udeb
+/epoc32/include/drmrightsmanager.rsg	resource	armv5_urel
+/epoc32/include/drmrightsmanager.rsg	resource	winscw_udeb
+/epoc32/include/drmutility.rsg	resource	armv5_urel
+/epoc32/include/drmutility.rsg	resource	winscw_udeb
+/epoc32/include/drmutilitydmgrwrapper.rsg	resource	armv5_urel
+/epoc32/include/drmutilitydmgrwrapper.rsg	resource	winscw_udeb
+/epoc32/include/httpfiltercamese.rsg	resource	armv5_urel
+/epoc32/include/httpfiltercamese.rsg	resource	winscw_udeb
+/epoc32/include/mw/DRMHelper.h	export	
+/epoc32/include/mw/DRMHelperServerInternalCRKeys.h	export	
+/epoc32/include/mw/DRMLicenseChecker.h	export	
+/epoc32/include/mw/Oma2Agent.h	export	
+/epoc32/include/mw/rdrmhelper.h	export	
+/epoc32/include/platform/mw/DRMCommon.h	export	
+/epoc32/include/platform/mw/DRMEvent.h	export	
+/epoc32/include/platform/mw/DRMEventAddRemove.h	export	
+/epoc32/include/platform/mw/DRMEventObserver.h	export	
+/epoc32/include/platform/mw/DRMIndividualConstraintExtension.h	export	
+/epoc32/include/platform/mw/DRMLicenseChecker.mmi	export	
+/epoc32/include/platform/mw/DRMLicenseManager.h	export	
+/epoc32/include/platform/mw/DRMLicenseManager.mmi	export	
+/epoc32/include/platform/mw/DRMMessageParser.h	export	
+/epoc32/include/platform/mw/DRMNotifier.h	export	
+/epoc32/include/platform/mw/DRMRights.h	export	
+/epoc32/include/platform/mw/DRMRightsClient.h	export	
+/epoc32/include/platform/mw/DRMTypes.h	export	
+/epoc32/include/platform/mw/DcfCommon.h	export	
+/epoc32/include/platform/mw/DcfCommon.inl	export	
+/epoc32/include/platform/mw/DcfEntry.h	export	
+/epoc32/include/platform/mw/DcfRep.h	export	
+/epoc32/include/platform/mw/DcfRepCli.h	export	
+/epoc32/include/platform/mw/DrmAsset.h	export	
+/epoc32/include/platform/mw/DrmConstraint.h	export	
+/epoc32/include/platform/mw/DrmPermission.h	export	
+/epoc32/include/platform/mw/Oma1DcfCreator.h	export	
+/epoc32/include/platform/mw/RoapDef.h	export	
+/epoc32/include/platform/mw/RoapEng.h	export	
+/epoc32/include/platform/mw/RoapEngBase.h	export	
+/epoc32/include/platform/mw/RoapMessage.h	export	
+/epoc32/include/platform/mw/RoapObserver.h	export	
+/epoc32/include/platform/mw/RoapTrigger.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/DRMHelperSecondaryDisplay.h	export	
+/epoc32/include/platform/mw/cameseobserver.h	export	
+/epoc32/include/platform/mw/cameseutility.h	export	
+/epoc32/include/platform/mw/csxhelp/drm.hlp.hrh	export	
+/epoc32/include/platform/mw/drmagents.h	export	
+/epoc32/include/platform/mw/drmasyncobserver.h	export	
+/epoc32/include/platform/mw/drmautomatedusage.h	export	
+/epoc32/include/platform/mw/drmautomatedusageobserver.h	export	
+/epoc32/include/platform/mw/drmerrorhandling.h	export	
+/epoc32/include/platform/mw/drmhandleerrorobserver.h	export	
+/epoc32/include/platform/mw/drmrightsinfo.h	export	
+/epoc32/include/platform/mw/drmserviceapi.h	export	
+/epoc32/include/platform/mw/drmuicheckrightsobserver.h	export	
+/epoc32/include/platform/mw/drmuihandling.h	export	
+/epoc32/include/platform/mw/drmutility.h	export	
+/epoc32/include/platform/mw/drmutilitytypes.h	export	
+/epoc32/include/platform/mw/loc/sc/drmcommon.loc	export	
+/epoc32/include/platform/mw/loc/sc/drmrightsmanager.loc	export	
+/epoc32/include/platform/mw/loc/sc/drmsettingsplugin.loc	export	
+/epoc32/include/platform/mw/loc/sc/drmutility.loc	export	
+/epoc32/include/platform/mw/loc/sc/rohandler.loc	export	
+/epoc32/include/platform/mw/loc/sc/romtmui.loc	export	
+/epoc32/include/platform/mw/oma2dcf.h	export	
+/epoc32/include/platform/mw/wmdrmaccess.h	export	
+/epoc32/include/platform/mw/wmdrmaccessecominterface.h	export	
+/epoc32/include/platform/mw/wmdrmaccessecominterface.inl	export	
+/epoc32/include/platform/mw/wmdrmagent.h	export	
+/epoc32/include/platform/mw/wmdrmdlacancelobserver.h	export	
+/epoc32/include/platform/mw/wmdrmdlahandler.h	export	
+/epoc32/include/platform/mw/wmdrmdlahttpplugin.h	export	
+/epoc32/include/platform/mw/wmdrmdlahttpplugin.inl	export	
+/epoc32/include/platform/mw/wmdrmdlatypes.h	export	
+/epoc32/include/platform/mw/wmdrmdlauinotifier.h	export	
+/epoc32/include/platform/mw/wmdrmdlauiplugin.h	export	
+/epoc32/include/platform/mw/wmdrmdlauiplugin.inl	export	
+/epoc32/include/platform/mw/wmdrmotaaccess.h	export	
+/epoc32/include/platform/mw/wmdrmotaaccessecominterface.h	export	
+/epoc32/include/platform/mw/wmdrmotaaccessecominterface.inl	export	
+/epoc32/include/rohandler.rsg	resource	armv5_urel
+/epoc32/include/rohandler.rsg	resource	winscw_udeb
+/epoc32/include/romtmui.rsg	resource	armv5_urel
+/epoc32/include/romtmui.rsg	resource	winscw_udeb
+/epoc32/include/wmdrmdla.mbg	bitmap	armv5_urel
+/epoc32/include/wmdrmdla.mbg	bitmap	winscw_udeb
+/epoc32/include/wmdrmdlaapp.rsg	resource	armv5_urel
+/epoc32/include/wmdrmdlaapp.rsg	resource	winscw_udeb
+/epoc32/include/wmdrmdlautils.rsg	resource	armv5_urel
+/epoc32/include/wmdrmdlautils.rsg	resource	winscw_udeb
+/epoc32/include/wmdrmpkserver.rsg	resource	armv5_urel
+/epoc32/include/wmdrmpkserver.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/DRMAutomatedUsage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMAutomatedUsage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMAutomatedUsageImpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMAutomatedUsageImpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMAutomatedUsageImpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMAutomatedUsageImpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMAutomatedUsage{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMAutomatedUsage{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMCommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMCommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMCommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMCommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMHelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMHelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMHelper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMHelper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMLicenseChecker.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMLicenseChecker.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMLicenseChecker{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMLicenseChecker{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMLicenseManager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMLicenseManager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMLicenseManager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMLicenseManager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMUiHandling.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMUiHandling.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMUiHandlingImpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMUiHandlingImpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMUiHandlingImpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMUiHandlingImpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMUiHandling{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMUiHandling{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DRMUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DRMUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DcfRep.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DcfRep.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DcfRep{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DcfRep{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmCrypto.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmCrypto.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmCrypto{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmCrypto{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmDcf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmDcf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmDcf{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmDcf{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmKeyStorage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmKeyStorage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmKeyStorage{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmKeyStorage{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmParsers.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmParsers.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmParsers{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmParsers{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmRights.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmRights.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmRightsInfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmRightsInfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmRightsInfoImpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmRightsInfoImpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmRightsInfoImpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmRightsInfoImpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmRightsInfo{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmRightsInfo{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmRights{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmRights{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmServerInterfaces.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmServerInterfaces.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmServerInterfaces{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmServerInterfaces{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmServiceAPI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmServiceAPI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmServiceAPI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmServiceAPI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmStdKeyStorage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmStdKeyStorage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmStdKeyStorage{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmStdKeyStorage{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmUtilityDmgrWrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmUtilityDmgrWrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DrmUtilityDmgrWrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DrmUtilityDmgrWrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HTTPFilterDRM.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HTTPFilterDRM.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HTTPFilterDRM{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HTTPFilterDRM{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ROAPHandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ROAPHandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ROAPHandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ROAPHandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmCli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmCli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmCli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmCli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmDat.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmDat.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmDat{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmDat{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmSer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmSer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmSer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmSer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmUi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmUi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RoMtmUi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RoMtmUi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmasf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmasf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmasf{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmasf{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmbrowserlauncher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmbrowserlauncher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmbrowserlauncher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmbrowserlauncher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmrightsstoringlocation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmrightsstoringlocation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmrightsstoringlocation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmrightsstoringlocation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmroapwbxmlparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmroapwbxmlparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmroapwbxmlparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmroapwbxmlparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmserviceapiwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmserviceapiwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmserviceapiwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmserviceapiwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmuidialogs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmuidialogs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmuidialogs{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmuidialogs{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmuinotifications.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmuinotifications.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmuinotifications{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmuinotifications{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmutilitycommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmutilitycommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmutilitycommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmutilitycommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmutilitywmdrmwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmutilitywmdrmwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drmutilitywmdrmwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drmutilitywmdrmwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmaccess.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmaccess.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmaccess{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmaccess{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmclientwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmclientwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmclientwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmclientwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmdlautils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmdlautils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmdlautils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmdlautils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmdlawrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmdlawrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmdlawrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmdlawrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmfileserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmfileserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmfileserverclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmfileserverclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmotaaccess.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmotaaccess.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wmdrmotaaccess{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wmdrmotaaccess{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/DRMAutomatedUsage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMAutomatedUsage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMAutomatedUsageImpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMAutomatedUsageImpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMCommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMCommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMHelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMHelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMHelperServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMHelperServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMLicenseChecker.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMLicenseChecker.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMLicenseManager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMLicenseManager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMUiHandling.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMUiHandling.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMUiHandlingImpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMUiHandlingImpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DRMUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DcfRep.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DcfRep.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DcfRepSrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/DcfRepSrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmCrypto.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmCrypto.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmDcf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmDcf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmKeyStorage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmKeyStorage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmParsers.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmParsers.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRel1_0StringDict00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRel1_0StringDict00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRel2_1StringDict00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRel2_1StringDict00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRights.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRights.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRightsInfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRightsInfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRightsInfoImpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmRightsInfoImpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmServerInterfaces.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmServerInterfaces.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmServiceAPI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmServiceAPI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmStdKeyStorage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmStdKeyStorage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmUtilityDmgrWrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DrmUtilityDmgrWrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HTTPFilterDRM.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HTTPFilterDRM.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/OmaDrmAgent.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/OmaDrmAgent.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RECDRM.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RECDRM.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ROAPHandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ROAPHandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RightsServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/RightsServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoHandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoHandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmCli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmCli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmDat.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmDat.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmSer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmSer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmUi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RoMtmUi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmasf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmasf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmbrowserlauncher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmbrowserlauncher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmencryptor.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmencryptor.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmrightsmanager.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmrightsmanager.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmrightsstoringlocation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmrightsstoringlocation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmroapwbxmlparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmroapwbxmlparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmserviceapiwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmserviceapiwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmuidialogs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmuidialogs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmuinotifications.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmuinotifications.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmutilitycommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmutilitycommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmutilitywmdrmwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drmutilitywmdrmwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpfiltercamese.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpfiltercamese.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmaccess.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmaccess.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmclientwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmclientwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdlaapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdlaapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdladefaulthttpplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdladefaulthttpplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdladefaultuiplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdladefaultuiplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdlautils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdlautils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdlawrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmdlawrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmfileserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmfileserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmfileserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmfileserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmotaaccess.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmotaaccess.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmpkserverresources.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmpkserverresources.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/wmdrmserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/DRMAutomatedUsage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMAutomatedUsage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMAutomatedUsageImpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMAutomatedUsageImpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMCommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMCommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMHelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMHelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMHelperServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/DRMHelperServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMLicenseChecker.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMLicenseChecker.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMLicenseManager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMLicenseManager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMUiHandling.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMUiHandling.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMUiHandlingImpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMUiHandlingImpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DRMUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DRMUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DcfRep.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DcfRep.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DcfRepSrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/DcfRepSrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmCrypto.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmCrypto.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmDcf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmDcf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmKeyStorage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmKeyStorage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmParsers.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmParsers.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRel1_0StringDict00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRel1_0StringDict00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRel2_1StringDict00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRel2_1StringDict00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRights.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRights.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRightsInfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRightsInfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRightsInfoImpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmRightsInfoImpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmServerInterfaces.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmServerInterfaces.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmServiceAPI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmServiceAPI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmStdKeyStorage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmStdKeyStorage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DrmUtilityDmgrWrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DrmUtilityDmgrWrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HTTPFilterDRM.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HTTPFilterDRM.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/OmaDrmAgent.dll	build	armv5_urel
+/epoc32/release/armv5/urel/OmaDrmAgent.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RECDRM.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RECDRM.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ROAPHandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ROAPHandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RightsServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/RightsServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/RoHandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RoHandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmCli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmCli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmDat.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmDat.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmSer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmSer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmUi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RoMtmUi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmasf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmasf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmbrowserlauncher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmbrowserlauncher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmencryptor.exe	build	armv5_urel
+/epoc32/release/armv5/urel/drmencryptor.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmrightsmanager.exe	build	armv5_urel
+/epoc32/release/armv5/urel/drmrightsmanager.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmrightsstoringlocation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmrightsstoringlocation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmroapwbxmlparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmroapwbxmlparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmserviceapiwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmserviceapiwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmuidialogs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmuidialogs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmuinotifications.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmuinotifications.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmutilitycommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmutilitycommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drmutilitywmdrmwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drmutilitywmdrmwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpfiltercamese.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpfiltercamese.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmaccess.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmaccess.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmclientwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmclientwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdlaapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdlaapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdladefaulthttpplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdladefaulthttpplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdladefaultuiplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdladefaultuiplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdlautils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdlautils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdlawrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmdlawrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmfileserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmfileserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmfileserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmfileserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmotaaccess.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmotaaccess.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmpkserverresources.exe	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmpkserverresources.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/wmdrmserver.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/DRMAutomatedUsage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMAutomatedUsage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMAutomatedUsageImpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMAutomatedUsageImpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMCommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMCommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMHelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMHelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMHelperServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMHelperServer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMLicenseChecker.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMLicenseChecker.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMLicenseManager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMLicenseManager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMUiHandling.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMUiHandling.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMUiHandlingImpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMUiHandlingImpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DRMUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DcfRep.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DcfRep.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DcfRepSrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmCrypto.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmCrypto.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmDcf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmDcf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmKeyStorage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmKeyStorage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmParsers.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmParsers.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRel1_0StringDict00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRel2_1StringDict00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRights.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRights.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRightsInfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRightsInfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRightsInfoImpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmRightsInfoImpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmServerInterfaces.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmServerInterfaces.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmServiceAPI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmServiceAPI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmStdKeyStorage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmStdKeyStorage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmUtilityDmgrWrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DrmUtilityDmgrWrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HTTPFilterDRM.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/OmaDrmAgent.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RECDRM.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ROAPHandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ROAPHandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RightsServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/RightsServer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoHandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmCli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmCli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmDat.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmDat.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmSer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmSer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmUi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RoMtmUi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmasf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmasf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmbrowserlauncher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmbrowserlauncher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmencryptor.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmrightsmanager.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmrightsstoringlocation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmrightsstoringlocation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmroapwbxmlparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmroapwbxmlparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmserviceapiwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmserviceapiwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmuidialogs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmuidialogs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmuinotifications.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmuinotifications.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmutilitycommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmutilitycommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmutilitywmdrmwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/drmutilitywmdrmwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpfiltercamese.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmaccess.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmaccess.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmclientwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmclientwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmdlaapp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmdladefaulthttpplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmdladefaultuiplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmdlautils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmdlautils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmdlawrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmdlawrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmfileserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmfileserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmfileserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmotaaccess.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmotaaccess.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmpkserverresources.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wmdrmserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/drmrightsmanager_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/wmdrmdlaapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/drmencryptor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101F51F2/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/drmencryptor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/drmrightsmanager.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/drmrightsmanager.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/drmrightsmanager.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/drmrightsmanager_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/wmdrmdla.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/wmdrmdlaapp.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/wmdrmdlaapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/drmcommon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/drmhelper.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/drmhelper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/drmutility.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/drmutility.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/drmutilitydmgrwrapper.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/drmutilitydmgrwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/romtmreg.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/romtmreg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/romtmui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/romtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/drmrel1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/drmrel2_1stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpfiltercamese.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpfilterdrm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/omadrmagent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recdrm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rohandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wmdrmdladefaulthttpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wmdrmdladefaultuiplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/rohandler.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/rohandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wmdrmdlautils.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wmdrmdlautils.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wmdrmpkserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wmdrmpkserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/DRMAutomatedUsage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMAutomatedUsage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMAutomatedUsageImpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMAutomatedUsageImpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMCommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMCommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMHelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMHelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMHelperServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/DRMHelperServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMLicenseChecker.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMLicenseChecker.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMLicenseManager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMLicenseManager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMUiHandling.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMUiHandling.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMUiHandlingImpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMUiHandlingImpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DRMUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DRMUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DcfRep.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DcfRep.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DcfRepSrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/DcfRepSrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmCrypto.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmCrypto.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmDcf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmDcf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmKeyStorage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmKeyStorage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmParsers.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmParsers.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRel1_0StringDict00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRel1_0StringDict00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRel2_1StringDict00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRel2_1StringDict00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRights.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRights.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRightsInfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRightsInfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRightsInfoImpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmRightsInfoImpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmServerInterfaces.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmServerInterfaces.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmServiceAPI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmServiceAPI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmStdKeyStorage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmStdKeyStorage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DrmUtilityDmgrWrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DrmUtilityDmgrWrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HTTPFilterDRM.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HTTPFilterDRM.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/OmaDrmAgent.dll	build	winscw_urel
+/epoc32/release/winscw/urel/OmaDrmAgent.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RECDRM.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RECDRM.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ROAPHandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ROAPHandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RightsServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/RightsServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/RoHandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RoHandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmCli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmCli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmDat.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmDat.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmSer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmSer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmUi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RoMtmUi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmasf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmasf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmbrowserlauncher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmbrowserlauncher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmencryptor.exe	build	winscw_urel
+/epoc32/release/winscw/urel/drmencryptor.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmrightsmanager.exe	build	winscw_urel
+/epoc32/release/winscw/urel/drmrightsmanager.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmrightsstoringlocation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmrightsstoringlocation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmroapwbxmlparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmroapwbxmlparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmserviceapiwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmserviceapiwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmuidialogs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmuidialogs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmuinotifications.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmuinotifications.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmutilitycommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmutilitycommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/drmutilitywmdrmwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/drmutilitywmdrmwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpfiltercamese.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpfiltercamese.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmaccess.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmaccess.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmclientwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmclientwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdlaapp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdlaapp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdladefaulthttpplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdladefaulthttpplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdladefaultuiplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdladefaultuiplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdlautils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdlautils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdlawrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmdlawrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmfileserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmfileserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmfileserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmfileserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmotaaccess.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmotaaccess.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmpkserverresources.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmpkserverresources.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wmdrmserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/drmrightsmanager_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/wmdrmdlaapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/drmencryptor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/101F51F2/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/drmencryptor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/drmrightsmanager.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/drmrightsmanager.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/drmrightsmanager.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/drmrightsmanager_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/wmdrmdla.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/wmdrmdlaapp.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/wmdrmdlaapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/drmcommon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/drmhelper.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/drmhelper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/drmutility.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/drmutility.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/drmutilitydmgrwrapper.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/drmutilitydmgrwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/romtmreg.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/romtmreg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/romtmui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/romtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/drmrel1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/drmrel2_1stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpfiltercamese.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpfilterdrm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/omadrmagent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recdrm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rohandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wmdrmdladefaulthttpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wmdrmdladefaultuiplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/rohandler.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/rohandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wmdrmdlautils.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wmdrmdlautils.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wmdrmpkserver.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wmdrmpkserver.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/drm5.confml	export	
+/epoc32/rom/config/assets/s60/confml/drmrightsmanager.confml	export	
+/epoc32/rom/config/assets/s60/confml/drmsettings.confml	export	
+/epoc32/rom/config/assets/s60/confml/drmutility.confml	export	
+/epoc32/rom/config/assets/s60/confml/wmdrm.confml	export	
+/epoc32/rom/config/assets/s60/implml/drm5_10205CA7.crml	export	
+/epoc32/rom/config/assets/s60/implml/drm5_10205CBF.crml	export	
+/epoc32/rom/config/assets/s60/implml/drm5_200195AD.crml	export	
+/epoc32/rom/config/assets/s60/implml/drmrightsmanager_102750B1.crml	export	
+/epoc32/rom/config/assets/s60/implml/drmsettings_102823B4.crml	export	
+/epoc32/rom/config/assets/s60/implml/drmutility_20022D51.crml	export	
+/epoc32/rom/config/assets/s60/implml/wmdrm_20011118.crml	export	
+/epoc32/rom/config/assets/s60/implml/wmdrm_2001FE55.crml	export	
+/epoc32/rom/include/core/mw/drm5.iby	export	
+/epoc32/rom/include/core/mw/drmbrowserlauncher.iby	export	
+/epoc32/rom/include/core/mw/drmencryptor.iby	export	
+/epoc32/rom/include/core/mw/drmhelper.iby	export	
+/epoc32/rom/include/core/mw/drmlicensemanager.iby	export	
+/epoc32/rom/include/core/mw/drmrightsmanagerui.iby	export	
+/epoc32/rom/include/core/mw/drmrightsstoringlocation.iby	export	
+/epoc32/rom/include/core/mw/drmroapwbxmlparser.iby	export	
+/epoc32/rom/include/core/mw/drmserviceapiwrapper.iby	export	
+/epoc32/rom/include/core/mw/drmuidialogs.iby	export	
+/epoc32/rom/include/core/mw/drmuinotifications.iby	export	
+/epoc32/rom/include/core/mw/drmutility.iby	export	
+/epoc32/rom/include/core/mw/httpfilterdrm.iby	export	
+/epoc32/rom/include/core/mw/romtm.iby	export	
+/epoc32/rom/include/core/mw/wmdrm.iby	export	
+/epoc32/rom/include/core/mw/wmdrmaccess.iby	export	
+/epoc32/rom/include/core/mw/wmdrmotaaccess.iby	export	
+/epoc32/rom/include/customer/mw/drmsettingspluginhelps_variant.iby	export	
+/epoc32/rom/include/language/mw/drmencryptorresources.iby	export	
+/epoc32/rom/include/language/mw/drmhelperresources.iby	export	
+/epoc32/rom/include/language/mw/drmrightsmanageruiresources.iby	export	
+/epoc32/rom/include/language/mw/drmrohandlerresources.iby	export	
+/epoc32/rom/include/language/mw/drmromtmresources.iby	export	
+/epoc32/rom/include/language/mw/drmutility_resources.iby	export	
+/epoc32/rom/include/language/mw/wmdrmresources.iby	export	
+/epoc32/tools/makefile_templates/s60/CryptoPrep.flm	export	
+/epoc32/tools/makefile_templates/s60/CryptoPrep.xml	export	
+/epoc32/winscw/c/private/101F51F2/backup_registration.xml	export	
+/epoc32/winscw/c/resource/distribution.policy.s60	export	
+/epoc32/winscw/c/resource/xhtml/01/0x101F85C7/contents.zip	export	
+/epoc32/winscw/c/resource/xhtml/01/0x101F85C7/index.xml	export	
+/epoc32/winscw/c/resource/xhtml/01/0x101F85C7/keywords.xml	export	
+/epoc32/winscw/c/resource/xhtml/01/0x101F85C7/meta.xml	export	
+/sf/mw/drm/omadrm/group/../drmengine/drmcrypto/build/cmlacrypto.cpp	build	armv5_urel
+/sf/mw/drm/omadrm/group/../drmengine/drmcrypto/build/cmlacrypto.cpp	build	winscw_udeb
+/sf/mw/drm/omadrm/group/../drmengine/drmcrypto/build/omacrypto.cpp	build	armv5_urel
+/sf/mw/drm/omadrm/group/../drmengine/drmcrypto/build/omacrypto.cpp	build	winscw_udeb

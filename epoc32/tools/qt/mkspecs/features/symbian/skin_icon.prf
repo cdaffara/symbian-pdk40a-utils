@@ -1,0 +1,16 @@
+
+!isEmpty(SKINICON) {
+
+!count(SKINICON, 1) {
+    SKINICON = $$first(SKINICON)
+    warning("Only first icon specified in SKINICON variable is used: $$SKINICON")
+}
+# use proper UID
+RSS_RULES.header *= "$${LITERAL_HASH}include <eikon.rh>"
+RSS_RULES.header += "$${LITERAL_HASH}define SKINSERVICE 0x2002DCF3"
+RSS_RULES.service_list += "uid = SKINSERVICE; opaque_data = r_skin_icon; "
+RSS_RULES.footer +="RESOURCE TBUF r_skin_icon \{ buf =\"$$SKINICON\"; \}"
+}
+
+
+

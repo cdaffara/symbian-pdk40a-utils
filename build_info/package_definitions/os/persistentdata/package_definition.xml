@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="persistentdata" level="services" levels="adaptation hw-if plugin framework server app-if" long-name="Persistent Data Services">
+<collection name="featuremgmt" long-name="Feature Management" level="framework">
+<component name="featuremgr" long-name="Feature Manager" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/persistentdata/featuremgmt/featuremgr/group" mrp="/sf/os/persistentdata/featuremgmt/featuremgr/group/syslibs_featmgr.mrp"/>
+</component>
+<component name="featureregistry" long-name="Feature Registry" introduced="9.2" deprecated="^3" purpose="mandatory">
+<unit bldFile="/sf/os/persistentdata/featuremgmt/featureregistry/group" mrp="/sf/os/persistentdata/featuremgmt/featureregistry/group/syslibs_featreg.mrp"/>
+</component>
+</collection>
+<collection name="loggingservices" long-name="Logging Services" level="server">
+<component name="eventlogger" long-name="Event Logger" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/os/persistentdata/loggingservices/eventlogger/group" mrp="/sf/os/persistentdata/loggingservices/eventlogger/group/syslibs_logeng.mrp"/>
+</component>
+<component name="filelogger" long-name="File Logger" introduced="ER5" deprecated="^3" purpose="optional">
+<unit bldFile="/sf/os/persistentdata/loggingservices/filelogger/group" mrp="/sf/os/persistentdata/loggingservices/filelogger/group/comms-infras_flogger.mrp"/>
+</component>
+<component name="rfilelogger" long-name="RFile Logger" introduced="9.1" deprecated="^3" purpose="development">
+<unit bldFile="/sf/os/persistentdata/loggingservices/rfilelogger/group" mrp="/sf/os/persistentdata/loggingservices/rfilelogger/group/testtools_utilities.mrp"/>
+</component>
+</collection>
+<collection name="traceservices" long-name="Trace Services" level="server">
+<component name="commsdebugutility" long-name="Comms Debug Utility" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/persistentdata/traceservices/commsdebugutility/group" mrp="/sf/os/persistentdata/traceservices/commsdebugutility/group/comms-infras_commsdebugutility.mrp"/>
+</component>
+<component name="tracefw" long-name="Trace Framework" introduced="9.2" purpose="development">
+<unit bldFile="/sf/os/persistentdata/traceservices/tracefw/ulogger/group" mrp="/sf/os/persistentdata/traceservices/tracefw/ulogger/group/tools_debug_trace.mrp"/>
+</component>
+</collection>
+<collection name="persistentstorage" long-name="Persistent Storage" level="framework">
+<component name="store" long-name="Store" purpose="optional">
+<unit bldFile="/sf/os/persistentdata/persistentstorage/store/group" mrp="/sf/os/persistentdata/persistentstorage/store/group/syslibs_store.mrp"/>
+</component>
+<component name="dbms" long-name="DBMS" purpose="optional">
+<unit bldFile="/sf/os/persistentdata/persistentstorage/dbms/group" mrp="/sf/os/persistentdata/persistentstorage/dbms/group/syslibs_dbms.mrp"/>
+</component>
+<component name="centralrepository" long-name="Central Repository" introduced="7.0s" purpose="mandatory">
+<unit bldFile="/sf/os/persistentdata/persistentstorage/centralrepository/group" mrp="/sf/os/persistentdata/persistentstorage/centralrepository/group/syslibs_centralrepository.mrp"/>
+</component>
+<component name="sql" long-name="SQL" introduced="9.3" purpose="optional">
+<unit bldFile="/sf/os/persistentdata/persistentstorage/sql/GROUP" mrp="/sf/os/persistentdata/persistentstorage/sql/GROUP/syslibs_sql.mrp"/>
+</component>
+<component name="sqlite3api" long-name="SQLite 3 API" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/persistentdata/persistentstorage/sqlite3api/GROUP" mrp="/sf/os/persistentdata/persistentstorage/sqlite3api/GROUP/syslibs_sqlite3.mrp"/>
+</component>
+</collection>
+<collection name="persistentdata_info" long-name="Persistent Data Services Info" level="app-if">
+<component name="persistentdata_metadata" long-name="Persistent Data Services Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/persistentdata/persistentdata_info/persistentdata_metadata/persistentdata_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

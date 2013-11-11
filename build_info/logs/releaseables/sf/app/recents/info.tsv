@@ -1,0 +1,73 @@
+/epoc32/data/z/private/10003a3f/import/apps/logs_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/logs_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101F4CD5/backup_registration.xml	export	
+/epoc32/data/z/resource/apps/logs.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/logs.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/hb/splashml/logs.docml	export	
+/epoc32/data/z/resource/hb/splashml/logs.splashml	export	
+/epoc32/data/z/system/install/logs_stub.sis	export	
+/epoc32/include/logs.rsg	resource	armv5_urel
+/epoc32/include/logs.rsg	resource	winscw_udeb
+/epoc32/include/logsexport.h	export	
+/epoc32/include/platform/app/LogsApiConsts.h	export	
+/epoc32/include/platform/app/LogsDomainCRKeys.h	export	
+/epoc32/include/platform/app/logsabstractmodel.h	export	
+/epoc32/include/platform/app/logscustomfilter.h	export	
+/epoc32/include/platform/app/logsevent.h	export	
+/epoc32/include/platform/app/logsfilter.h	export	
+/epoc32/include/platform/app/logsmodel.h	export	
+/epoc32/include/platform/app/logsservices.h	export	
+/epoc32/release/armv5/lib/logscntfinder.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logscntfinder.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logscntfinder{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logscntfinder{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logsengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logsengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logsengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logsengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logsservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logsservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logsservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logsservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/logs.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/logs.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logscntfinder.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/logscntfinder.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logsengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/logsengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logsservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/logsservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/logs.exe	build	armv5_urel
+/epoc32/release/armv5/urel/logs.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/logscntfinder.dll	build	armv5_urel
+/epoc32/release/armv5/urel/logscntfinder.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/logsengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/logsengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/logsservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/logsservices.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/logs.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/logscntfinder.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/logscntfinder.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/logsengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/logsengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/logsservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/logsservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/logs_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/logs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/logs.docml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/logs.splashml	export	
+/epoc32/release/winscw/urel/logs.exe	build	winscw_urel
+/epoc32/release/winscw/urel/logs.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/logscntfinder.dll	build	winscw_urel
+/epoc32/release/winscw/urel/logscntfinder.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/logsengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/logsengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/logsservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/logsservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/logs_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/logs.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/logs.confml	export	
+/epoc32/rom/config/assets/s60/implml/logs_101F874E.crml	export	
+/epoc32/rom/config/assets/s60/implml/logs_102750C6.crml	export	
+/epoc32/rom/include/core/app/logs.iby	export	
+/epoc32/rom/include/language/app/logsresources.iby	export	

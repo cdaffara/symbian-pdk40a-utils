@@ -1,0 +1,1718 @@
+/epoc32/data/t_platsecconfig.ini	export	
+/epoc32/include/d32public.h	export	
+/epoc32/include/def/bmarm/domainpolicyu.def	export	
+/epoc32/include/def/bwins/domainpolicyu.def	export	
+/epoc32/include/def/eabi/domainpolicyu.def	export	
+/epoc32/include/def/eabi/eloclu.def	export	
+/epoc32/include/drivers/d_sdapc.h	export	
+/epoc32/include/drivers/elocd.mmh	export	
+/epoc32/include/drivers/otgdi.h	export	
+/epoc32/include/drivers/usbc.h	export	
+/epoc32/include/drivers/usbc.inl	export	
+/epoc32/include/drivers/usbcdesc.h	export	
+/epoc32/include/drivers/usbcque.h	export	
+/epoc32/include/drivers/usbcsc.h	export	
+/epoc32/include/drivers/usbcsc.inl	export	
+/epoc32/include/drivers/usbcshared.h	export	
+/epoc32/include/drivers/usbcshared.inl	export	
+/epoc32/include/drivers/usbdi_channel.h	export	
+/epoc32/include/drivers/usbdi_hub.h	export	
+/epoc32/include/e32atomics.h	export	
+/epoc32/include/e32base.h	export	
+/epoc32/include/e32base.inl	export	
+/epoc32/include/e32capability.h	export	
+/epoc32/include/e32cmn.h	export	
+/epoc32/include/e32cmn.inl	export	
+/epoc32/include/e32cons.h	export	
+/epoc32/include/e32const.h	export	
+/epoc32/include/e32debug.h	export	
+/epoc32/include/e32def.h	export	
+/epoc32/include/e32des16.h	export	
+/epoc32/include/e32des8.h	export	
+/epoc32/include/e32err.h	export	
+/epoc32/include/e32event.h	export	
+/epoc32/include/e32hashtab.h	export	
+/epoc32/include/e32keys.h	export	
+/epoc32/include/e32kpan.h	export	
+/epoc32/include/e32lang.h	export	
+/epoc32/include/e32ldr.h	export	
+/epoc32/include/e32math.h	export	
+/epoc32/include/e32math.inl	export	
+/epoc32/include/e32modes.h	export	
+/epoc32/include/e32msgqueue.h	export	
+/epoc32/include/e32msgqueue.inl	export	
+/epoc32/include/e32panic.h	export	
+/epoc32/include/e32property.h	export	
+/epoc32/include/e32reg.h	export	
+/epoc32/include/e32std.h	export	
+/epoc32/include/e32std.inl	export	
+/epoc32/include/e32test.h	export	
+/epoc32/include/e32utrace.mmh	export	
+/epoc32/include/f32file.h	export	
+/epoc32/include/f32file.inl	export	
+/epoc32/include/f32file64.h	export	
+/epoc32/include/f32file64.inl	export	
+/epoc32/include/filesystem_automounter.h	export	
+/epoc32/include/filesystem_fat.h	export	
+/epoc32/include/gcc.h	export	
+/epoc32/include/gcce/gcce.h	export	
+/epoc32/include/kernel/heap_hybrid.h	export	
+/epoc32/include/kernel/kern_ext.mmh	export	
+/epoc32/include/nkern/nkern_ext.mmh	export	
+/epoc32/include/nkernsmp/nkern_ext.mmh	export	
+/epoc32/include/platform/arm_vfp.h	export	
+/epoc32/include/platform/assp/template_assp/template_assp.h	export	
+/epoc32/include/platform/assp/template_assp/template_assp_priv.h	export	
+/epoc32/include/platform/byte_pair_compress.h	export	
+/epoc32/include/platform/collate.h	export	
+/epoc32/include/platform/cpudefs.h	export	
+/epoc32/include/platform/crashlogwalker.h	export	
+/epoc32/include/platform/d32btrace.h	export	
+/epoc32/include/platform/d32comm.h	export	
+/epoc32/include/platform/d32comm.inl	export	
+/epoc32/include/platform/d32ethernet.h	export	
+/epoc32/include/platform/d32ethernet.inl	export	
+/epoc32/include/platform/d32fir.h	export	
+/epoc32/include/platform/d32locd.h	export	
+/epoc32/include/platform/d32locd.inl	export	
+/epoc32/include/platform/d32otgdi.h	export	
+/epoc32/include/platform/d32otgdi.inl	export	
+/epoc32/include/platform/d32otgdi_errors.h	export	
+/epoc32/include/platform/d32resmanus.h	export	
+/epoc32/include/platform/d32resmanus.inl	export	
+/epoc32/include/platform/d32soundsc.h	export	
+/epoc32/include/platform/d32soundsc.inl	export	
+/epoc32/include/platform/d32usbc.h	export	
+/epoc32/include/platform/d32usbc.inl	export	
+/epoc32/include/platform/d32usbcsc.h	export	
+/epoc32/include/platform/d32usbcsc.inl	export	
+/epoc32/include/platform/d32usbcshared.h	export	
+/epoc32/include/platform/d32usbcshared.inl	export	
+/epoc32/include/platform/d32usbdescriptors.h	export	
+/epoc32/include/platform/d32usbdi.h	export	
+/epoc32/include/platform/d32usbdi.inl	export	
+/epoc32/include/platform/d32usbdi_errors.h	export	
+/epoc32/include/platform/d32usbdi_hubdriver.h	export	
+/epoc32/include/platform/d32usbdi_hubdriver.inl	export	
+/epoc32/include/platform/d32usbtransfers.h	export	
+/epoc32/include/platform/dispchannel.h	export	
+/epoc32/include/platform/dispchannel.inl	export	
+/epoc32/include/platform/domaindefs.h	export	
+/epoc32/include/platform/domainmanager.h	export	
+/epoc32/include/platform/domainmember.h	export	
+/epoc32/include/platform/domainpolicy.h	export	
+/epoc32/include/platform/dptest.h	export	
+/epoc32/include/platform/drivers/binpower.h	export	
+/epoc32/include/platform/drivers/comm.h	export	
+/epoc32/include/platform/drivers/comm.inl	export	
+/epoc32/include/platform/drivers/crashflash.h	export	
+/epoc32/include/platform/drivers/crashflashnand.h	export	
+/epoc32/include/platform/drivers/crashflashnor.h	export	
+/epoc32/include/platform/drivers/display.h	export	
+/epoc32/include/platform/drivers/dma.h	export	
+/epoc32/include/platform/drivers/dma_compat.inl	export	
+/epoc32/include/platform/drivers/dma_hai.h	export	
+/epoc32/include/platform/drivers/dma_hai.inl	export	
+/epoc32/include/platform/drivers/dma_v1.h	export	
+/epoc32/include/platform/drivers/dma_v1.inl	export	
+/epoc32/include/platform/drivers/dma_v2.h	export	
+/epoc32/include/platform/drivers/dma_v2.inl	export	
+/epoc32/include/platform/drivers/dmadefs.h	export	
+/epoc32/include/platform/drivers/emmcptn.h	export	
+/epoc32/include/platform/drivers/ethernet.h	export	
+/epoc32/include/platform/drivers/ethernet.inl	export	
+/epoc32/include/platform/drivers/flash_media.h	export	
+/epoc32/include/platform/drivers/gpio.h	export	
+/epoc32/include/platform/drivers/hcr.h	export	
+/epoc32/include/platform/drivers/i2s.h	export	
+/epoc32/include/platform/drivers/iic.h	export	
+/epoc32/include/platform/drivers/iic.inl	export	
+/epoc32/include/platform/drivers/iic_channel.h	export	
+/epoc32/include/platform/drivers/iic_channel.inl	export	
+/epoc32/include/platform/drivers/iic_trace.h	export	
+/epoc32/include/platform/drivers/iic_transaction.h	export	
+/epoc32/include/platform/drivers/iic_transaction.inl	export	
+/epoc32/include/platform/drivers/locmedia.h	export	
+/epoc32/include/platform/drivers/mmc.h	export	
+/epoc32/include/platform/drivers/mmc.inl	export	
+/epoc32/include/platform/drivers/mmccd_ifc.h	export	
+/epoc32/include/platform/drivers/nanddevice.h	export	
+/epoc32/include/platform/drivers/pbus.h	export	
+/epoc32/include/platform/drivers/pbus.inl	export	
+/epoc32/include/platform/drivers/pbusmedia.h	export	
+/epoc32/include/platform/drivers/pccard.h	export	
+/epoc32/include/platform/drivers/pccard.inl	export	
+/epoc32/include/platform/drivers/pccd_chunk.h	export	
+/epoc32/include/platform/drivers/pccd_ifc.h	export	
+/epoc32/include/platform/drivers/pccd_medchg.h	export	
+/epoc32/include/platform/drivers/pccd_socket.h	export	
+/epoc32/include/platform/drivers/pccd_vcc.h	export	
+/epoc32/include/platform/drivers/resmanus_trace.h	export	
+/epoc32/include/platform/drivers/resource.h	export	
+/epoc32/include/platform/drivers/resource_category.h	export	
+/epoc32/include/platform/drivers/resource_extend.h	export	
+/epoc32/include/platform/drivers/resourcecontrol.h	export	
+/epoc32/include/platform/drivers/resourcecontrol.inl	export	
+/epoc32/include/platform/drivers/resourcecontrol_clientsettings.h	export	
+/epoc32/include/platform/drivers/resourcecontrol_settings.h	export	
+/epoc32/include/platform/drivers/resourcecontrol_trace.h	export	
+/epoc32/include/platform/drivers/resourceman.h	export	
+/epoc32/include/platform/drivers/resourceman.inl	export	
+/epoc32/include/platform/drivers/rtclock.h	export	
+/epoc32/include/platform/drivers/sdcard.h	export	
+/epoc32/include/platform/drivers/sdcard.inl	export	
+/epoc32/include/platform/drivers/sdio/callback.h	export	
+/epoc32/include/platform/drivers/sdio/callback.inl	export	
+/epoc32/include/platform/drivers/sdio/cisreader.h	export	
+/epoc32/include/platform/drivers/sdio/dummyexp.h	export	
+/epoc32/include/platform/drivers/sdio/function.h	export	
+/epoc32/include/platform/drivers/sdio/function.inl	export	
+/epoc32/include/platform/drivers/sdio/interrupt.h	export	
+/epoc32/include/platform/drivers/sdio/regifc.h	export	
+/epoc32/include/platform/drivers/sdio/sdio.h	export	
+/epoc32/include/platform/drivers/sdio/sdio.inl	export	
+/epoc32/include/platform/drivers/sdio/sdiocard.h	export	
+/epoc32/include/platform/drivers/sdio/sdiocard.inl	export	
+/epoc32/include/platform/drivers/sdio/sdiodefs.h	export	
+/epoc32/include/platform/drivers/sdio/sdioinit.h	export	
+/epoc32/include/platform/drivers/sdio/sdiopsu.h	export	
+/epoc32/include/platform/drivers/sdio/sdiopsu.inl	export	
+/epoc32/include/platform/drivers/soundsc.h	export	
+/epoc32/include/platform/drivers/soundsc.inl	export	
+/epoc32/include/platform/drivers/xyin.h	export	
+/epoc32/include/platform/e32base_private.h	export	
+/epoc32/include/platform/e32btrace.h	export	
+/epoc32/include/platform/e32cia.h	export	
+/epoc32/include/platform/e32cmn_private.h	export	
+/epoc32/include/platform/e32const_private.h	export	
+/epoc32/include/platform/e32def_private.h	export	
+/epoc32/include/platform/e32des16_private.h	export	
+/epoc32/include/platform/e32des8_private.h	export	
+/epoc32/include/platform/e32event_private.h	export	
+/epoc32/include/platform/e32hal.h	export	
+/epoc32/include/platform/e32ktran.h	export	
+/epoc32/include/platform/e32ldr_private.h	export	
+/epoc32/include/platform/e32lmsg.h	export	
+/epoc32/include/platform/e32notif.h	export	
+/epoc32/include/platform/e32power.h	export	
+/epoc32/include/platform/e32rom.h	export	
+/epoc32/include/platform/e32shbuf.h	export	
+/epoc32/include/platform/e32shbuf_priv.h	export	
+/epoc32/include/platform/e32shbufcmn.h	export	
+/epoc32/include/platform/e32std_private.h	export	
+/epoc32/include/platform/e32svr.h	export	
+/epoc32/include/platform/e32twin.h	export	
+/epoc32/include/platform/e32uid.h	export	
+/epoc32/include/platform/e32utf.h	export	
+/epoc32/include/platform/e32utrace.inl	export	
+/epoc32/include/platform/e32utrace_basic_types.h	export	
+/epoc32/include/platform/e32ver.h	export	
+/epoc32/include/platform/e32wins.h	export	
+/epoc32/include/platform/emulator.h	export	
+/epoc32/include/platform/exec_enum.h	export	
+/epoc32/include/platform/exec_user.h	export	
+/epoc32/include/platform/f32dbg.h	export	
+/epoc32/include/platform/f32file_private.h	export	
+/epoc32/include/platform/f32fsys.h	export	
+/epoc32/include/platform/f32fsys.inl	export	
+/epoc32/include/platform/f32image.h	export	
+/epoc32/include/platform/f32plugin.h	export	
+/epoc32/include/platform/f32plugin.inl	export	
+/epoc32/include/platform/f32pluginutils.h	export	
+/epoc32/include/platform/f32ver.h	export	
+/epoc32/include/platform/ftlcontrolio.h	export	
+/epoc32/include/platform/hal.h	export	
+/epoc32/include/platform/hal_data.h	export	
+/epoc32/include/platform/k32keys.h	export	
+/epoc32/include/platform/k32keys.inl	export	
+/epoc32/include/platform/kernel/arm/arm.h	export	
+/epoc32/include/platform/kernel/arm/arm_types.h	export	
+/epoc32/include/platform/kernel/arm/assp.h	export	
+/epoc32/include/platform/kernel/arm/bootcpu.inc	export	
+/epoc32/include/platform/kernel/arm/bootdefs.h	export	
+/epoc32/include/platform/kernel/arm/bootmacro.inc	export	
+/epoc32/include/platform/kernel/arm/bootstrap.lnk	export	
+/epoc32/include/platform/kernel/arm/vfpsupport.h	export	
+/epoc32/include/platform/kernel/cache.h	export	
+/epoc32/include/platform/kernel/debug.h	export	
+/epoc32/include/platform/kernel/emi.h	export	
+/epoc32/include/platform/kernel/exec_kernel.h	export	
+/epoc32/include/platform/kernel/hal_int.h	export	
+/epoc32/include/platform/kernel/kbma.h	export	
+/epoc32/include/platform/kernel/kdebug.h	export	
+/epoc32/include/platform/kernel/kern_priv.h	export	
+/epoc32/include/platform/kernel/kernboot.h	export	
+/epoc32/include/platform/kernel/kerncorestats.h	export	
+/epoc32/include/platform/kernel/kernel.h	export	
+/epoc32/include/platform/kernel/klib.h	export	
+/epoc32/include/platform/kernel/kpower.h	export	
+/epoc32/include/platform/kernel/localise.h	export	
+/epoc32/include/platform/kernel/ls_std.h	export	
+/epoc32/include/platform/kernel/monitor.h	export	
+/epoc32/include/platform/kernel/smap.h	export	
+/epoc32/include/platform/kernel/sproperty.h	export	
+/epoc32/include/platform/kernel/sshbuf.h	export	
+/epoc32/include/platform/kernel/win32/assp.h	export	
+/epoc32/include/platform/kernel/win32/property.h	export	
+/epoc32/include/platform/kernel/win32/win32.h	export	
+/epoc32/include/platform/kernel/x86/assp.h	export	
+/epoc32/include/platform/kernel/x86/bootcpu.inc	export	
+/epoc32/include/platform/kernel/x86/bootdefs.h	export	
+/epoc32/include/platform/kernel/x86/bootmacr.inc	export	
+/epoc32/include/platform/kernel/x86/x86.h	export	
+/epoc32/include/platform/kernel/x86/x86boot.h	export	
+/epoc32/include/platform/kernperflogger.h	export	
+/epoc32/include/platform/massstorage.h	export	
+/epoc32/include/platform/memmodel/emul/plat_priv.h	export	
+/epoc32/include/platform/memmodel/emul/platform.h	export	
+/epoc32/include/platform/memmodel/emul/win32/memmodel.h	export	
+/epoc32/include/platform/memmodel/epoc/direct/arm/arm_mem.h	export	
+/epoc32/include/platform/memmodel/epoc/direct/memmodel.h	export	
+/epoc32/include/platform/memmodel/epoc/direct/x86/x86_mem.h	export	
+/epoc32/include/platform/memmodel/epoc/flexible/arm/mmboot.h	export	
+/epoc32/include/platform/memmodel/epoc/flexible/x86/mmboot.h	export	
+/epoc32/include/platform/memmodel/epoc/mmubase/kblockmap.h	export	
+/epoc32/include/platform/memmodel/epoc/mmubase/mmubase.h	export	
+/epoc32/include/platform/memmodel/epoc/moving/arm/arm_mem.h	export	
+/epoc32/include/platform/memmodel/epoc/moving/arm/mmboot.h	export	
+/epoc32/include/platform/memmodel/epoc/moving/memmodel.h	export	
+/epoc32/include/platform/memmodel/epoc/multiple/arm/arm_mem.h	export	
+/epoc32/include/platform/memmodel/epoc/multiple/arm/mmboot.h	export	
+/epoc32/include/platform/memmodel/epoc/multiple/memmodel.h	export	
+/epoc32/include/platform/memmodel/epoc/multiple/x86/mmboot.h	export	
+/epoc32/include/platform/memmodel/epoc/multiple/x86/x86_mem.h	export	
+/epoc32/include/platform/memmodel/epoc/plat_priv.h	export	
+/epoc32/include/platform/memmodel/epoc/platform.h	export	
+/epoc32/include/platform/nkern/arm/nk_plat.h	export	
+/epoc32/include/platform/nkern/dfcs.h	export	
+/epoc32/include/platform/nkern/emievents.h	export	
+/epoc32/include/platform/nkern/nk_cpu.h	export	
+/epoc32/include/platform/nkern/nk_priv.h	export	
+/epoc32/include/platform/nkern/nk_trace.h	export	
+/epoc32/include/platform/nkern/nkern.h	export	
+/epoc32/include/platform/nkern/nklib.h	export	
+/epoc32/include/platform/nkern/win32/nk_plat.h	export	
+/epoc32/include/platform/nkern/x86/nk_plat.h	export	
+/epoc32/include/platform/nkernsmp/arm/arm_gic.h	export	
+/epoc32/include/platform/nkernsmp/arm/arm_scu.h	export	
+/epoc32/include/platform/nkernsmp/arm/arm_tmr.h	export	
+/epoc32/include/platform/nkernsmp/arm/ncern.h	export	
+/epoc32/include/platform/nkernsmp/arm/nk_plat.h	export	
+/epoc32/include/platform/nkernsmp/dfcs.h	export	
+/epoc32/include/platform/nkernsmp/emievents.h	export	
+/epoc32/include/platform/nkernsmp/nk_cpu.h	export	
+/epoc32/include/platform/nkernsmp/nk_event.h	export	
+/epoc32/include/platform/nkernsmp/nk_irq.h	export	
+/epoc32/include/platform/nkernsmp/nk_priv.h	export	
+/epoc32/include/platform/nkernsmp/nk_trace.h	export	
+/epoc32/include/platform/nkernsmp/nkern.h	export	
+/epoc32/include/platform/nkernsmp/nklib.h	export	
+/epoc32/include/platform/nkernsmp/x86/apic.h	export	
+/epoc32/include/platform/nkernsmp/x86/ncern.h	export	
+/epoc32/include/platform/nkernsmp/x86/nk_plat.h	export	
+/epoc32/include/platform/opensystemtrace.h	export	
+/epoc32/include/platform/opensystemtrace.inl	export	
+/epoc32/include/platform/opensystemtrace.mmh	export	
+/epoc32/include/platform/opensystemtrace_types.h	export	
+/epoc32/include/platform/partitions.h	export	
+/epoc32/include/platform/personality/example/personality.h	export	
+/epoc32/include/platform/personality/example/personality_int.h	export	
+/epoc32/include/platform/pixelformats.h	export	
+/epoc32/include/platform/profiler.h	export	
+/epoc32/include/platform/rofs.h	export	
+/epoc32/include/platform/rpipe.h	export	
+/epoc32/include/platform/rusbhostmsdevice.h	export	
+/epoc32/include/platform/rusbmassstorage.inl	export	
+/epoc32/include/platform/scmbytestreamutil.h	export	
+/epoc32/include/platform/scmbytestreamutil.inl	export	
+/epoc32/include/platform/scmconfig.h	export	
+/epoc32/include/platform/scmconfigitem.h	export	
+/epoc32/include/platform/scmdatasave.h	export	
+/epoc32/include/platform/scmdatatypes.h	export	
+/epoc32/include/platform/scmonitor.h	export	
+/epoc32/include/platform/scmtrace.h	export	
+/epoc32/include/platform/shared.h	export	
+/epoc32/include/platform/sm_debug_api.h	export	
+/epoc32/include/platform/smppower/idlehelper.h	export	
+/epoc32/include/platform/template/mconf.h	export	
+/epoc32/include/platform/template/specific/iolines.h	export	
+/epoc32/include/platform/template/variantmediadef.h	export	
+/epoc32/include/platform/testusbc.h	export	
+/epoc32/include/platform/twintnotifier.h	export	
+/epoc32/include/platform/u32exec.h	export	
+/epoc32/include/platform/u32hal.h	export	
+/epoc32/include/platform/u32property.h	export	
+/epoc32/include/platform/u32std.h	export	
+/epoc32/include/platform/unicode.h	export	
+/epoc32/include/platform/usb.h	export	
+/epoc32/include/platform/usbmsshared.h	export	
+/epoc32/include/platform/videodriver.h	export	
+/epoc32/include/platform/winsdef.h	export	
+/epoc32/include/rvct/rvct.h	export	
+/epoc32/include/symcpp.h	export	
+/epoc32/release/armv5/_template_bootrom.bin	build	armv5_udeb
+/epoc32/release/armv5/_template_bootrom.bin	build	armv5_urel
+/epoc32/release/armv5/lib/_template_ecust.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_ecust.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_ecust{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_ecust{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_ekdata.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_ekdata.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_ekdata{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_ekdata{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_gpio.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_gpio.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_gpio{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_gpio{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_i2s.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_i2s.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_i2s{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_i2s{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_katemplate.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_katemplate.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_katemplate{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_katemplate{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_power.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_power.dso	build	armv5_urel
+/epoc32/release/armv5/lib/_template_power{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/_template_power{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btracec.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btracec.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btracec{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btracec{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dfpaeabi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dfpaeabi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dfpaeabi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dfpaeabi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dfprvct-thunk.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dfprvct-thunk.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dfprvct-thunk.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dfprvct-thunk.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dfprvct-thunk{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dfprvct-thunk{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dfprvct-thunk{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dfprvct-thunk{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dfprvct3_1.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dfprvct3_1.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dfprvct3_1.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dfprvct3_1.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dfprvct3_1.lib	build	armv5_udeb
+/epoc32/release/armv5/lib/dfprvct3_1.lib	build	armv5_urel
+/epoc32/release/armv5/lib/dfprvct3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dfprvct3_1.lib	build	armv5smp_urel
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.lib	build	armv5_udeb
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.lib	build	armv5_urel
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.lib	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dfprvct3_1{000a0000}.lib	build	armv5smp_urel
+/epoc32/release/armv5/lib/dma.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dma.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dma.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dma.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dma2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dma2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dma2.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dma2.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dma2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dma2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dma2{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dma2{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dma{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dma{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dma{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dma{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/domaincli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/domaincli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/domaincli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/domaincli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/domainpolicy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/domainpolicy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/domainpolicy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/domainpolicy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dptest.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dptest.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dptest{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dptest{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drtaeabi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drtaeabi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drtaeabi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drtaeabi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drtrvct3_1.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drtrvct3_1.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drtrvct3_1.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/drtrvct3_1.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/drtrvct3_1.lib	build	armv5_udeb
+/epoc32/release/armv5/lib/drtrvct3_1.lib	build	armv5_urel
+/epoc32/release/armv5/lib/drtrvct3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv5/lib/drtrvct3_1.lib	build	armv5smp_urel
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.lib	build	armv5_udeb
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.lib	build	armv5_urel
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.lib	build	armv5smp_udeb
+/epoc32/release/armv5/lib/drtrvct3_1{000a0000}.lib	build	armv5smp_urel
+/epoc32/release/armv5/lib/econs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/econs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/econs{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/econs{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/edisp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/edisp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/edisp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/edisp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/efile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/efile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/efile{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/efile{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/efsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/efsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/efsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/efsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ekern.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ekern.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ekernsmp.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ekernsmp.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/ekernsmp{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ekernsmp{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/ekern{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ekern{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ektran.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ektran.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ektran{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ektran{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/elocd.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/elocd.dso	build	armv5_urel
+/epoc32/release/armv5/lib/elocd{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/elocd{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/emmcptn.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/emmcptn.dso	build	armv5_urel
+/epoc32/release/armv5/lib/emmcptn.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/emmcptn.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/emmcptn{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/emmcptn{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/emmcptn{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/emmcptn{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/epbusmmc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epbusmmc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epbusmmc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epbusmmc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epbussd.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epbussd.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epbussdio.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epbussdio.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epbussdio{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epbussdio{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/epbussd{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/epbussd{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/euser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/euser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/euser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/euser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/exmoncommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/exmoncommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/exmoncommon.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/exmoncommon.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/exmoncommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/exmoncommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/exmoncommon{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/exmoncommon{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/hal.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hal.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hal{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hal{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hcr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hcr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hcr.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/hcr.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/hcr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hcr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hcr{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/hcr{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/iic.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iic.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iic{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iic{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/kdebug.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/kdebug.dso	build	armv5_urel
+/epoc32/release/armv5/lib/kdebugv6.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/kdebugv6.dso	build	armv5_urel
+/epoc32/release/armv5/lib/kdebugv6{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/kdebugv6{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/kdebug{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/kdebug{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ostuser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ostuser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ostuser.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ostuser.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/ostuserstubbed.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ostuserstubbed.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ostuserstubbed.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ostuserstubbed.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/ostuserstubbed{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ostuserstubbed{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ostuserstubbed{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ostuserstubbed{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/ostuser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ostuser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ostuser{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ostuser{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/resman.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/resman.dso	build	armv5_urel
+/epoc32/release/armv5/lib/resman.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/resman.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/resmanextended.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/resmanextended.dso	build	armv5_urel
+/epoc32/release/armv5/lib/resmanextended.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/resmanextended.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/resmanextended{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/resmanextended{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/resmanextended{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/resmanextended{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/resman{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/resman{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/resman{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/resman{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/rpipe.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rpipe.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rpipe{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rpipe{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scppnwdl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scppnwdl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scppnwdl.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/scppnwdl.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/scppnwdl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scppnwdl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scppnwdl{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/scppnwdl{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/sm_debug.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sm_debug.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sm_debug{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sm_debug{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbcc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbcc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbcc.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbcc.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbcc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbcc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbcc{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbcc{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbcsc_bil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbcsc_bil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbcsc_bil.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbcsc_bil.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbcsc_bil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbcsc_bil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbcsc_bil{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbcsc_bil{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbdescriptors.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbdescriptors.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbdescriptors.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbdescriptors.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbdescriptors{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbdescriptors{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbdescriptors{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbdescriptors{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbdi_utils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbdi_utils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbdi_utils.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbdi_utils.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbdi_utils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbdi_utils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbdi_utils{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/usbdi_utils{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/usbhostmsclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbhostmsclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbhostmsclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbhostmsclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/utraceuser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/utraceuser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/utraceuser.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/utraceuser.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/utraceuserstubbed.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/utraceuserstubbed.dso	build	armv5_urel
+/epoc32/release/armv5/lib/utraceuserstubbed.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/utraceuserstubbed.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/utraceuserstubbed{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/utraceuserstubbed{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/utraceuserstubbed{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/utraceuserstubbed{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/utraceuser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/utraceuser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/utraceuser{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/utraceuser{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/udeb/_generic_ubootldr.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_generic_ubootldr.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_btracex.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_btracex.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_dma.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_dma.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_dma_v2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_dma_v2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ecust.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ecust.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ekdata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ekdata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ekern.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ekern.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ekeyb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_ekeyb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_euart.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_euart.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_exmoncommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_exmoncommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_exmondebug.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_exmondebug.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_exyin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_exyin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_gpio.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_gpio.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_hal.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_hal.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_i2s.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_i2s.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_iic.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_iic.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_int_ekeyb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_int_ekeyb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_katemplate.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_katemplate.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_kc_exe.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_lcd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_lcd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_medint.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_medint.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_medlfs.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_medlfs.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_nk_exe.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_nkern.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_power.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_power.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_soundsc.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_soundsc.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_soundsc_v2.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_soundsc_v2.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_usbcc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_template_usbcc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/automounter.fsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/automounter.fsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bgahsmmcptn.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bgahsmmcptn.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btrace.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/btrace.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btracec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btracec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/crashread.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/crashread.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/d_exc.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/d_exc.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/d_sdapc.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/d_sdapc.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfpaeabi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfpaeabi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfpaeabi_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfpaeabi_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfprvct-thunk.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfprvct-thunk.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1.dll	build	armv5_urel
+/epoc32/release/armv5/udeb/dfprvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv5/udeb/dfprvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv5/udeb/dfprvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/udeb/display.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/display.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/domaincli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/domaincli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/domainpolicy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/domainpolicy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/domainsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/domainsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dptest.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dptest.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dptestcons.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dptestcons.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drtaeabi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drtaeabi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1.dll	build	armv5_urel
+/epoc32/release/armv5/udeb/drtrvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv5/udeb/drtrvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv5/udeb/drtrvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/udeb/e32strt.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/e32strt.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecomm.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecomm.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecomp.fsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecomp.fsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/econs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/econs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/edev.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/edisp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/edisp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/edisp_vt100.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/edisp_vt100.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/edll.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/edllstub.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/eexe.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/eexe_instrumented_heap.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/eexe_monitor_heap.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/eext.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/efat32.fsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/efat32.fsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/efile.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/efile.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/efsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/efsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ekll.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/ektran.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ektran.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/elocal.fsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/elocal.fsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/elocd.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/elocd.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/emmcptn.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/emmcptn.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/emulated_data_paging.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/emulated_data_paging.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/emulated_rom_paging.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/emulated_rom_paging.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/enet.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/enet.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epbusmmc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epbusmmc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epbussd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epbussd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/epbussdio.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/epbussdio.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/erofs.fsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/erofs.fsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eshell.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/eshell.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/esoundsc.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/esoundsc.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/euser_v5.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/euser_v5.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/euser_v6.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/euser_v6.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/euser_v6k.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/euser_v6k.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/evar.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/evfp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/evfp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ewsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ewsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/example_personality.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/exstart.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/exstart.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/idlehelper.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/iic.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iic.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/kdebug.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/kdebug.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/kdebugv6.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/kdebugv6.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ksrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/ksrt3_1.lib	build	armv5_urel
+/epoc32/release/armv5/udeb/ksrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/ksrt3_1.lib	build	armv5smp_urel
+/epoc32/release/armv5/udeb/ksrt4_0.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/medmmc.pdd	build	armv5_udeb
+/epoc32/release/armv5/udeb/medmmc.pdd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/minkda.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/minkda.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msfs.fsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/msfs.fsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msfs_db.fsy	build	armv5_udeb
+/epoc32/release/armv5/udeb/msfs_db.fsy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ostuser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ostuser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ostuserstubbed.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ostuserstubbed.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/otgusbmsapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/otgusbmsapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pipelib.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/pipelib.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/profiler.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/profiler.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/resman.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/resman.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/resmanextended.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/resmanextended.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/resmanextendedpsl.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/resmanpsl.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/rpipe.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rpipe.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/runtests.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/runtests.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sample_smpidlehandler.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/sampler.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/sampler.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scmkern_lib.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/scmusr_lib.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/scppnwdl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/scppnwdl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/setcap.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/setcap.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sm_debug.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sm_debug.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/testusbc.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/testusbc.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp2.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp2.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp200159D8.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp200159D8.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp200170BC.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/trkdummyapp200170BC.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbc.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbc.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbcsc.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbcsc.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbcsc_bil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbcsc_bil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbdescriptors.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbdescriptors.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbdi_utils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbdi_utils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhostms.pxy	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhostms.pxy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhostmsclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhostmsclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhostmssrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhostmssrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmsapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmsapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/usrt3_1.lib	build	armv5_urel
+/epoc32/release/armv5/udeb/usrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv5/udeb/usrt3_1.lib	build	armv5smp_urel
+/epoc32/release/armv5/udeb/usrt4_0.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/utraceuser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/utraceuser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/utraceuserstubbed.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/utraceuserstubbed.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/_generic_ubootldr.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/_generic_ubootldr.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_btracex.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/_template_btracex.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_dma.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_dma.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_dma_v2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_dma_v2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ecust.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ecust.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ekdata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ekdata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ekern.exe	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ekern.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ekeyb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_ekeyb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_euart.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_template_euart.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_exmoncommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_exmoncommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_exmondebug.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_exmondebug.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_exyin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_exyin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_gpio.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_gpio.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_hal.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_hal.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_i2s.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_i2s.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_iic.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_iic.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_int_ekeyb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_int_ekeyb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_katemplate.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_katemplate.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_kc_exe.lib	build	armv5_urel
+/epoc32/release/armv5/urel/_template_lcd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_lcd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_medint.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_template_medint.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_medlfs.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_template_medlfs.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_nk_exe.lib	build	armv5_urel
+/epoc32/release/armv5/urel/_template_nkern.lib	build	armv5_urel
+/epoc32/release/armv5/urel/_template_power.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_power.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_soundsc.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_template_soundsc.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_soundsc_v2.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/_template_soundsc_v2.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/_template_usbcc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_template_usbcc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/automounter.fsy	build	armv5_urel
+/epoc32/release/armv5/urel/automounter.fsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/bgahsmmcptn.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bgahsmmcptn.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btrace.exe	build	armv5_urel
+/epoc32/release/armv5/urel/btrace.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/btracec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btracec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/crashread.exe	build	armv5_urel
+/epoc32/release/armv5/urel/crashread.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/d_exc.exe	build	armv5_urel
+/epoc32/release/armv5/urel/d_exc.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/d_sdapc.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/d_sdapc.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/dfpaeabi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dfpaeabi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dfpaeabi_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dfpaeabi_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dfprvct-thunk.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dfprvct-thunk.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dfprvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv5/urel/dfprvct3_1.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dfprvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv5/urel/dfprvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv5/urel/dfprvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/dfprvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dfprvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/urel/dfprvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/urel/dfprvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/urel/display.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/display.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/domaincli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/domaincli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/domainpolicy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/domainpolicy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/domainsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/domainsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dptest.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dptest.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dptestcons.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dptestcons.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/drtaeabi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drtaeabi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drtrvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv5/urel/drtrvct3_1.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drtrvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv5/urel/drtrvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv5/urel/drtrvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/drtrvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drtrvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/urel/drtrvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5/urel/drtrvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv5/urel/e32strt.exe	build	armv5_urel
+/epoc32/release/armv5/urel/e32strt.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecomm.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/ecomm.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecomp.fsy	build	armv5_urel
+/epoc32/release/armv5/urel/ecomp.fsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/econs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/econs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/edev.lib	build	armv5_urel
+/epoc32/release/armv5/urel/edisp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/edisp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/edisp_vt100.dll	build	armv5_urel
+/epoc32/release/armv5/urel/edisp_vt100.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/edll.lib	build	armv5_urel
+/epoc32/release/armv5/urel/edllstub.lib	build	armv5_urel
+/epoc32/release/armv5/urel/eexe.lib	build	armv5_urel
+/epoc32/release/armv5/urel/eexe_instrumented_heap.lib	build	armv5_urel
+/epoc32/release/armv5/urel/eexe_monitor_heap.lib	build	armv5_urel
+/epoc32/release/armv5/urel/eext.lib	build	armv5_urel
+/epoc32/release/armv5/urel/efat32.fsy	build	armv5_urel
+/epoc32/release/armv5/urel/efat32.fsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/efile.exe	build	armv5_urel
+/epoc32/release/armv5/urel/efile.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/efsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/efsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ekll.lib	build	armv5_urel
+/epoc32/release/armv5/urel/ektran.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ektran.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/elocal.fsy	build	armv5_urel
+/epoc32/release/armv5/urel/elocal.fsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/elocd.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/elocd.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/emmcptn.dll	build	armv5_urel
+/epoc32/release/armv5/urel/emmcptn.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/emulated_data_paging.dll	build	armv5_urel
+/epoc32/release/armv5/urel/emulated_data_paging.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/emulated_rom_paging.dll	build	armv5_urel
+/epoc32/release/armv5/urel/emulated_rom_paging.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/enet.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/enet.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/epbusmmc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epbusmmc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epbussd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epbussd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/epbussdio.dll	build	armv5_urel
+/epoc32/release/armv5/urel/epbussdio.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/erofs.fsy	build	armv5_urel
+/epoc32/release/armv5/urel/erofs.fsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/eshell.exe	build	armv5_urel
+/epoc32/release/armv5/urel/eshell.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/esoundsc.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/esoundsc.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/euser_v5.dll	build	armv5_urel
+/epoc32/release/armv5/urel/euser_v5.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/euser_v6.dll	build	armv5_urel
+/epoc32/release/armv5/urel/euser_v6.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/euser_v6k.dll	build	armv5_urel
+/epoc32/release/armv5/urel/euser_v6k.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/evar.lib	build	armv5_urel
+/epoc32/release/armv5/urel/evfp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/evfp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ewsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ewsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/example_personality.lib	build	armv5_urel
+/epoc32/release/armv5/urel/exstart.dll	build	armv5_urel
+/epoc32/release/armv5/urel/exstart.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/idlehelper.lib	build	armv5_urel
+/epoc32/release/armv5/urel/iic.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iic.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/kdebug.dll	build	armv5_urel
+/epoc32/release/armv5/urel/kdebug.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/kdebugv6.dll	build	armv5_urel
+/epoc32/release/armv5/urel/kdebugv6.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ksrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv5/urel/ksrt3_1.lib	build	armv5_urel
+/epoc32/release/armv5/urel/ksrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv5/urel/ksrt3_1.lib	build	armv5smp_urel
+/epoc32/release/armv5/urel/ksrt4_0.lib	build	armv5_urel
+/epoc32/release/armv5/urel/medmmc.pdd	build	armv5_urel
+/epoc32/release/armv5/urel/medmmc.pdd.map	build	armv5_urel
+/epoc32/release/armv5/urel/minkda.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/minkda.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/msfs.fsy	build	armv5_urel
+/epoc32/release/armv5/urel/msfs.fsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/msfs_db.fsy	build	armv5_urel
+/epoc32/release/armv5/urel/msfs_db.fsy.map	build	armv5_urel
+/epoc32/release/armv5/urel/ostuser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ostuser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ostuserstubbed.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ostuserstubbed.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/otgusbmsapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/otgusbmsapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/pipelib.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/pipelib.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/profiler.exe	build	armv5_urel
+/epoc32/release/armv5/urel/profiler.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/resman.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/resman.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/resmanextended.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/resmanextended.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/resmanextendedpsl.lib	build	armv5_urel
+/epoc32/release/armv5/urel/resmanpsl.lib	build	armv5_urel
+/epoc32/release/armv5/urel/rpipe.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rpipe.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/runtests.exe	build	armv5_urel
+/epoc32/release/armv5/urel/runtests.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sample_smpidlehandler.lib	build	armv5_urel
+/epoc32/release/armv5/urel/sampler.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/sampler.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/scmkern_lib.lib	build	armv5_urel
+/epoc32/release/armv5/urel/scmusr_lib.lib	build	armv5_urel
+/epoc32/release/armv5/urel/scppnwdl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/scppnwdl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/setcap.exe	build	armv5_urel
+/epoc32/release/armv5/urel/setcap.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sm_debug.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sm_debug.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/testusbc.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/testusbc.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp2.exe	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp2.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp200159D8.exe	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp200159D8.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp200170BC.exe	build	armv5_urel
+/epoc32/release/armv5/urel/trkdummyapp200170BC.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbc.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/usbc.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbcsc.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/usbcsc.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbcsc_bil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbcsc_bil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbdescriptors.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbdescriptors.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbdi_utils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbdi_utils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbhostms.pxy	build	armv5_urel
+/epoc32/release/armv5/urel/usbhostms.pxy.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbhostmsclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbhostmsclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbhostmssrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/usbhostmssrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbmsapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/usbmsapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/usrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv5/urel/usrt3_1.lib	build	armv5_urel
+/epoc32/release/armv5/urel/usrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv5/urel/usrt3_1.lib	build	armv5smp_urel
+/epoc32/release/armv5/urel/usrt4_0.lib	build	armv5_urel
+/epoc32/release/armv5/urel/utraceuser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/utraceuser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/utraceuserstubbed.dll	build	armv5_urel
+/epoc32/release/armv5/urel/utraceuserstubbed.dll.map	build	armv5_urel
+/epoc32/release/armv5smp/udeb/automounter.fsy	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/automounter.fsy.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/bgahsmmcptn.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/bgahsmmcptn.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/d_sdapc.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/d_sdapc.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dfprvct-thunk.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dfprvct-thunk.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/display.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/display.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ecomm.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ecomm.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/edev.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/edll.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/edllstub.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/eexe.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/eexe_instrumented_heap.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/eexe_monitor_heap.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/eext.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ekll.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/elocd.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/elocd.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/emmcptn.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/emmcptn.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/emulated_data_paging.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/emulated_data_paging.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/emulated_rom_paging.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/emulated_rom_paging.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/enet.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/enet.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/epbusmmc.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/epbusmmc.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/epbussd.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/epbussd.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/epbussdio.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/epbussdio.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/esoundsc.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/esoundsc.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/euser_v6k_smp.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/euser_v6k_smp.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/euser_v7_smp.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/euser_v7_smp.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/evar.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/evfp.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/evfp.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/exstart.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/exstart.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/idlehelper.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/iic.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/iic.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ksrt4_0.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/medmmc.pdd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/medmmc.pdd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/minkda.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/minkda.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ostuser.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ostuser.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ostuserstubbed.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ostuserstubbed.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/pipelib.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/pipelib.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/resman.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/resman.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/resmanextended.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/resmanextended.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/resmanextendedpsl.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/resmanpsl.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sample_smpidlehandler.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/scmkern_lib.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/scmusr_lib.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/scppnwdl.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/scppnwdl.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sm_debug.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sm_debug.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/testusbc.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/testusbc.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp2.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp2.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp200159D8.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp200159D8.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp200170BC.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/trkdummyapp200170BC.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbc.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbc.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbcsc.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbcsc.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbcsc_bil.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbcsc_bil.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbdescriptors.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbdescriptors.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbdi_utils.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usbdi_utils.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/usrt4_0.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/utraceuser.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/utraceuser.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/utraceuserstubbed.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/utraceuserstubbed.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/urel/automounter.fsy	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/automounter.fsy.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/bgahsmmcptn.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/bgahsmmcptn.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/d_sdapc.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/d_sdapc.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dfprvct-thunk.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dfprvct-thunk.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/display.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/display.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ecomm.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ecomm.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/edev.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/edll.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/edllstub.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/eexe.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/eexe_instrumented_heap.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/eexe_monitor_heap.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/eext.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ekll.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/elocd.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/elocd.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/emmcptn.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/emmcptn.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/emulated_data_paging.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/emulated_data_paging.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/emulated_rom_paging.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/emulated_rom_paging.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/enet.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/enet.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/epbusmmc.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/epbusmmc.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/epbussd.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/epbussd.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/epbussdio.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/epbussdio.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/esoundsc.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/esoundsc.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/euser_v6k_smp.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/euser_v6k_smp.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/euser_v7_smp.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/euser_v7_smp.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/evar.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/evfp.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/evfp.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/exstart.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/exstart.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/idlehelper.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/iic.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/iic.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ksrt4_0.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/medmmc.pdd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/medmmc.pdd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/minkda.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/minkda.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ostuser.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ostuser.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ostuserstubbed.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ostuserstubbed.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/pipelib.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/pipelib.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/resman.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/resman.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/resmanextended.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/resmanextended.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/resmanextendedpsl.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/resmanpsl.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sample_smpidlehandler.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/scmkern_lib.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/scmusr_lib.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/scppnwdl.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/scppnwdl.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sm_debug.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sm_debug.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/testusbc.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/testusbc.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp.exe.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp2.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp2.exe.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp200159D8.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp200159D8.exe.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp200170BC.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/trkdummyapp200170BC.exe.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbc.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbc.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbcsc.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbcsc.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbcsc_bil.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbcsc_bil.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbdescriptors.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbdescriptors.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbdi_utils.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usbdi_utils.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/usrt4_0.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/utraceuser.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/utraceuser.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/utraceuserstubbed.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/utraceuserstubbed.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/udeb/dfprvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1.dll	build	armv5_urel
+/epoc32/release/armv7/udeb/dfprvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv7/udeb/dfprvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv7/udeb/dfprvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/dfprvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/udeb/drtrvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1.dll	build	armv5_urel
+/epoc32/release/armv7/udeb/drtrvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv7/udeb/drtrvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv7/udeb/drtrvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/drtrvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/udeb/ksrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv7/udeb/ksrt3_1.lib	build	armv5_urel
+/epoc32/release/armv7/udeb/ksrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/ksrt3_1.lib	build	armv5smp_urel
+/epoc32/release/armv7/udeb/usrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv7/udeb/usrt3_1.lib	build	armv5_urel
+/epoc32/release/armv7/udeb/usrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv7/udeb/usrt3_1.lib	build	armv5smp_urel
+/epoc32/release/armv7/urel/dfprvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv7/urel/dfprvct3_1.dll	build	armv5_urel
+/epoc32/release/armv7/urel/dfprvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv7/urel/dfprvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv7/urel/dfprvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv7/urel/dfprvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv7/urel/dfprvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/urel/dfprvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/urel/dfprvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/urel/drtrvct3_1.dll	build	armv5_udeb
+/epoc32/release/armv7/urel/drtrvct3_1.dll	build	armv5_urel
+/epoc32/release/armv7/urel/drtrvct3_1.dll	build	armv5smp_udeb
+/epoc32/release/armv7/urel/drtrvct3_1.dll	build	armv5smp_urel
+/epoc32/release/armv7/urel/drtrvct3_1.dll.map	build	armv5_udeb
+/epoc32/release/armv7/urel/drtrvct3_1.dll.map	build	armv5_urel
+/epoc32/release/armv7/urel/drtrvct3_1.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/urel/drtrvct3_1.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll	build	armv5_udeb
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll	build	armv5_urel
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll	build	armv5smp_udeb
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll	build	armv5smp_urel
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll.map	build	armv5_udeb
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll.map	build	armv5_urel
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll.map	build	armv5smp_udeb
+/epoc32/release/armv7/urel/drtrvct3_1_vfpv2.dll.map	build	armv5smp_urel
+/epoc32/release/armv7/urel/ksrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv7/urel/ksrt3_1.lib	build	armv5_urel
+/epoc32/release/armv7/urel/ksrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv7/urel/ksrt3_1.lib	build	armv5smp_urel
+/epoc32/release/armv7/urel/usrt3_1.lib	build	armv5_udeb
+/epoc32/release/armv7/urel/usrt3_1.lib	build	armv5_urel
+/epoc32/release/armv7/urel/usrt3_1.lib	build	armv5smp_udeb
+/epoc32/release/armv7/urel/usrt3_1.lib	build	armv5smp_urel
+/epoc32/release/eabi/econs.def	export	
+/epoc32/release/marm/econs.def	export	
+/epoc32/release/marm/eloclu.def	export	
+/epoc32/release/wins/eloclu.def	export	
+/epoc32/release/winscw/udeb/automounter.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/bgahsmmcptn.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btrace.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/btracec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btracec.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/d_exc.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/display.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/domaincli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/domaincli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/domainpolicy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/domainpolicy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/domainsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dptest.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dptest.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dptestcons.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecomp.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/econs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/econs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/edev.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/edisp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/edisp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/edll.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/edllstub.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eexe.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eexe_instrumented_heap.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eexe_monitor_heap.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eext.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/efat.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/efat32.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/efile.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/efile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/efsrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/efsrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ekern.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ekll.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ektran.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ektran.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/elocal.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/elocd.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/elocd.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/emmcptn.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/emmcptn.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/emulator.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/emulator.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/enet.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/epbusmmc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/epbusmmc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/epoc.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/erofs.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/eshell.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/esoundsc.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/estub.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/euser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/euser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/evar.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ewsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/example_personality.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/exstart.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hal.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hcr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/medmmc.pdd	build	winscw_udeb
+/epoc32/release/winscw/udeb/minkda.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/msfs.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/msfs_db.fsy	build	winscw_udeb
+/epoc32/release/winscw/udeb/ostuser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ostuser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ostuserstubbed.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ostuserstubbed.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pipelib.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/resman.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/resman.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/resmanextended.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/resmanextended.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/resmanextendedpsl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/resmanpsl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rpipe.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rpipe.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/runtests.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/scppnwdl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/scppnwdl_kern.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/setcap.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/testusbc.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/trkdummyapp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/trkdummyapp2.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/trkdummyapp200159D8.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/trkdummyapp200170BC.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/utraceuser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/utraceuser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/utraceuserstubbed.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/utraceuserstubbed.lib	build	winscw_udeb
+/epoc32/release/winscw/urel/automounter.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/automounter.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/bgahsmmcptn.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bgahsmmcptn.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btrace.exe	build	winscw_urel
+/epoc32/release/winscw/urel/btrace.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/btracec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btracec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/d_exc.exe	build	winscw_urel
+/epoc32/release/winscw/urel/d_exc.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/display.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/display.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/domaincli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/domaincli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/domainpolicy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/domainpolicy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/domainsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/domainsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dptest.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dptest.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dptestcons.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dptestcons.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecomp.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/ecomp.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/econs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/econs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/edev.lib	build	winscw_urel
+/epoc32/release/winscw/urel/edisp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/edisp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/edll.lib	build	winscw_urel
+/epoc32/release/winscw/urel/edllstub.lib	build	winscw_urel
+/epoc32/release/winscw/urel/eexe.lib	build	winscw_urel
+/epoc32/release/winscw/urel/eexe_instrumented_heap.lib	build	winscw_urel
+/epoc32/release/winscw/urel/eexe_monitor_heap.lib	build	winscw_urel
+/epoc32/release/winscw/urel/eext.lib	build	winscw_urel
+/epoc32/release/winscw/urel/efat.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/efat.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/efat32.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/efat32.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/efile.exe	build	winscw_urel
+/epoc32/release/winscw/urel/efile.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/efsrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/efsrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ekll.lib	build	winscw_urel
+/epoc32/release/winscw/urel/ektran.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ektran.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/elocal.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/elocal.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/elocd.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/elocd.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/emmcptn.dll	build	winscw_urel
+/epoc32/release/winscw/urel/emmcptn.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/emulator.dll	build	winscw_urel
+/epoc32/release/winscw/urel/emulator.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/enet.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/enet.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/epbusmmc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/epbusmmc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/epoc.exe	build	winscw_urel
+/epoc32/release/winscw/urel/epoc.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/erofs.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/erofs.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/eshell.exe	build	winscw_urel
+/epoc32/release/winscw/urel/eshell.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/esoundsc.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/esoundsc.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/estub.lib	build	winscw_urel
+/epoc32/release/winscw/urel/euser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/euser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/evar.lib	build	winscw_urel
+/epoc32/release/winscw/urel/ewsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ewsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/example_personality.lib	build	winscw_urel
+/epoc32/release/winscw/urel/exstart.dll	build	winscw_urel
+/epoc32/release/winscw/urel/exstart.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/medmmc.pdd	build	winscw_urel
+/epoc32/release/winscw/urel/medmmc.pdd.map	build	winscw_urel
+/epoc32/release/winscw/urel/minkda.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/minkda.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/msfs.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/msfs.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/msfs_db.fsy	build	winscw_urel
+/epoc32/release/winscw/urel/msfs_db.fsy.map	build	winscw_urel
+/epoc32/release/winscw/urel/ostuser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ostuser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ostuserstubbed.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ostuserstubbed.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pipelib.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/pipelib.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/resman.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/resman.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/resmanextended.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/resmanextended.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/resmanextendedpsl.lib	build	winscw_urel
+/epoc32/release/winscw/urel/resmanpsl.lib	build	winscw_urel
+/epoc32/release/winscw/urel/rpipe.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rpipe.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/runtests.exe	build	winscw_urel
+/epoc32/release/winscw/urel/runtests.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/scppnwdl.lib	build	winscw_urel
+/epoc32/release/winscw/urel/scppnwdl_kern.lib	build	winscw_urel
+/epoc32/release/winscw/urel/setcap.exe	build	winscw_urel
+/epoc32/release/winscw/urel/setcap.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/testusbc.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/testusbc.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp2.exe	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp2.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp200159D8.exe	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp200159D8.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp200170BC.exe	build	winscw_urel
+/epoc32/release/winscw/urel/trkdummyapp200170BC.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/utraceuser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/utraceuser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/utraceuserstubbed.dll	build	winscw_urel
+/epoc32/release/winscw/urel/utraceuserstubbed.dll.map	build	winscw_urel
+/epoc32/rom/e32test/t_platsecconfig.iby	export	
+/epoc32/rom/f32/f32.iby	export	
+/epoc32/rom/hal/hal.hby	export	
+/epoc32/rom/hal/hal.iby	export	
+/epoc32/rom/include/PlatSecDiagnostics.oby	export	
+/epoc32/rom/include/PlatSecEnforcement.oby	export	
+/epoc32/rom/include/base.iby	export	
+/epoc32/rom/include/base_template.iby	export	
+/epoc32/rom/include/btrace.iby	export	
+/epoc32/rom/include/compsupp.iby	export	
+/epoc32/rom/include/dptestcons.oby	export	
+/epoc32/rom/include/kernel.hby	export	
+/epoc32/rom/include/ost.iby	export	
+/epoc32/rom/include/setcap.iby	export	
+/epoc32/rom/include/sm_debug.iby	export	
+/epoc32/rom/include/template.oby	export	
+/epoc32/rom/include/utrace.iby	export	
+/epoc32/rom/template/header.iby	export	
+/epoc32/rom/template/kernel.iby	export	
+/epoc32/rom/tools/printstk.pl	export	
+/epoc32/rom/tools/printsym.pl	export	
+/epoc32/tools/analyse.exe	build	tools_rel
+/epoc32/tools/makefile_templates/base/base_rvct_common.mk	export	
+/epoc32/tools/makefile_templates/base/bootstrap.flm	export	
+/epoc32/tools/makefile_templates/base/bootstrap.meta	export	
+/epoc32/tools/makefile_templates/base/bootstrap.mk	export	
+/epoc32/tools/makefile_templates/base/bootstrap.xml	export	
+/epoc32/tools/makefile_templates/base/config.meta	export	
+/epoc32/tools/makefile_templates/base/config.mk	export	
+/epoc32/tools/makefile_templates/base/copy_default.meta	export	
+/epoc32/tools/makefile_templates/base/copy_default.mk	export	
+/epoc32/tools/makefile_templates/base/genexec.meta	export	
+/epoc32/tools/makefile_templates/base/genexec.mk	export	
+/epoc32/tools/makefile_templates/base/rom.flm	export	
+/epoc32/tools/makefile_templates/base/rom.meta	export	
+/epoc32/tools/makefile_templates/base/rom.xml	export	
+/epoc32/tools/netcards.exe	build	tools_rel

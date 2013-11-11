@@ -1,0 +1,542 @@
+/epoc32/data/z/private/101ffc02/backup_registration.xml	export	
+/epoc32/data/z/resource/apps/audiofetcher.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/audiofetcherdialog.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/audiofetcherdialog.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/audiofetcherdialog.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/audiofetcherdialog.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/mpxmediator.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/mpxmediator.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/mpxmediator.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/mpxmediator.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mpxplaylisttopcharacterset.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mpxplaylisttopcharacterset.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/10207c4b.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/10207c4b.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/10207c53.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/10207c53.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/abstractmediamtpdataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/abstractmediamtpdataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/audiofetcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/audiofetcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mediamtpdataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mediamtpdataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/asxparser_stub.sis	export	
+/epoc32/data/z/system/install/mmmtpdpstub.sis	export	
+/epoc32/data/z/system/install/mpsetteng_stub.sis	export	
+/epoc32/data/z/system/install/mpxstub.sis	export	
+/epoc32/data/z/system/install/playbackhelper_stub.sis	export	
+/epoc32/data/z/system/install/qtmsapi_stub.sis	export	
+/epoc32/include/audiofetcher.mbg	bitmap	armv5_urel
+/epoc32/include/audiofetcher.mbg	bitmap	winscw_udeb
+/epoc32/include/audiofetcherdialog.rsg	resource	armv5_urel
+/epoc32/include/audiofetcherdialog.rsg	resource	winscw_udeb
+/epoc32/include/mpxmediator.rsg	resource	armv5_urel
+/epoc32/include/mpxmediator.rsg	resource	winscw_udeb
+/epoc32/include/mpxplaylisttopcharacterset.rsg	resource	armv5_urel
+/epoc32/include/mpxplaylisttopcharacterset.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/EqualizerConstants.h	export	
+/epoc32/include/platform/mw/asxparser.h	export	
+/epoc32/include/platform/mw/devsoundif.h	export	
+/epoc32/include/platform/mw/loc/sc/audiofetcher.loc	export	
+/epoc32/include/platform/mw/mediarecognizer.h	export	
+/epoc32/include/platform/mw/mpsettingsmodel.h	export	
+/epoc32/include/platform/mw/mpxakndialogplugin.h	export	
+/epoc32/include/platform/mw/mpxaknviewplugin.h	export	
+/epoc32/include/platform/mw/mpxalbumartutility.h	export	
+/epoc32/include/platform/mw/mpxattribute.h	export	
+/epoc32/include/platform/mw/mpxattributespecs.h	export	
+/epoc32/include/platform/mw/mpxcenrepobserver.h	export	
+/epoc32/include/platform/mw/mpxcenrepwatcher.h	export	
+/epoc32/include/platform/mw/mpxclientlist.h	export	
+/epoc32/include/platform/mw/mpxclientlist.inl	export	
+/epoc32/include/platform/mw/mpxcmn.h	export	
+/epoc32/include/platform/mw/mpxcmn.inl	export	
+/epoc32/include/platform/mw/mpxcollectioncommanddefs.h	export	
+/epoc32/include/platform/mw/mpxcollectionenginecommonobserver.h	export	
+/epoc32/include/platform/mw/mpxcollectionframeworkdefs.h	export	
+/epoc32/include/platform/mw/mpxcollectionhelper.h	export	
+/epoc32/include/platform/mw/mpxcollectionhelperfactory.h	export	
+/epoc32/include/platform/mw/mpxcollectionhelperobserver.h	export	
+/epoc32/include/platform/mw/mpxcollectionmediator.h	export	
+/epoc32/include/platform/mw/mpxcollectionmessage.h	export	
+/epoc32/include/platform/mw/mpxcollectionmessage.inl	export	
+/epoc32/include/platform/mw/mpxcollectionmessagedefs.h	export	
+/epoc32/include/platform/mw/mpxcollectionobserver.h	export	
+/epoc32/include/platform/mw/mpxcollectionopenlresultdef.h	export	
+/epoc32/include/platform/mw/mpxcollectionopenutility.h	export	
+/epoc32/include/platform/mw/mpxcollectionpath.h	export	
+/epoc32/include/platform/mw/mpxcollectionplaylist.h	export	
+/epoc32/include/platform/mw/mpxcollectionplaylistobserver.h	export	
+/epoc32/include/platform/mw/mpxcollectionplugin.h	export	
+/epoc32/include/platform/mw/mpxcollectionplugin.hrh	export	
+/epoc32/include/platform/mw/mpxcollectionplugin.inl	export	
+/epoc32/include/platform/mw/mpxcollectionpluginobserver.h	export	
+/epoc32/include/platform/mw/mpxcollectiontype.h	export	
+/epoc32/include/platform/mw/mpxcollectiontype.inl	export	
+/epoc32/include/platform/mw/mpxcollectionuihelper.h	export	
+/epoc32/include/platform/mw/mpxcollectionuihelperobserver.h	export	
+/epoc32/include/platform/mw/mpxcollectionutility.h	export	
+/epoc32/include/platform/mw/mpxcommand.h	export	
+/epoc32/include/platform/mw/mpxcommandgeneraldefs.h	export	
+/epoc32/include/platform/mw/mpxcommonframeworkdefs.h	export	
+/epoc32/include/platform/mw/mpxcustomcommandobserver.h	export	
+/epoc32/include/platform/mw/mpxdata.h	export	
+/epoc32/include/platform/mw/mpxdrmmediautility.h	export	
+/epoc32/include/platform/mw/mpxfilter.h	export	
+/epoc32/include/platform/mw/mpxharvestercommon.h	export	
+/epoc32/include/platform/mw/mpxharvestercrkeys.h	export	
+/epoc32/include/platform/mw/mpxharvesterserverdefs.h	export	
+/epoc32/include/platform/mw/mpxharvesterutility.h	export	
+/epoc32/include/platform/mw/mpxharvesterutilityobserver.h	export	
+/epoc32/include/platform/mw/mpxincrementalopendefs.h	export	
+/epoc32/include/platform/mw/mpxitemid.h	export	
+/epoc32/include/platform/mw/mpxitemid.inl	export	
+/epoc32/include/platform/mw/mpxlog.h	export	
+/epoc32/include/platform/mw/mpxmedia.h	export	
+/epoc32/include/platform/mw/mpxmedia.inl	export	
+/epoc32/include/platform/mw/mpxmediaarray.h	export	
+/epoc32/include/platform/mw/mpxmediaaudiodefs.h	export	
+/epoc32/include/platform/mw/mpxmediabase.h	export	
+/epoc32/include/platform/mw/mpxmediabase.inl	export	
+/epoc32/include/platform/mw/mpxmediacollectiondetaildefs.h	export	
+/epoc32/include/platform/mw/mpxmediacontainerdefs.h	export	
+/epoc32/include/platform/mw/mpxmediadrmdefs.h	export	
+/epoc32/include/platform/mw/mpxmediageneraldefs.h	export	
+/epoc32/include/platform/mw/mpxmediageneralextdefs.h	export	
+/epoc32/include/platform/mw/mpxmediamtpdefs.h	export	
+/epoc32/include/platform/mw/mpxmediamusicdefs.h	export	
+/epoc32/include/platform/mw/mpxmediatorobserver.h	export	
+/epoc32/include/platform/mw/mpxmessage.h	export	
+/epoc32/include/platform/mw/mpxmessage2.h	export	
+/epoc32/include/platform/mw/mpxmessagecontainerdefs.h	export	
+/epoc32/include/platform/mw/mpxmessagegeneraldefs.h	export	
+/epoc32/include/platform/mw/mpxmessagemonitor.h	export	
+/epoc32/include/platform/mw/mpxmessageobserver.h	export	
+/epoc32/include/platform/mw/mpxmessagepluginupdatedefs.h	export	
+/epoc32/include/platform/mw/mpxmessageprogressdefs.h	export	
+/epoc32/include/platform/mw/mpxmessagequeue.h	export	
+/epoc32/include/platform/mw/mpxmetadataextractor.h	export	
+/epoc32/include/platform/mw/mpxmetadataextractorobserver.h	export	
+/epoc32/include/platform/mw/mpxmoveobserver.h	export	
+/epoc32/include/platform/mw/mpxparameter.h	export	
+/epoc32/include/platform/mw/mpxpathconfiguration.hrh	export	
+/epoc32/include/platform/mw/mpxplaybackcommanddefs.h	export	
+/epoc32/include/platform/mw/mpxplaybackengineobserver.h	export	
+/epoc32/include/platform/mw/mpxplaybackframeworkdefs.h	export	
+/epoc32/include/platform/mw/mpxplaybackmessage.h	export	
+/epoc32/include/platform/mw/mpxplaybackmessage.inl	export	
+/epoc32/include/platform/mw/mpxplaybackmessagedefs.h	export	
+/epoc32/include/platform/mw/mpxplaybackobserver.h	export	
+/epoc32/include/platform/mw/mpxplaybackplugin.h	export	
+/epoc32/include/platform/mw/mpxplaybackplugin.hrh	export	
+/epoc32/include/platform/mw/mpxplaybackplugin.inl	export	
+/epoc32/include/platform/mw/mpxplaybackpluginobserver.h	export	
+/epoc32/include/platform/mw/mpxplaybackpluginversion2.h	export	
+/epoc32/include/platform/mw/mpxplaybackutility.h	export	
+/epoc32/include/platform/mw/mpxplaylistengine.h	export	
+/epoc32/include/platform/mw/mpxplaylistenginedefs.h	export	
+/epoc32/include/platform/mw/mpxplaylistenginedefs.hrh	export	
+/epoc32/include/platform/mw/mpxplaylistengineobserver.h	export	
+/epoc32/include/platform/mw/mpxplaylistplugin.h	export	
+/epoc32/include/platform/mw/mpxplaylistplugin.inl	export	
+/epoc32/include/platform/mw/mpxplaylistpluginhandler.h	export	
+/epoc32/include/platform/mw/mpxplaylistpluginhandler.inl	export	
+/epoc32/include/platform/mw/mpxplaylistpluginobserver.h	export	
+/epoc32/include/platform/mw/mpxplugin.hrh	export	
+/epoc32/include/platform/mw/mpxpluginhandlerbase.h	export	
+/epoc32/include/platform/mw/mpxpluginhandlerobserver.h	export	
+/epoc32/include/platform/mw/mpxplugininfo.h	export	
+/epoc32/include/platform/mw/mpxpluginmonitor.h	export	
+/epoc32/include/platform/mw/mpxpluginmonitorobserver.h	export	
+/epoc32/include/platform/mw/mpxpodcastdefs.h	export	
+/epoc32/include/platform/mw/mpxprivatecrkeys.h	export	
+/epoc32/include/platform/mw/mpxpskeyobserver.h	export	
+/epoc32/include/platform/mw/mpxpskeywatcher.h	export	
+/epoc32/include/platform/mw/mpxsearchcriteria.h	export	
+/epoc32/include/platform/mw/mpxsession.h	export	
+/epoc32/include/platform/mw/mpxsubscription.h	export	
+/epoc32/include/platform/mw/mpxtaskqueue.h	export	
+/epoc32/include/platform/mw/mpxtaskqueueobserver.h	export	
+/epoc32/include/platform/mw/mpxuser.h	export	
+/epoc32/include/platform/mw/mpxviewactivationobserver.h	export	
+/epoc32/include/platform/mw/mpxviewframeworkqt.h	export	
+/epoc32/include/platform/mw/mpxviewplugin.h	export	
+/epoc32/include/platform/mw/mpxviewplugin.hrh	export	
+/epoc32/include/platform/mw/mpxviewpluginmanager.h	export	
+/epoc32/include/platform/mw/mpxviewpluginqt.h	export	
+/epoc32/include/platform/mw/mpxviewutility.h	export	
+/epoc32/include/platform/mw/mpxviewutilitycommanddef.h	export	
+/epoc32/include/platform/mw/mtpprivatepskeys.h	export	
+/epoc32/include/platform/mw/qtms.h	export	
+/epoc32/include/platform/mw/qtmsamrformat.h	export	
+/epoc32/include/platform/mw/qtmsbuffer.h	export	
+/epoc32/include/platform/mw/qtmscall.h	export	
+/epoc32/include/platform/mw/qtmsclientsink.h	export	
+/epoc32/include/platform/mw/qtmsclientsource.h	export	
+/epoc32/include/platform/mw/qtmsdtmf.h	export	
+/epoc32/include/platform/mw/qtmseffect.h	export	
+/epoc32/include/platform/mw/qtmsfactory.h	export	
+/epoc32/include/platform/mw/qtmsformat.h	export	
+/epoc32/include/platform/mw/qtmsg711format.h	export	
+/epoc32/include/platform/mw/qtmsg729format.h	export	
+/epoc32/include/platform/mw/qtmsgaineffect.h	export	
+/epoc32/include/platform/mw/qtmsglobalgaineffect.h	export	
+/epoc32/include/platform/mw/qtmsglobalrouting.h	export	
+/epoc32/include/platform/mw/qtmsglobalvoleffect.h	export	
+/epoc32/include/platform/mw/qtmsilbcformat.h	export	
+/epoc32/include/platform/mw/qtmsinbandtone.h	export	
+/epoc32/include/platform/mw/qtmsmicsource.h	export	
+/epoc32/include/platform/mw/qtmsmodemsink.h	export	
+/epoc32/include/platform/mw/qtmsmodemsource.h	export	
+/epoc32/include/platform/mw/qtmspcmformat.h	export	
+/epoc32/include/platform/mw/qtmsringtone.h	export	
+/epoc32/include/platform/mw/qtmssink.h	export	
+/epoc32/include/platform/mw/qtmssource.h	export	
+/epoc32/include/platform/mw/qtmsspeakersink.h	export	
+/epoc32/include/platform/mw/qtmsstream.h	export	
+/epoc32/include/platform/mw/qtmsver.h	export	
+/epoc32/include/platform/mw/qtmsvolumeeffect.h	export	
+/epoc32/include/platform/mw/qtmswrapperexport.h	export	
+/epoc32/include/platform/mw/streaminglinkmodel.h	export	
+/epoc32/include/platform/mw/videoplayeruid.hrh	export	
+/epoc32/include/platform/mw/videoplaylistutility.h	export	
+/epoc32/release/armv5/lib/asxparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/asxparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/asxparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/asxparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmmtpdprequestprocessor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmmtpdprequestprocessor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mmmtpdprequestprocessor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mmmtpdprequestprocessor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpsettengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpsettengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpsettengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpsettengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxalbumartutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxalbumartutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxalbumartutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxalbumartutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionhelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionhelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionhelper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionhelper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionmediator.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionmediator.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionmediator{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionmediator{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcollectionutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcollectionutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxcommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxcommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxfilehandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxfilehandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxfilehandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxfilehandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxharvesterutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxharvesterutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxharvesterutility{000b0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxharvesterutility{000b0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxmetadataextractor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxmetadataextractor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxmetadataextractor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxmetadataextractor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxplaybackengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxplaybackengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxplaybackengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxplaybackengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxplaybackutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxplaybackutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxplaybackutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxplaybackutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxplaylistengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxplaylistengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxplaylistengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxplaylistengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxviewframeworkqt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxviewframeworkqt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxviewframeworkqt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxviewframeworkqt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxviewplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxviewplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxviewplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxviewplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxviewutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxviewutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxviewutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxviewutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/playbackhelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/playbackhelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/playbackhelper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/playbackhelper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmsapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmsapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qtmsapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qtmsapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoplaylistutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoplaylistutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/videoplaylistutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/videoplaylistutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/abstractmediamtpdataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/abstractmediamtpdataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/asxparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/asxparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/audiofetcher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/audiofetcher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mediamtpdataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mediamtpdataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmmtpdprequestprocessor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmmtpdprequestprocessor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpsettengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpsettengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxalbumartutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxalbumartutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionhelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionhelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionmediator.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionmediator.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcollectionutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxcommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxfilehandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxfilehandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxharvesterserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxharvesterserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxharvesterutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxharvesterutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxmetadataextractor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxmetadataextractor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaybackengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaybackengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaybackserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaybackserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaybackutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaybackutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaylistengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxplaylistengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxviewframeworkqt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxviewframeworkqt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxviewutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxviewutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/playbackhelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/playbackhelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmsapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qtmsapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplaylistutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/videoplaylistutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/abstractmediamtpdataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/abstractmediamtpdataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/asxparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/asxparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/audiofetcher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/audiofetcher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mediamtpdataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mediamtpdataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmmtpdprequestprocessor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmmtpdprequestprocessor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpsettengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpsettengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxalbumartutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxalbumartutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionhelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionhelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionmediator.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionmediator.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcollectionutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxcommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxfilehandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxfilehandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxharvesterserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mpxharvesterserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxharvesterutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxharvesterutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxmetadataextractor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxmetadataextractor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaybackengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaybackengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaybackserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaybackserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaybackutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaybackutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaylistengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxplaylistengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxviewframeworkqt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxviewframeworkqt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxviewutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxviewutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/playbackhelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/playbackhelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qtmsapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qtmsapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/videoplaylistutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/videoplaylistutility.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/abstractmediamtpdataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/asxparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/asxparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/audiofetcher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mediamtpdataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmmtpdprequestprocessor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmmtpdprequestprocessor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpsettengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpsettengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxalbumartutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxalbumartutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionhelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionhelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionmediator.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionmediator.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcollectionutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxfilehandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxfilehandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxharvesterserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxharvesterutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxharvesterutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxmetadataextractor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxmetadataextractor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxplaybackengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxplaybackengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxplaybackserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxplaybackutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxplaybackutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxplaylistengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxplaylistengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxviewframeworkqt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxviewframeworkqt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxviewplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxviewutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxviewutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/playbackhelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/playbackhelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmsapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qtmsapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplaylistutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/videoplaylistutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101ffc02/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/audiofetcher.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/audiofetcherdialog.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/audiofetcherdialog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/mpxmediator.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/mpxmediator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mpxplaylisttopcharacterset.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/10207c4b.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/10207c53.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/abstractmediamtpdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/audiofetcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mediamtpdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/abstractmediamtpdataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/abstractmediamtpdataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/asxparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/asxparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/audiofetcher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/audiofetcher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mediamtpdataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mediamtpdataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmmtpdprequestprocessor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmmtpdprequestprocessor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpsettengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpsettengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxalbumartutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxalbumartutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionhelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionhelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionmediator.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionmediator.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcollectionutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxcommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxfilehandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxfilehandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxharvesterserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mpxharvesterserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxharvesterutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxharvesterutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxmetadataextractor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxmetadataextractor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaybackengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaybackengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaybackserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaybackserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaybackutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaybackutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaylistengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxplaylistengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxviewframeworkqt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxviewframeworkqt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxviewutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxviewutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/playbackhelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/playbackhelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qtmsapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qtmsapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/videoplaylistutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/videoplaylistutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101ffc02/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/audiofetcher.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/audiofetcherdialog.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/audiofetcherdialog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/mpxmediator.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/mpxmediator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mpxplaylisttopcharacterset.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/10207c4b.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/10207c53.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/abstractmediamtpdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/audiofetcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mediamtpdataprovider.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/mpx.confml	export	
+/epoc32/rom/config/assets/s60/implml/mpx_101FFC03.crml	export	
+/epoc32/rom/config/assets/s60/implml/mpx_101FFCD2.crml	export	
+/epoc32/rom/include/core/mw/asxparser.iby	export	
+/epoc32/rom/include/core/mw/audiofetcher.iby	export	
+/epoc32/rom/include/core/mw/mmmtpdataprovider.iby	export	
+/epoc32/rom/include/core/mw/mpsetteng.iby	export	
+/epoc32/rom/include/core/mw/mpx.iby	export	
+/epoc32/rom/include/core/mw/mpxalbumartutility.iby	export	
+/epoc32/rom/include/core/mw/mpxcollectionframework.iby	export	
+/epoc32/rom/include/core/mw/mpxcollectionhelper.iby	export	
+/epoc32/rom/include/core/mw/mpxcommonframework.iby	export	
+/epoc32/rom/include/core/mw/mpxharvester.iby	export	
+/epoc32/rom/include/core/mw/mpxplaybackframework.iby	export	
+/epoc32/rom/include/core/mw/mpxplaylistengine.iby	export	
+/epoc32/rom/include/core/mw/mpxviewframework.iby	export	
+/epoc32/rom/include/core/mw/mpxviewframeworkqt.iby	export	
+/epoc32/rom/include/core/mw/playbackhelper.iby	export	
+/epoc32/rom/include/core/mw/qtms.iby	export	
+/epoc32/rom/include/core/mw/videolaylistutility.iby	export	
+/epoc32/rom/include/language/mw/audiofetcher_resources.iby	export	
+/epoc32/rom/include/language/mw/mpxharvesterrsc.iby	export	

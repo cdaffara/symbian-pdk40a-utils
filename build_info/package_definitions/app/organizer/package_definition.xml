@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="organizer" level="apps" span="2" levels="support services engine ui app" long-name="Organizer Application Suite">
+<collection name="organizer_pub" long-name="Organizer Application Suite Public Interfaces" level="app">
+<component name="calendar_interim_utils2_api" long-name="Calendar Interim Utils 2 API" filter="s60" purpose="optional" class="api">
+<!-- move into own .pro file -->
+<unit bldFile="/sf/app/organizer/organizer_pub" proFile="organizer_pub.pro"/>
+</component>
+</collection>
+<collection name="organizer_plat" long-name="Organizer Application Suite Platform Interfaces" level="app">
+<component name="organizer_plat_build" long-name="Organizer Application Suite Platform Interface Build" filter="s60" purpose="optional" class="api">
+<!-- break up into individual .pro files, move the above metaxmls to those components -->
+<unit bldFile="/sf/app/organizer/organizer_plat" proFile="organizer_plat.pro"/>
+</component>
+<component name="agenda_versit_2_api" long-name="Agenda Versit 2 API" filter="s60" purpose="optional" class="api placeholder">
+<!-- <unit bldFile="organizer_plat/agenda_versit_2_api/group"/>-->
+</component>
+<component name="calendar_exporter_api" long-name="Calendar Exporter API" filter="s60" purpose="optional" class="api placeholder">
+<!--<unit bldFile="organizer_plat/calendar_exporter_api/group"/>-->
+</component>
+<component name="calendar_importer_api" long-name="Calendar Importer API" filter="s60" purpose="optional" class="api placeholder">
+<!--<unit bldFile="organizer_plat/calendar_importer_api/group"/>-->
+</component>
+<component name="calendar_launcher_api" long-name="Calendar Launcher API" filter="s60" purpose="optional" class="api placeholder">
+<!--<unit bldFile="organizer_plat/calendar_launcher_api/group"/> -->
+</component>
+<component name="agenda_interface_api" long-name="Agenda Interface API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="calendar_editor_api" long-name="Calendar Editor API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="notes_editor_api" long-name="Notes Editor API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="clock_settingsview_plugin_api" long-name="Clock Settings View Plugin API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+</collection>
+<collection name="agendainterface" long-name="Agenda Interface" level="services">
+<!-- collection is really a component, should move down a directory -->
+<component name="agendainterface_build" long-name="Agenda Interface Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/agendainterface" proFile="agendainterface.pro"/>
+</component>
+</collection>
+<collection name="calendarui" long-name="Calendar UI" level="ui">
+<component name="commonutils" long-name="Calendar Common Utils" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/commonutils" proFile="commonutils.pro"/>
+</component>
+<component name="calenlauncher" long-name="Calendar Launcher" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/calenlauncher" proFile="calenlauncher.pro"/>
+</component>
+<component name="caleneditor" long-name="Calendar Editor" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/caleneditor" proFile="caleneditor.pro"/>
+</component>
+<component name="agendaeventviewer" long-name="Agenda Event Viewer" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/agendaeventviewer" proFile="agendaeventviewer.pro"/>
+</component>
+<component name="globaldata" long-name="Calendar Global Data" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/globaldata" proFile="globaldata.pro"/>
+</component>
+<component name="settings" long-name="Calendar Settings" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/settings" proFile="settings.pro"/>
+</component>
+<component name="calenplugins" long-name="Calendar Plugins" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/organizer/calendarui/calenplugins" proFile="calenplugins.pro"/>
+</component>
+<component name="customisationmanager" long-name="Calendar Customisation Manager" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/customisationmanager" proFile="customisationmanager.pro"/>
+</component>
+<component name="calendarui_views" long-name="Calendar Views" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/views" proFile="views.pro"/>
+</component>
+<component name="calendarui_controller" long-name="Calendar Controller" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/controller" proFile="controller.pro"/>
+</component>
+<component name="calendarui_application" long-name="Calendar Application" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarui/application" proFile="application.pro"/>
+</component>
+<component name="regionalplugins" long-name="Regional Plugins" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/organizer/calendarui/regionalplugins" proFile="regionalplugins.pro"/>
+</component>
+<component name="calenviewerservice" long-name="Calendar Viewer Service" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/organizer/calendarui/calenviewerservice" proFile="calenviewerservice.pro"/>
+</component>
+<component name="caldav" long-name="CalDAV" introduced="^3" filter="sf_build" purpose="optional" plugin="Y" class="placeholder">
+<!-- not yet delivered in S^4 <unit bldFile="calendarui/caldav/group"/>-->
+</component>
+</collection>
+<collection name="notes" long-name="Notes" level="ui">
+<component name="notes_build" long-name="Notes Build" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/notes" proFile="notes.pro"/>
+</component>
+</collection>
+<collection name="calendarengines" long-name="Calendar Engines" level="engine">
+<component name="versit2" long-name="Versit 2 iCal Parser" introduced="9.2" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarengines/versit2/group"/>
+</component>
+<component name="agnversit2" long-name="Versit 2 Agenda Interface" introduced="9.2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/organizer/calendarengines/agnversit2/group"/>
+</component>
+<component name="caleninterimutils" long-name="Calendar Interim Utils" introduced="9.1" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarengines/caleninterimutils/group"/>
+</component>
+<component name="calenimp" long-name="Calendar Import Wrapper" introduced="7.0s" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/calendarengines/calenimp/group"/>
+</component>
+<component name="caldavsrv" long-name="CalDAV Server" introduced="^3" filter="sf_build" purpose="optional" class="placeholder">
+<!-- Not yet delivered in S^4 <unit bldFile="calendarengines/caldav/group"/> -->
+</component>
+</collection>
+<collection name="clock" long-name="Clock" level="app">
+<!-- uncomment unit when block_build is split up-->
+<component name="clockengines" long-name="Clock Engines" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="clock/clockengines" qt:proFile="clockengines.pro"/> -->
+</component>
+<component name="clockmw" long-name="Clock Middleware" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="clock/clockmw" qt:proFile="clockmw.pro"/>-->
+</component>
+<component name="clockui" long-name="Clock UI" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="clock/clockui" qt:proFile="clockui.pro"/>-->
+</component>
+<component name="clock_build" long-name="Clock Build" filter="s60" purpose="optional">
+<!-- make exports into a component, or just move to one of the above components, then remove this and uncomment the above -->
+<unit bldFile="/sf/app/organizer/clock" proFile="clock.pro"/>
+</component>
+</collection>
+<collection name="pimappservices" long-name="PIM Application Services" level="services">
+<component name="calendar" long-name="Calendar" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/app/organizer/pimappservices/calendar/group" mrp="/sf/app/organizer/pimappservices/calendar/group/app-engines_calendar.mrp" version="2"/>
+</component>
+<component name="calendarvcalplugin" long-name="Calendar vCal Plugin" introduced="8.1" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/organizer/pimappservices/calendarvcalplugin/group" mrp="/sf/app/organizer/pimappservices/calendarvcalplugin/group/app-engines_agnversit2.mrp" version="2"/>
+</component>
+<component name="appenginesdocs" long-name="Application Engines Documentation" purpose="development" class="doc">
+<unit mrp="/sf/app/organizer/pimappservices/appenginesdocs/app-engines_documentation.mrp"/>
+</component>
+</collection>
+<collection name="pimappsupport" long-name="PIM Application Support" level="support">
+<component name="vcardandvcal" long-name="vCard and vCal" introduced="ER5" purpose="optional">
+<unit bldFile="/sf/app/organizer/pimappsupport/vcardandvcal/group" mrp="/sf/app/organizer/pimappsupport/vcardandvcal/group/app-services_versit.mrp"/>
+</component>
+<component name="chinesecalendarconverter" long-name="Chinese Calendar Converter" introduced="6.1" purpose="optional">
+<unit bldFile="/sf/app/organizer/pimappsupport/chinesecalendarconverter/group" mrp="/sf/app/organizer/pimappsupport/chinesecalendarconverter/group/app-services_calcon.mrp"/>
+</component>
+<component name="chinesecalendaralg" long-name="Chinese Calendar Algorithm" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/organizer/pimappsupport/chinesecalendaralg/group" mrp="/sf/app/organizer/pimappsupport/chinesecalendaralg/group/app-services_chinesecalendaralgorithm.mrp"/>
+</component>
+</collection>
+<collection name="alarmui" long-name="Alarm UI" level="app">
+<!-- collection is really a component, should move down a directory -->
+<component name="alarmui_build" long-name="Alarm UI Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/organizer/alarmui" proFile="alarmui.pro"/>
+</component>
+</collection>
+<collection name="organizer_info" long-name="Organizer Application Suite Info" level="app">
+<component name="organizer_metadata" long-name="Organizer Application Suite Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/app/organizer/organizer_info/organizer_metadata/organizer_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

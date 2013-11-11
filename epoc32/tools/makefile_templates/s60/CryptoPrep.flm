@@ -1,0 +1,50 @@
+# Copyright (c) 2009-2010 Nokia Corporation and/or its subsidiary(-ies).
+# All rights reserved.
+# This component and the accompanying materials are made available
+# under the terms of the License "Eclipse Public License v1.0"
+# which accompanies this distribution, and is available
+# at the URL "http://www.eclipse.org/legal/epl-v10.html".
+#
+# Initial Contributors:
+# Nokia Corporation - initial contribution.
+#
+# Contributors:
+#
+# Description: DRM Crypto Library build configuration
+#
+
+CREATABLEPATH:=$(EXTENSION_ROOT)/../drmengine/drmcrypto/build
+CLEANTARGETS:=$(CREATABLEPATH)/cmlacrypto.cpp $(CREATABLEPATH)/omacrypto.cpp
+
+crypto_files:=$(wildcard $(EXTENSION_ROOT)/../drmengine/drmcrypto/CMLA/*.cpp)
+
+
+GUARD:=done_$(call sanitise,$(CLEANTARGETS))
+ifeq ($($(GUARD)),)
+$(GUARD):=1
+
+BITMAP :: $(CREATABLEPATH)
+
+ifeq ($(crypto_files),)
+	$(GNUCP) $(CREATABLEPATH)/../stub/CmlaCryptoStub.cpp $(CREATABLEPATH)/cmlacrypto.cpp
+else
+	$(GNUCP) $(CREATABLEPATH)/../CMLA/CmlaCrypto.cpp $(CREATABLEPATH)/cmlacrypto.cpp
+endif
+	$(GNUCP) $(CREATABLEPATH)/../src/OmaCrypto.cpp $(CREATABLEPATH)/omacrypto.cpp
+	$(GNUCHMOD) u+w $(CREATABLEPATH)/cmlacrypto.cpp
+	$(GNUCHMOD) u+w $(CREATABLEPATH)/omacrypto.cpp
+
+# Create dirs
+$(call makepath,$(CREATABLEPATH))
+
+## Clean up
+$(eval $(call GenerateStandardCleanTarget,$(CLEANTARGETS)))
+
+## What
+$(eval $(call whatmacro,$(CLEANTARGETS)))
+
+
+else
+$(info <debug>$(PLATFORM) $(CFG), up-to-date $(CLEANTARGETS)</debug>)
+
+endif

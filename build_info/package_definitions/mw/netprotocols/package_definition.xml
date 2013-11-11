@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="netprotocols" level="generic" levels="plugin framework server generic specific" long-name="High-level Internet Protocols">
+<collection name="httpfilters" long-name="HTTP Filters" level="plugin">
+<component name="httpfiltercommon" long-name="HTTP Filter Common" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/httpfilters/httpfiltercommon/group"/>
+</component>
+<component name="cookie" long-name="Cookie Filter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/netprotocols/httpfilters/cookie/group"/>
+</component>
+<component name="deflatefilter" long-name="Deflate Filter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/netprotocols/httpfilters/deflatefilter/group"/>
+</component>
+<component name="httpfilterauthentication" long-name="Authentication Filter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/netprotocols/httpfilters/httpfilterauthentication/group"/>
+</component>
+<component name="httpfilteriop" long-name="HTTP IOP Filter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/netprotocols/httpfilters/httpfilteriop/group"/>
+</component>
+</collection>
+<collection name="applayerprotocols" long-name="Application Layer Protocols" level="server">
+<component name="httptransportfw" long-name="HTTP Transport Framework" introduced="6.2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerprotocols/httptransportfw/group" mrp="/sf/mw/netprotocols/applayerprotocols/httptransportfw/group/http_transport-framework.mrp"/>
+</component>
+<component name="httpexamples" long-name="HTTP Examples" introduced="6.2" filter="s60" purpose="development">
+<unit bldFile="/sf/mw/netprotocols/applayerprotocols/httpexamples/group" mrp="/sf/mw/netprotocols/applayerprotocols/httpexamples/group/http_examples.mrp"/>
+</component>
+<component name="wappushsupport" long-name="WAP Push Support" introduced="6.2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerprotocols/wappushsupport/Group" mrp="/sf/mw/netprotocols/applayerprotocols/wappushsupport/Group/wap-browser_wappushsupport.mrp"/>
+</component>
+<component name="wapbase" long-name="WAP Base" introduced="6.0" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerprotocols/wapbase/Group" mrp="/sf/mw/netprotocols/applayerprotocols/wapbase/Group/wap-browser_wapbase.mrp"/>
+</component>
+<component name="ftpengine" long-name="FTP Engine" introduced="6.0" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerprotocols/ftpengine/group" mrp="/sf/mw/netprotocols/applayerprotocols/ftpengine/group/networking_ftp_e.mrp"/>
+</component>
+<component name="telnetengine" long-name="Telnet Engine" introduced="6.0" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerprotocols/telnetengine/group" mrp="/sf/mw/netprotocols/applayerprotocols/telnetengine/group/networking_telnet_e.mrp"/>
+</component>
+<component name="httpserviceapi" long-name="HTTP Service API" introduced="TB9.2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerprotocols/httpservice/group" mrp="/sf/mw/netprotocols/applayerprotocols/httpservice/group/http_service.mrp"/>
+</component>
+</collection>
+<collection name="applayerpluginsandutils" long-name="Application Layer Plugins and Utils" level="framework">
+<component name="uripermissionservices" long-name="URI Permission Services" introduced="^2" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerpluginsandutils/uripermissionservices/group" mrp="/sf/mw/netprotocols/applayerpluginsandutils/uripermissionservices/group/application-protocols_ineturilist.mrp"/>
+</component>
+<component name="bookmarksupport" long-name="Bookmark Support" introduced="9.1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/netprotocols/applayerpluginsandutils/bookmarksupport/group" mrp="/sf/mw/netprotocols/applayerpluginsandutils/bookmarksupport/group/application-protocols_bookmarks.mrp"/>
+</component>
+<component name="httpprotocolplugins" long-name="HTTP Protocol Plugins" introduced="6.2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/netprotocols/applayerpluginsandutils/httpprotocolplugins/group" mrp="/sf/mw/netprotocols/applayerpluginsandutils/httpprotocolplugins/group/http_protocol-plugin.mrp"/>
+</component>
+<component name="httptransportplugins" long-name="HTTP Transport Plugins" introduced="6.2" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/netprotocols/applayerpluginsandutils/httptransportplugins/group" mrp="/sf/mw/netprotocols/applayerpluginsandutils/httptransportplugins/group/http_transport-plugin.mrp"/>
+</component>
+</collection>
+<collection name="netprotocols_info" long-name="High-level Internet Protocols Info" level="specific">
+<component name="netprotocols_plat" long-name="High-level Internet Protocols Platform Interfaces" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/netprotocols/netprotocols_plat/group"/>
+</component>
+<component name="netprotocols_metadata" long-name="High-level Internet Protocols Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/mw/netprotocols/netprotocols_info/netprotocols_metadata/netprotocols_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

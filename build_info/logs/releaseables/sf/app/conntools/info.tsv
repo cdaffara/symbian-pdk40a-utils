@@ -1,0 +1,43 @@
+/epoc32/data/c/private/101f7989/Esock/ip.probe.esk	export	
+/epoc32/data/z/private/10003a3f/apps/conntest_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/conntest_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/conntest.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/conntest.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/conntest_aif.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/conntest_aif.mif	bitmap	armv5_urel
+/epoc32/data/z/system/install/conntest_stub.sis	export	
+/epoc32/include/conntest.rsg	resource	armv5_urel
+/epoc32/include/conntest.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/probe.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/probe.dso	build	armv5_urel
+/epoc32/release/armv5/lib/probe{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/probe{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/ConnTest.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConnTest.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/probe.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/probe.prt.map	build	armv5_udeb
+/epoc32/release/armv5/urel/ConnTest.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ConnTest.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/probe.prt	build	armv5_urel
+/epoc32/release/armv5/urel/probe.prt.map	build	armv5_urel
+/epoc32/release/winscw/udeb/ConnTest.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/probe.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/probe.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/conntest_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/conntest.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/conntest_aif.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/conntest_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/ConnTest.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ConnTest.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/probe.prt	build	winscw_urel
+/epoc32/release/winscw/urel/probe.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/conntest_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/conntest.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/conntest_aif.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/conntest_aif.mif	bitmap	winscw_udeb
+/epoc32/rom/include/core/tools/ConnTest.iby	export	
+/epoc32/tools/EnableLanConnection.cmd	export	
+/epoc32/tools/configchange.pl	export	
+/epoc32/winscw/c/ethernetced.xml	export	
+/epoc32/winscw/c/private/101f7989/Esock/ip.probe.esk	export	
+/epoc32/winscw/c/s60_32_default_snaps.xml	export	

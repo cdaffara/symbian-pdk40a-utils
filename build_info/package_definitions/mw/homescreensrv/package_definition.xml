@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="homescreensrv" level="specific" levels="plugin framework server generic specific" long-name="Home Screen Services">
+<collection name="hswidgetmodel" long-name="Home Screen Widget Model" level="framework">
+<component name="hswidgetmodel_build" long-name="Home Screen Widget Model Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/hswidgetmodel" proFile="hswidgetmodel.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="contentstorage" long-name="Content Storage" level="framework">
+<component name="cautils" long-name="Content Arsenal Utils" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/contentstorage/cautils" proFile="cautils.pro" qmakeArgs="-r"/>
+</component>
+<component name="contentstorage_build" long-name="Content Storage Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/contentstorage/group" proFile="group.pro" qmakeArgs="-r"/>
+</component>
+<component name="casrv/calocalizerscanner" long-name="Content Arsenal Server Localizer Scanner" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/contentstorage/casrv/calocalizerscanner" proFile="calocalizerscanner.pro" qmakeArgs="-r"/>
+</component>
+<component name="cahandler" long-name="Content Arsenal Handler" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/contentstorage/cahandler" proFile="cahandler.pro" qmakeArgs="-r"/>
+</component>
+<component name="caclient" long-name="Content Arsenal Client" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/contentstorage/caclient" proFile="caclient.pro" qmakeArgs="-r"/>
+</component>
+<component name="casoftwareregistry" long-name="Content Arsenal Software Registry" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/contentstorage/casoftwareregistry" proFile="casoftwareregistry.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="homescreensrv_plat" long-name="Home Screen Services Platform Interfaces" level="specific">
+<component name="homescreensrv_plat_build" long-name="Home Screen Services Platform Interfaces build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/homescreensrv_plat" proFile="homescreensrv_plat.pro" qmakeArgs="-r"/>
+</component>
+<component name="menu_sat_interface_api" long-name="Menu SAT Interface API" filter="s60" purpose="optional" class="api"/>
+<component name="contentstorage_api" long-name="Content Storage API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="hswidgetmodel_api" long-name="HS Widget Model API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="homescreen_information_api" long-name="Homescreen Information API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+</collection>
+<collection name="hsactivityfw" long-name="Activity Framework" level="fw">
+<component name="hsactivityfw_build" long-name="Activity Framework Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/activityfw" proFile="activityfw.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="taskswitcher" long-name="Task Switcher" level="fw">
+<!-- move collection down to a component directory or split up into component .pro files -->
+<component name="taskswitcher_build" long-name="Task Switcher Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/taskswitcher" proFile="taskswitcher.pro"/>
+</component>
+</collection>
+<collection name="hsappkeyhandler" long-name="HS Appplication Key Handler" level="server">
+<component name="hsappkeyhandler_build" long-name="Appplication Key Handler Build" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/hsappkeyhandler" proFile="hsappkeyhandler.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="tsdevicedialog" long-name="Task Switcher Device Dialog" level="plugin">
+<component name="tsdevicedialog_build" long-name="Task Switcher Device Dialog Build" introduced="^4" purpose="optional">
+<!-- break this up into real components -->
+<unit bldFile="/sf/mw/homescreensrv/tsdevicedialog" proFile="tsdevicedialog.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+<collection name="homescreensrv_info" long-name="Home Screen Services Info" level="specific">
+<component name="homescreensrvconf" long-name="Home Screen Services Config" introduced="^4" purpose="optional" class="config">
+<unit bldFile="/sf/mw/homescreensrv/." proFile="homescreensrv_exports_to_rom.pri" qmakeArgs="-r"/>
+</component>
+<component name="homescreensrvrom" long-name="Home Screen Services ROM" introduced="^4" purpose="optional">
+<unit bldFile="/sf/mw/homescreensrv/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

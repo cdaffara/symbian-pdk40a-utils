@@ -1,0 +1,50 @@
+/epoc32/data/c/data/testfeeds.xml	export	
+/epoc32/data/z/private/10003a3f/apps/podcast_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/podcast_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/A0009D00/defaultfeeds.xml	export	
+/epoc32/data/z/private/A0009D00/podcatcher.sqlite.template	export	
+/epoc32/data/z/resource/apps/Podcast.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/podcast.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/podcast.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/podcast.r04	resource	armv5_urel
+/epoc32/data/z/resource/apps/podcast.r04	resource	winscw_udeb
+/epoc32/data/z/resource/help/podcatcher.hlp	export	
+/epoc32/include/Podcast.mbg	bitmap	armv5_urel
+/epoc32/include/Podcast.mbg	bitmap	winscw_udeb
+/epoc32/include/podcast.rsg	resource	armv5_urel
+/epoc32/include/podcast.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/podcastengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/podcastengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/podcastengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/podcastengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/Podcast.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/Podcast.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/podcastengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/podcastengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/Podcast.exe	build	armv5_urel
+/epoc32/release/armv5/urel/Podcast.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/podcastengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/podcastengine.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/Podcast.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/podcastengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/podcastengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/podcast_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/A0009D00/defaultfeeds.xml	export	
+/epoc32/release/winscw/udeb/z/private/A0009D00/podcatcher.sqlite.template	export	
+/epoc32/release/winscw/udeb/z/resource/apps/Podcast.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/podcast.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/podcast.r04	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/help/podcatcher.hlp	export	
+/epoc32/release/winscw/urel/Podcast.exe	build	winscw_urel
+/epoc32/release/winscw/urel/Podcast.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/podcastengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/podcastengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/podcast_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/A0009D00/defaultfeeds.xml	export	
+/epoc32/release/winscw/urel/z/private/A0009D00/podcatcher.sqlite.template	export	
+/epoc32/release/winscw/urel/z/resource/apps/Podcast.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/podcast.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/podcast.r04	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/help/podcatcher.hlp	export	
+/epoc32/rom/include/core/app/podcatcher.iby	export	
+/epoc32/winscw/c/data/testfeeds.xml	export	

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="openmaxil" level="services" levels="adaptation hw-if device-fw devices middleware app-if">
+<collection name="openmaxil_plat" long-name="OpenMAX IL Platform Exports" level="hw-if">
+<component name="openmaxil_khronos_api" long-name="OpenMAX IL API" introduced="^3" purpose="mandatory" class="api">
+<unit bldFile="/sf/os/openmaxil/openmaxil_plat/khronos_api/group" version="1"/>
+</component>
+<component name="openmaxil_symbian_api" long-name="OpenMAX IL Symbian API" introduced="^3" purpose="mandatory" class="api">
+<unit bldFile="/sf/os/openmaxil/openmaxil_plat/symbian_api/group" version="1"/>
+</component>
+<component name="openmaxil_test_api" long-name="OpenMAX IL test headers" introduced="^3" purpose="development" class="api">
+<unit bldFile="/sf/os/openmaxil/openmaxil_plat/test_api/group" version="1"/>
+</component>
+</collection>
+<collection name="omxil_generic" long-name="OpenMAX IL Implementation" level="device-fw">
+<component name="omxilcomplib" long-name="OpenMAX IL Component Framework" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/openmaxil/omxil_generic/omxilcomplib/group" version="1"/>
+</component>
+<component name="omxilcore" long-name="OpenMAX IL Core" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/openmaxil/omxil_generic/omxilcore/group" version="1"/>
+</component>
+<component name="omxilloader" long-name="OpenMAX IL Loader" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/openmaxil/omxil_generic/omxilloader/group" version="1"/>
+</component>
+</collection>
+<collection name="openmaxil_tsrc" long-name="OpenMAX IL Test code" level="hw-if">
+<component name="xmltestharness" long-name="OpenMAX IL XML Test Harness" introduced="^3" purpose="development">
+<unit bldFile="/sf/os/openmaxil/tsrc/xmltestharness/group" version="1"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

@@ -1,0 +1,1699 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/cppsmplugin.qtplugin	export	
+/epoc32/data/Z/private/10282BC4/Settings/10282C74/10282C74.xml	export	
+/epoc32/data/Z/private/10282BC4/Settings/10282DF0/10282DF0.xml	export	
+/epoc32/data/Z/private/10282bc4/rules/autorotateui_activate.rul	export	
+/epoc32/data/Z/private/10282bc4/rules/autorotateui_alwaysinportrait.rul	export	
+/epoc32/data/Z/private/10282bc4/rules/autorotateui_init.rul	export	
+/epoc32/data/Z/private/10282bc4/rules/autorotateui_rotate.rul	export	
+/epoc32/data/Z/private/10282bc4/rules/keyevent.rul	export	
+/epoc32/data/Z/private/10282bc4/rules/keyincall.rul	export	
+/epoc32/data/Z/private/10282bc4/rules/keyinfmtx.rul	export	
+/epoc32/data/z/pluginstub/DevicePowerMenuPlugin.qtplugin	export	
+/epoc32/data/z/private/100012a5/policy/10206a8b.spd	export	
+/epoc32/data/z/private/100012a5/policy/2000836d.spd	export	
+/epoc32/data/z/private/10003a3f/apps/eshell_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/eshell_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/splashscreen_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/splashscreen_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/startup_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/startup_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/sysap_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/sysap_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/backup_registration.xml	export	
+/epoc32/data/z/private/10003a3f/import/apps/accindicatorsettings_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/accindicatorsettings_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/cppsmpluginlauncher_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/cppsmpluginlauncher_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/100058f4/backup_registration.xml	export	
+/epoc32/data/z/private/101f5027/alarmserver.rsc	resource	armv5_urel
+/epoc32/data/z/private/101f5027/alarmserver.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101f5027/backup_registration.xml	export	
+/epoc32/data/z/private/10202be9/1020383e.txt	export	
+/epoc32/data/z/private/1020383E/timezone_upgrade.sis	build	armv5_udeb
+/epoc32/data/z/private/1020383E/timezone_upgrade.sis	build	armv5_urel
+/epoc32/data/z/private/1020383e/backup_registration.xml	export	
+/epoc32/data/z/private/1020383e/tzdb.dbz	export	
+/epoc32/data/z/private/10205ea6/backup_registration.xml	export	
+/epoc32/data/z/private/10207218/oomconfig.xml	export	
+/epoc32/data/z/private/10282bc4/backup_registration.xml	export	
+/epoc32/data/z/private/10282bc4/rules/sensordatacompensationdevice.rul	export	
+/epoc32/data/z/private/10282bc4/rules/sensordatacompensationui.rul	export	
+/epoc32/data/z/private/10282bc4/settings/10282f41/10282f41.xml	export	
+/epoc32/data/z/resource/accfwnoteuinotifier.r01	resource	armv5_urel
+/epoc32/data/z/resource/accfwnoteuinotifier.r01	resource	winscw_udeb
+/epoc32/data/z/resource/accfwnoteuinotifier.rsc	resource	armv5_urel
+/epoc32/data/z/resource/accfwnoteuinotifier.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/accindicator/wired_accessory.svg	export	
+/epoc32/data/z/resource/accindicator/wireless_accessory.svg	export	
+/epoc32/data/z/resource/aknkeyeventmap.rsc	resource	armv5_urel
+/epoc32/data/z/resource/aknkeyeventmap.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/accindicatorsettings.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/accindicatorsettings.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/atcmdpluginresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/atcmdpluginresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/cppsmpluginlauncher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/cppsmpluginlauncher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/gssenplugin.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/qgn_startup_screen.svg	export	
+/epoc32/data/z/resource/apps/qgn_sysap_screen.svg	export	
+/epoc32/data/z/resource/apps/startup.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/startup.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/startup.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/startup.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/startup.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/sysap.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/sysap.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/sysap.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/sysap.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/convert/1000071c.rsc	resource	armv5_urel
+/epoc32/data/z/resource/convert/1000071c.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/convert/1000a90e.rsc	resource	armv5_urel
+/epoc32/data/z/resource/convert/1000a90e.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/convert/chtmltocrtconverter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/convert/chtmltocrtconverter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/lafmemorywatcher.r01	resource	armv5_urel
+/epoc32/data/z/resource/lafmemorywatcher.r01	resource	winscw_udeb
+/epoc32/data/z/resource/lafmemorywatcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/lafmemorywatcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/outofdiskmonitor.r01	resource	armv5_urel
+/epoc32/data/z/resource/outofdiskmonitor.r01	resource	winscw_udeb
+/epoc32/data/z/resource/outofdiskmonitor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/outofdiskmonitor.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/accfwuinotifier.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/accfwuinotifier.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/advancedtspcontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/advancedtspcontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/airfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/airfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/applicationstatesourceplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/applicationstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/atcmdplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/atcmdplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/basicoperationsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/basicoperationsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/callstatesourceplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/callstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cenrepsourceplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cenrepsourceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/certrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/certrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/chtmltocrtconverter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/chtmltocrtconverter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/clockrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/clockrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/datastorerfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/datastorerfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/defaultfolderrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/defaultfolderrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/displaysourceplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/displaysourceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/formatterrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/formatterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hwrmuiplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hwrmuiplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmkeybearer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmkeybearer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/msgcentrerfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/msgcentrerfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nitzrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nitzrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/psstatesourceplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/psstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recbmark.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recbmark.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recwap.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recwap.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recweb.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recweb.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rfsdisplaycontrastplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rfsdisplaycontrastplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/rt2htmcv.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rt2htmcv.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sanimihlplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sanimihlplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sanimmmfplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sanimmmfplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sanimsvgplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sanimsvgplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sensorsourceplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sensorsourceplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/siprfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/siprfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/starterrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/starterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/startupmediatorplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/startupmediatorplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/syncmlrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/syncmlrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/telephonyrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/telephonyrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tzswiobserverplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tzswiobserverplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/unitconverterrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/unitconverterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/vibraactionplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/vibraactionplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/weburlrec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/weburlrec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/rfs.r01	resource	armv5_urel
+/epoc32/data/z/resource/rfs.r01	resource	winscw_udeb
+/epoc32/data/z/resource/rfs.rsc	resource	armv5_urel
+/epoc32/data/z/resource/rfs.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r01	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r01	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r02	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.r02	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.rsc	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezonegroups.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones.r01	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones.r01	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones.r02	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones.r02	resource	winscw_udeb
+/epoc32/data/z/resource/timezonelocalization/timezones.rsc	resource	armv5_urel
+/epoc32/data/z/resource/timezonelocalization/timezones.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/timezone_stub.sis	build	armv5_urel
+/epoc32/include/1000071c.rsg	resource	armv5_urel
+/epoc32/include/1000071c.rsg	resource	winscw_udeb
+/epoc32/include/1000a90e.rsg	resource	armv5_urel
+/epoc32/include/1000a90e.rsg	resource	winscw_udeb
+/epoc32/include/accfwnoteuinotifier.rsg	resource	armv5_urel
+/epoc32/include/accfwnoteuinotifier.rsg	resource	winscw_udeb
+/epoc32/include/accindicatorsettings.rsg	resource	armv5_urel
+/epoc32/include/accindicatorsettings.rsg	resource	winscw_udeb
+/epoc32/include/aiftool.rh	export	
+/epoc32/include/aknkeyeventmap.rsg	resource	armv5_urel
+/epoc32/include/aknkeyeventmap.rsg	resource	winscw_udeb
+/epoc32/include/alarmserver.rsg	resource	armv5_urel
+/epoc32/include/alarmserver.rsg	resource	winscw_udeb
+/epoc32/include/appinfo.rh	export	
+/epoc32/include/atcmdpluginresource.rsg	resource	armv5_urel
+/epoc32/include/atcmdpluginresource.rsg	resource	winscw_udeb
+/epoc32/include/chtmltocrtconverter.rsg	resource	armv5_urel
+/epoc32/include/chtmltocrtconverter.rsg	resource	winscw_udeb
+/epoc32/include/cppsmpluginlauncher.rsg	resource	armv5_urel
+/epoc32/include/cppsmpluginlauncher.rsg	resource	winscw_udeb
+/epoc32/include/gssenplugin.mbg	bitmap	armv5_urel
+/epoc32/include/gssenplugin.mbg	bitmap	winscw_udeb
+/epoc32/include/lafmemorywatcher.rsg	resource	armv5_urel
+/epoc32/include/lafmemorywatcher.rsg	resource	winscw_udeb
+/epoc32/include/mw/CoreApplicationUIsSDKCRKeys.h	export	
+/epoc32/include/mw/apaapp.h	export	
+/epoc32/include/mw/apacmdln.h	export	
+/epoc32/include/mw/apadbase.h	export	
+/epoc32/include/mw/apadef.h	export	
+/epoc32/include/mw/apadoc.h	export	
+/epoc32/include/mw/apaflrec.h	export	
+/epoc32/include/mw/apaid.h	export	
+/epoc32/include/mw/apamdr.h	export	
+/epoc32/include/mw/apaproc.h	export	
+/epoc32/include/mw/apcaptionfile.rh	export	
+/epoc32/include/mw/apgcli.h	export	
+/epoc32/include/mw/apgctl.h	export	
+/epoc32/include/mw/apgdoor.h	export	
+/epoc32/include/mw/apgicnfl.h	export	
+/epoc32/include/mw/apgtask.h	export	
+/epoc32/include/mw/apgupdate.h	export	
+/epoc32/include/mw/apgwgnam.h	export	
+/epoc32/include/mw/apparc.h	export	
+/epoc32/include/mw/asaltdefs.h	export	
+/epoc32/include/mw/ascliclientutils.h	export	
+/epoc32/include/mw/asclidefinitions.h	export	
+/epoc32/include/mw/asclisession.h	export	
+/epoc32/include/mw/asclisoundplay.h	export	
+/epoc32/include/mw/asshdalarm.h	export	
+/epoc32/include/mw/asshdbitflags.h	export	
+/epoc32/include/mw/asshddefs.h	export	
+/epoc32/include/mw/cnftool.rh	export	
+/epoc32/include/mw/conarc.h	export	
+/epoc32/include/mw/concnf.h	export	
+/epoc32/include/mw/confndr.h	export	
+/epoc32/include/mw/conlist.h	export	
+/epoc32/include/mw/conplugin.rh	export	
+/epoc32/include/mw/copydatafile.h	export	
+/epoc32/include/mw/flash_ui.h	export	
+/epoc32/include/mw/prninf.h	export	
+/epoc32/include/mw/prnprev.h	export	
+/epoc32/include/mw/prnsetup.h	export	
+/epoc32/include/mw/prnuids.h	export	
+/epoc32/include/mw/tz.h	export	
+/epoc32/include/mw/tzconverter.h	export	
+/epoc32/include/mw/tzdefines.h	export	
+/epoc32/include/mw/tzid.h	export	
+/epoc32/include/mw/tzid.inl	export	
+/epoc32/include/mw/tzlocalizationdatatypes.h	export	
+/epoc32/include/mw/tzlocalizationdatatypes.inl	export	
+/epoc32/include/mw/tzlocalizedcityrecord.h	export	
+/epoc32/include/mw/tzlocalizedcityrecord.inl	export	
+/epoc32/include/mw/tzlocalizer.h	export	
+/epoc32/include/mw/tzupdate.h	export	
+/epoc32/include/mw/viewcli.h	export	
+/epoc32/include/mw/vtzrules.h	export	
+/epoc32/include/mw/vwsdef.h	export	
+/epoc32/include/outofdiskmonitor.rsg	resource	armv5_urel
+/epoc32/include/outofdiskmonitor.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/ASShdAlarmCal.h	export	
+/epoc32/include/platform/mw/GSServerEngine.h	export	
+/epoc32/include/platform/mw/NPNFlashDefs.h	export	
+/epoc32/include/platform/mw/NPNFlashExtension.h	export	
+/epoc32/include/platform/mw/PhoneHandler.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/SecondaryDisplayAccFwAPI.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/SecondaryDisplayStartupAPI.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/SecondaryDisplaySysApAPI.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/SecondaryDisplaySystemStateAPI.h	export	
+/epoc32/include/platform/mw/UiklafInternalCRKeys.h	export	
+/epoc32/include/platform/mw/accessoriescrkeys.h	export	
+/epoc32/include/platform/mw/aknkeyeventmap.hrh	export	
+/epoc32/include/platform/mw/aknkeyeventmap.rh	export	
+/epoc32/include/platform/mw/apacln.h	export	
+/epoc32/include/platform/mw/apaidpartner.h	export	
+/epoc32/include/platform/mw/apaserverapp.h	export	
+/epoc32/include/platform/mw/apasvst.h	export	
+/epoc32/include/platform/mw/apfctlf.h	export	
+/epoc32/include/platform/mw/apfmimecontentpolicy.h	export	
+/epoc32/include/platform/mw/apfrec.h	export	
+/epoc32/include/platform/mw/apgaplst.h	export	
+/epoc32/include/platform/mw/apgctllist.h	export	
+/epoc32/include/platform/mw/apgicnflpartner.h	export	
+/epoc32/include/platform/mw/apgnotif.h	export	
+/epoc32/include/platform/mw/aplaunchchecker.h	export	
+/epoc32/include/platform/mw/applicationorientation.h	export	
+/epoc32/include/platform/mw/aprulebased.h	export	
+/epoc32/include/platform/mw/apsidchecker.h	export	
+/epoc32/include/platform/mw/apsscan.h	export	
+/epoc32/include/platform/mw/cfactionindication.h	export	
+/epoc32/include/platform/mw/cfactionplugin.h	export	
+/epoc32/include/platform/mw/cfactionpluginconst.hrh	export	
+/epoc32/include/platform/mw/cfactionsubscription.h	export	
+/epoc32/include/platform/mw/cfclient.h	export	
+/epoc32/include/platform/mw/cfcontextdataobject.h	export	
+/epoc32/include/platform/mw/cfcontextindication.h	export	
+/epoc32/include/platform/mw/cfcontextinterface.h	export	
+/epoc32/include/platform/mw/cfcontextobject.h	export	
+/epoc32/include/platform/mw/cfcontextquery.h	export	
+/epoc32/include/platform/mw/cfcontextsourcecommand.h	export	
+/epoc32/include/platform/mw/cfcontextsourcecommandparameter.h	export	
+/epoc32/include/platform/mw/cfcontextsourceinterface.h	export	
+/epoc32/include/platform/mw/cfcontextsourceplugin.h	export	
+/epoc32/include/platform/mw/cfcontextsourcepluginconst.hrh	export	
+/epoc32/include/platform/mw/cfcontextsourcesetting.h	export	
+/epoc32/include/platform/mw/cfcontextsourcesettingarray.h	export	
+/epoc32/include/platform/mw/cfcontextsourcesettingparameter.h	export	
+/epoc32/include/platform/mw/cfcontextsourcesettingsmanager.h	export	
+/epoc32/include/platform/mw/cfcontextsourceupgrade.h	export	
+/epoc32/include/platform/mw/cfcontextsubscription.h	export	
+/epoc32/include/platform/mw/cfcontextsubscriptionlistener.h	export	
+/epoc32/include/platform/mw/cfdefinitions.h	export	
+/epoc32/include/platform/mw/cfkeyvaluepair.h	export	
+/epoc32/include/platform/mw/cflistener.h	export	
+/epoc32/include/platform/mw/cfoperationnode.h	export	
+/epoc32/include/platform/mw/cfoperationplugin.h	export	
+/epoc32/include/platform/mw/cfoperationpluginconst.hrh	export	
+/epoc32/include/platform/mw/cfoperationservices.h	export	
+/epoc32/include/platform/mw/cfscriptevent.h	export	
+/epoc32/include/platform/mw/cfscriptlistener.h	export	
+/epoc32/include/platform/mw/cfscriptownerinterface.h	export	
+/epoc32/include/platform/mw/cfscriptroot.h	export	
+/epoc32/include/platform/mw/cfwcontextdef.h	export	
+/epoc32/include/platform/mw/consolealarmalertservermain.h	export	
+/epoc32/include/platform/mw/contextframeworkdomaincrkeys.h	export	
+/epoc32/include/platform/mw/coreapplicationuisdomainpskeys.h	export	
+/epoc32/include/platform/mw/dscitem.h	export	
+/epoc32/include/platform/mw/dscstore.h	export	
+/epoc32/include/platform/mw/dscstoredefs.h	export	
+/epoc32/include/platform/mw/exbuf.h	export	
+/epoc32/include/platform/mw/inbuf.h	export	
+/epoc32/include/platform/mw/keffactory.h	export	
+/epoc32/include/platform/mw/kefprovider.h	export	
+/epoc32/include/platform/mw/keypublisherdll.h	export	
+/epoc32/include/platform/mw/loc/sc/SysAp.loc	export	
+/epoc32/include/platform/mw/loc/sc/rfs.loc	export	
+/epoc32/include/platform/mw/loc/sc/startup.loc	export	
+/epoc32/include/platform/mw/mediakeysinternalpskeys.h	export	
+/epoc32/include/platform/mw/mmidelegatebase.h	export	
+/epoc32/include/platform/mw/mmiutils.h	export	
+/epoc32/include/platform/mw/mmkeybearerscancodes.h	export	
+/epoc32/include/platform/mw/mmkeybeareruid.h	export	
+/epoc32/include/platform/mw/oommonitor.h	export	
+/epoc32/include/platform/mw/oommonitorplugin.h	export	
+/epoc32/include/platform/mw/oommonitorplugin.hrh	export	
+/epoc32/include/platform/mw/oommonitorsession.h	export	
+/epoc32/include/platform/mw/printinguisupport/prnpath.h	export	
+/epoc32/include/platform/mw/rfsApMapper.h	export	
+/epoc32/include/platform/mw/rfsClient.h	export	
+/epoc32/include/platform/mw/rfsHandler.h	export	
+/epoc32/include/platform/mw/rfsPlugin.h	export	
+/epoc32/include/platform/mw/rfsPlugin.inl	export	
+/epoc32/include/platform/mw/rfsPluginDef.h	export	
+/epoc32/include/platform/mw/sensorplugindomaincrkeys.h	export	
+/epoc32/include/platform/mw/serviceregistry.h	export	
+/epoc32/include/platform/mw/sipsystemstatemonitorpskeys.h	export	
+/epoc32/include/platform/mw/startupdomaincrkeys.h	export	
+/epoc32/include/platform/mw/sysapcallback.h	export	
+/epoc32/include/platform/mw/sysapkeyhandlerplugininterface.h	export	
+/epoc32/include/platform/mw/sysapkeyhandlerplugininterface.inl	export	
+/epoc32/include/platform/mw/sysaplightcontrolplugin.h	export	
+/epoc32/include/platform/mw/sysaplightcontrolplugin.inl	export	
+/epoc32/include/platform/mw/sysaplightcontrolpluginconstants.hrh	export	
+/epoc32/include/platform/mw/sysaplightextensionenums.h	export	
+/epoc32/include/platform/mw/tzlocalizedtimezonerecord.h	export	
+/epoc32/include/platform/mw/tzlocalizedtimezonerecord.inl	export	
+/epoc32/include/platform/mw/tzuserdefineddata.h	export	
+/epoc32/include/platform/mw/tzusernames.h	export	
+/epoc32/include/platform/mw/viewclipartner.h	export	
+/epoc32/include/platform/mw/vwsappst.h	export	
+/epoc32/include/platform/mw/vwsdefpartner.h	export	
+/epoc32/include/platform/mw/wapmime.h	export	
+/epoc32/include/rfs.rsg	resource	armv5_urel
+/epoc32/include/rfs.rsg	resource	winscw_udeb
+/epoc32/include/startup.mbg	bitmap	armv5_urel
+/epoc32/include/startup.mbg	bitmap	winscw_udeb
+/epoc32/include/startup.rsg	resource	armv5_urel
+/epoc32/include/startup.rsg	resource	winscw_udeb
+/epoc32/include/startup_reg.rsg	resource	armv5_urel
+/epoc32/include/startup_reg.rsg	resource	winscw_udeb
+/epoc32/include/sysap.rsg	resource	armv5_urel
+/epoc32/include/sysap.rsg	resource	winscw_udeb
+/epoc32/include/sysap_reg.rsg	resource	armv5_urel
+/epoc32/include/sysap_reg.rsg	resource	winscw_udeb
+/epoc32/release/arm4/udeb/z/private/100059c9/script0.txt	export	
+/epoc32/release/arm4/udeb/z/private/100059c9/script1.txt	export	
+/epoc32/release/arm4/udeb/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/arm4/urel/z/private/100059c9/script0.txt	export	
+/epoc32/release/arm4/urel/z/private/100059c9/script1.txt	export	
+/epoc32/release/arm4/urel/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/armv5/lib/DevicePowerMenuPlugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevicePowerMenuPlugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevicePowerMenuPlugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevicePowerMenuPlugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/accindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/accindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/accindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/accindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmshared.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmshared.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alarmshared{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alarmshared{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/amastart.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/amastart.dso	build	armv5_urel
+/epoc32/release/armv5/lib/amastarter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/amastarter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/amastarter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/amastarter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/amastart{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/amastart{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apfile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apfile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apfile{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apfile{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apgrfx.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apgrfx.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apgrfx{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apgrfx{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aplist.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aplist.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aplist{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aplist{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apparc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apparc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apparc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apparc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apserv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apserv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apserv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apserv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apstart.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apstart.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apstart{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apstart{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/backuprestorenotification.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/backuprestorenotification.dso	build	armv5_urel
+/epoc32/release/armv5/lib/backuprestorenotification{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/backuprestorenotification{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bsutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bsutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bsutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfactivatorengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfactivatorengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfactivatorengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfactivatorengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfcontextsourcemanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfcontextsourcemanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfcontextsourcemanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfcontextsourcemanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfcontextsourcesettingsmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfcontextsourcesettingsmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfcontextsourcesettingsmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfcontextsourcesettingsmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfoperationpluginservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfoperationpluginservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfoperationpluginservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfoperationpluginservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfscriptengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfscriptengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfscriptengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfscriptengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cfservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cfservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/conarc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/conarc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/conarc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/conarc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppsmplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppsmplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cppsmplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cppsmplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dbrecovery.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dbrecovery.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dbrecovery{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dbrecovery{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dscstore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dscstore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dscstore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dscstore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gsserverengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gsserverengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gsserverenginestub.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gsserverenginestub.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gsserverenginestub{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gsserverenginestub{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gsserverengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gsserverengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/keyeventfw.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/keyeventfw.dso	build	armv5_urel
+/epoc32/release/armv5/lib/keyeventfw{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/keyeventfw{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loadamastart.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loadamastart.dso	build	armv5_urel
+/epoc32/release/armv5/lib/loadamastart{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/loadamastart{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/oodmonitor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/oodmonitor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/oodmonitor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/oodmonitor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/oommonitor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/oommonitor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/oommonitor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/oommonitor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/prev.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/prev.dso	build	armv5_urel
+/epoc32/release/armv5/lib/prev{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/prev{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/print.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/print.dso	build	armv5_urel
+/epoc32/release/armv5/lib/print{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/print{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/psmindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/psmindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/psmindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/psmindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rfs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rfs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rfscustcmd.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rfscustcmd.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rfscustcmd{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rfscustcmd{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rfs{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rfs{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sanimctrl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sanimctrl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sanimctrl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sanimctrl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sanimengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sanimengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sanimengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sanimengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sensordatacompensatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sensordatacompensatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sensordatacompensatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sensordatacompensatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/serviceregistry.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/serviceregistry.dso	build	armv5_urel
+/epoc32/release/armv5/lib/serviceregistry{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/serviceregistry{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/syserrcmd.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/syserrcmd.dso	build	armv5_urel
+/epoc32/release/armv5/lib/syserrcmd{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/syserrcmd{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/timezonelocalization.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/timezonelocalization.dso	build	armv5_urel
+/epoc32/release/armv5/lib/timezonelocalization{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/timezonelocalization{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tzclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tzclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tzclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tzclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/viewcli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/viewcli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/viewcli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/viewcli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/viewsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/viewsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/viewsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/viewsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/CpPsmPluginLauncher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/CpPsmPluginLauncher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevicePowerMenuPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevicePowerMenuPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/accfwuinotifier.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/accfwuinotifier.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/accindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/accindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/accindicatorsettings.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/accindicatorsettings.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/advancedtspcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/advancedtspcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/airfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/airfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmshared.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alarmshared.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/amastart.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/amastart.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/amastarter.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/amastarter.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apfile.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/apfile.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apgrfx.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/apgrfx.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aplist.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aplist.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apparc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/apparc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/applicationstatesourceplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/applicationstatesourceplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apserv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/apserv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apsexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/apsexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apstart.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/apstart.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atcmdplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atcmdplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/backuprestorenotification.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/backuprestorenotification.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/basicoperationsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/basicoperationsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bsutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/callstatesourceplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/callstatesourceplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cenrepsourceplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cenrepsourceplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/certrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/certrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfactivatorengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfactivatorengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfcontextsourcemanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfcontextsourcemanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfcontextsourcesettingsmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfcontextsourcesettingsmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfoperationpluginservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfoperationpluginservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfscriptengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfscriptengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/chtmltocrtconverter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/chtmltocrtconverter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/clockrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/conarc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/conarc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/copydatafile.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppsmplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cppsmplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/datastorerfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/datastorerfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbrecovery.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbrecovery.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/defaultfolderrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/defaultfolderrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/displaysourceplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/displaysourceplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dscstore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dscstore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/find.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/find.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/formatterrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/formatterrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/grep.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/grep.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gsserverengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gsserverengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gsserverenginestub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gsserverenginestub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hwrmuiplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hwrmuiplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/keyeventfw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/keyeventfw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/keypublisherplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/keypublisherplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/loadamastart.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/loadamastart.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmkeybearer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmkeybearer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgcentrerfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msgcentrerfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nitzrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nitzrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nspswsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nspswsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/oodmonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/oodmonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/oommonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/oommonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/prev.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/prev.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/print.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/print.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ps.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ps.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/psmindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/psmindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/psstatesourceplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/psstatesourceplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recbmark.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recbmark.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recwap.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recwap.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recweb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recweb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfscustcmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfscustcmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfsdisplaycontrastplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfsdisplaycontrastplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfsserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfsserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rt2htmcv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rt2htmcv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimctrl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimctrl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimihlplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimihlplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimmmfplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimmmfplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimsvgplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sanimsvgplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/secureformatter.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/secureformatter.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sensordatacompensatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sensordatacompensatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sensorsourceplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sensorsourceplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/serviceregistry.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/serviceregistry.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siprfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/siprfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/splashscreen.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/splashscreen.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/starterrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/starterrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/startup.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/startup.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/startupmediatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/startupmediatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncmlrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncmlrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sysap.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sysap.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syserrcmd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syserrcmd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/telephonyrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/telephonyrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/telnetd.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/telnetd.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/timezonelocalization.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/timezonelocalization.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tzclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tzclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tzserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tzserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tzswiobserverplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tzswiobserverplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/unitconverterrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/unitconverterrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/unzip.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/unzip.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/vibraactionplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vibraactionplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/viewcli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/viewcli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/viewsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/viewsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/weburlrec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/weburlrec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/z/private/100059c9/script0.txt	export	
+/epoc32/release/armv5/udeb/z/private/100059c9/script1.txt	export	
+/epoc32/release/armv5/udeb/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/armv5/udeb/zip.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/zip.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/zsh.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/zsh.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/CpPsmPluginLauncher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/CpPsmPluginLauncher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevicePowerMenuPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevicePowerMenuPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/accfwuinotifier.dll	build	armv5_urel
+/epoc32/release/armv5/urel/accfwuinotifier.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/accindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/accindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/accindicatorsettings.exe	build	armv5_urel
+/epoc32/release/armv5/urel/accindicatorsettings.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/advancedtspcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/advancedtspcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/airfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/airfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alarmclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alarmclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alarmserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/alarmserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/alarmshared.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alarmshared.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/amastart.dll	build	armv5_urel
+/epoc32/release/armv5/urel/amastart.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/amastarter.exe	build	armv5_urel
+/epoc32/release/armv5/urel/amastarter.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/apfile.dll	build	armv5_urel
+/epoc32/release/armv5/urel/apfile.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/apgrfx.dll	build	armv5_urel
+/epoc32/release/armv5/urel/apgrfx.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aplist.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aplist.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/apparc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/apparc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/applicationstatesourceplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/applicationstatesourceplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/apserv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/apserv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/apsexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/apsexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/apstart.dll	build	armv5_urel
+/epoc32/release/armv5/urel/apstart.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atcmdplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atcmdplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/backuprestorenotification.dll	build	armv5_urel
+/epoc32/release/armv5/urel/backuprestorenotification.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/basicoperationsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/basicoperationsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bsutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bsutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/callstatesourceplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/callstatesourceplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cenrepsourceplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cenrepsourceplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/certrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/certrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfactivatorengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfactivatorengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfcontextsourcemanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfcontextsourcemanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfcontextsourcesettingsmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfcontextsourcesettingsmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfoperationpluginservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfoperationpluginservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfscriptengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfscriptengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cfserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/cfservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/chtmltocrtconverter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/chtmltocrtconverter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/clockrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/clockrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/conarc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/conarc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/copydatafile.lib	build	armv5_urel
+/epoc32/release/armv5/urel/cppsmplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cppsmplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/datastorerfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/datastorerfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dbrecovery.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dbrecovery.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/defaultfolderrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/defaultfolderrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/displaysourceplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/displaysourceplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dscstore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dscstore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/find.exe	build	armv5_urel
+/epoc32/release/armv5/urel/find.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/formatterrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/formatterrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/grep.exe	build	armv5_urel
+/epoc32/release/armv5/urel/grep.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/gsserverengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gsserverengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gsserverenginestub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gsserverenginestub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hwrmuiplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hwrmuiplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/keyeventfw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/keyeventfw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/keypublisherplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/keypublisherplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/loadamastart.dll	build	armv5_urel
+/epoc32/release/armv5/urel/loadamastart.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmkeybearer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmkeybearer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msgcentrerfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msgcentrerfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nitzrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nitzrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nspswsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nspswsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/oodmonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/oodmonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/oommonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/oommonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/prev.dll	build	armv5_urel
+/epoc32/release/armv5/urel/prev.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/print.dll	build	armv5_urel
+/epoc32/release/armv5/urel/print.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ps.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ps.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/psmindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/psmindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/psstatesourceplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/psstatesourceplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recbmark.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recbmark.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recwap.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recwap.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recweb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recweb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rfs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rfs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rfscustcmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rfscustcmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rfsdisplaycontrastplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rfsdisplaycontrastplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rfsserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/rfsserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/rt2htmcv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rt2htmcv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sanimctrl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sanimctrl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sanimengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sanimengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sanimihlplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sanimihlplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sanimmmfplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sanimmmfplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sanimsvgplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sanimsvgplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/secureformatter.exe	build	armv5_urel
+/epoc32/release/armv5/urel/secureformatter.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sensordatacompensatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sensordatacompensatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sensorsourceplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sensorsourceplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/serviceregistry.dll	build	armv5_urel
+/epoc32/release/armv5/urel/serviceregistry.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/siprfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/siprfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/splashscreen.exe	build	armv5_urel
+/epoc32/release/armv5/urel/splashscreen.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/starterrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/starterrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/startup.exe	build	armv5_urel
+/epoc32/release/armv5/urel/startup.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/startupmediatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/startupmediatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/syncmlrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syncmlrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sysap.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sysap.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/syserrcmd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syserrcmd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/telephonyrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/telephonyrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/telnetd.exe	build	armv5_urel
+/epoc32/release/armv5/urel/telnetd.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/timezonelocalization.dll	build	armv5_urel
+/epoc32/release/armv5/urel/timezonelocalization.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tzclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tzclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tzserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tzserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/tzswiobserverplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tzswiobserverplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/unitconverterrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/unitconverterrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/unzip.exe	build	armv5_urel
+/epoc32/release/armv5/urel/unzip.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/vibraactionplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vibraactionplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/viewcli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/viewcli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/viewsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/viewsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/weburlrec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/weburlrec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/z/private/100059c9/script0.txt	export	
+/epoc32/release/armv5/urel/z/private/100059c9/script1.txt	export	
+/epoc32/release/armv5/urel/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/armv5/urel/zip.exe	build	armv5_urel
+/epoc32/release/armv5/urel/zip.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/zsh.exe	build	armv5_urel
+/epoc32/release/armv5/urel/zsh.exe.map	build	armv5_urel
+/epoc32/release/thumb/udeb/z/private/100059c9/script0.txt	export	
+/epoc32/release/thumb/udeb/z/private/100059c9/script1.txt	export	
+/epoc32/release/thumb/udeb/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/thumb/urel/z/private/100059c9/script0.txt	export	
+/epoc32/release/thumb/urel/z/private/100059c9/script1.txt	export	
+/epoc32/release/thumb/urel/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/winscw/udeb/CpPsmPluginLauncher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevicePowerMenuPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevicePowerMenuPlugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/Z/private/10282BC4/Settings/10282C74/10282C74.xml	export	
+/epoc32/release/winscw/udeb/Z/private/10282BC4/Settings/10282DF0/10282DF0.xml	export	
+/epoc32/release/winscw/udeb/Z/private/10282bc4/rules/autorotateui_activate.rul	export	
+/epoc32/release/winscw/udeb/Z/private/10282bc4/rules/autorotateui_alwaysinportrait.rul	export	
+/epoc32/release/winscw/udeb/Z/private/10282bc4/rules/autorotateui_init.rul	export	
+/epoc32/release/winscw/udeb/Z/private/10282bc4/rules/autorotateui_rotate.rul	export	
+/epoc32/release/winscw/udeb/Z/private/10282bc4/rules/keyevent.rul	export	
+/epoc32/release/winscw/udeb/Z/private/10282bc4/rules/keyincall.rul	export	
+/epoc32/release/winscw/udeb/Z/private/10282bc4/rules/keyinfmtx.rul	export	
+/epoc32/release/winscw/udeb/accfwuinotifier.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/accindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/accindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/accindicatorsettings.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/advancedtspcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/airfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmshared.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alarmshared.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/amastart.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/amastart.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/amastarter.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/amastarter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/apfile.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apfile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/apgrfx.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apgrfx.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/aplist.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aplist.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/apparc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apparc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/applicationstatesourceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apserv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apserv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/apsexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/apstart.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apstart.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/atcmdplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/backuprestorenotification.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/backuprestorenotification.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/basicoperationsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bsutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/callstatesourceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cenrepsourceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/certrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfactivatorengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfactivatorengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfcontextsourcemanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfcontextsourcemanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfcontextsourcesettingsmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfcontextsourcesettingsmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfoperationpluginservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfoperationpluginservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfscriptengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfscriptengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cfservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/chtmltocrtconverter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/clockrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/conarc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/conarc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/copydatafile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppsmplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cppsmplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/datastorerfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dbrecovery.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dbrecovery.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/defaultfolderrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/displaysourceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dscstore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dscstore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/find.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/formatterrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/grep.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/gsserverenginestub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gsserverenginestub.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hwrmuiplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/keyeventfw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/keyeventfw.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/keypublisherplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/loadamastart.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/loadamastart.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmkeybearer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/msgcentrerfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nitzrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nspswsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/oodmonitor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/oodmonitor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/oommonitor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/oommonitor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/prev.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/prev.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/print.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/print.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ps.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/psmindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/psmindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/psstatesourceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/recbmark.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/recwap.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/recweb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfscustcmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfscustcmd.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfsdisplaycontrastplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/rt2htmcv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sanimctrl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sanimctrl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sanimengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sanimengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sanimihlplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sanimmmfplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sanimsvgplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/secureformatter.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sensordatacompensatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sensordatacompensatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sensorsourceplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/serviceregistry.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/serviceregistry.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/siprfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/splashscreen.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/starterrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/startup.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/startupmediatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syncmlrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sysap.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/syserrcmd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syserrcmd.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/telephonyrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/telnetd.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/timezonelocalization.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/timezonelocalization.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tzclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tzclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tzserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/tzswiobserverplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/unitconverterrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/unzip.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/vibraactionplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/viewcli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/viewcli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/viewsrv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/viewsrv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/weburlrec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/10206a8b.spd	export	
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/2000836d.spd	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/eshell_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/splashscreen_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/startup_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/sysap_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/accindicatorsettings_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/cppsmpluginlauncher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100058f4/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/100059c9/script0.txt	export	
+/epoc32/release/winscw/udeb/z/private/100059c9/script1.txt	export	
+/epoc32/release/winscw/udeb/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/winscw/udeb/z/private/101f5027/alarmserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f5027/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/1020383e.txt	export	
+/epoc32/release/winscw/udeb/z/private/1020383E/timezone_upgrade.sis	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/1020383e/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/1020383e/tzdb.dbz	export	
+/epoc32/release/winscw/udeb/z/private/10205ea6/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10207218/oomconfig.xml	export	
+/epoc32/release/winscw/udeb/z/private/10282bc4/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10282bc4/rules/sensordatacompensationdevice.rul	export	
+/epoc32/release/winscw/udeb/z/private/10282bc4/rules/sensordatacompensationui.rul	export	
+/epoc32/release/winscw/udeb/z/private/10282bc4/settings/10282f41/10282f41.xml	export	
+/epoc32/release/winscw/udeb/z/resource/accfwnoteuinotifier.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/accfwnoteuinotifier.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aknkeyeventmap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/accindicatorsettings.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/atcmdpluginresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/cppsmpluginlauncher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/gssenplugin.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/qgn_startup_screen.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/qgn_sysap_screen.svg	export	
+/epoc32/release/winscw/udeb/z/resource/apps/startup.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/startup.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/startup.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/sysap.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/sysap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/convert/1000071c.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/convert/1000a90e.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/convert/chtmltocrtconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/lafmemorywatcher.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/lafmemorywatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/outofdiskmonitor.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/outofdiskmonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/accfwuinotifier.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/advancedtspcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/airfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/applicationstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/atcmdplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/basicoperationsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/callstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cenrepsourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/certrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/chtmltocrtconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/clockrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/datastorerfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/defaultfolderrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/displaysourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/formatterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hwrmuiplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmkeybearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/msgcentrerfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nitzrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/psstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recbmark.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recwap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recweb.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rfsdisplaycontrastplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rt2htmcv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sanimihlplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sanimmmfplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sanimsvgplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sensorsourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/siprfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/starterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/startupmediatorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/syncmlrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/telephonyrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tzswiobserverplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/unitconverterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/vibraactionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/weburlrec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/rfs.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/rfs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups.r02	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezonegroups.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones.r02	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/timezonelocalization/timezones.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/system/install/timezone_stub.sis	build	winscw_udeb
+/epoc32/release/winscw/udeb/zip.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/zsh.exe	build	winscw_udeb
+/epoc32/release/winscw/urel/CpPsmPluginLauncher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/CpPsmPluginLauncher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevicePowerMenuPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevicePowerMenuPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/Z/private/10282BC4/Settings/10282C74/10282C74.xml	export	
+/epoc32/release/winscw/urel/Z/private/10282BC4/Settings/10282DF0/10282DF0.xml	export	
+/epoc32/release/winscw/urel/Z/private/10282bc4/rules/autorotateui_activate.rul	export	
+/epoc32/release/winscw/urel/Z/private/10282bc4/rules/autorotateui_alwaysinportrait.rul	export	
+/epoc32/release/winscw/urel/Z/private/10282bc4/rules/autorotateui_init.rul	export	
+/epoc32/release/winscw/urel/Z/private/10282bc4/rules/autorotateui_rotate.rul	export	
+/epoc32/release/winscw/urel/Z/private/10282bc4/rules/keyevent.rul	export	
+/epoc32/release/winscw/urel/Z/private/10282bc4/rules/keyincall.rul	export	
+/epoc32/release/winscw/urel/Z/private/10282bc4/rules/keyinfmtx.rul	export	
+/epoc32/release/winscw/urel/accfwuinotifier.dll	build	winscw_urel
+/epoc32/release/winscw/urel/accfwuinotifier.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/accindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/accindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/accindicatorsettings.exe	build	winscw_urel
+/epoc32/release/winscw/urel/accindicatorsettings.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/advancedtspcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/advancedtspcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/airfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/airfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alarmclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alarmclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alarmserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/alarmserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/alarmshared.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alarmshared.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/amastart.dll	build	winscw_urel
+/epoc32/release/winscw/urel/amastart.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/amastarter.exe	build	winscw_urel
+/epoc32/release/winscw/urel/amastarter.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/apfile.dll	build	winscw_urel
+/epoc32/release/winscw/urel/apfile.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/apgrfx.dll	build	winscw_urel
+/epoc32/release/winscw/urel/apgrfx.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aplist.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aplist.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/apparc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/apparc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/applicationstatesourceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/applicationstatesourceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/apserv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/apserv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/apsexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/apsexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/apstart.dll	build	winscw_urel
+/epoc32/release/winscw/urel/apstart.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atcmdplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atcmdplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/backuprestorenotification.dll	build	winscw_urel
+/epoc32/release/winscw/urel/backuprestorenotification.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/basicoperationsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/basicoperationsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bsutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bsutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/callstatesourceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/callstatesourceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cenrepsourceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cenrepsourceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/certrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/certrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfactivatorengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfactivatorengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfcontextsourcemanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfcontextsourcemanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfcontextsourcesettingsmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfcontextsourcesettingsmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfoperationpluginservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfoperationpluginservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfscriptengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfscriptengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cfserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cfservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/chtmltocrtconverter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/chtmltocrtconverter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/clockrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/clockrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/conarc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/conarc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/copydatafile.lib	build	winscw_urel
+/epoc32/release/winscw/urel/cppsmplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cppsmplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/datastorerfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/datastorerfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dbrecovery.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dbrecovery.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/defaultfolderrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/defaultfolderrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/displaysourceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/displaysourceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dscstore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dscstore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/find.exe	build	winscw_urel
+/epoc32/release/winscw/urel/find.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/formatterrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/formatterrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/grep.exe	build	winscw_urel
+/epoc32/release/winscw/urel/grep.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/gsserverenginestub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gsserverenginestub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hwrmuiplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hwrmuiplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/keyeventfw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/keyeventfw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/keypublisherplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/keypublisherplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/loadamastart.dll	build	winscw_urel
+/epoc32/release/winscw/urel/loadamastart.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmkeybearer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmkeybearer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/msgcentrerfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/msgcentrerfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nitzrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nitzrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nspswsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nspswsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/oodmonitor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/oodmonitor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/oommonitor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/oommonitor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/prev.dll	build	winscw_urel
+/epoc32/release/winscw/urel/prev.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/print.dll	build	winscw_urel
+/epoc32/release/winscw/urel/print.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ps.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ps.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/psmindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/psmindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/psstatesourceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/psstatesourceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recbmark.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recbmark.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recwap.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recwap.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recweb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recweb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rfs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rfs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rfscustcmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rfscustcmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rfsdisplaycontrastplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rfsdisplaycontrastplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rfsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/rfsserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/rt2htmcv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rt2htmcv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sanimctrl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sanimctrl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sanimengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sanimengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sanimihlplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sanimihlplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sanimmmfplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sanimmmfplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sanimsvgplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sanimsvgplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/secureformatter.exe	build	winscw_urel
+/epoc32/release/winscw/urel/secureformatter.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sensordatacompensatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sensordatacompensatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sensorsourceplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sensorsourceplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/serviceregistry.dll	build	winscw_urel
+/epoc32/release/winscw/urel/serviceregistry.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/siprfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/siprfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/splashscreen.exe	build	winscw_urel
+/epoc32/release/winscw/urel/splashscreen.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/starterrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/starterrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/startup.exe	build	winscw_urel
+/epoc32/release/winscw/urel/startup.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/startupmediatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/startupmediatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/syncmlrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syncmlrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sysap.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sysap.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/syserrcmd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syserrcmd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/telephonyrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/telephonyrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/telnetd.exe	build	winscw_urel
+/epoc32/release/winscw/urel/telnetd.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/timezonelocalization.dll	build	winscw_urel
+/epoc32/release/winscw/urel/timezonelocalization.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tzclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tzclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tzserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tzserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/tzswiobserverplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tzswiobserverplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/unitconverterrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/unitconverterrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/unzip.exe	build	winscw_urel
+/epoc32/release/winscw/urel/unzip.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/vibraactionplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vibraactionplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/viewcli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/viewcli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/viewsrv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/viewsrv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/weburlrec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/weburlrec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/100012a5/policy/10206a8b.spd	export	
+/epoc32/release/winscw/urel/z/private/100012a5/policy/2000836d.spd	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/eshell_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/splashscreen_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/startup_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/sysap_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/accindicatorsettings_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/cppsmpluginlauncher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/100058f4/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/100059c9/script0.txt	export	
+/epoc32/release/winscw/urel/z/private/100059c9/script1.txt	export	
+/epoc32/release/winscw/urel/z/private/100059c9/scriptinit.txt	export	
+/epoc32/release/winscw/urel/z/private/101f5027/alarmserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/101f5027/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10202be9/1020383e.txt	export	
+/epoc32/release/winscw/urel/z/private/1020383E/timezone_upgrade.sis	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/1020383e/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/1020383e/tzdb.dbz	export	
+/epoc32/release/winscw/urel/z/private/10205ea6/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10207218/oomconfig.xml	export	
+/epoc32/release/winscw/urel/z/private/10282bc4/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10282bc4/rules/sensordatacompensationdevice.rul	export	
+/epoc32/release/winscw/urel/z/private/10282bc4/rules/sensordatacompensationui.rul	export	
+/epoc32/release/winscw/urel/z/private/10282bc4/settings/10282f41/10282f41.xml	export	
+/epoc32/release/winscw/urel/z/resource/accfwnoteuinotifier.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/accfwnoteuinotifier.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aknkeyeventmap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/accindicatorsettings.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/atcmdpluginresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/cppsmpluginlauncher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/gssenplugin.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/qgn_startup_screen.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/qgn_sysap_screen.svg	export	
+/epoc32/release/winscw/urel/z/resource/apps/startup.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/startup.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/startup.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/sysap.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/sysap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/convert/1000071c.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/convert/1000a90e.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/convert/chtmltocrtconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/lafmemorywatcher.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/lafmemorywatcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/outofdiskmonitor.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/outofdiskmonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/accfwuinotifier.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/advancedtspcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/airfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/applicationstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/atcmdplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/basicoperationsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/callstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cenrepsourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/certrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/chtmltocrtconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/clockrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/datastorerfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/defaultfolderrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/displaysourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/formatterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hwrmuiplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmkeybearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/msgcentrerfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nitzrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/psstatesourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recbmark.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recwap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recweb.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rfsdisplaycontrastplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/rt2htmcv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sanimihlplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sanimmmfplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sanimsvgplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sensorsourceplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/siprfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/starterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/startupmediatorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/syncmlrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/telephonyrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tzswiobserverplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/unitconverterrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/vibraactionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/weburlrec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/rfs.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/rfs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups.r02	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezonegroups.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones.r02	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/timezonelocalization/timezones.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/system/install/timezone_stub.sis	build	winscw_urel
+/epoc32/release/winscw/urel/zip.exe	build	winscw_urel
+/epoc32/release/winscw/urel/zip.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/zsh.exe	build	winscw_urel
+/epoc32/release/winscw/urel/zsh.exe.map	build	winscw_urel
+/epoc32/rom/config/assets/s60/confml/airfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/certrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/clockrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/contextframework.confml	export	
+/epoc32/rom/config/assets/s60/confml/coreapplicationuis.confml	export	
+/epoc32/rom/config/assets/s60/confml/datastoreplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/defaultfolderrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/gsaccessoriesplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/nitzrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/sensorplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/siprfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/starterrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/startup.confml	export	
+/epoc32/rom/config/assets/s60/confml/syncmlrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/telephonyrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/udaformatrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/uiklaf.confml	export	
+/epoc32/rom/config/assets/s60/confml/unitconverterrfsplugin.confml	export	
+/epoc32/rom/config/assets/s60/implml/airfsplugin_2000F86E.crml	export	
+/epoc32/rom/config/assets/s60/implml/certrfsplugin_2000F8EB.crml	export	
+/epoc32/rom/config/assets/s60/implml/clockrfsplugin_2000F8EC.crml	export	
+/epoc32/rom/config/assets/s60/implml/contextframework_10282BCC.crml	export	
+/epoc32/rom/config/assets/s60/implml/contextframework_10282BCD.crml	export	
+/epoc32/rom/config/assets/s60/implml/contextframework_10282BCE.crml	export	
+/epoc32/rom/config/assets/s60/implml/contextframework_2000B195.crml	export	
+/epoc32/rom/config/assets/s60/implml/contextframework_2000CFD9.crml	export	
+/epoc32/rom/config/assets/s60/implml/contextframework_200159ED.crml	export	
+/epoc32/rom/config/assets/s60/implml/coreapplicationuis_101F8764.crml	export	
+/epoc32/rom/config/assets/s60/implml/coreapplicationuis_101F8765.crml	export	
+/epoc32/rom/config/assets/s60/implml/coreapplicationuis_101F876C.crml	export	
+/epoc32/rom/config/assets/s60/implml/datastoreplugin_2000F8ED.crml	export	
+/epoc32/rom/config/assets/s60/implml/defaultfolderrfsplugin_2000F8EE.crml	export	
+/epoc32/rom/config/assets/s60/implml/gsaccessoriesplugin_101F8779.crml	export	
+/epoc32/rom/config/assets/s60/implml/gsaccessoriesplugin_101F877D.crml	export	
+/epoc32/rom/config/assets/s60/implml/gsaccessoriesplugin_10207194.crml	export	
+/epoc32/rom/config/assets/s60/implml/gsaccessoriesplugin_1020730B.crml	export	
+/epoc32/rom/config/assets/s60/implml/nitzrfsplugin_2000F8F0.crml	export	
+/epoc32/rom/config/assets/s60/implml/sensorplugin_10282DF0.crml	export	
+/epoc32/rom/config/assets/s60/implml/siprfsplugin_200195A2.crml	export	
+/epoc32/rom/config/assets/s60/implml/starterrfsplugin_2000F8F1.crml	export	
+/epoc32/rom/config/assets/s60/implml/startup_101F8763.crml	export	
+/epoc32/rom/config/assets/s60/implml/syncmlrfsplugin_2000F8F2.crml	export	
+/epoc32/rom/config/assets/s60/implml/telephonyrfsplugin_2000F8F3.crml	export	
+/epoc32/rom/config/assets/s60/implml/udaformatrfsplugin_2000f8f4.crml	export	
+/epoc32/rom/config/assets/s60/implml/uiklaf_101F8774.crml	export	
+/epoc32/rom/config/assets/s60/implml/unitconverterrfsplugin_2000F8EA.crml	export	
+/epoc32/rom/config/assets/symbianos/confml/apparchitecture.confml	export	
+/epoc32/rom/config/assets/symbianos/confml/apparchitecture_closedcontentextinfo.confml	export	
+/epoc32/rom/config/assets/symbianos/confml/timezoneserver.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/apparchitecture_1028583d.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/apparchitecture_closedcontentextinfo_10003a3f.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/timezoneserver_1020383e.crml	export	
+/epoc32/rom/include/amastart.iby	export	
+/epoc32/rom/include/aplp.iby	export	
+/epoc32/rom/include/apparc.iby	export	
+/epoc32/rom/include/backuprestorenotification.iby	export	
+/epoc32/rom/include/chtmltocrtconverter.iby	export	
+/epoc32/rom/include/conarc.iby	export	
+/epoc32/rom/include/core/mw/ApplicationStateSourcePlugInHW.iby	export	
+/epoc32/rom/include/core/mw/CallStateSourcePlugIn.iby	export	
+/epoc32/rom/include/core/mw/CenRepSourcePlugIn.iby	export	
+/epoc32/rom/include/core/mw/ContextFramework.iby	export	
+/epoc32/rom/include/core/mw/GSServerEngine.iby	export	
+/epoc32/rom/include/core/mw/KeyEventFw.iby	export	
+/epoc32/rom/include/core/mw/KeyEventFwResources.iby	export	
+/epoc32/rom/include/core/mw/KeyPublisherPlugin.iby	export	
+/epoc32/rom/include/core/mw/MMKeyBearer.iby	export	
+/epoc32/rom/include/core/mw/RFSPlugins.iby	export	
+/epoc32/rom/include/core/mw/SensorSourcePlugin.iby	export	
+/epoc32/rom/include/core/mw/SysAp.iby	export	
+/epoc32/rom/include/core/mw/accfwuinotifier.iby	export	
+/epoc32/rom/include/core/mw/accindicatorplugin.iby	export	
+/epoc32/rom/include/core/mw/accindicatorsettings.iby	export	
+/epoc32/rom/include/core/mw/advancedtspcontroller.iby	export	
+/epoc32/rom/include/core/mw/alarmserver.iby	export	
+/epoc32/rom/include/core/mw/atcmdplugin.iby	export	
+/epoc32/rom/include/core/mw/cppsmplugin.iby	export	
+/epoc32/rom/include/core/mw/dbrecovery.iby	export	
+/epoc32/rom/include/core/mw/devicepowermenuplugin.iby	export	
+/epoc32/rom/include/core/mw/displaysourceplugin.iby	export	
+/epoc32/rom/include/core/mw/hwrmuiplugin.iby	export	
+/epoc32/rom/include/core/mw/oodmonitor.iby	export	
+/epoc32/rom/include/core/mw/oommonitor.iby	export	
+/epoc32/rom/include/core/mw/pluginlauncher.iby	export	
+/epoc32/rom/include/core/mw/powersaveutilities.iby	export	
+/epoc32/rom/include/core/mw/print.iby	export	
+/epoc32/rom/include/core/mw/psmindicatorplugin.iby	export	
+/epoc32/rom/include/core/mw/psstatesourceplugin.iby	export	
+/epoc32/rom/include/core/mw/rfs.iby	export	
+/epoc32/rom/include/core/mw/richtexttohtmlconv.iby	export	
+/epoc32/rom/include/core/mw/sensordatacompensatorplugin.iby	export	
+/epoc32/rom/include/core/mw/splashscreen.iby	export	
+/epoc32/rom/include/core/mw/startup.iby	export	
+/epoc32/rom/include/core/mw/startupanimation.iby	export	
+/epoc32/rom/include/core/mw/vibraactionplugin.iby	export	
+/epoc32/rom/include/customer/mw/SysAp_variant.iby	export	
+/epoc32/rom/include/customer/mw/VariatedSettings_variant.iby	export	
+/epoc32/rom/include/customer/mw/rfs_variant.iby	export	
+/epoc32/rom/include/customer/mw/splashscreen_variant.iby	export	
+/epoc32/rom/include/customer/mw/startup_variant.iby	export	
+/epoc32/rom/include/hwrmuiplugin.iby	export	
+/epoc32/rom/include/language/app/cppsmplugin_resources.iby	export	
+/epoc32/rom/include/language/app/devicepowermenu_resources.iby	export	
+/epoc32/rom/include/language/mw/SysApResources.iby	export	
+/epoc32/rom/include/language/mw/accfwuinotifierresources.iby	export	
+/epoc32/rom/include/language/mw/oodmonitorresources.iby	export	
+/epoc32/rom/include/language/mw/rfsResources.iby	export	
+/epoc32/rom/include/language/mw/startupresources.iby	export	
+/epoc32/rom/include/recognisers.iby	export	
+/epoc32/rom/include/richtexttohtmlconv.iby	export	
+/epoc32/rom/include/telnetd.iby	export	
+/epoc32/rom/include/timezonelocalization.iby	export	
+/epoc32/rom/include/timezoneserver.iby	export	
+/epoc32/rom/include/tzlocalizationrscfactory.iby	export	
+/epoc32/rom/include/zsh.iby	export	
+/epoc32/tools/epoccnf.pl	export	
+/epoc32/tools/tz/data/africa	export	
+/epoc32/tools/tz/data/antarctica	export	
+/epoc32/tools/tz/data/asia	export	
+/epoc32/tools/tz/data/australasia	export	
+/epoc32/tools/tz/data/backward	export	
+/epoc32/tools/tz/data/etcetera	export	
+/epoc32/tools/tz/data/europe	export	
+/epoc32/tools/tz/data/factory	export	
+/epoc32/tools/tz/data/iso3166.tab	export	
+/epoc32/tools/tz/data/leapseconds	export	
+/epoc32/tools/tz/data/northamerica	export	
+/epoc32/tools/tz/data/pacificnew	export	
+/epoc32/tools/tz/data/solar87	export	
+/epoc32/tools/tz/data/solar88	export	
+/epoc32/tools/tz/data/solar89	export	
+/epoc32/tools/tz/data/southamerica	export	
+/epoc32/tools/tz/data/systemv	export	
+/epoc32/tools/tz/data/yearistype.sh	export	
+/epoc32/tools/tz/data/zone.tab	export	
+/epoc32/tools/tz/sgl.gt0197.232 app-services tz  9.1 how-to create the tz database.doc	export	
+/epoc32/tools/tz/tzcompiler.exe	export	
+/epoc32/tools/tz/tzcompiler.ini	export	
+/epoc32/tools/tz/tzdb.dbz	export	
+/epoc32/tools/tz/tzidentities.ini	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/cppsmplugin.qtplugin	export	
+/epoc32/winscw/c/zsh/dummy.txt	export	
+/sf/mw/appsupport/coreapplicationuis/inc/bsutil.h	export	
+/sf/mw/appsupport/coreapplicationuis/inc/coreapplicationuisprivatecrkeys.h	export	
+/sf/mw/appsupport/coreapplicationuis/inc/coreapplicationuisprivatepskeys.h	export	
+/sf/mw/appsupport/coreapplicationuis/inc/nspswsplugindllstd.h	export	
+/sf/mw/appsupport/inc/coreapplicationuisinternalpskeys.h	export	
+/sf/mw/appsupport/inc/coreapplicationuisprivatepskeys.h	export	
+/sf/mw/appsupport/inc/sanimctrl.h	export	
+/sf/mw/appsupport/inc/sanimengine.h	export	
+/sf/mw/appsupport/inc/sanimobserver.h	export	
+/sf/mw/appsupport/inc/sanimstartupctrl.h	export	
+/sf/mw/appsupport/inc/startupappinternalpskeys.h	export	
+/sf/mw/appsupport/startupservices/inc/startupappprivatepskeys.h	export	

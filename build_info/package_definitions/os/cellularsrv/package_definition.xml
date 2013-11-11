@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="cellularsrv" level="services" levels="adaptation hw-if plugin framework server app-if" long-name="Cellular Baseband Services">
+<collection name="basebandabstraction" long-name="Baseband Abstraction" level="hw-if">
+<component name="basebandchanneladaptor" long-name="Baseband Channel Adaptor" introduced="8.1" purpose="optional">
+<unit bldFile="/sf/os/cellularsrv/basebandabstraction/basebandchanneladaptor/group" mrp="/sf/os/cellularsrv/basebandabstraction/basebandchanneladaptor/group/networking_bca.mrp"/>
+</component>
+</collection>
+<collection name="basebandadaptationplugins" long-name="Baseband Adaptation Plugins" level="adaptation">
+<component name="basebandchanneladaptorforc32" long-name="Baseband Channel Adaptor for C32" introduced="8.1" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/basebandadaptationplugins/basebandchanneladaptorforc32/group" mrp="/sf/os/cellularsrv/basebandadaptationplugins/basebandchanneladaptorforc32/group/networking_c32bca.mrp"/>
+</component>
+</collection>
+<collection name="smsprotocols" long-name="SMS Protocols" level="framework">
+<component name="smsstack" long-name="SMS Stack" introduced="6.0" purpose="mandatory" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/smsprotocols/smsstack/group" mrp="/sf/os/cellularsrv/smsprotocols/smsstack/group/nbprotocols_smsstackv2.mrp"/>
+</component>
+</collection>
+<collection name="telephonyprotocols" long-name="Telephony Protocols" level="framework">
+<component name="csdagt" long-name="CSD AGT" introduced="6.1" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/csdagt/group" mrp="/sf/os/cellularsrv/telephonyprotocols/csdagt/group/networking_csdagt.mrp"/>
+</component>
+<component name="psdagt" long-name="PSD AGT" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/psdagt/group" mrp="/sf/os/cellularsrv/telephonyprotocols/psdagt/group/networking_psdagt.mrp"/>
+</component>
+<component name="gprsumtsqosprt" long-name="GPRS/UMTS QoS PRT" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/gprsumtsqosprt/group" mrp="/sf/os/cellularsrv/telephonyprotocols/gprsumtsqosprt/group/networking_guqos.mrp"/>
+</component>
+<component name="gprsumtsqosinterface" long-name="GPRS/UMTS QoS Interface" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/gprsumtsqosinterface/group" mrp="/sf/os/cellularsrv/telephonyprotocols/gprsumtsqosinterface/group/networking_umtsif.mrp"/>
+</component>
+<component name="qosextnapi" long-name="QoS Extn API" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/qosextnapi/group" mrp="/sf/os/cellularsrv/telephonyprotocols/qosextnapi/group/networking_qosextnapi.mrp"/>
+</component>
+<component name="qos3gppcpr" long-name="QoS 3GPP CPR" introduced="9.2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/qos3gppcpr/group" mrp="/sf/os/cellularsrv/telephonyprotocols/qos3gppcpr/group/networking_Qos3GPP.mrp"/>
+</component>
+<component name="pdplayer" long-name="PDP Layer" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/pdplayer/group" mrp="/sf/os/cellularsrv/telephonyprotocols/pdplayer/group/networking_pdp.mrp"/>
+</component>
+<component name="rawipnif" long-name="Raw IP NIF" introduced="8.1" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyprotocols/rawipnif/group" mrp="/sf/os/cellularsrv/telephonyprotocols/rawipnif/group/networking_rawipnif.mrp"/>
+</component>
+</collection>
+<collection name="telephonyserver" long-name="Telephony Server" level="server">
+<component name="etelserverandcore" long-name="ETel Server and Core" purpose="mandatory">
+<unit bldFile="/sf/os/cellularsrv/telephonyserver/etelserverandcore/group" mrp="/sf/os/cellularsrv/telephonyserver/etelserverandcore/group/telephony_etel.mrp"/>
+</component>
+<component name="etelmultimode" long-name="ETel Multimode" introduced="7.0" purpose="mandatory">
+<unit bldFile="/sf/os/cellularsrv/telephonyserver/etelmultimode/group" mrp="/sf/os/cellularsrv/telephonyserver/etelmultimode/group/telephony_etelmm.mrp"/>
+</component>
+<component name="etelpacketdata" long-name="ETel Packet Data" introduced="7.0" purpose="mandatory">
+<unit bldFile="/sf/os/cellularsrv/telephonyserver/etelpacketdata/group" mrp="/sf/os/cellularsrv/telephonyserver/etelpacketdata/group/telephony_etelpckt.mrp"/>
+</component>
+<component name="etelsimtoolkit" long-name="ETel SIM Toolkit" introduced="6.1" purpose="mandatory">
+<unit bldFile="/sf/os/cellularsrv/telephonyserver/etelsimtoolkit/group" mrp="/sf/os/cellularsrv/telephonyserver/etelsimtoolkit/group/telephony_etelsat.mrp"/>
+</component>
+</collection>
+<collection name="telephonyserverplugins" long-name="Telephony Server Plugins" level="plugin">
+<component name="common_tsy" long-name="Common TSY" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyserverplugins/common_tsy/group" mrp="/sf/os/cellularsrv/telephonyserverplugins/common_tsy/group/telephony_commontsy.mrp"/>
+</component>
+<component name="licenseetsystub" long-name="Licensee TSY Stub" introduced="^2" filter="sf_build" purpose="development" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyserverplugins/licenseetsystub/group" mrp="/sf/os/cellularsrv/telephonyserverplugins/licenseetsystub/group/licenseetsystub.mrp"/>
+</component>
+<component name="multimodetsy" long-name="Multimode TSY" purpose="development" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyserverplugins/multimodetsy/group" mrp="/sf/os/cellularsrv/telephonyserverplugins/multimodetsy/group/telephony_mmtsy.mrp"/>
+</component>
+<component name="ctsydispatchlayer" long-name="C-TSY Dispatch Layer" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyserverplugins/ctsydispatchlayer/group" mrp="/sf/os/cellularsrv/telephonyserverplugins/ctsydispatchlayer/group/telephony_dispatcher.mrp"/>
+</component>
+<component name="simatktsy" long-name="SIMATK TSY" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyserverplugins/simatktsy/group" mrp="/sf/os/cellularsrv/telephonyserverplugins/simatktsy/group/commonsimatktsy.mrp"/>
+</component>
+</collection>
+<collection name="telephonyutils" long-name="Telephony Utilities" level="app-if">
+<component name="dial" long-name="Dial" deprecated="9.1" purpose="optional">
+<unit bldFile="/sf/os/cellularsrv/telephonyutils/dial/group" mrp="/sf/os/cellularsrv/telephonyutils/dial/group/telephony_dial.mrp"/>
+</component>
+<component name="telephonywatchers" long-name="Telephony Watchers" introduced="6.0" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/telephonyutils/telephonywatchers/group" mrp="/sf/os/cellularsrv/telephonyutils/telephonywatchers/group/telephony_watchers.mrp"/>
+</component>
+<component name="etel3rdpartyapi" long-name="ETel 3rd Party API" introduced="7.0" purpose="mandatory">
+<unit bldFile="/sf/os/cellularsrv/telephonyutils/etel3rdpartyapi/Group" mrp="/sf/os/cellularsrv/telephonyutils/etel3rdpartyapi/Group/telephony_etel3rdparty.mrp"/>
+</component>
+</collection>
+<collection name="cellularsrv_info" long-name="Cellular Baseband Services Info" level="app-if">
+<component name="telephonyconfidentialdocs" long-name="Telephony Confidential Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/cellularsrv/cellularsrv_info/telephonyconfidentialdocs/telephony_confidential.mrp"/>
+</component>
+<component name="telephonydocs" long-name="Telephony Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/cellularsrv/cellularsrv_info/telephonydocs/telephony_documentation.mrp"/>
+</component>
+<component name="cellularsrv_metadata" long-name="Cellular Baseband Services Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/cellularsrv/cellularsrv_info/cellularsrv_metadata/cellularsrv_metadata.mrp"/>
+</component>
+</collection>
+<collection name="hwpluginsimulation" long-name="Hardware Plugin Simulation" level="adaptation">
+<component name="mocksy" long-name="MockSY" introduced="^2" purpose="development" plugin="Y">
+<unit bldFile="/sf/os/cellularsrv/hwpluginsimulation/mocksy/group" mrp="/sf/os/cellularsrv/hwpluginsimulation/mocksy/group/telephony_tools_mocksy.mrp"/>
+</component>
+</collection>
+<collection name="cellularsrvapitest" long-name="Telephony API Tests" level="app-if"/>
+<collection name="cbsref" long-name="CBS Reference" level="plugin"/>
+<collection name="wapstack" long-name="WAP Stack" level="plugin">
+<component name="wapmessageapi" long-name="WAP Message API" purpose="optional">
+<unit bldFile="/sf/os/cellularsrv/wapstack/wapmessageapi/group" mrp="/sf/os/cellularsrv/wapstack/wapmessageapi/group/wap-stack_wapmessage.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

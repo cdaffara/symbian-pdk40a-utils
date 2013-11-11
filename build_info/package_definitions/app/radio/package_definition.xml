@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="radio" level="apps" levels="engine plugin ui" long-name="Radio Apps">
+<collection name="radioengine" long-name="Radio Engine" level="engine">
+<component name="radioengineutils" long-name="Radio Engine Utils" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioengine/utils/group"/>
+</component>
+<component name="radioenginesettings" long-name="Radio Engine Settings" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioengine/settings/group"/>
+</component>
+<component name="radioengine_engine" long-name="Radio Engine" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioengine/engine/group"/>
+</component>
+</collection>
+<collection name="radioapp" long-name="Radio App" level="ui">
+<component name="radioenginewrapper" long-name="Radio Engine Wrapper" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioapp/radioenginewrapper" proFile="radioenginewrapper.pro"/>
+</component>
+<component name="radiopresetstorage" long-name="Radio Preset Storage" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioapp/radiopresetstorage" proFile="radiopresetstorage.pro"/>
+</component>
+<component name="radiouiengine" long-name="Radio UI Engine" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioapp/radiouiengine" proFile="radiouiengine.pro"/>
+</component>
+<component name="radiowidgets" long-name="Radio Widgets" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioapp/radiowidgets" proFile="radiowidgets.pro"/>
+</component>
+<component name="radioapplication" long-name="Radio Application" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radioapp/radioapplication" proFile="radioapplication.pro"/>
+</component>
+<component name="radiowidgetsplugin" long-name="Radio Widgets Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/radio/radioapp/radiowidgetsplugin" proFile="radiowidgetsplugin.pro"/>
+</component>
+<component name="radio_rom" long-name="Radio ROM" introduced="^4" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/app/radio/rom"/>
+</component>
+</collection>
+<collection name="radiohswidget" long-name="Radio Homescreen Widget" level="plugin">
+<!-- collection is really a component. Move down a directory -->
+<component name="radiohswidget_build" long-name="Radio HS Widget Build" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/radio/radiohswidget" proFile="radiohswidget.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

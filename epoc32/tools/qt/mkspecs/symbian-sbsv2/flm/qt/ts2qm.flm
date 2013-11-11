@@ -1,0 +1,31 @@
+# /****************************************************************************
+# **
+# ** Copyright (C) 2009 Nokia Corporation and/or its subsidiary(-ies).
+# ** Contact: 
+# **
+# ****************************************************************************/
+
+# FLM to convert .ts to .qm
+
+LRELEASE:=$(EPOCROOT)/epoc32/tools/lrelease$(DOTEXE)
+TSFILE:=$(EPOCROOT)$(TSFILE)
+QMFILE:=$(EPOCROOT)$(QMFILE)
+
+define ts2qm
+$(QMFILE): $(TSFILE)
+	$(call startrule,ts2qm) \
+	$(LRELEASE) -silent -idbased $(TSFILE) -qm $(QMFILE) \
+	$(call endrule,ts2qm)
+endef
+ 
+# Here a variable named "done_<sanitised $QMFILE>" gets created
+GUARD:=done_$(call sanitise,$(QMFILE))
+# If variable "done_..." not set, set it to 1, so that
+# UREL and UDEB do not execute makesis twice on the same target
+ifeq ($($(GUARD)),)
+$(GUARD):=1
+ALL:: $(QMFILE)
+$(eval $(call ts2qm))
+$(eval $(call whatmacro,$(QMFILE)))
+$(eval $(call GenerateStandardCleanTarget,$(QMFILE),''))
+endif

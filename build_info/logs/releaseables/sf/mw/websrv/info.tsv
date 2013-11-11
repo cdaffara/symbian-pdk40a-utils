@@ -1,0 +1,445 @@
+/epoc32/data/z/private/10003a4a/sennotifierplugindlgimpl.r01	resource	armv5_urel
+/epoc32/data/z/private/10003a4a/sennotifierplugindlgimpl.r01	resource	winscw_udeb
+/epoc32/data/z/private/10003a4a/sennotifierplugindlgimpl.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a4a/sennotifierplugindlgimpl.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101F96F4/backup_registration.xml	export	
+/epoc32/data/z/resource/plugins/senhostlettransportplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senhostlettransportplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senhttpchanneltransport.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senhttpchanneltransport.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senidwsfplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senidwsfplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senidwsfsecmech.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senidwsfsecmech.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senlocaltransportplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senlocaltransportplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sennotifierplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sennotifierplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sennotifierplugin_reg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sennotifierplugin_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senpasswordtransforms.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senpasswordtransforms.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senrestplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senrestplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/senwsibasicplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/senwsibasicplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wsovi.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wsovi.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wsstarmessagehandlers.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wsstarmessagehandlers.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wsstarplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wsstarplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/S60SOA.SIS	export	
+/epoc32/include/mw/MSenAuthenticationProvider.h	export	
+/epoc32/include/mw/MSenConsumerPolicy.h	export	
+/epoc32/include/mw/MSenContentHandlerClient.h	export	
+/epoc32/include/mw/MSenElement.h	export	
+/epoc32/include/mw/MSenFragment.h	export	
+/epoc32/include/mw/MSenHostlet.h	export	
+/epoc32/include/mw/MSenHostletRequest.h	export	
+/epoc32/include/mw/MSenHostletResponse.h	export	
+/epoc32/include/mw/MSenIdentityProviderIdArray.h	export	
+/epoc32/include/mw/MSenMessage.h	export	
+/epoc32/include/mw/MSenProperties.h	export	
+/epoc32/include/mw/MSenProperty.h	export	
+/epoc32/include/mw/MSenProviderPolicy.h	export	
+/epoc32/include/mw/MSenServiceConsumer.h	export	
+/epoc32/include/mw/MSenServiceDescription.h	export	
+/epoc32/include/mw/MSenServicePolicy.h	export	
+/epoc32/include/mw/RSenDocument.h	export	
+/epoc32/include/mw/SenBaseAttribute.h	export	
+/epoc32/include/mw/SenBaseElement.h	export	
+/epoc32/include/mw/SenBaseFragment.h	export	
+/epoc32/include/mw/SenCredential.h	export	
+/epoc32/include/mw/SenCredential2.h	export	
+/epoc32/include/mw/SenDateUtils.h	export	
+/epoc32/include/mw/SenDomFragment.h	export	
+/epoc32/include/mw/SenDomFragmentBase.h	export	
+/epoc32/include/mw/SenElement.h	export	
+/epoc32/include/mw/SenFacet.h	export	
+/epoc32/include/mw/SenFragment.h	export	
+/epoc32/include/mw/SenFragmentBase.h	export	
+/epoc32/include/mw/SenHostletConnection.h	export	
+/epoc32/include/mw/SenHttpTransportProperties.h	export	
+/epoc32/include/mw/SenIdentityProvider.h	export	
+/epoc32/include/mw/SenIdentityProviderIdArray8.h	export	
+/epoc32/include/mw/SenNameSpace.h	export	
+/epoc32/include/mw/SenParser.h	export	
+/epoc32/include/mw/SenServiceConnection.h	export	
+/epoc32/include/mw/SenServiceManager.h	export	
+/epoc32/include/mw/SenServicePattern.h	export	
+/epoc32/include/mw/SenSoapConstants.h	export	
+/epoc32/include/mw/SenSoapEnvelope.h	export	
+/epoc32/include/mw/SenSoapEnvelope2.h	export	
+/epoc32/include/mw/SenSoapFault.h	export	
+/epoc32/include/mw/SenSoapFault2.h	export	
+/epoc32/include/mw/SenSoapMessage.h	export	
+/epoc32/include/mw/SenSoapMessage2.h	export	
+/epoc32/include/mw/SenTransportProperties.h	export	
+/epoc32/include/mw/SenWsSecurityHeader.h	export	
+/epoc32/include/mw/SenWsSecurityHeader2.h	export	
+/epoc32/include/mw/SenXmlConstants.h	export	
+/epoc32/include/mw/SenXmlElement.h	export	
+/epoc32/include/mw/SenXmlProperties.h	export	
+/epoc32/include/mw/SenXmlReader.h	export	
+/epoc32/include/mw/SenXmlServiceDescription.h	export	
+/epoc32/include/mw/SenXmlUtils.h	export	
+/epoc32/include/mw/msencobrandinginterface.h	export	
+/epoc32/include/mw/sencryptoutils.h	export	
+/epoc32/include/mw/senpointermap.h	export	
+/epoc32/include/mw/senserviceconnectioninterfaces.h	export	
+/epoc32/include/platform/mw/loc/sc/sennotplugindlgimpl.loc	export	
+/epoc32/include/sennotifierplugin_reg.rsg	resource	armv5_urel
+/epoc32/include/sennotifierplugin_reg.rsg	resource	winscw_udeb
+/epoc32/include/sennotifierplugindlgimpl.rsg	resource	armv5_urel
+/epoc32/include/sennotifierplugindlgimpl.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/SenCredentialManager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenCredentialManager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenCredentialManager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenCredentialManager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenFragment.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenFragment.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenFragment{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenFragment{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenFramework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenFramework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenFramework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenFramework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenHostConn.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenHostConn.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenHostConn{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenHostConn{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenIdentityManager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenIdentityManager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenIdentityManager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenIdentityManager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenLogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenLogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenLogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenLogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenMessages.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenMessages.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenMessages{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenMessages{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenProvider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenProvider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenProvider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenProvider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenServConn.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenServConn.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenServConn{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenServConn{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenServDesc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenServDesc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenServDesc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenServDesc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenServMgr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenServMgr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenServMgr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenServMgr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenUtils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenUtils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenUtils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenUtils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenXml.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenXml.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SenXml{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SenXml{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WSPolicy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WSPolicy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/WSPolicy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/WSPolicy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sennotdlg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sennotdlg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sennotdlg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sennotdlg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sennotifierplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sennotifierplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sennotifierplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sennotifierplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wsconnagent.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wsconnagent.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wsconnagent{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wsconnagent{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/SEN.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SEN.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenCredentialManager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenCredentialManager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenFragment.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenFragment.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenFramework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenFramework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenHostConn.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenHostConn.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenHostletTransportPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenHostletTransportPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenHttpChannelTransport.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenHttpChannelTransport.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenIDWSFplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenIDWSFplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenIdWsfSecMech.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenIdWsfSecMech.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenIdentityManager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenIdentityManager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenLocalTransportPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenLocalTransportPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenLogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenLogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenMessages.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenMessages.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenPasswordTransforms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenPasswordTransforms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenProvider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenProvider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenRestPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenRestPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenServConn.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenServConn.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenServDesc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenServDesc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenServMgr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenServMgr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenUtils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenUtils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenWsiBasicPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenWsiBasicPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenXml.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SenXml.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WSPolicy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WSPolicy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WSStarMessageHandlers.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WSStarMessageHandlers.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WSStarPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WSStarPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sennotdlg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sennotdlg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sennotifierplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sennotifierplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsconnagent.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsconnagent.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsovi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsovi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/SEN.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SEN.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenCredentialManager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenCredentialManager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenFragment.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenFragment.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenFramework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenFramework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenHostConn.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenHostConn.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenHostletTransportPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenHostletTransportPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenHttpChannelTransport.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenHttpChannelTransport.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenIDWSFplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenIDWSFplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenIdWsfSecMech.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenIdWsfSecMech.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenIdentityManager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenIdentityManager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenLocalTransportPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenLocalTransportPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenLogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenLogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenMessages.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenMessages.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenPasswordTransforms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenPasswordTransforms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenProvider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenProvider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenRestPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenRestPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenServConn.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenServConn.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenServDesc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenServDesc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenServMgr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenServMgr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenUtils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenUtils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenWsiBasicPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenWsiBasicPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SenXml.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SenXml.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WSPolicy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WSPolicy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WSStarMessageHandlers.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WSStarMessageHandlers.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/WSStarPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WSStarPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sennotdlg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sennotdlg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sennotifierplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sennotifierplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wsconnagent.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wsconnagent.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wsovi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wsovi.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/SEN.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenCredentialManager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenCredentialManager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenFragment.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenFragment.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenFramework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenFramework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenHostConn.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenHostConn.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenHostletTransportPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenHttpChannelTransport.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenIDWSFplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenIdWsfSecMech.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenIdentityManager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenIdentityManager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenLocalTransportPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenLogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenLogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenMessages.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenMessages.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenPasswordTransforms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenProvider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenProvider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenRestPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenServConn.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenServConn.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenServDesc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenServDesc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenServMgr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenServMgr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenUtils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenUtils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenWsiBasicPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenXml.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SenXml.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WSPolicy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WSPolicy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/WSStarMessageHandlers.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/WSStarPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sennotdlg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sennotdlg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sennotifierplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sennotifierplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wsconnagent.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wsconnagent.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wsovi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a4a/sennotifierplugindlgimpl.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a4a/sennotifierplugindlgimpl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101F96F4/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/senhostlettransportplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senhttpchanneltransport.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senidwsfplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senidwsfsecmech.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senlocaltransportplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sennotifierplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sennotifierplugin_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senpasswordtransforms.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senrestplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/senwsibasicplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wsovi.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wsstarmessagehandlers.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wsstarplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/SEN.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SEN.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenCredentialManager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenCredentialManager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenFragment.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenFragment.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenFramework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenFramework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenHostConn.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenHostConn.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenHostletTransportPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenHostletTransportPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenHttpChannelTransport.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenHttpChannelTransport.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenIDWSFplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenIDWSFplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenIdWsfSecMech.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenIdWsfSecMech.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenIdentityManager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenIdentityManager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenLocalTransportPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenLocalTransportPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenLogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenLogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenMessages.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenMessages.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenPasswordTransforms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenPasswordTransforms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenProvider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenProvider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenRestPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenRestPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenServConn.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenServConn.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenServDesc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenServDesc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenServMgr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenServMgr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenUtils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenUtils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenWsiBasicPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenWsiBasicPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SenXml.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SenXml.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WSPolicy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WSPolicy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WSStarMessageHandlers.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WSStarMessageHandlers.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/WSStarPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WSStarPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sennotdlg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sennotdlg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sennotifierplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sennotifierplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wsconnagent.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wsconnagent.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wsovi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wsovi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a4a/sennotifierplugindlgimpl.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a4a/sennotifierplugindlgimpl.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/101F96F4/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/senhostlettransportplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senhttpchanneltransport.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senidwsfplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senidwsfsecmech.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senlocaltransportplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sennotifierplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sennotifierplugin_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senpasswordtransforms.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senrestplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/senwsibasicplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wsovi.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wsstarmessagehandlers.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wsstarplugin.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/mw/idwsfplugin.iby	export	
+/epoc32/rom/include/core/mw/idwsfsecuritymechanism.iby	export	
+/epoc32/rom/include/core/mw/wsconnection.iby	export	
+/epoc32/rom/include/core/mw/wsconnectionagent.iby	export	
+/epoc32/rom/include/core/mw/wscore.iby	export	
+/epoc32/rom/include/core/mw/wscredentialmanager.iby	export	
+/epoc32/rom/include/core/mw/wsdescription.iby	export	
+/epoc32/rom/include/core/mw/wsfragment.iby	export	
+/epoc32/rom/include/core/mw/wsframework.iby	export	
+/epoc32/rom/include/core/mw/wshostletconnection.iby	export	
+/epoc32/rom/include/core/mw/wshostlettransportplugin.iby	export	
+/epoc32/rom/include/core/mw/wshttpchanneltransportplugin.iby	export	
+/epoc32/rom/include/core/mw/wsibasicplugin.iby	export	
+/epoc32/rom/include/core/mw/wsidentitymanager.iby	export	
+/epoc32/rom/include/core/mw/wslocaltransportplugin.iby	export	
+/epoc32/rom/include/core/mw/wslogger.iby	export	
+/epoc32/rom/include/core/mw/wsmanager.iby	export	
+/epoc32/rom/include/core/mw/wsmessages.iby	export	
+/epoc32/rom/include/core/mw/wsnotifierplugindlg.iby	export	
+/epoc32/rom/include/core/mw/wsnotifierplugins.iby	export	
+/epoc32/rom/include/core/mw/wsoviplugin.iby	export	
+/epoc32/rom/include/core/mw/wspasswordtransforms.iby	export	
+/epoc32/rom/include/core/mw/wsprovider.iby	export	
+/epoc32/rom/include/core/mw/wsrestplugin.iby	export	
+/epoc32/rom/include/core/mw/wsstarmessagehandlers.iby	export	
+/epoc32/rom/include/core/mw/wsstarplugin.iby	export	
+/epoc32/rom/include/core/mw/wsstarpolicy.iby	export	
+/epoc32/rom/include/core/mw/wsutils.iby	export	
+/epoc32/rom/include/core/mw/wsxml.iby	export	
+/epoc32/rom/include/language/mw/wsnotifierplugindlg_resources.iby	export	

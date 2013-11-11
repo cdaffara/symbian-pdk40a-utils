@@ -1,0 +1,1290 @@
+/epoc32/data/z/pluginstub/sifuidevicedialogplugin.qtplugin	export	
+/epoc32/data/z/private/100012a5/policy/10207216.spd	export	
+/epoc32/data/z/private/10003a3f/apps/iaupdater_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/iaupdater_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/siflauncher_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/siflauncher_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/swinstsvrui_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/swinstsvrui_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/iaupdate_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/iaupdate_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/iaupdatelauncher_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/iaupdatelauncher_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/ncdserver_20019119_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/ncdserver_20019119_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/101F875A/backup_registration.xml	export	
+/epoc32/data/z/private/20004f10/swiconsole.rsc	resource	armv5_urel
+/epoc32/data/z/private/20004f10/swiconsole.rsc	resource	winscw_udeb
+/epoc32/data/z/private/2000F85A/backup_registration.xml	export	
+/epoc32/data/z/private/2000F85A/iaupdateengineconfig.xml	export	
+/epoc32/data/z/private/2000F85A/iaupdateengineconfig_testing.xml	export	
+/epoc32/data/z/private/20019119/backup_registration.xml	export	
+/epoc32/data/z/private/20019119/config.xml	export	
+/epoc32/data/z/private/20019119/config_variant.xml	export	
+/epoc32/data/z/resource/apps/iaupdate.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/iaupdate.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/iaupdatelauncher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/iaupdatelauncher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/ncdserver_20019119.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/ncdserver_20019119.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/siflauncher.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/siflauncher.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/apps/siflauncher_loc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/siflauncher_loc.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/swinstsvrui.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/swinstsvrui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/swinstsvrui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/swinstsvrui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/swinstsvrui_aif.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/distribution.policy.s60	export	
+/epoc32/data/z/resource/errors/swierrors.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/swierrors.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/iaupdatedcmoadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/iaupdatedcmoadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/iaupdatedcmoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/iaupdatedcmoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ncdproxy_20019119.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ncdproxy_20019119.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recsisx.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recsisx.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sifrefpkgrec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sifrefpkgrec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sifrefplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sifrefplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sisxsifplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sisxsifplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sisxui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sisxui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/swinstfiletask.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/swinstfiletask.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/swinstlogtask.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/swinstlogtask.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/swinststartuptask.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/swinststartuptask.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/upsobserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/upsobserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/sisxuidata.r01	resource	armv5_urel
+/epoc32/data/z/resource/sisxuidata.r01	resource	winscw_udeb
+/epoc32/data/z/resource/sisxuidata.rsc	resource	armv5_urel
+/epoc32/data/z/resource/sisxuidata.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/swidaemon.r01	resource	armv5_urel
+/epoc32/data/z/resource/swidaemon.r01	resource	winscw_udeb
+/epoc32/data/z/resource/swidaemon.rsc	resource	armv5_urel
+/epoc32/data/z/resource/swidaemon.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/swinstcommonui.r01	resource	armv5_urel
+/epoc32/data/z/resource/swinstcommonui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/swinstcommonui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/swinstcommonui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/xhtml/01/0x2000F85A/contents.zip	export	
+/epoc32/data/z/resource/xhtml/01/0x2000F85A/index.xml	export	
+/epoc32/data/z/resource/xhtml/01/0x2000F85A/keywords.xml	export	
+/epoc32/data/z/resource/xhtml/01/0x2000F85A/meta.xml	export	
+/epoc32/data/z/system/data/2002cff6.txt	export	
+/epoc32/data/z/system/data/swipolicy.ini	export	
+/epoc32/data/z/system/install/altair-engine-stub.SIS	export	
+/epoc32/data/z/system/install/iaupdate_stub.sis	export	
+/epoc32/data/z/system/install/iaupdater_stub.sis	export	
+/epoc32/include/iaupdate.rsg	resource	armv5_urel
+/epoc32/include/iaupdate.rsg	resource	winscw_udeb
+/epoc32/include/iaupdatelauncher.rsg	resource	armv5_urel
+/epoc32/include/iaupdatelauncher.rsg	resource	winscw_udeb
+/epoc32/include/mw/StartupItem.hrh	export	
+/epoc32/include/mw/StartupItem.rh	export	
+/epoc32/include/mw/swi/pkgremover.h	export	
+/epoc32/include/mw/swi/pkgremovererrors.h	export	
+/epoc32/include/mw/usif/scr/appregentries.h	export	
+/epoc32/include/mw/usif/scr/appreginfo.h	export	
+/epoc32/include/mw/usif/scr/scr.h	export	
+/epoc32/include/mw/usif/scr/screntries.h	export	
+/epoc32/include/mw/usif/sif/sif.h	export	
+/epoc32/include/mw/usif/sif/sifcommon.h	export	
+/epoc32/include/mw/usif/sif/sifnotification.h	export	
+/epoc32/include/mw/usif/sif/sifplugin.h	export	
+/epoc32/include/mw/usif/sif/siftransportclient.h	export	
+/epoc32/include/mw/usif/sif/siftransportserverstartup.h	export	
+/epoc32/include/mw/usif/sif/siftransporttask.h	export	
+/epoc32/include/mw/usif/sif/sifutils.h	export	
+/epoc32/include/mw/usif/sts/sts.h	export	
+/epoc32/include/mw/usif/sts/stsdefs.h	export	
+/epoc32/include/mw/usif/usifcommon.h	export	
+/epoc32/include/mw/usif/usiferror.h	export	
+/epoc32/include/ncdserver_20019119.rsg	resource	armv5_urel
+/epoc32/include/ncdserver_20019119.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/CUICancelTimer.h	export	
+/epoc32/include/platform/mw/CUIDetailsDialog.h	export	
+/epoc32/include/platform/mw/CUIDialogs.h	export	
+/epoc32/include/platform/mw/CUIUtils.h	export	
+/epoc32/include/platform/mw/SWInstApi.h	export	
+/epoc32/include/platform/mw/SWInstDefs.h	export	
+/epoc32/include/platform/mw/SWInstDefs.inl	export	
+/epoc32/include/platform/mw/SWInstFileTaskParam.h	export	
+/epoc32/include/platform/mw/SWInstLogTaskParam.h	export	
+/epoc32/include/platform/mw/SWInstStartupTaskParam.h	export	
+/epoc32/include/platform/mw/SWInstTask.h	export	
+/epoc32/include/platform/mw/SWInstTask.inl	export	
+/epoc32/include/platform/mw/SWInstTaskManager.h	export	
+/epoc32/include/platform/mw/SWInstUIPluginAPI.h	export	
+/epoc32/include/platform/mw/SWInstUIPluginAPI.inl	export	
+/epoc32/include/platform/mw/SWInstUid.h	export	
+/epoc32/include/platform/mw/SWInstallerInternalCRKeys.h	export	
+/epoc32/include/platform/mw/SWInstallerInternalPSKeys.h	export	
+/epoc32/include/platform/mw/catalogsarray.h	export	
+/epoc32/include/platform/mw/catalogsarray.inl	export	
+/epoc32/include/platform/mw/catalogsbase.h	export	
+/epoc32/include/platform/mw/catalogsdebug.h	export	
+/epoc32/include/platform/mw/catalogsengine.h	export	
+/epoc32/include/platform/mw/catalogsengineobserver.h	export	
+/epoc32/include/platform/mw/catalogserrors.h	export	
+/epoc32/include/platform/mw/catalogsinterfaceids.h	export	
+/epoc32/include/platform/mw/catalogspanics.h	export	
+/epoc32/include/platform/mw/catalogsuids.h	export	
+/epoc32/include/platform/mw/catalogsutils.h	export	
+/epoc32/include/platform/mw/catalogsutils.inl	export	
+/epoc32/include/platform/mw/csxhelp/iad.hlp.hrh	export	
+/epoc32/include/platform/mw/iaupdate.h	export	
+/epoc32/include/platform/mw/iaupdateobserver.h	export	
+/epoc32/include/platform/mw/iaupdateparameters.h	export	
+/epoc32/include/platform/mw/iaupdateresult.h	export	
+/epoc32/include/platform/mw/loc/sc/appinstui.loc	export	
+/epoc32/include/platform/mw/ncdbundle.h	export	
+/epoc32/include/platform/mw/ncdcapabilities.h	export	
+/epoc32/include/platform/mw/ncdchildloadmode.h	export	
+/epoc32/include/platform/mw/ncdclientlocalizer.h	export	
+/epoc32/include/platform/mw/ncdconfigurationdata.h	export	
+/epoc32/include/platform/mw/ncdconfigurationkeys.h	export	
+/epoc32/include/platform/mw/ncdconnectionmethod.h	export	
+/epoc32/include/platform/mw/ncdcontainertype.h	export	
+/epoc32/include/platform/mw/ncdcreateaccesspointoperation.h	export	
+/epoc32/include/platform/mw/ncdcreateaccesspointoperationobserver.h	export	
+/epoc32/include/platform/mw/ncddebuginformation.h	export	
+/epoc32/include/platform/mw/ncddownloadoperation.h	export	
+/epoc32/include/platform/mw/ncddownloadoperationobserver.h	export	
+/epoc32/include/platform/mw/ncderrors.h	export	
+/epoc32/include/platform/mw/ncdfavoritemanager.h	export	
+/epoc32/include/platform/mw/ncdfiledownloadoperation.h	export	
+/epoc32/include/platform/mw/ncdfiledownloadoperationobserver.h	export	
+/epoc32/include/platform/mw/ncdinstalledapplication.h	export	
+/epoc32/include/platform/mw/ncdinstalledcontent.h	export	
+/epoc32/include/platform/mw/ncdinstalledfile.h	export	
+/epoc32/include/platform/mw/ncdinstalledtheme.h	export	
+/epoc32/include/platform/mw/ncdinstalloperation.h	export	
+/epoc32/include/platform/mw/ncdinstalloperationobserver.h	export	
+/epoc32/include/platform/mw/ncdinterfaceids.h	export	
+/epoc32/include/platform/mw/ncditempurpose.h	export	
+/epoc32/include/platform/mw/ncdkeyvaluepair.h	export	
+/epoc32/include/platform/mw/ncdloadnodeoperation.h	export	
+/epoc32/include/platform/mw/ncdloadnodeoperationobserver.h	export	
+/epoc32/include/platform/mw/ncdnode.h	export	
+/epoc32/include/platform/mw/ncdnodeactivate.h	export	
+/epoc32/include/platform/mw/ncdnodechildoftransparent.h	export	
+/epoc32/include/platform/mw/ncdnodecontainer.h	export	
+/epoc32/include/platform/mw/ncdnodecontentinfo.h	export	
+/epoc32/include/platform/mw/ncdnodedependency.h	export	
+/epoc32/include/platform/mw/ncdnodedependencyinfo.h	export	
+/epoc32/include/platform/mw/ncdnodedownload.h	export	
+/epoc32/include/platform/mw/ncdnodefavorite.h	export	
+/epoc32/include/platform/mw/ncdnodeicon.h	export	
+/epoc32/include/platform/mw/ncdnodeinstall.h	export	
+/epoc32/include/platform/mw/ncdnodemetadata.h	export	
+/epoc32/include/platform/mw/ncdnodepreview.h	export	
+/epoc32/include/platform/mw/ncdnodepurchase.h	export	
+/epoc32/include/platform/mw/ncdnodescreenshot.h	export	
+/epoc32/include/platform/mw/ncdnodesearch.h	export	
+/epoc32/include/platform/mw/ncdnodeseen.h	export	
+/epoc32/include/platform/mw/ncdnodeseenfolder.h	export	
+/epoc32/include/platform/mw/ncdnodeskin.h	export	
+/epoc32/include/platform/mw/ncdnodeupgrade.h	export	
+/epoc32/include/platform/mw/ncdnodeuricontent.h	export	
+/epoc32/include/platform/mw/ncdnodeuserdata.h	export	
+/epoc32/include/platform/mw/ncdoperation.h	export	
+/epoc32/include/platform/mw/ncdoperationdatatypes.h	export	
+/epoc32/include/platform/mw/ncdpanics.h	export	
+/epoc32/include/platform/mw/ncdpaymentmethod.h	export	
+/epoc32/include/platform/mw/ncdprogress.h	export	
+/epoc32/include/platform/mw/ncdprovider.h	export	
+/epoc32/include/platform/mw/ncdproviderobserver.h	export	
+/epoc32/include/platform/mw/ncdprovideroptions.h	export	
+/epoc32/include/platform/mw/ncdproviderpcclientsupport.h	export	
+/epoc32/include/platform/mw/ncdpurchasedetails.h	export	
+/epoc32/include/platform/mw/ncdpurchasedownloadinfo.h	export	
+/epoc32/include/platform/mw/ncdpurchasehistory.h	export	
+/epoc32/include/platform/mw/ncdpurchasehistoryfilter.h	export	
+/epoc32/include/platform/mw/ncdpurchaseinstallinfo.h	export	
+/epoc32/include/platform/mw/ncdpurchaseoperation.h	export	
+/epoc32/include/platform/mw/ncdpurchaseoperationobserver.h	export	
+/epoc32/include/platform/mw/ncdpurchaseoption.h	export	
+/epoc32/include/platform/mw/ncdquery.h	export	
+/epoc32/include/platform/mw/ncdqueryitem.h	export	
+/epoc32/include/platform/mw/ncdquerynumericitem.h	export	
+/epoc32/include/platform/mw/ncdquerypincodeitem.h	export	
+/epoc32/include/platform/mw/ncdqueryselectionitem.h	export	
+/epoc32/include/platform/mw/ncdquerytextitem.h	export	
+/epoc32/include/platform/mw/ncdrightsobjectoperation.h	export	
+/epoc32/include/platform/mw/ncdrightsobjectoperationobserver.h	export	
+/epoc32/include/platform/mw/ncdschemenodetype.h	export	
+/epoc32/include/platform/mw/ncdsearchfilter.h	export	
+/epoc32/include/platform/mw/ncdsearchoperation.h	export	
+/epoc32/include/platform/mw/ncdsendhttprequestoperation.h	export	
+/epoc32/include/platform/mw/ncdsendhttprequestoperationobserver.h	export	
+/epoc32/include/platform/mw/ncdserverreportmanager.h	export	
+/epoc32/include/platform/mw/ncdserverreportoperation.h	export	
+/epoc32/include/platform/mw/ncdserverreportoperationobserver.h	export	
+/epoc32/include/platform/mw/ncdsubscription.h	export	
+/epoc32/include/platform/mw/ncdsubscriptionmanager.h	export	
+/epoc32/include/platform/mw/ncdsubscriptionoperation.h	export	
+/epoc32/include/platform/mw/ncdsubscriptionoperationobserver.h	export	
+/epoc32/include/platform/mw/ncdutils.h	export	
+/epoc32/include/platform/mw/sifui.h	export	
+/epoc32/include/platform/mw/sifuiappinfo.h	export	
+/epoc32/include/platform/mw/sifuicertificateinfo.h	export	
+/epoc32/include/platform/mw/sifuidialogdefinitions.h	export	
+/epoc32/include/platform/mw/sifuierrorinfo.h	export	
+/epoc32/include/platform/mw/sifuierrorinfo.inl	export	
+/epoc32/include/platform/mw/sifuiinstallindicatordefinitions.h	export	
+/epoc32/include/platform/mw/swi/asynclauncher.h	export	
+/epoc32/include/platform/mw/swi/backuprestore.h	export	
+/epoc32/include/platform/mw/swi/hashcontainer.h	export	
+/epoc32/include/platform/mw/swi/installtypes.h	export	
+/epoc32/include/platform/mw/swi/ipcutil.h	export	
+/epoc32/include/platform/mw/swi/launcher.h	export	
+/epoc32/include/platform/mw/swi/msisuihandlers.h	export	
+/epoc32/include/platform/mw/swi/sisdataprovider.h	export	
+/epoc32/include/platform/mw/swi/sisinstallerrors.h	export	
+/epoc32/include/platform/mw/swi/sispackagetrust.h	export	
+/epoc32/include/platform/mw/swi/sisregistryentry.h	export	
+/epoc32/include/platform/mw/swi/sisregistrylog.h	export	
+/epoc32/include/platform/mw/swi/sisregistrypackage.h	export	
+/epoc32/include/platform/mw/swi/sisregistrysession.h	export	
+/epoc32/include/platform/mw/swi/sisregistrywritableentry.h	export	
+/epoc32/include/platform/mw/swi/sisrevocationentry.h	export	
+/epoc32/include/platform/mw/swi/sistruststatus.h	export	
+/epoc32/include/platform/mw/swi/swiobcommon.h	export	
+/epoc32/include/platform/mw/swi/swiobcommon.inl	export	
+/epoc32/include/platform/mw/swi/swiobservedinfo.h	export	
+/epoc32/include/platform/mw/swi/swiobserverclient.h	export	
+/epoc32/include/platform/mw/swi/swiobserverplugin.h	export	
+/epoc32/include/platform/mw/swi/swispubsubdefs.h	export	
+/epoc32/include/platform/mw/swi/swiutils.h	export	
+/epoc32/include/platform/mw/swidaemonplugin.h	export	
+/epoc32/include/platform/mw/usif/scr/scrcommon.h	export	
+/epoc32/include/platform/mw/usif/scr/scrcommon.inl	export	
+/epoc32/include/platform/mw/usif/scr/screntries_platform.h	export	
+/epoc32/include/siflauncher.mbg	bitmap	armv5_urel
+/epoc32/include/siflauncher.mbg	bitmap	winscw_udeb
+/epoc32/include/sisxuidata.rsg	resource	armv5_urel
+/epoc32/include/sisxuidata.rsg	resource	winscw_udeb
+/epoc32/include/swiconsole.rsg	resource	armv5_urel
+/epoc32/include/swiconsole.rsg	resource	winscw_udeb
+/epoc32/include/swidaemon.rsg	resource	armv5_urel
+/epoc32/include/swidaemon.rsg	resource	winscw_udeb
+/epoc32/include/swierrors.rsg	resource	armv5_urel
+/epoc32/include/swierrors.rsg	resource	winscw_udeb
+/epoc32/include/swinstcommonui.rsg	resource	armv5_urel
+/epoc32/include/swinstcommonui.rsg	resource	winscw_udeb
+/epoc32/include/swinstsvrui.rsg	resource	armv5_urel
+/epoc32/include/swinstsvrui.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/SWInstCli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWInstCli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SWInstCli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWInstCli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SWInstCommonUI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWInstCommonUI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SWInstCommonUI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWInstCommonUI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SWInstTaskManager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWInstTaskManager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SWInstTaskManager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWInstTaskManager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apprscparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apprscparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/apprscparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/apprscparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/backuprestore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/backuprestore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/backuprestore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/backuprestore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bgcindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bgcindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bgcindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bgcindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cafdataprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cafdataprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cafdataprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cafdataprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devinfosupportclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devinfosupportclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devinfosupportclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devinfosupportclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devinfosupportcommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devinfosupportcommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devinfosupportcommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devinfosupportcommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdateapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdateapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdateapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdateapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdateengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdateengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdateengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdateengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdatefwupdate.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdatefwupdate.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdatefwupdate{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdatefwupdate{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdaterfiles.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdaterfiles.dso	build	armv5_urel
+/epoc32/release/armv5/lib/iaupdaterfiles{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/iaupdaterfiles{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncddevicemgmt_20019119.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncddevicemgmt_20019119.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncddevicemgmt_20019119{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncddevicemgmt_20019119{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncdengine_20019119.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncdengine_20019119.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncdengine_20019119{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncdengine_20019119{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncdutils_20019119.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncdutils_20019119.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncdutils_20019119{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncdutils_20019119{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocspsupportclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocspsupportclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ocspsupportclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ocspsupportclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkgremover.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkgremover.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkgremover{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkgremover{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/plan.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/plan.dso	build	armv5_urel
+/epoc32/release/armv5/lib/plan{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/plan{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/recsisx.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/recsisx.dso	build	armv5_urel
+/epoc32/release/armv5/lib/recsisx{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/recsisx{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scrclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scrclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scrclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scrclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scrdatabase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scrdatabase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scrdatabase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scrdatabase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scrhelperclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scrhelperclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scrhelperclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scrhelperclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securitymanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securitymanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securitymanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securitymanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sif.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sif.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifnotification.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifnotification.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifnotification{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifnotification{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/siftransport.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/siftransport.dso	build	armv5_urel
+/epoc32/release/armv5/lib/siftransport{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/siftransport{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifuidevicedialogplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifuidevicedialogplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifuidevicedialogplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifuidevicedialogplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifuiinstallindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifuiinstallindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifuiinstallindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifuiinstallindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sifutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sifutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sif{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sif{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/siscontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/siscontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/siscontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/siscontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sishelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sishelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sishelper_tshell.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sishelper_tshell.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sishelper_tshell{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sishelper_tshell{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sishelper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sishelper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sislauncherclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sislauncherclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sislauncherclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sislauncherclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisregistryclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisregistryclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisregistryclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisregistryclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisresult.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisresult.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisresult{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisresult{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisxfile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisxfile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisxfile{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisxfile{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisxsilentinstallindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisxsilentinstallindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sisxsilentinstallindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sisxsilentinstallindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sqlite3_secure.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sqlite3_secure.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sqlite3_secure{00030011}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sqlite3_secure{00030011}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/stsclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/stsclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/stsclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/stsclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swidataprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swidataprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swidataprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swidataprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiobservedinfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiobservedinfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiobservedinfo{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiobservedinfo{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiobserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiobserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiobserverclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiobserverclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiobserverplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiobserverplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiobserverplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiobserverplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swiutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swiutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swtypereginfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swtypereginfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swtypereginfo{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swtypereginfo{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uiss.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uiss.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uissclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uissclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uissclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uissclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uiss{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uiss{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsobserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsobserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsobserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsobserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/SWInstCli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstCli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstCommonUI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstCommonUI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstFileTask.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstFileTask.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstLogTask.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstLogTask.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstStartupTask.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstStartupTask.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstSvrUI.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstSvrUI.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstTaskManager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWInstTaskManager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SisxUI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SisxUI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/apprscparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/apprscparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/backuprestore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/backuprestore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bgcindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bgcindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cafdataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cafdataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/devinfosupport.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/devinfosupport.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/devinfosupportclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/devinfosupportclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/devinfosupportcommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/devinfosupportcommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaenabler.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaenabler.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdate.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdate.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdateapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdateapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatebg.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatebg.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatedcmoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatedcmoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdateengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdateengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatefwupdate.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatefwupdate.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatelauncher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdatelauncher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdater.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdater.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdaterfiles.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/iaupdaterfiles.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/installserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/installserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncddevicemgmt_20019119.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncddevicemgmt_20019119.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdengine_20019119.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdengine_20019119.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdproxy_20019119.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdproxy_20019119.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdserver_20019119.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdserver_20019119.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdundertaker_20019119.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdundertaker_20019119.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdutils_20019119.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncdutils_20019119.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocspsupport.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocspsupport.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocspsupportclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ocspsupportclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkgremover.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkgremover.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/plan.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/plan.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recsisx.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recsisx.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/refappmanager.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/refappmanager.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrdatabase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrdatabase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrhelperclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrhelperclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrhelperserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrhelperserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/scrserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitymanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/securitymanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sif.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sif.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siflauncher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/siflauncher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifnotification.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifnotification.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifrefinstallerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifrefinstallerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifrefpkgrec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifrefpkgrec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifrefplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifrefplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siftransport.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/siftransport.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifuidevicedialogplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifuidevicedialogplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifuiinstallindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifuiinstallindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sifutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/siscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sishelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sishelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sishelper_tshell.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sishelper_tshell.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislauncherclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislauncherclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislauncherserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislauncherserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislauncherserver_tshell.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sislauncherserver_tshell.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisregistryclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisregistryclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisregistryserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisregistryserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisresult.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisresult.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisxfile.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisxfile.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisxsifplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisxsifplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisxsilentinstallindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sisxsilentinstallindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/softwaretransactionservices.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/softwaretransactionservices.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlite3_secure.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlite3_secure.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/startuplistupdater.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/startuplistupdater.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/stsclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/stsclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiconsole.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiconsole.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swidaemon.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/swidaemon.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swidataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swidataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobservedinfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobservedinfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobserverplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiobserverplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swiutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swtypereginfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swtypereginfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uiss.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uiss.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uissclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uissclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsobserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsobserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/SWInstCli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstCli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstCommonUI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstCommonUI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstFileTask.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstFileTask.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstLogTask.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstLogTask.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstStartupTask.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstStartupTask.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstSvrUI.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstSvrUI.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstTaskManager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SWInstTaskManager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SisxUI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SisxUI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/apprscparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/apprscparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/backuprestore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/backuprestore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bgcindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bgcindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cafdataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cafdataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/devinfosupport.exe	build	armv5_urel
+/epoc32/release/armv5/urel/devinfosupport.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/devinfosupportclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/devinfosupportclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/devinfosupportcommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/devinfosupportcommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaenabler.exe	build	armv5_urel
+/epoc32/release/armv5/urel/iaenabler.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdate.exe	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdate.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdateapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdateapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatebg.exe	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatebg.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatedcmoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatedcmoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdateengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdateengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatefwupdate.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatefwupdate.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatelauncher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdatelauncher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdater.exe	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdater.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdaterfiles.dll	build	armv5_urel
+/epoc32/release/armv5/urel/iaupdaterfiles.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/installserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/installserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncddevicemgmt_20019119.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ncddevicemgmt_20019119.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncdengine_20019119.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ncdengine_20019119.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncdproxy_20019119.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ncdproxy_20019119.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncdserver_20019119.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ncdserver_20019119.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncdundertaker_20019119.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ncdundertaker_20019119.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncdutils_20019119.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ncdutils_20019119.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ocspsupport.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ocspsupport.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ocspsupportclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ocspsupportclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkgremover.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkgremover.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/plan.dll	build	armv5_urel
+/epoc32/release/armv5/urel/plan.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recsisx.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recsisx.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/refappmanager.exe	build	armv5_urel
+/epoc32/release/armv5/urel/refappmanager.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/scrclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/scrclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/scrdatabase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/scrdatabase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/scrhelperclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/scrhelperclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/scrhelperserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/scrhelperserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/scrserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/scrserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/securitymanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/securitymanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sif.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sif.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/siflauncher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/siflauncher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifnotification.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sifnotification.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifrefinstallerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sifrefinstallerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifrefpkgrec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sifrefpkgrec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifrefplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sifrefplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sifserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/siftransport.dll	build	armv5_urel
+/epoc32/release/armv5/urel/siftransport.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sifui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifuidevicedialogplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sifuidevicedialogplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifuiinstallindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sifuiinstallindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sifutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sifutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/siscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/siscontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sishelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sishelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sishelper_tshell.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sishelper_tshell.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sislauncherclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sislauncherclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sislauncherserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sislauncherserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sislauncherserver_tshell.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sislauncherserver_tshell.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sisregistryclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sisregistryclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sisregistryserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sisregistryserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sisresult.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sisresult.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sisxfile.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sisxfile.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sisxsifplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sisxsifplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sisxsilentinstallindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sisxsilentinstallindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/softwaretransactionservices.exe	build	armv5_urel
+/epoc32/release/armv5/urel/softwaretransactionservices.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sqlite3_secure.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sqlite3_secure.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/startuplistupdater.exe	build	armv5_urel
+/epoc32/release/armv5/urel/startuplistupdater.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/stsclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/stsclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swiconsole.exe	build	armv5_urel
+/epoc32/release/armv5/urel/swiconsole.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/swidaemon.exe	build	armv5_urel
+/epoc32/release/armv5/urel/swidaemon.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/swidataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swidataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swiobservedinfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swiobservedinfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swiobserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/swiobserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/swiobserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swiobserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swiobserverplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swiobserverplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swiutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swiutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swtypereginfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swtypereginfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uiss.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uiss.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uissclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uissclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upsobserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upsobserver.dll.map	build	armv5_urel
+/epoc32/release/tools2/deb/libeay32.a	export	
+/epoc32/release/tools2/deb/libeay32.lib	export	
+/epoc32/release/tools2/deb/libxerces.a	export	
+/epoc32/release/tools2/linux-i386/deb/libcrypto.a	export	
+/epoc32/release/tools2/linux-i386/deb/libxerces.a	export	
+/epoc32/release/tools2/linux-i386/rel/libcrypto.a	export	
+/epoc32/release/tools2/linux-i386/rel/libxerces.a	export	
+/epoc32/release/tools2/rel/libdbmanager.a	build	tools2_rel
+/epoc32/release/tools2/rel/libdumpsis.a	build	tools2_rel
+/epoc32/release/tools2/rel/libeay32.a	export	
+/epoc32/release/tools2/rel/libeay32.lib	export	
+/epoc32/release/tools2/rel/libinterpretsis.a	build	tools2_rel
+/epoc32/release/tools2/rel/libmakesis.a	build	tools2_rel
+/epoc32/release/tools2/rel/libsignsis.a	build	tools2_rel
+/epoc32/release/tools2/rel/libsisx.a	build	tools2_rel
+/epoc32/release/tools2/rel/libxerces.a	export	
+/epoc32/release/winscw/udeb/SWInstCli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstCli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstCommonUI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstCommonUI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstFileTask.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstLogTask.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstStartupTask.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstSvrUI.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstTaskManager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWInstTaskManager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SisxUI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apprscparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/apprscparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/backuprestore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/backuprestore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bgcindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bgcindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cafdataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cafdataprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/devinfosupport.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/devinfosupportclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/devinfosupportclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/devinfosupportcommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/devinfosupportcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaenabler.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdate.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdateapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdateapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdatebg.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdatedcmoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdateengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdateengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdatefwupdate.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdatefwupdate.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdatelauncher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdater.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdaterfiles.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/iaupdaterfiles.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/installserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncddevicemgmt_20019119.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncddevicemgmt_20019119.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncdengine_20019119.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncdengine_20019119.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncdproxy_20019119.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncdserver_20019119.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncdundertaker_20019119.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncdutils_20019119.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ncdutils_20019119.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocspsupport.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocspsupportclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ocspsupportclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkgremover.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkgremover.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/plan.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/plan.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/recsisx.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/recsisx.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/refappmanager.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrdatabase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrdatabase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrhelperclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrhelperclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrhelperserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/scrserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/securitymanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/securitymanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sif.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/siflauncher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifnotification.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifnotification.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifrefinstallerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifrefpkgrec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifrefplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/siftransport.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/siftransport.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifuidevicedialogplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifuidevicedialogplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifuiinstallindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifuiinstallindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sifutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/siscontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/siscontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sishelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sishelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sishelper_tshell.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sishelper_tshell.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sislauncherclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sislauncherclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sislauncherserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sislauncherserver_tshell.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisregistryclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisregistryclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisregistryserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisresult.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisresult.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisxfile.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisxfile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisxsifplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisxsilentinstallindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sisxsilentinstallindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/softwaretransactionservices.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqlite3_secure.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqlite3_secure.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/startuplistupdater.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/stsclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/stsclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiconsole.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/swidaemon.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/swidataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swidataprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiobservedinfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiobservedinfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiobserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiobserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiobserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiobserverplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiobserverplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swiutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swtypereginfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swtypereginfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/uiss.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uiss.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/uissclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uissclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsobserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsobserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/10207216.spd	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/iaupdater_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/siflauncher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/swinstsvrui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/iaupdate_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/iaupdatelauncher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/ncdserver_20019119_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101F875A/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10285bc0.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/2002cff6.txt	export	
+/epoc32/release/winscw/udeb/z/private/20004f10/swiconsole.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/2000F85A/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/2000F85A/iaupdateengineconfig.xml	export	
+/epoc32/release/winscw/udeb/z/private/20019119/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/20019119/config.xml	export	
+/epoc32/release/winscw/udeb/z/private/20019119/config_variant.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/iaupdate.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/iaupdatelauncher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ncdserver_20019119.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/siflauncher.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/siflauncher_loc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/swinstsvrui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/swinstsvrui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/swinstsvrui_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/swierrors.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/iaupdatedcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/iaupdatedcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ncdproxy_20019119.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recsisx.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sifrefpkgrec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sifrefplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sisxsifplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sisxui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/swinstfiletask.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/swinstlogtask.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/swinststartuptask.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/upsobserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/sisxuidata.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/sisxuidata.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/swidaemon.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/swidaemon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/swinstcommonui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/swinstcommonui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/sys/install/scr/provisioned/scr.db	export	
+/epoc32/release/winscw/udeb/z/system/data/swipolicy.ini	export	
+/epoc32/release/winscw/urel/SWInstCli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstCli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstCommonUI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstCommonUI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstFileTask.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstFileTask.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstLogTask.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstLogTask.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstStartupTask.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstStartupTask.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstSvrUI.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstSvrUI.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstTaskManager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SWInstTaskManager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SisxUI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SisxUI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/apprscparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/apprscparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/backuprestore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/backuprestore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bgcindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bgcindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cafdataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cafdataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/devinfosupport.exe	build	winscw_urel
+/epoc32/release/winscw/urel/devinfosupport.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/devinfosupportclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/devinfosupportclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/devinfosupportcommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/devinfosupportcommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaenabler.exe	build	winscw_urel
+/epoc32/release/winscw/urel/iaenabler.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdate.exe	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdate.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdateapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdateapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatebg.exe	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatebg.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatedcmoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatedcmoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdateengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdateengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatefwupdate.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatefwupdate.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatelauncher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdatelauncher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdater.exe	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdater.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdaterfiles.dll	build	winscw_urel
+/epoc32/release/winscw/urel/iaupdaterfiles.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/installserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/installserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ncddevicemgmt_20019119.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ncddevicemgmt_20019119.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ncdengine_20019119.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ncdengine_20019119.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ncdproxy_20019119.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ncdproxy_20019119.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ncdserver_20019119.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ncdserver_20019119.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ncdundertaker_20019119.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ncdundertaker_20019119.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ncdutils_20019119.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ncdutils_20019119.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ocspsupport.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ocspsupport.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ocspsupportclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ocspsupportclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkgremover.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkgremover.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/plan.dll	build	winscw_urel
+/epoc32/release/winscw/urel/plan.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recsisx.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recsisx.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/refappmanager.exe	build	winscw_urel
+/epoc32/release/winscw/urel/refappmanager.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/scrclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/scrclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/scrdatabase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/scrdatabase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/scrhelperclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/scrhelperclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/scrhelperserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/scrhelperserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/scrserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/scrserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/securitymanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/securitymanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sif.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sif.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/siflauncher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/siflauncher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifnotification.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sifnotification.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifrefinstallerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sifrefinstallerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifrefpkgrec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sifrefpkgrec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifrefplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sifrefplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sifserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/siftransport.dll	build	winscw_urel
+/epoc32/release/winscw/urel/siftransport.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sifui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifuidevicedialogplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sifuidevicedialogplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifuiinstallindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sifuiinstallindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sifutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sifutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/siscontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/siscontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sishelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sishelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sishelper_tshell.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sishelper_tshell.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sislauncherclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sislauncherclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sislauncherserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sislauncherserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sislauncherserver_tshell.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sislauncherserver_tshell.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sisregistryclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sisregistryclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sisregistryserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sisregistryserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sisresult.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sisresult.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sisxfile.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sisxfile.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sisxsifplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sisxsifplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sisxsilentinstallindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sisxsilentinstallindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/softwaretransactionservices.exe	build	winscw_urel
+/epoc32/release/winscw/urel/softwaretransactionservices.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sqlite3_secure.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sqlite3_secure.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/startuplistupdater.exe	build	winscw_urel
+/epoc32/release/winscw/urel/startuplistupdater.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/stsclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/stsclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swiconsole.exe	build	winscw_urel
+/epoc32/release/winscw/urel/swiconsole.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/swidaemon.exe	build	winscw_urel
+/epoc32/release/winscw/urel/swidaemon.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/swidataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swidataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swiobservedinfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swiobservedinfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swiobserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/swiobserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/swiobserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swiobserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swiobserverplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swiobserverplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swiutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swiutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swtypereginfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swtypereginfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uiss.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uiss.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uissclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uissclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upsobserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upsobserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/100012a5/policy/10207216.spd	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/iaupdater_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/siflauncher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/swinstsvrui_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/iaupdate_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/iaupdatelauncher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/ncdserver_20019119_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/101F875A/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10285bc0.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/2002cff6.txt	export	
+/epoc32/release/winscw/urel/z/private/20004f10/swiconsole.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/2000F85A/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/2000F85A/iaupdateengineconfig.xml	export	
+/epoc32/release/winscw/urel/z/private/20019119/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/20019119/config.xml	export	
+/epoc32/release/winscw/urel/z/private/20019119/config_variant.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/iaupdate.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/iaupdatelauncher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ncdserver_20019119.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/siflauncher.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/siflauncher_loc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/swinstsvrui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/swinstsvrui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/swinstsvrui_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/swierrors.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/iaupdatedcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/iaupdatedcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ncdproxy_20019119.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recsisx.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sifrefpkgrec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sifrefplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sisxsifplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sisxui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/swinstfiletask.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/swinstlogtask.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/swinststartuptask.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/upsobserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/sisxuidata.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/sisxuidata.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/swidaemon.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/swidaemon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/swinstcommonui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/swinstcommonui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/sys/install/scr/provisioned/scr.db	export	
+/epoc32/release/winscw/urel/z/system/data/swipolicy.ini	export	
+/epoc32/rom/config/assets/s60/confml/iaupdate.confml	export	
+/epoc32/rom/config/assets/s60/confml/s60swinstalleruis.confml	export	
+/epoc32/rom/config/assets/s60/implml/iaupdate_2000F85A.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60swinstalleruis_101FD64D.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60swinstalleruis_101FD64E.crml	export	
+/epoc32/rom/config/assets/symbianos/confml/appinstallconfig.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/appinstallconfig_2002cff6.crml	export	
+/epoc32/rom/include/core/app/bgcindicatorplugin.iby	export	
+/epoc32/rom/include/core/app/sisxsilentinstallindicatorplugin.iby	export	
+/epoc32/rom/include/core/mw/AppInstUI.iby	export	
+/epoc32/rom/include/core/mw/NcdCatalogsEngine.iby	export	
+/epoc32/rom/include/core/mw/iaupdate.iby	export	
+/epoc32/rom/include/core/mw/iaupdateapi.iby	export	
+/epoc32/rom/include/core/mw/sifui.iby	export	
+/epoc32/rom/include/core/mw/sifuidevicedialogplugin.iby	export	
+/epoc32/rom/include/core/mw/sifuiinstallindicatorplugin.iby	export	
+/epoc32/rom/include/core/mw/sisxsifplugin.iby	export	
+/epoc32/rom/include/core/mw/startuplistupdater.iby	export	
+/epoc32/rom/include/customer/app/iaupdatehelps_variant.iby	export	
+/epoc32/rom/include/customer/mw/NcdCatalogsEngineVariant.iby	export	
+/epoc32/rom/include/language/mw/AppInstResources.iby	export	
+/epoc32/rom/include/language/mw/iaupdateresources.iby	export	
+/epoc32/rom/include/language/mw/sifuidevicedialogplugin_resources.iby	export	
+/epoc32/rom/include/scr.iby	export	
+/epoc32/rom/include/sif.iby	export	
+/epoc32/rom/include/sif_ncp.iby	export	
+/epoc32/rom/include/siflauncherconfig.iby	export	
+/epoc32/rom/include/sifrefinstaller.iby	export	
+/epoc32/rom/include/sqlite3_secure.iby	export	
+/epoc32/rom/include/sts.iby	export	
+/epoc32/rom/include/swi.iby	export	
+/epoc32/rom/include/swi_ncp.iby	export	
+/epoc32/rom/include/swiconfig.iby	export	
+/epoc32/rom/include/swidaemon.iby	export	
+/epoc32/rom/include/swiplugin.iby	export	
+/epoc32/rom/include/switextshell.iby	export	
+/epoc32/tools/appgen.pm	export	
+/epoc32/tools/create_db.xml	export	
+/epoc32/tools/createsis.bat	export	
+/epoc32/tools/createsis.pl	export	
+/epoc32/tools/dumpchainvaliditytool.exe	build	tools2_rel
+/epoc32/tools/dumpinstallfilestatustool.exe	build	tools2_rel
+/epoc32/tools/dumpsis.exe	build	tools2_rel
+/epoc32/tools/dumpswicertstoretool.exe	build	tools2_rel
+/epoc32/tools/interpretsis.exe	build	tools2_rel
+/epoc32/tools/makefile_templates/ossi/apply_tools2_variants.xml	export	
+/epoc32/tools/makekeys.exe	build	tools2_rel
+/epoc32/tools/makesis.exe	build	tools2_rel
+/epoc32/tools/preprovision.dtd	export	
+/epoc32/tools/scrtool.exe	build	tools2_rel
+/epoc32/tools/signsis.exe	build	tools2_rel
+/epoc32/tools/sqlite3.def	export	
+/epoc32/tools/sqlite3.dll	export	
+/epoc32/tools/swicertstoretobin.bat	export	
+/epoc32/tools/swicertstoretobin.pl	export	
+/epoc32/tools/util.pm	export	
+/epoc32/winscw/c/resource/distribution.policy.s60	export	
+/epoc32/winscw/c/resource/xhtml/01/0x2000F85A/contents.zip	export	
+/epoc32/winscw/c/resource/xhtml/01/0x2000F85A/index.xml	export	
+/epoc32/winscw/c/resource/xhtml/01/0x2000F85A/keywords.xml	export	
+/epoc32/winscw/c/resource/xhtml/01/0x2000F85A/meta.xml	export	

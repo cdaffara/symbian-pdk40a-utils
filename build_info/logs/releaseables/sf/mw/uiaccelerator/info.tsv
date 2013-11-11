@@ -1,0 +1,421 @@
+/epoc32/data/z/private/10003a3f/apps/alfredserver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/alfredserver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10207218/goomconfig.xml	export	
+/epoc32/data/z/private/200286D3/reffragmentshader.fsh	export	
+/epoc32/data/z/private/200286D3/refvertexshader.vsh	export	
+/epoc32/data/z/resource/apps/alfredserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/alfredserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfappfwproxy.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfappfwproxy.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfcommanddescriptions.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfcommanddescriptions.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfcrpplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfcrpplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfhintplugindrawer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfhintplugindrawer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfnonsupportedwscommands.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfnonsupportedwscommands.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfoogmplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfoogmplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfopenwfrs.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfopenwfrs.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/alfrenderstage.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/alfrenderstage.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/huirenderpluginvg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/huirenderpluginvg.rsc	resource	winscw_udeb
+/epoc32/include/alfcommanddescriptions.rsg	resource	armv5_urel
+/epoc32/include/alfcommanddescriptions.rsg	resource	winscw_udeb
+/epoc32/include/alfnonsupportedwscommands.rsg	resource	armv5_urel
+/epoc32/include/alfnonsupportedwscommands.rsg	resource	winscw_udeb
+/epoc32/include/alfopenwfrs.rsg	resource	armv5_urel
+/epoc32/include/alfopenwfrs.rsg	resource	winscw_udeb
+/epoc32/include/alfredserver.rsg	resource	armv5_urel
+/epoc32/include/alfredserver.rsg	resource	winscw_udeb
+/epoc32/include/alfrenderstage.rsg	resource	armv5_urel
+/epoc32/include/alfrenderstage.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/alf/AlfTransEffectPlugin.h	export	
+/epoc32/include/platform/mw/alf/AlfTransEffectPlugin.hrh	export	
+/epoc32/include/platform/mw/alf/alfanchorlayout.h	export	
+/epoc32/include/platform/mw/alf/alfappserver.h	export	
+/epoc32/include/platform/mw/alf/alfappsrvsessionbase.h	export	
+/epoc32/include/platform/mw/alf/alfappui.h	export	
+/epoc32/include/platform/mw/alf/alfbatchbuffer.h	export	
+/epoc32/include/platform/mw/alf/alfbitmapprovider.h	export	
+/epoc32/include/platform/mw/alf/alfborderbrush.h	export	
+/epoc32/include/platform/mw/alf/alfbrush.h	export	
+/epoc32/include/platform/mw/alf/alfbrusharray.h	export	
+/epoc32/include/platform/mw/alf/alfbrushhandlers.h	export	
+/epoc32/include/platform/mw/alf/alfcanvasvisual.h	export	
+/epoc32/include/platform/mw/alf/alfclientbase.h	export	
+/epoc32/include/platform/mw/alf/alfclientwindow.h	export	
+/epoc32/include/platform/mw/alf/alfcommand.h	export	
+/epoc32/include/platform/mw/alf/alfcompositionclient.h	export	
+/epoc32/include/platform/mw/alf/alfcompositionutility.h	export	
+/epoc32/include/platform/mw/alf/alfconstants.h	export	
+/epoc32/include/platform/mw/alf/alfcontrol.h	export	
+/epoc32/include/platform/mw/alf/alfcontrolgroup.h	export	
+/epoc32/include/platform/mw/alf/alfcurvepath.h	export	
+/epoc32/include/platform/mw/alf/alfcurvepathlayout.h	export	
+/epoc32/include/platform/mw/alf/alfdecklayout.h	export	
+/epoc32/include/platform/mw/alf/alfdirectclient.h	export	
+/epoc32/include/platform/mw/alf/alfdisplay.h	export	
+/epoc32/include/platform/mw/alf/alfdisplaybackgrounditem.h	export	
+/epoc32/include/platform/mw/alf/alfdrawer.h	export	
+/epoc32/include/platform/mw/alf/alfdropshadow.h	export	
+/epoc32/include/platform/mw/alf/alfdropshadowbrush.h	export	
+/epoc32/include/platform/mw/alf/alfenv.h	export	
+/epoc32/include/platform/mw/alf/alfenvobject.h	export	
+/epoc32/include/platform/mw/alf/alfevent.h	export	
+/epoc32/include/platform/mw/alf/alfeventhandler.h	export	
+/epoc32/include/platform/mw/alf/alfextensionfactory.h	export	
+/epoc32/include/platform/mw/alf/alfflowlayout.h	export	
+/epoc32/include/platform/mw/alf/alfframebrush.h	export	
+/epoc32/include/platform/mw/alf/alfgc.h	export	
+/epoc32/include/platform/mw/alf/alfgencomponent.h	export	
+/epoc32/include/platform/mw/alf/alfgradientbrush.h	export	
+/epoc32/include/platform/mw/alf/alfgridlayout.h	export	
+/epoc32/include/platform/mw/alf/alfhintplugin.h	export	
+/epoc32/include/platform/mw/alf/alfimage.h	export	
+/epoc32/include/platform/mw/alf/alfimagebrush.h	export	
+/epoc32/include/platform/mw/alf/alfimageloaderutil.h	export	
+/epoc32/include/platform/mw/alf/alfimagevisual.h	export	
+/epoc32/include/platform/mw/alf/alfinputcapabilitiessupplier.h	export	
+/epoc32/include/platform/mw/alf/alflayout.h	export	
+/epoc32/include/platform/mw/alf/alflayouthandlers.h	export	
+/epoc32/include/platform/mw/alf/alflayoutmetrics.h	export	
+/epoc32/include/platform/mw/alf/alflctanchorlayout.h	export	
+/epoc32/include/platform/mw/alf/alflctgridlayout.h	export	
+/epoc32/include/platform/mw/alf/alflcttextvisual.h	export	
+/epoc32/include/platform/mw/alf/alflinevisual.h	export	
+/epoc32/include/platform/mw/alf/alfm3gmesh.h	export	
+/epoc32/include/platform/mw/alf/alfmappingfunctions.h	export	
+/epoc32/include/platform/mw/alf/alfmaterial.h	export	
+/epoc32/include/platform/mw/alf/alfmesh.h	export	
+/epoc32/include/platform/mw/alf/alfmeshvisual.h	export	
+/epoc32/include/platform/mw/alf/alfmetric.h	export	
+/epoc32/include/platform/mw/alf/alfmetricsinterface.h	export	
+/epoc32/include/platform/mw/alf/alfownership.h	export	
+/epoc32/include/platform/mw/alf/alfproceduralmesh.h	export	
+/epoc32/include/platform/mw/alf/alfproperty.h	export	
+/epoc32/include/platform/mw/alf/alfpropertyowner.h	export	
+/epoc32/include/platform/mw/alf/alfrealline.h	export	
+/epoc32/include/platform/mw/alf/alfred.hrh	export	
+/epoc32/include/platform/mw/alf/alfroster.h	export	
+/epoc32/include/platform/mw/alf/alfscreenbuffer.h	export	
+/epoc32/include/platform/mw/alf/alfscrollerevent.h	export	
+/epoc32/include/platform/mw/alf/alfserverutils.h	export	
+/epoc32/include/platform/mw/alf/alfshadowborderbrush.h	export	
+/epoc32/include/platform/mw/alf/alfsrveffectenv.h	export	
+/epoc32/include/platform/mw/alf/alfstatic.h	export	
+/epoc32/include/platform/mw/alf/alfsymbiansbdrawer.h	export	
+/epoc32/include/platform/mw/alf/alftextstyle.h	export	
+/epoc32/include/platform/mw/alf/alftextstylemanager.h	export	
+/epoc32/include/platform/mw/alf/alftexture.h	export	
+/epoc32/include/platform/mw/alf/alftextureautosizeparams.h	export	
+/epoc32/include/platform/mw/alf/alftexturegroup.h	export	
+/epoc32/include/platform/mw/alf/alftexturemanager.h	export	
+/epoc32/include/platform/mw/alf/alftextureprocessor.h	export	
+/epoc32/include/platform/mw/alf/alftextvisual.h	export	
+/epoc32/include/platform/mw/alf/alftimedvalue.h	export	
+/epoc32/include/platform/mw/alf/alftraceextclient.h	export	
+/epoc32/include/platform/mw/alf/alftraceinterface.h	export	
+/epoc32/include/platform/mw/alf/alftransformation.h	export	
+/epoc32/include/platform/mw/alf/alfutil.h	export	
+/epoc32/include/platform/mw/alf/alfversion.h	export	
+/epoc32/include/platform/mw/alf/alfviewportlayout.h	export	
+/epoc32/include/platform/mw/alf/alfvisual.h	export	
+/epoc32/include/platform/mw/alf/alfvisualfactory.h	export	
+/epoc32/include/platform/mw/alf/alfvisualhandlers.h	export	
+/epoc32/include/platform/mw/alf/ftokenclient.h	export	
+/epoc32/include/platform/mw/goommonitor.h	export	
+/epoc32/include/platform/mw/goommonitorplugin.h	export	
+/epoc32/include/platform/mw/goommonitorplugin.hrh	export	
+/epoc32/include/platform/mw/goommonitorsession.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiAnchorLayout.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiAnimatedTexture.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiBitmapProvider.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiBorderBrush.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiBrush.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiBrushArray.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiBrushes.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiCanvasCmdBufferReader.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiCanvasVisual.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiCommand.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiControl.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiControlGroup.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiCurvePath.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiCurvePathLayout.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiDeckLayout.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiDisplay.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiDisplayCoeControl.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiDrawing.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiDropShadowBrush.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiEnv.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiEvent.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiFlowLayout.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiFont.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiGc.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiGradientBrush.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiGridLayout.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiImage.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiImageBrush.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiImageLoaderUtil.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiImageVisual.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiInteractionInterval.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiLayout.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiLayouts.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiLineVisual.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiMappingFunctions.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiMaterial.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiMesh.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiMeshVisual.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiObserverArray.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiOwnedPointer.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiPanic.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiPlatform.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiProbe.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiRealPoint.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiRealRect.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiRealSize.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiRenderer.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiRoster.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiS60Skin.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiScheduler.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiSegmentedTexture.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiSessionObject.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiShadowBorderBrush.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiShadowedTexture.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiSkin.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiSoftKeyControl.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiStatic.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTextMesh.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTextVisual.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTexture.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTextureHandle.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTextureIf.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTextureManager.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTextureProcessor.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiThemeManager.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTimeObserver.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTimedPoint.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTimedValue.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiTransformation.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiUtil.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiVisual.h	export	
+/epoc32/include/platform/mw/uiacceltk/HuiVisuals.h	export	
+/epoc32/include/platform/mw/uiacceltk/hitchcock.h	export	
+/epoc32/include/platform/mw/uiacceltk/huidisplaybackgrounditem.h	export	
+/epoc32/include/platform/mw/uiacceltk/huidropshadow.h	export	
+/epoc32/include/platform/mw/uiacceltk/huieventhandler.h	export	
+/epoc32/include/platform/mw/uiacceltk/huifixmath.h	export	
+/epoc32/include/platform/mw/uiacceltk/huifontmanager.h	export	
+/epoc32/include/platform/mw/uiacceltk/huifontspecification.h	export	
+/epoc32/include/platform/mw/uiacceltk/huiframebrush.h	export	
+/epoc32/include/platform/mw/uiacceltk/huigifanimationtexture.h	export	
+/epoc32/include/platform/mw/uiacceltk/huilowmemoryobserver.h	export	
+/epoc32/include/platform/mw/uiacceltk/huim3gmesh.h	export	
+/epoc32/include/platform/mw/uiacceltk/huimetric.h	export	
+/epoc32/include/platform/mw/uiacceltk/huiproceduralmesh.h	export	
+/epoc32/include/platform/mw/uiacceltk/huiskinanimationtexture.h	export	
+/epoc32/include/platform/mw/uiacceltk/huitextstyle.h	export	
+/epoc32/include/platform/mw/uiacceltk/huitextstylemanager.h	export	
+/epoc32/include/platform/mw/uiacceltk/huitextureautosizeparams.h	export	
+/epoc32/include/platform/mw/uiacceltk/huitk.hrh	export	
+/epoc32/include/platform/mw/uiacceltk/huitk.rh	export	
+/epoc32/include/platform/mw/uiacceltk/huiviewportlayout.h	export	
+/epoc32/release/armv5/lib/alfappservercore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfappservercore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfappservercore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfappservercore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfcommanddebug.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfcommanddebug.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfcommanddebug{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfcommanddebug{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfdecoderserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfdecoderserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfdecoderserverclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfdecoderserverclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfhintplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfhintplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/alfhintplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/alfhintplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftokenclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftokenclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftokenclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftokenclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/goommonitor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/goommonitor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/goommonitor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/goommonitor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hitchcock.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hitchcock.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hitchcock{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hitchcock{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/!ftokenserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/!ftokenserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfappfwproxy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfappfwproxy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfappservercore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfappservercore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfcommanddebug.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfcommanddebug.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfcrpplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfcrpplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfdecoderserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfdecoderserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfhintplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfhintplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfhintplugindrawer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfhintplugindrawer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfoogmplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfoogmplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfopenwfrs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfopenwfrs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfredserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfredserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfrenderstage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/alfrenderstage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/backgroundanimhost.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/backgroundanimhost.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftokenclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftokenclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/goommonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/goommonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hitchcock.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hitchcock.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/huirenderpluginvg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/huirenderpluginvg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/!ftokenserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/!ftokenserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfappfwproxy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfappfwproxy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfappservercore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfappservercore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfcommanddebug.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfcommanddebug.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfcrpplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfcrpplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfdecoderserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfdecoderserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfhintplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfhintplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfhintplugindrawer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfhintplugindrawer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfoogmplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfoogmplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfopenwfrs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfopenwfrs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfredserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/alfredserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/alfrenderstage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/alfrenderstage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/backgroundanimhost.exe	build	armv5_urel
+/epoc32/release/armv5/urel/backgroundanimhost.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftokenclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ftokenclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/goommonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/goommonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hitchcock.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hitchcock.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/huirenderpluginvg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/huirenderpluginvg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uiaccelerator_stub.sis	export	
+/epoc32/release/winscw/udeb/!ftokenserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfappfwproxy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfappservercore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfappservercore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfcommanddebug.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfcommanddebug.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfcrpplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfdecoderserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfdecoderserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfhintplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfhintplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfhintplugindrawer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfoogmplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfopenwfrs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfredserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/alfrenderstage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/backgroundanimhost.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftokenclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftokenclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/goommonitor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/goommonitor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hitchcock.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hitchcock.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/huirenderpluginvg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/alfredserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10207218/goomconfig.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/alfredserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfappfwproxy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfcommanddescriptions.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfcrpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfhintplugindrawer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfnonsupportedwscommands.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfoogmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfopenwfrs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/alfrenderstage.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/huirenderpluginvg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/!ftokenserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/!ftokenserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfappfwproxy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfappfwproxy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfappservercore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfappservercore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfcommanddebug.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfcommanddebug.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfcrpplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfcrpplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfdecoderserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfdecoderserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfhintplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfhintplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfhintplugindrawer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfhintplugindrawer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfoogmplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfoogmplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfopenwfrs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfopenwfrs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfredserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/alfredserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/alfrenderstage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/alfrenderstage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/backgroundanimhost.exe	build	winscw_urel
+/epoc32/release/winscw/urel/backgroundanimhost.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftokenclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ftokenclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/goommonitor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/goommonitor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hitchcock.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hitchcock.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/huirenderpluginvg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/huirenderpluginvg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/alfredserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10207218/goomconfig.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/alfredserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfappfwproxy.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfcommanddescriptions.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfcrpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfhintplugindrawer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfnonsupportedwscommands.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfoogmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfopenwfrs.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/alfrenderstage.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/huirenderpluginvg.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/s60uiacceltk.confml	export	
+/epoc32/rom/config/assets/s60/implml/s60uiacceltk_10283344.crml	export	
+/epoc32/rom/include/core/mw/alfopenwfrs.iby	export	
+/epoc32/rom/include/core/mw/alfred.iby	export	
+/epoc32/rom/include/core/mw/goommonitor.iby	export	

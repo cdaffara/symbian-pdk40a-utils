@@ -1,0 +1,470 @@
+/epoc32/data/c/resource/activity/activityserviceplugin.xml	export	
+/epoc32/data/c/resource/qt/crml/homescreeninformation.qcrml	export	
+/epoc32/data/z/private/10003a3f/import/apps/homescreensrv_exports_to_rom_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/homescreensrv_exports_to_rom_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/hsrunningappmonitor_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hsrunningappmonitor_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/20022F90/backup_registration.xml	export	
+/epoc32/data/z/private/20022F90/castorage.db	export	
+/epoc32/data/z/private/2002AC7F/des/activitytsplugin.xml	export	
+/epoc32/data/z/private/2002AC7F/des/afservice.xml	export	
+/epoc32/data/z/resource/activity/activityserviceplugin.xml	export	
+/epoc32/data/z/resource/activity/afservice.xml	export	
+/epoc32/data/z/resource/apps/homescreensrv_exports_to_rom.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/homescreensrv_exports_to_rom.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/hsrunningappmonitor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hsrunningappmonitor.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/caappscanner.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/caappscanner.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/calocalizerscanner.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/calocalizerscanner.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/casatmonitor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/casatmonitor.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/causifscanner.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/causifscanner.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cawidgetscanner.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cawidgetscanner.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hsappkeyplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hsappkeyplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tsscreenshotplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tsscreenshotplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/plugins/commandhandler/caapphandlerplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/commandhandler/caapphandlerplugin.xml	export	
+/epoc32/data/z/resource/qt/plugins/commandhandler/catapphandlerplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/commandhandler/catapphandlerplugin.xml	export	
+/epoc32/data/z/resource/qt/plugins/commandhandler/caurlhandlerplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/commandhandler/caurlhandlerplugin.xml	export	
+/epoc32/data/z/resource/qt/translations/contentstorage.qm	export	
+/epoc32/data/z/resource/taskswitcher/activitytsplugin.xml	export	
+/epoc32/data/z/system/install/activitymanager_stub.sis	export	
+/epoc32/data/z/system/install/hsappkeyplugin_stub.sis	export	
+/epoc32/data/z/system/install/taskmonitor_stub.sis	export	
+/epoc32/include/cawidgetscanner.rsg	resource	armv5_urel
+/epoc32/include/cawidgetscanner.rsg	resource	winscw_udeb
+/epoc32/include/homescreensrv_exports_to_rom.rsg	resource	armv5_urel
+/epoc32/include/homescreensrv_exports_to_rom.rsg	resource	winscw_udeb
+/epoc32/include/hsrunningappmonitor.rsg	resource	armv5_urel
+/epoc32/include/hsrunningappmonitor.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/MenuSatInterface.h	export	
+/epoc32/include/platform/mw/afactivation.h	export	
+/epoc32/include/platform/mw/afactivities_global.h	export	
+/epoc32/include/platform/mw/afactivitylauncher.h	export	
+/epoc32/include/platform/mw/afactivitystorage.h	export	
+/epoc32/include/platform/mw/afstorageglobals.h	export	
+/epoc32/include/platform/mw/caclient_global.h	export	
+/epoc32/include/platform/mw/cadefs.h	export	
+/epoc32/include/platform/mw/caentry.h	export	
+/epoc32/include/platform/mw/caicondescription.h	export	
+/epoc32/include/platform/mw/caitemmodel.h	export	
+/epoc32/include/platform/mw/camenuiconutility.h	export	
+/epoc32/include/platform/mw/canotifier.h	export	
+/epoc32/include/platform/mw/canotifierfilter.h	export	
+/epoc32/include/platform/mw/caquery.h	export	
+/epoc32/include/platform/mw/caservice.h	export	
+/epoc32/include/platform/mw/casoftwareregistry.h	export	
+/epoc32/include/platform/mw/cauninstallnotifier.h	export	
+/epoc32/include/platform/mw/homescreendomainpskeys.h	export	
+/epoc32/include/platform/mw/hsipreferencestore.h	export	
+/epoc32/include/platform/mw/hsiwidgetprovider.h	export	
+/epoc32/include/platform/mw/hswidget.h	export	
+/epoc32/include/platform/mw/hswidgetfactory.h	export	
+/epoc32/include/platform/mw/hswidgetmodel_global.h	export	
+/epoc32/include/platform/mw/hswidgetprovidermanifest.h	export	
+/epoc32/include/platform/mw/ihswidgetpreferenceservice.h	export	
+/epoc32/include/platform/mw/tspropertydefs.h	export	
+/epoc32/include/platform/mw/tstaskmonitor_global.h	export	
+/epoc32/include/platform/mw/tstasksettings.h	export	
+/epoc32/include/tsscreenshotplugin.rsg	resource	armv5_urel
+/epoc32/include/tsscreenshotplugin.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/MenuInterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MenuInterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MenuInterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MenuInterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/activitytsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/activitytsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/activitytsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/activitytsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/afactivitylauncher.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/afactivitylauncher.dso	build	armv5_urel
+/epoc32/release/armv5/lib/afactivitylauncher{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/afactivitylauncher{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/afservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/afservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/afservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/afservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/afstorageclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/afstorageclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/afstorageclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/afstorageclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caapphandlerplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caapphandlerplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caapphandlerplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caapphandlerplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calocalizerscanner.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calocalizerscanner.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calocalizerscanner{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calocalizerscanner{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/camenu.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/camenu.dso	build	armv5_urel
+/epoc32/release/armv5/lib/camenu{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/camenu{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/casoftwareregistry.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/casoftwareregistry.dso	build	armv5_urel
+/epoc32/release/armv5/lib/casoftwareregistry{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/casoftwareregistry{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/casrvmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/casrvmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/casrvmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/casrvmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/castorage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/castorage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/castorage{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/castorage{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/catapphandlerplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/catapphandlerplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/catapphandlerplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/catapphandlerplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caurlhandlerplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caurlhandlerplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caurlhandlerplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caurlhandlerplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cautils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cautils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cautils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cautils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hbactivityplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hbactivityplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hbactivityplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hbactivityplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hswidgetmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hswidgetmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hswidgetmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hswidgetmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tsbackstepping.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tsbackstepping.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tsbackstepping{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tsbackstepping{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tsdevicedialogplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tsdevicedialogplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tsdevicedialogplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tsdevicedialogplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tstaskmonitorclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tstaskmonitorclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tstaskmonitorclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tstaskmonitorclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/MenuInterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MenuInterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/activitytsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/activitytsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/afactivitylauncher.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/afactivitylauncher.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/afservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/afservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/afstorageclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/afstorageclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/afstoragecommon.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/caapphandlerplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/caapphandlerplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/caappscanner.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/caappscanner.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/caclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/caclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calocalizerscanner.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calocalizerscanner.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/camenu.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/camenu.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/camenuserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/camenuserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/casatmonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/casatmonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/casoftwareregistry.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/casoftwareregistry.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/casrvmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/casrvmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/castorage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/castorage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/catapphandlerplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/catapphandlerplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/caurlhandlerplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/caurlhandlerplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/causifscanner.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/causifscanner.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cautils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cautils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cawidgetscanner.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cawidgetscanner.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbactivityplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hbactivityplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/homescreensrv_exports_to_rom.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/homescreensrv_exports_to_rom.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsactivitydbserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsactivitydbserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsappkeyplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsappkeyplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsrunningappmonitor.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsrunningappmonitor.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hswidgetmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hswidgetmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsbackstepping.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsbackstepping.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsdevicedialogplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsdevicedialogplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsscreenshotplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsscreenshotplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tstaskmonitorclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tstaskmonitorclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/MenuInterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MenuInterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/activitytsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/activitytsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/afactivitylauncher.dll	build	armv5_urel
+/epoc32/release/armv5/urel/afactivitylauncher.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/afservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/afservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/afstorageclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/afstorageclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/afstoragecommon.lib	build	armv5_urel
+/epoc32/release/armv5/urel/caapphandlerplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/caapphandlerplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/caappscanner.dll	build	armv5_urel
+/epoc32/release/armv5/urel/caappscanner.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/caclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/caclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calocalizerscanner.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calocalizerscanner.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/camenu.dll	build	armv5_urel
+/epoc32/release/armv5/urel/camenu.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/camenuserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/camenuserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/casatmonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/casatmonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/casoftwareregistry.dll	build	armv5_urel
+/epoc32/release/armv5/urel/casoftwareregistry.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/casrvmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/casrvmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/castorage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/castorage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/catapphandlerplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/catapphandlerplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/caurlhandlerplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/caurlhandlerplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/causifscanner.dll	build	armv5_urel
+/epoc32/release/armv5/urel/causifscanner.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cautils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cautils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cawidgetscanner.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cawidgetscanner.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hbactivityplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hbactivityplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/homescreensrv_exports_to_rom.exe	build	armv5_urel
+/epoc32/release/armv5/urel/homescreensrv_exports_to_rom.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsactivitydbserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hsactivitydbserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsappkeyplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsappkeyplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsrunningappmonitor.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hsrunningappmonitor.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hswidgetmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hswidgetmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tsbackstepping.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tsbackstepping.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tsdevicedialogplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tsdevicedialogplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tsscreenshotplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tsscreenshotplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tstaskmonitorclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tstaskmonitorclient.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/MenuInterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MenuInterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/activitytsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/activitytsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/afactivitylauncher.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/afactivitylauncher.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/afservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/afservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/afstorageclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/afstorageclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/afstoragecommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/caapphandlerplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/caapphandlerplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/caappscanner.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/caclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/caclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calocalizerscanner.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calocalizerscanner.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/camenu.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/camenu.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/camenuserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/casatmonitor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/casoftwareregistry.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/casoftwareregistry.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/casrvmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/casrvmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/castorage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/castorage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/catapphandlerplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/catapphandlerplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/caurlhandlerplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/caurlhandlerplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/causifscanner.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cautils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cautils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cawidgetscanner.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbactivityplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hbactivityplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/homescreensrv_exports_to_rom.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsactivitydbserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsappkeyplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsrunningappmonitor.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hswidgetmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hswidgetmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tsbackstepping.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tsbackstepping.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tsdevicedialogplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tsdevicedialogplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tsscreenshotplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tstaskmonitorclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tstaskmonitorclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/homescreensrv_exports_to_rom_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hsrunningappmonitor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/20022F90/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/20022F90/castorage.db	export	
+/epoc32/release/winscw/udeb/z/resource/activity/activityserviceplugin.xml	export	
+/epoc32/release/winscw/udeb/z/resource/activity/afservice.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/homescreensrv_exports_to_rom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/hsrunningappmonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/caappscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/calocalizerscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/casatmonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/causifscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cawidgetscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hsappkeyplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tsscreenshotplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/commandhandler/caapphandlerplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/commandhandler/caapphandlerplugin.xml	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/commandhandler/catapphandlerplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/commandhandler/catapphandlerplugin.xml	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/commandhandler/caurlhandlerplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/commandhandler/caurlhandlerplugin.xml	export	
+/epoc32/release/winscw/udeb/z/resource/qt/translations/contentstorage.qm	export	
+/epoc32/release/winscw/udeb/z/resource/taskswitcher/activitytsplugin.xml	export	
+/epoc32/release/winscw/udeb/z/system/install/activitymanager_stub.sis	export	
+/epoc32/release/winscw/udeb/z/system/install/hsappkeyplugin_stub.sis	export	
+/epoc32/release/winscw/udeb/z/system/install/taskmonitor_stub.sis	export	
+/epoc32/release/winscw/urel/MenuInterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MenuInterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/activitytsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/activitytsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/afactivitylauncher.dll	build	winscw_urel
+/epoc32/release/winscw/urel/afactivitylauncher.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/afservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/afservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/afstorageclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/afstorageclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/afstoragecommon.lib	build	winscw_urel
+/epoc32/release/winscw/urel/caapphandlerplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/caapphandlerplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/caappscanner.dll	build	winscw_urel
+/epoc32/release/winscw/urel/caappscanner.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/caclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/caclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calocalizerscanner.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calocalizerscanner.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/camenu.dll	build	winscw_urel
+/epoc32/release/winscw/urel/camenu.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/camenuserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/camenuserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/casatmonitor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/casatmonitor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/casoftwareregistry.dll	build	winscw_urel
+/epoc32/release/winscw/urel/casoftwareregistry.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/casrvmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/casrvmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/castorage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/castorage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/catapphandlerplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/catapphandlerplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/caurlhandlerplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/caurlhandlerplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/causifscanner.dll	build	winscw_urel
+/epoc32/release/winscw/urel/causifscanner.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cautils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cautils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cawidgetscanner.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cawidgetscanner.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hbactivityplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hbactivityplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/homescreensrv_exports_to_rom.exe	build	winscw_urel
+/epoc32/release/winscw/urel/homescreensrv_exports_to_rom.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsactivitydbserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hsactivitydbserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsappkeyplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsappkeyplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsrunningappmonitor.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hsrunningappmonitor.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hswidgetmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hswidgetmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tsbackstepping.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tsbackstepping.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tsdevicedialogplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tsdevicedialogplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tsscreenshotplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tsscreenshotplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tstaskmonitorclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tstaskmonitorclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/homescreensrv_exports_to_rom_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hsrunningappmonitor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/20022F90/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/20022F90/castorage.db	export	
+/epoc32/release/winscw/urel/z/resource/activity/activityserviceplugin.xml	export	
+/epoc32/release/winscw/urel/z/resource/activity/afservice.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/homescreensrv_exports_to_rom.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/hsrunningappmonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/caappscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/calocalizerscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/casatmonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/causifscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cawidgetscanner.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hsappkeyplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tsscreenshotplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/qt/plugins/commandhandler/caapphandlerplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/commandhandler/caapphandlerplugin.xml	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/commandhandler/catapphandlerplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/commandhandler/catapphandlerplugin.xml	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/commandhandler/caurlhandlerplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/commandhandler/caurlhandlerplugin.xml	export	
+/epoc32/release/winscw/urel/z/resource/qt/translations/contentstorage.qm	export	
+/epoc32/release/winscw/urel/z/resource/taskswitcher/activitytsplugin.xml	export	
+/epoc32/rom/config/assets/s60/confml/CI_castoragedb.confml	export	
+/epoc32/rom/config/assets/s60/confml/castoragedb.confml	export	
+/epoc32/rom/config/assets/s60/confml/tsdevicedialog.confml	export	
+/epoc32/rom/config/assets/s60/implml/castoragedb.implml	export	
+/epoc32/rom/config/assets/s60/implml/castoragedb_templates/castoragedb_create.sql	export	
+/epoc32/rom/config/assets/s60/implml/castoragedb_templates/castoragedb_variant.sql	export	
+/epoc32/rom/config/assets/s60/implml/tsdevicedialog_2002677F.crml	export	
+/epoc32/rom/include/core/mw/activitymanager_core.iby	export	
+/epoc32/rom/include/core/mw/homescreensrv_core.iby	export	
+/epoc32/rom/include/core/mw/hsappkeyhandler.iby	export	
+/epoc32/rom/include/core/mw/tsdevicedialog_core.iby	export	
+/epoc32/rom/include/core/mw/tstaskmonitor_core.iby	export	
+/epoc32/rom/include/language/mw/homescreensrv_language.iby	export	
+/epoc32/rom/include/language/mw/tsdevicedialog_resources.iby	export	
+/epoc32/tools/qt/mkspecs/features/symbian/skin_icon.prf	export	
+/epoc32/winscw/c/private/2002AC7F/des/activitytsplugin.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/afservice.xml	export	
+/epoc32/winscw/c/resource/activity/activityserviceplugin.xml	export	
+/epoc32/winscw/c/resource/qt/crml/homescreeninformation.qcrml	export	
+/sf/mw/homescreensrv/activityfw/inc/afasyncrequestobserver.h	export	
+/sf/mw/homescreensrv/activityfw/inc/afentry.h	export	
+/sf/mw/homescreensrv/activityfw/inc/afstorageclient.h	export	
+/sf/mw/homescreensrv/activityfw/storage/inc/afcmd.h	export	
+/sf/mw/homescreensrv/activityfw/storage/inc/afentry.h	export	
+/sf/mw/homescreensrv/activityfw/storage/inc/afglobals.h	export	
+/sf/mw/homescreensrv/inc/tstask.h	export	
+/sf/mw/homescreensrv/inc/tstaskchangeinfo.h	export	
+/sf/mw/homescreensrv/inc/tstaskmonitor.h	export	
+/sf/mw/homescreensrv/inc/tstaskmonitorglobals.h	export	

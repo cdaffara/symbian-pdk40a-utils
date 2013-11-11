@@ -1,0 +1,94 @@
+/epoc32/data/Z/private/2000F847/backup_registration.xml	export	
+/epoc32/data/z/resource/apps/rtsecmanager.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/rtsecmanager.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/rtsecmanager.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/rtsecmanager.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/liwservicehandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/liwservicehandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/liwresolver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/liwresolver.rsc	resource	winscw_udeb
+/epoc32/include/liwservicehandler.rsg	resource	armv5_urel
+/epoc32/include/liwservicehandler.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/liwbufferextension.h	export	
+/epoc32/include/platform/mw/liwcommon.h	export	
+/epoc32/include/platform/mw/liwcommon.hrh	export	
+/epoc32/include/platform/mw/liwcommon.rh	export	
+/epoc32/include/platform/mw/liwgenericparam.h	export	
+/epoc32/include/platform/mw/liwgenericparam.hrh	export	
+/epoc32/include/platform/mw/liwgenericparam.inl	export	
+/epoc32/include/platform/mw/liwmenu.h	export	
+/epoc32/include/platform/mw/liwservicehandler.h	export	
+/epoc32/include/platform/mw/liwserviceifbase.h	export	
+/epoc32/include/platform/mw/liwserviceifmenu.h	export	
+/epoc32/include/platform/mw/liwvariant.h	export	
+/epoc32/include/platform/mw/liwvariant.inl	export	
+/epoc32/include/platform/mw/liwvarianttype.hrh	export	
+/epoc32/include/platform/mw/loc/sc/rtsecmanager.loc	export	
+/epoc32/include/platform/mw/rtsecmanager.h	export	
+/epoc32/include/platform/mw/rtsecmgrcommondef.h	export	
+/epoc32/include/platform/mw/rtsecmgrpermission.h	export	
+/epoc32/include/platform/mw/rtsecmgrpermissionset.h	export	
+/epoc32/include/platform/mw/rtsecmgrscript.h	export	
+/epoc32/include/platform/mw/rtsecmgrscriptsession.h	export	
+/epoc32/include/platform/mw/rtsecmgrtrustinfo.h	export	
+/epoc32/include/platform/mw/rtsecmgrutility.h	export	
+/epoc32/include/rtsecmanager.rsg	resource	armv5_urel
+/epoc32/include/rtsecmanager.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/RTSecMgrClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RTSecMgrClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RTSecMgrClient{000a0003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RTSecMgrClient{000a0003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RTSecMgrUtil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RTSecMgrUtil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RTSecMgrUtil{000a0003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RTSecMgrUtil{000a0003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/liwServiceHandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/liwServiceHandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/liwServiceHandler{000a0002}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/liwServiceHandler{000a0002}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/RTSecMgrClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RTSecMgrClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RTSecMgrUtil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RTSecMgrUtil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/liwResolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/liwResolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/liwServiceHandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/liwServiceHandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtsecmgrserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtsecmgrserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/RTSecMgrClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RTSecMgrClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/RTSecMgrUtil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RTSecMgrUtil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/liwResolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/liwResolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/liwServiceHandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/liwServiceHandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtsecmgrserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/rtsecmgrserver.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/RTSecMgrClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RTSecMgrClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/RTSecMgrUtil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RTSecMgrUtil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/liwResolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/liwServiceHandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/liwServiceHandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtsecmgrserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/rtsecmanager.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/rtsecmanager.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/liwservicehandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/liwresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/RTSecMgrClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RTSecMgrClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/RTSecMgrUtil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RTSecMgrUtil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/liwResolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/liwResolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/liwServiceHandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/liwServiceHandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtsecmgrserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/rtsecmgrserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/apps/rtsecmanager.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/rtsecmanager.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/liwservicehandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/liwresolver.rsc	resource	winscw_udeb

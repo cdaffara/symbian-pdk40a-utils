@@ -1,0 +1,238 @@
+/epoc32/data/z/private/101fe1db/backup_registration.xml	export	
+/epoc32/data/z/private/10202be9/10208dd7.txt	export	
+/epoc32/data/z/private/10202be9/10285c46.txt	export	
+/epoc32/data/z/private/10204bbb/usbms.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/acmclasscontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/acmclasscontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/msclasscontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/msfdc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ncmclasscontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/referencepolicyplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbbatterychargingplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/usbbatterychargingplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/usbbatterychargingpluginotg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/whcmclasscontroller.rsc	resource	armv5_urel
+/epoc32/include/msfdc.rsg	resource	armv5_urel
+/epoc32/include/platform/acminterface.h	export	
+/epoc32/include/platform/cusbclasscontrollerbase.h	export	
+/epoc32/include/platform/cusbclasscontrolleriterator.h	export	
+/epoc32/include/platform/cusbclasscontrollerplugin.h	export	
+/epoc32/include/platform/cusbmanextensionplugin.h	export	
+/epoc32/include/platform/musbchargingnotify.h	export	
+/epoc32/include/platform/musbclasscontrollernotify.h	export	
+/epoc32/include/platform/musbdevicenotify.h	export	
+/epoc32/include/platform/musbmanextensionpluginobserver.h	export	
+/epoc32/include/platform/usb/acmconfig.h	export	
+/epoc32/include/platform/usb/acmserver.h	export	
+/epoc32/include/platform/usb/hostms/msmm_policy_def.h	export	
+/epoc32/include/platform/usb/hostms/msmmindicatorclient.h	export	
+/epoc32/include/platform/usb/hostms/msmmpolicypluginbase.h	export	
+/epoc32/include/platform/usb/hostms/msmmpolicypluginbase.inl	export	
+/epoc32/include/platform/usb/hostms/srverr.h	export	
+/epoc32/include/platform/usb/usblogger.h	export	
+/epoc32/include/platform/usb/usbncm.h	export	
+/epoc32/include/platform/usb/usbshared.h	export	
+/epoc32/include/platform/usb_std.h	export	
+/epoc32/include/platform/usbclassuids.h	export	
+/epoc32/include/platform/usberrors.h	export	
+/epoc32/include/platform/usbhost/internal/fdcinterface.h	export	
+/epoc32/include/platform/usbhost/internal/fdcplugin.h	export	
+/epoc32/include/platform/usbhost/internal/fdcpluginobserver.h	export	
+/epoc32/include/platform/usbhostdefs.h	export	
+/epoc32/include/platform/usbhosterrors.h	export	
+/epoc32/include/platform/usbman.h	export	
+/epoc32/include/platform/usbotgdefs.h	export	
+/epoc32/include/platform/usbstates.h	export	
+/epoc32/include/usb/hostms/policyplugin.hrh	export	
+/epoc32/include/usb/hostms/policypluginnotifier.hrh	export	
+/epoc32/include/usbchargingpublishedinfo.h	export	
+/epoc32/include/usbhost/internal/fdcplugin.hrh	export	
+/epoc32/include/usbhost/internal/fdfcaps.mmh	export	
+/epoc32/include/usbms.rsg	resource	armv5_urel
+/epoc32/release/armv5/lib/acmserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/acmserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/acmserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/acmserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fdcbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fdcbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fdcbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fdcbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msmmindicatorsession.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msmmindicatorsession.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msmmindicatorsession{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msmmindicatorsession{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msmmsession.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msmmsession.dso	build	armv5_urel
+/epoc32/release/armv5/lib/msmmsession{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/msmmsession{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncminternalsrv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncminternalsrv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncminternalsrv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncminternalsrv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncmpkt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncmpkt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ncmpkt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ncmpkt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbclasscontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbclasscontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbclasscontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbclasscontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbhoststack.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbhoststack.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbhoststack{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbhoststack{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbman.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbman.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbmanextensionplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbmanextensionplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbmanextensionplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbmanextensionplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/usbman{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/usbman{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/acmclasscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/acmclasscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/acmserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/acmserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecacm.csy	build	armv5_udeb
+/epoc32/release/armv5/udeb/ecacm.csy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fdcbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fdcbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fdf.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/fdf.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msclasscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msclasscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msfdc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msfdc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msmmindicatorsession.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msmmindicatorsession.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msmmserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/msmmserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/msmmsession.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/msmmsession.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncmclasscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncmclasscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncminternalsrv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncminternalsrv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncmpkt.drv	build	armv5_udeb
+/epoc32/release/armv5/udeb/ncmpkt.drv.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/referencepolicyplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/referencepolicyplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbbatterychargingplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbbatterychargingplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbbatterychargingpluginotg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbbatterychargingpluginotg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbclasscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbclasscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhoststack.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbhoststack.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbman.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbman.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmanextensionplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbmanextensionplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbsvr.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbsvr.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbsvrotg.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/usbsvrotg.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/whcmclasscontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/whcmclasscontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/acmclasscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/acmclasscontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/acmserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/acmserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ecacm.csy	build	armv5_urel
+/epoc32/release/armv5/urel/ecacm.csy.map	build	armv5_urel
+/epoc32/release/armv5/urel/fdcbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fdcbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fdf.exe	build	armv5_urel
+/epoc32/release/armv5/urel/fdf.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/msclasscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msclasscontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msfdc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msfdc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msmmindicatorsession.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msmmindicatorsession.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/msmmserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/msmmserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/msmmsession.dll	build	armv5_urel
+/epoc32/release/armv5/urel/msmmsession.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncmclasscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ncmclasscontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncminternalsrv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ncminternalsrv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ncmpkt.drv	build	armv5_urel
+/epoc32/release/armv5/urel/ncmpkt.drv.map	build	armv5_urel
+/epoc32/release/armv5/urel/referencepolicyplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/referencepolicyplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbbatterychargingplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbbatterychargingplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbbatterychargingpluginotg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbbatterychargingpluginotg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbclasscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbclasscontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbhoststack.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbhoststack.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbman.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbman.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbmanextensionplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/usbmanextensionplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbsvr.exe	build	armv5_urel
+/epoc32/release/armv5/urel/usbsvr.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/usbsvrotg.exe	build	armv5_urel
+/epoc32/release/armv5/urel/usbsvrotg.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/whcmclasscontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/whcmclasscontroller.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/acmclasscontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/acmserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/acmserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ecacm.csy	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbbatterychargingplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbclasscontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbclasscontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbhoststack.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbhoststack.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbman.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbman.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbmanextensionplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbmanextensionplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/usbsvr.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202be9/10208dd7.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10285c46.txt	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/acmclasscontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/usbbatterychargingplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/acmclasscontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/acmclasscontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/acmserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/acmserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ecacm.csy	build	winscw_urel
+/epoc32/release/winscw/urel/ecacm.csy.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbbatterychargingplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbbatterychargingplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbclasscontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbclasscontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbhoststack.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbhoststack.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbman.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbman.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbmanextensionplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/usbmanextensionplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/usbsvr.exe	build	winscw_urel
+/epoc32/release/winscw/urel/usbsvr.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10202be9/10208dd7.txt	export	
+/epoc32/release/winscw/urel/z/resource/plugins/acmclasscontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/usbbatterychargingplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/symbianos/confml/usbmanager.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/usbmanager_101fe1db.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/usbmanager_10208dd7.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/usbmanager_10285c46.crml	export	
+/epoc32/rom/include/fdf.iby	export	
+/epoc32/rom/include/msfdc.iby	export	
+/epoc32/rom/include/t_usbecacmconfiguration.hby	export	
+/epoc32/rom/include/usb.iby	export	
+/epoc32/rom/include/usbacm.iby	export	
+/epoc32/rom/include/usbacmconfiguration.hby	export	
+/epoc32/rom/include/usbecacmconfiguration.hby	export	
+/epoc32/rom/include/usbhostmsmm.iby	export	
+/epoc32/rom/include/usbman.iby	export	
+/epoc32/rom/include/usbncm.iby	export	
+/epoc32/rom/include/usbncmconfiguration.hby	export	
+/epoc32/rom/include/usbperipheral.iby	export	

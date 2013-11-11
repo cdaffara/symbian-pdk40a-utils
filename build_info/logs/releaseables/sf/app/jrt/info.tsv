@@ -1,0 +1,1621 @@
+/epoc32/data/z/private/10003a3f/apps/javacontrolpanel_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/javacontrolpanel_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/javainstaller_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/javainstaller_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/tckrunner_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/tckrunner_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/javaappscheme_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/javaappscheme_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/javaqtrequest_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/javaqtrequest_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/102033E6/backup_registration.xml	export	
+/epoc32/data/z/private/102033E6/installer/inst_plugins.cfg	export	
+/epoc32/data/z/private/1028246F/backup_registration.xml	export	
+/epoc32/data/z/private/200211dc/security/trustroots/device/certificates/test_manufacturer.der	export	
+/epoc32/data/z/private/200211dc/security/trustroots/device/certificates/test_manufacturer.metadata	export	
+/epoc32/data/z/private/200211dc/security/trustroots/device/certificates/test_operator.der	export	
+/epoc32/data/z/private/200211dc/security/trustroots/device/certificates/test_operator.metadata	export	
+/epoc32/data/z/private/200211dc/security/trustroots/device/certificates/test_trustedthirdparty.der	export	
+/epoc32/data/z/private/200211dc/security/trustroots/device/certificates/test_trustedthirdparty.metadata	export	
+/epoc32/data/z/resource/apps/javaappscheme.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/javaappscheme.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/javainstaller_icon.mif	export	
+/epoc32/data/z/resource/apps/javainstaller_loc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/javainstaller_loc.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/javaqtrequest.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/javaqtrequest.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/iad/javasifplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/iad/javasifplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/iad/javaunicertstoreplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/iad/javaunicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/iad/midp2backupplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/iad/midp2backupplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/iad/recjar.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/iad/recjar.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/installerodclist	export	
+/epoc32/data/z/resource/java/javacontrolpanelodclist	export	
+/epoc32/data/z/resource/java/javausermessages.r01	resource	armv5_urel
+/epoc32/data/z/resource/java/javausermessages.r01	resource	winscw_udeb
+/epoc32/data/z/resource/java/javausermessages.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/javausermessages.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/midpodclist	export	
+/epoc32/data/z/resource/java/pimcm.r01	resource	armv5_urel
+/epoc32/data/z/resource/java/pimcm.r01	resource	winscw_udeb
+/epoc32/data/z/resource/java/pimcm.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/pimcm.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/pimevent.r01	resource	armv5_urel
+/epoc32/data/z/resource/java/pimevent.r01	resource	winscw_udeb
+/epoc32/data/z/resource/java/pimevent.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/pimevent.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/pimtodo.r01	resource	armv5_urel
+/epoc32/data/z/resource/java/pimtodo.r01	resource	winscw_udeb
+/epoc32/data/z/resource/java/pimtodo.rsc	resource	armv5_urel
+/epoc32/data/z/resource/java/pimtodo.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/java/security/trustroots/midprootslist	export	
+/epoc32/data/z/resource/java/tckrunnerodclist	export	
+/epoc32/data/z/resource/plugins/indicators/javasoftindicatorplugin.qtplugin	export	
+/epoc32/data/z/resource/plugins/javasifplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/javasifplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/javaunicertstoreplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/javaunicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/midp2backupplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/midp2backupplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recjar.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recjar.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/plugins/appsettings/javaapplicationsettingsview.qtplugin	export	
+/epoc32/data/z/resource/versions/java.txt	export	
+/epoc32/data/z/system/install/java.sis	resource	armv5_udeb
+/epoc32/data/z/system/install/java.sis	resource	armv5_urel
+/epoc32/include/javaappscheme.rsg	resource	armv5_urel
+/epoc32/include/javaappscheme.rsg	resource	winscw_udeb
+/epoc32/include/javaqtrequest.rsg	resource	armv5_urel
+/epoc32/include/javaqtrequest.rsg	resource	winscw_udeb
+/epoc32/include/javausermessages.rsg	resource	armv5_urel
+/epoc32/include/javausermessages.rsg	resource	winscw_udeb
+/epoc32/include/pimcm.rsg	resource	armv5_urel
+/epoc32/include/pimcm.rsg	resource	winscw_udeb
+/epoc32/include/pimevent.rsg	resource	armv5_urel
+/epoc32/include/pimevent.rsg	resource	winscw_udeb
+/epoc32/include/pimtodo.rsg	resource	armv5_urel
+/epoc32/include/pimtodo.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/appversion.h	export	
+/epoc32/include/platform/app/appversion.inl	export	
+/epoc32/include/platform/app/javaattribute.h	export	
+/epoc32/include/platform/app/javadebugapi.h	export	
+/epoc32/include/platform/app/javadiagnostic.h	export	
+/epoc32/include/platform/app/javadomainpskeys.h	export	
+/epoc32/include/platform/app/javaenvinfo.h	export	
+/epoc32/include/platform/app/javaregistry.h	export	
+/epoc32/include/platform/app/javaregistryapplicationentry.h	export	
+/epoc32/include/platform/app/javaregistryentry.h	export	
+/epoc32/include/platform/app/javaregistryentrytype.h	export	
+/epoc32/include/platform/app/javaregistryincludes.h	export	
+/epoc32/include/platform/app/javaregistrypackageentry.h	export	
+/epoc32/include/platform/app/loc/sc/javausermessages.loc	export	
+/epoc32/include/platform/app/loc/sc/pimcm.loc	export	
+/epoc32/include/platform/app/loc/sc/pimevent.loc	export	
+/epoc32/include/platform/app/loc/sc/pimtodo.loc	export	
+/epoc32/include/platform/app/mjavaattribute.h	export	
+/epoc32/release/WINSCW/udeb/z/system/install/java.sis	resource	winscw_udeb
+/epoc32/release/WINSCW/urel/z/system/install/java.sis	resource	winscw_urel
+/epoc32/release/armv5/lib/eswtqt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eswtqt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eswtqtwebkit.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eswtqtwebkit.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eswtqtwebkit{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eswtqtwebkit{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eswtqt{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eswtqt{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaamms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaamms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaamms{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaamms{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaapplicationsettingsview.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaapplicationsettingsview.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaapplicationsettingsview{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaapplicationsettingsview{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabluecove.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabluecove.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabluecove{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabluecove{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabluetooth.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabluetooth.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabluetoothcommons.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabluetoothcommons.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabluetoothcommons{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabluetoothcommons{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabluetooth{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabluetooth{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabtgoepscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabtgoepscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabtgoepscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabtgoepscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabtl2capscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabtl2capscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabtl2capscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabtl2capscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabtsppscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabtsppscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javabtsppscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javabtsppscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_autostarter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_autostarter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_autostarter{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_autostarter{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_btdeviceclassmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_btdeviceclassmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_btdeviceclassmanager{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_btdeviceclassmanager{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_config.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_config.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_config{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_config{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_javasoftnoteplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_javasoftnoteplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_javasoftnoteplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_javasoftnoteplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_2{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_2{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_7.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_7.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_7{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_ondemand_7{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_preinstallerstarter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_preinstallerstarter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_preinstallerstarter{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_preinstallerstarter{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_pushregistryplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_pushregistryplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_pushregistryplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_pushregistryplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_scrupdater.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_scrupdater.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_scrupdater{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_scrupdater{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_settingslistener.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_settingslistener.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_settingslistener{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_settingslistener{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_storageserverplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_storageserverplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacaptain_ext_storageserverplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacaptain_ext_storageserverplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacbsscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacbsscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacbsscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacbsscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacentrep.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacentrep.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacentrep{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacentrep{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacomm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacomm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacomms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacomms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacomms{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacomms{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacomm{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacomm{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaconnectionmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaconnectionmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaconnectionmanager{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaconnectionmanager{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacontrolpanel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacontrolpanel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacontrolpanel{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacontrolpanel{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacoreui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacoreui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javacoreui{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javacoreui{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javadatagram.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javadatagram.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javadatagramscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javadatagramscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javadatagramscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javadatagramscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javadatagram{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javadatagram{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javadebugapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javadebugapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javadebugapi{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javadebugapi{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaenvinfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaenvinfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaenvinfo{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaenvinfo{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javafile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javafile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javafileutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javafileutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javafileutils{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javafileutils{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javafile{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javafile{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javagcf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javagcf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javagcf{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javagcf{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javahttp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javahttp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javahttps.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javahttps.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javahttps{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javahttps{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javahttp{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javahttp{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaiapinfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaiapinfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaiapinfo{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaiapinfo{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javainstaller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javainstaller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javainstallerstarter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javainstallerstarter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javainstallerstarter{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javainstallerstarter{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javainstallerui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javainstallerui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javainstallerui{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javainstallerui{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javainstaller{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javainstaller{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaipc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaipc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaipc{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaipc{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javajvmargsmodifier.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javajvmargsmodifier.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javajvmargsmodifierfile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javajvmargsmodifierfile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javajvmargsmodifierfile{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javajvmargsmodifierfile{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javajvmargsmodifier{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javajvmargsmodifier{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javalocation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javalocation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javalocation{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javalocation{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javam3g.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javam3g.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javam3g{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javam3g{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamidpruntime.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamidpruntime.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamidpruntime{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamidpruntime{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamidpstarter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamidpstarter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamidpstarter{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamidpstarter{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javammsscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javammsscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javammsscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javammsscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamobilemedia.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamobilemedia.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamobilemedia{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamobilemedia{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamobinfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamobinfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javamobinfo{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javamobinfo{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javanokiasound.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javanokiasound.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javanokiasound{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javanokiasound{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javanokiaui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javanokiaui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javanokiaui{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javanokiaui{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapim.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapim.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapim{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapim{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapreinstaller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapreinstaller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapreinstaller{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapreinstaller{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapushcontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapushcontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapushcontroller{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapushcontroller{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapushregistry.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapushregistry.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javapushregistry{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javapushregistry{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaregistryclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaregistryclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaregistryclient{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaregistryclient{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javarms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javarms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javarms{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javarms{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaruntimestarterutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaruntimestarterutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaruntimestarterutils{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaruntimestarterutils{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaruntimeui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaruntimeui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaruntimeui{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaruntimeui{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasatsa.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasatsa.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasatsa{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasatsa{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasecurity.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasecurity.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasecurity{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasecurity{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasensor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasensor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasensor{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasensor{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasizehelperclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasizehelperclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasizehelperclient{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasizehelperclient{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasizehelperserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasizehelperserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasizehelperserver{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasizehelperserver{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasmsscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasmsscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasmsscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasmsscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasocket.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasocket.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasocketscplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasocketscplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasocketscplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasocketscplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasocket{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasocket{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasoftindicatorplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasoftindicatorplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javasoftindicatorplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javasoftindicatorplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javassl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javassl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javassl{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javassl{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javastarter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javastarter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javastarter{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javastarter{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javastorage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javastorage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javastorage{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javastorage{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javathreaddumper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javathreaddumper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javathreaddumper{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javathreaddumper{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaunicertstoreplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaunicertstoreplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javaunicertstoreplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javaunicertstoreplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javautils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javautils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javautils{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javautils{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javawma.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javawma.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javawmamms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javawmamms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javawmamms{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javawmamms{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/javawma{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/javawma{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jvmnativeport.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jvmnativeport.dso	build	armv5_urel
+/epoc32/release/armv5/lib/jvmnativeport{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/jvmnativeport{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/midp2backupplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/midp2backupplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/midp2backupplugin{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/midp2backupplugin{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/openlcdui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/openlcdui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/openlcdui{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/openlcdui{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tckrunner.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tckrunner.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tckrunner{000a0211}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tckrunner{000a0211}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/eswtqt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eswtqt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eswtqtwebkit.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eswtqtwebkit.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/java_impl_cdc.jar	resource	armv5_udeb
+/epoc32/release/armv5/udeb/java_impl_cldc.jar	resource	armv5_udeb
+/epoc32/release/armv5/udeb/java_platform_api.jar	resource	armv5_udeb
+/epoc32/release/armv5/udeb/java_public_api.jar	resource	armv5_udeb
+/epoc32/release/armv5/udeb/java_signature_test.jar	resource	armv5_udeb
+/epoc32/release/armv5/udeb/javaamms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaamms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaapplicationsettingsview.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaapplicationsettingsview.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaappscheme.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaappscheme.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabackup.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabackup.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabluecove.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabluecove.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabluetooth.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabluetooth.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabluetoothcommons.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabluetoothcommons.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabtgoepscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabtgoepscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabtl2capscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabtl2capscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabtsppscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javabtsppscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_autostarter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_autostarter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_btdeviceclassmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_btdeviceclassmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_config.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_config.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_javasoftnoteplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_javasoftnoteplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_ondemand_2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_ondemand_2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_ondemand_7.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_ondemand_7.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_preinstallerstarter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_preinstallerstarter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_pushregistryplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_pushregistryplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_scrupdater.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_scrupdater.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_settingslistener.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_settingslistener.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_storageserverplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacaptain_ext_storageserverplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacbsscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacbsscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacentrep.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacentrep.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacomm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacomm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacomms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacomms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaconnectionmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaconnectionmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacontrolpanel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacontrolpanel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacontrolpanel.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacontrolpanel.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacoreui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javacoreui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javadatagram.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javadatagram.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javadatagramscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javadatagramscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javadebugapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javadebugapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaenvinfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaenvinfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javafile.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javafile.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javafileutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javafileutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javafinishjrtinstall.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javafinishjrtinstall.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javagcf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javagcf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javahttp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javahttp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javahttps.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javahttps.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaiapinfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaiapinfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstallcopier.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstallcopier.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstaller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstaller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstaller.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstaller.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstallerstarter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstallerstarter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstallerui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javainstallerui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaipc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaipc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javajvmargsmodifier.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javajvmargsmodifier.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javajvmargsmodifierfile.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javajvmargsmodifierfile.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javalauncher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javalauncher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javalocation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javalocation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javam3g.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javam3g.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamidp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamidp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamidpruntime.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamidpruntime.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamidpstarter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamidpstarter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javammsscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javammsscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamobilemedia.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamobilemedia.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamobinfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javamobinfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javanokiasound.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javanokiasound.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javanokiaui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javanokiaui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapim.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapim.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapreinstaller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapreinstaller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapushcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapushcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapushregistry.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javapushregistry.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaqtrequest.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaqtrequest.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaregistryclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaregistryclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javarms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javarms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaruntimestarterutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaruntimestarterutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaruntimeui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaruntimeui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasatsa.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasatsa.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasecurity.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasecurity.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasecuritycustomization.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasecuritycustomization.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasensor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasensor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasifplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasifplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasizehelperclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasizehelperclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasizehelperserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasizehelperserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasmsscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasmsscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasocket.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasocket.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasocketscplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasocketscplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasoftindicatorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javasoftindicatorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javassl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javassl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javastarter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javastarter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javastorage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javastorage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javathreaddumper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javathreaddumper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaunicertstoreplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaunicertstoreplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaupgradeapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/javaupgradeapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javautils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javautils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javawma.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javawma.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/javawmamms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/javawmamms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/jvmnativeport.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/jvmnativeport.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/midp2backupplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/midp2backupplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/openlcdui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/openlcdui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recjar.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recjar.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tckrunner.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tckrunner.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tckrunner.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tckrunner.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/eswtqt.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/eswtqtwebkit.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javaamms.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javabluecove.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javabluetooth.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javabluetoothcommons.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javacentrep.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javacomm.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javacomms.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javaconnectionmanager.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javacontrolpanel.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javacoreui.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javadatagram.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javafile.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javafileutils.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javagcf.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javahttp.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javahttps.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javaiapinfo.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javainstaller.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javainstallerui.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javalocation.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javam3g.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javamidpruntime.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javamobilemedia.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javamobinfo.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javanokiasound.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javanokiaui.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javapim.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javapushregistry.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javarms.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javaruntimeui.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javasatsa.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javasecurity.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javasensor.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javasocket.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javassl.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javastorage.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javautils.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javawma.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/javawmamms.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/openlcdui.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/resources.jar	export	
+/epoc32/release/armv5/udeb/z/resource/java/jvm/lib/jrt/tckrunner.odc	resource	armv5_udeb
+/epoc32/release/armv5/udeb/z/resource/versions/java.txt	export	
+/epoc32/release/armv5/udeb/z/system/sounds/digital/CamcorderJavaCapture.wav	export	
+/epoc32/release/armv5/udeb/z/system/sounds/digital/CamcorderJavaStart.wav	export	
+/epoc32/release/armv5/urel/eswtqt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eswtqt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eswtqtwebkit.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eswtqtwebkit.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/java_impl_cdc.jar	resource	armv5_urel
+/epoc32/release/armv5/urel/java_impl_cldc.jar	resource	armv5_urel
+/epoc32/release/armv5/urel/java_platform_api.jar	resource	armv5_urel
+/epoc32/release/armv5/urel/java_public_api.jar	resource	armv5_urel
+/epoc32/release/armv5/urel/java_signature_test.jar	resource	armv5_urel
+/epoc32/release/armv5/urel/javaamms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaamms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaapplicationsettingsview.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaapplicationsettingsview.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaappscheme.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javaappscheme.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javabackup.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javabackup.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javabluecove.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javabluecove.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javabluetooth.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javabluetooth.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javabluetoothcommons.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javabluetoothcommons.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javabtgoepscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javabtgoepscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javabtl2capscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javabtl2capscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javabtsppscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javabtsppscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_autostarter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_autostarter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_btdeviceclassmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_btdeviceclassmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_config.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_config.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_javasoftnoteplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_javasoftnoteplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_ondemand_2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_ondemand_2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_ondemand_7.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_ondemand_7.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_preinstallerstarter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_preinstallerstarter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_pushregistryplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_pushregistryplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_scrupdater.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_scrupdater.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_settingslistener.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_settingslistener.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_storageserverplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacaptain_ext_storageserverplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacbsscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacbsscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacentrep.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacentrep.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacomm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacomm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacomms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacomms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaconnectionmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaconnectionmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacontrolpanel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacontrolpanel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacontrolpanel.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javacontrolpanel.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javacoreui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javacoreui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javadatagram.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javadatagram.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javadatagramscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javadatagramscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javadebugapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javadebugapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaenvinfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaenvinfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javafile.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javafile.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javafileutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javafileutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javafinishjrtinstall.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javafinishjrtinstall.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javagcf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javagcf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javahttp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javahttp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javahttps.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javahttps.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaiapinfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaiapinfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javainstallcopier.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javainstallcopier.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javainstaller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javainstaller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javainstaller.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javainstaller.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javainstallerstarter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javainstallerstarter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javainstallerui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javainstallerui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaipc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaipc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javajvmargsmodifier.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javajvmargsmodifier.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javajvmargsmodifierfile.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javajvmargsmodifierfile.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javalauncher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javalauncher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javalocation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javalocation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javam3g.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javam3g.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javamidp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javamidp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javamidpruntime.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javamidpruntime.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javamidpstarter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javamidpstarter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javammsscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javammsscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javamobilemedia.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javamobilemedia.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javamobinfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javamobinfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javanokiasound.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javanokiasound.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javanokiaui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javanokiaui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javapim.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javapim.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javapreinstaller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javapreinstaller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javapushcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javapushcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javapushregistry.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javapushregistry.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaqtrequest.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javaqtrequest.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaregistryclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaregistryclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javarms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javarms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaruntimestarterutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaruntimestarterutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaruntimeui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaruntimeui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasatsa.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasatsa.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasecurity.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasecurity.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasecuritycustomization.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javasecuritycustomization.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasensor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasensor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasifplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasifplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasizehelperclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasizehelperclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasizehelperserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasizehelperserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasmsscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasmsscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasocket.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasocket.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasocketscplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasocketscplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javasoftindicatorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javasoftindicatorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javassl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javassl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javastarter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javastarter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javastorage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javastorage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javathreaddumper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javathreaddumper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaunicertstoreplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javaunicertstoreplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javaupgradeapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/javaupgradeapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/javautils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javautils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javawma.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javawma.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/javawmamms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/javawmamms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/jvmnativeport.dll	build	armv5_urel
+/epoc32/release/armv5/urel/jvmnativeport.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/midp2backupplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/midp2backupplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/openlcdui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/openlcdui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recjar.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recjar.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tckrunner.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tckrunner.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tckrunner.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tckrunner.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/z/private/200211dc/security/trustroots/device/certificates/test_manufacturer.der	export	
+/epoc32/release/armv5/urel/z/private/200211dc/security/trustroots/device/certificates/test_manufacturer.metadata	export	
+/epoc32/release/armv5/urel/z/private/200211dc/security/trustroots/device/certificates/test_operator.der	export	
+/epoc32/release/armv5/urel/z/private/200211dc/security/trustroots/device/certificates/test_operator.metadata	export	
+/epoc32/release/armv5/urel/z/private/200211dc/security/trustroots/device/certificates/test_trustedthirdparty.der	export	
+/epoc32/release/armv5/urel/z/private/200211dc/security/trustroots/device/certificates/test_trustedthirdparty.metadata	export	
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/eswtqt.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/eswtqtwebkit.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javaamms.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javabluecove.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javabluetooth.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javabluetoothcommons.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javacentrep.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javacomm.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javacomms.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javaconnectionmanager.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javacontrolpanel.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javacoreui.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javadatagram.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javafile.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javafileutils.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javagcf.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javahttp.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javahttps.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javaiapinfo.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javainstaller.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javainstallerui.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javalocation.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javam3g.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javamidpruntime.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javamobilemedia.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javamobinfo.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javanokiasound.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javanokiaui.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javapim.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javapushregistry.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javarms.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javaruntimeui.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javasatsa.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javasecurity.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javasensor.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javasocket.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javassl.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javastorage.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javautils.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javawma.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/javawmamms.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/openlcdui.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/resources.jar	export	
+/epoc32/release/armv5/urel/z/resource/java/jvm/lib/jrt/tckrunner.odc	resource	armv5_urel
+/epoc32/release/armv5/urel/z/resource/versions/java.txt	export	
+/epoc32/release/armv5/urel/z/system/sounds/digital/CamcorderJavaCapture.wav	export	
+/epoc32/release/armv5/urel/z/system/sounds/digital/CamcorderJavaStart.wav	export	
+/epoc32/release/winscw/UDEB/Z/private/102033E6/backup_registration.xml	export	
+/epoc32/release/winscw/UDEB/Z/private/1028246F/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/eswtqt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eswtqt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eswtqtwebkit.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eswtqtwebkit.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/java_impl_cdc.jar	resource	winscw_udeb
+/epoc32/release/winscw/udeb/java_impl_cldc.jar	resource	winscw_udeb
+/epoc32/release/winscw/udeb/java_platform_api.jar	resource	winscw_udeb
+/epoc32/release/winscw/udeb/java_public_api.jar	resource	winscw_udeb
+/epoc32/release/winscw/udeb/java_signature_test.jar	resource	winscw_udeb
+/epoc32/release/winscw/udeb/javaamms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaamms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaapplicationsettingsview.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaapplicationsettingsview.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaappscheme.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabackup.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabluecove.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabluecove.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabluetooth.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabluetooth.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabluetoothcommons.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabluetoothcommons.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabtgoepscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabtgoepscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabtl2capscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabtl2capscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabtsppscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javabtsppscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_autostarter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_autostarter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_btdeviceclassmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_btdeviceclassmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_config.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_config.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_javasoftnoteplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_javasoftnoteplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_ondemand_2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_ondemand_2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_ondemand_7.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_ondemand_7.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_preinstallerstarter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_preinstallerstarter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_pushregistryplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_pushregistryplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_scrupdater.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_scrupdater.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_settingslistener.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_settingslistener.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_storageserverplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacaptain_ext_storageserverplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacbsscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacbsscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacentrep.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacentrep.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacomm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacomm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacomms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacomms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaconnectionmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaconnectionmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacontrolpanel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacontrolpanel.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacontrolpanel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacoreui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javacoreui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javadatagram.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javadatagram.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javadatagramscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javadatagramscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javadebugapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javadebugapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaenvinfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaenvinfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javafile.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javafile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javafileutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javafileutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javafinishjrtinstall.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javagcf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javagcf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javahttp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javahttp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javahttps.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javahttps.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaiapinfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaiapinfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstallcopier.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstaller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstaller.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstaller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstallerstarter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstallerstarter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstallerui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javainstallerui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaipc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaipc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javajvmargsmodifier.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javajvmargsmodifier.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javajvmargsmodifierfile.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javajvmargsmodifierfile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javalauncher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javalocation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javalocation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javam3g.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javam3g.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamidp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamidpruntime.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamidpruntime.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamidpstarter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamidpstarter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javammsscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javammsscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamobilemedia.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamobilemedia.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamobinfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javamobinfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javanokiasound.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javanokiasound.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javanokiaui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javanokiaui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapim.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapim.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapreinstaller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapreinstaller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapushcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapushcontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapushregistry.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javapushregistry.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaqtrequest.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaregistryclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaregistryclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javarms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javarms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaruntimestarterutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaruntimestarterutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaruntimeui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaruntimeui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasatsa.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasatsa.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasecurity.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasecurity.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasecuritycustomization.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasensor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasensor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasifplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasizehelperclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasizehelperclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasizehelperserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasizehelperserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasmsscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasmsscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasocket.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasocket.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasocketscplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasocketscplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasoftindicatorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javasoftindicatorplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javassl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javassl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javastarter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javastarter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javastorage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javastorage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javathreaddumper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javathreaddumper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaunicertstoreplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaunicertstoreplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javaupgradeapp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/javautils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javautils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javawma.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javawma.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/javawmamms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/javawmamms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/jvmnativeport.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/jvmnativeport.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/midp2backupplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/midp2backupplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/openlcdui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/openlcdui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/recjar.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tckrunner.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tckrunner.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/tckrunner.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/javacontrolpanel_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/javainstaller_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/tckrunner_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/javaappscheme_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/javaqtrequest_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/200211dc/security/trustroots/device/certificates/test_manufacturer.der	export	
+/epoc32/release/winscw/udeb/z/private/200211dc/security/trustroots/device/certificates/test_manufacturer.metadata	export	
+/epoc32/release/winscw/udeb/z/private/200211dc/security/trustroots/device/certificates/test_operator.der	export	
+/epoc32/release/winscw/udeb/z/private/200211dc/security/trustroots/device/certificates/test_operator.metadata	export	
+/epoc32/release/winscw/udeb/z/private/200211dc/security/trustroots/device/certificates/test_trustedthirdparty.der	export	
+/epoc32/release/winscw/udeb/z/private/200211dc/security/trustroots/device/certificates/test_trustedthirdparty.metadata	export	
+/epoc32/release/winscw/udeb/z/resource/apps/javaappscheme.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/javainstaller_icon.mif	export	
+/epoc32/release/winscw/udeb/z/resource/apps/javainstaller_loc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/javaqtrequest.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/iad/javasifplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/iad/javaunicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/iad/midp2backupplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/iad/recjar.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/installerodclist	export	
+/epoc32/release/winscw/udeb/z/resource/java/javacontrolpanelodclist	export	
+/epoc32/release/winscw/udeb/z/resource/java/javausermessages.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/javausermessages.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/eswtqt.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/eswtqtwebkit.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javaamms.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javabluecove.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javabluetooth.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javabluetoothcommons.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javacentrep.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javacomm.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javacomms.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javaconnectionmanager.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javacontrolpanel.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javacoreui.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javadatagram.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javafile.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javafileutils.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javagcf.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javahttp.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javahttps.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javaiapinfo.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javainstaller.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javainstallerui.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javalocation.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javam3g.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javamidpruntime.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javamobilemedia.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javamobinfo.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javanokiasound.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javanokiaui.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javapim.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javapushregistry.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javarms.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javaruntimeui.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javasatsa.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javasecurity.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javasensor.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javasocket.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javassl.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javastorage.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javautils.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javawma.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/javawmamms.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/openlcdui.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/resources.jar	export	
+/epoc32/release/winscw/udeb/z/resource/java/jvm/lib/jrt/tckrunner.odc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/midpodclist	export	
+/epoc32/release/winscw/udeb/z/resource/java/pimcm.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/pimcm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/pimevent.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/pimevent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/pimtodo.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/pimtodo.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/java/security/trustroots/midprootslist	export	
+/epoc32/release/winscw/udeb/z/resource/java/tckrunnerodclist	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/indicators/javasoftindicatorplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/javasifplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/javaunicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/midp2backupplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recjar.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/appsettings/javaapplicationsettingsview.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/versions/java.txt	export	
+/epoc32/release/winscw/udeb/z/system/sounds/digital/CamcorderJavaCapture.wav	export	
+/epoc32/release/winscw/udeb/z/system/sounds/digital/CamcorderJavaStart.wav	export	
+/epoc32/release/winscw/urel/eswtqt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eswtqt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eswtqtwebkit.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eswtqtwebkit.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/java_impl_cdc.jar	resource	winscw_urel
+/epoc32/release/winscw/urel/java_impl_cldc.jar	resource	winscw_urel
+/epoc32/release/winscw/urel/java_platform_api.jar	resource	winscw_urel
+/epoc32/release/winscw/urel/java_public_api.jar	resource	winscw_urel
+/epoc32/release/winscw/urel/java_signature_test.jar	resource	winscw_urel
+/epoc32/release/winscw/urel/javaamms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaamms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaapplicationsettingsview.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaapplicationsettingsview.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaappscheme.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javaappscheme.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javabackup.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javabackup.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javabluecove.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javabluecove.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javabluetooth.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javabluetooth.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javabluetoothcommons.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javabluetoothcommons.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javabtgoepscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javabtgoepscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javabtl2capscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javabtl2capscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javabtsppscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javabtsppscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_autostarter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_autostarter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_btdeviceclassmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_btdeviceclassmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_config.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_config.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_javasoftnoteplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_javasoftnoteplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_ondemand_2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_ondemand_2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_ondemand_7.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_ondemand_7.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_preinstallerstarter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_preinstallerstarter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_pushregistryplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_pushregistryplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_scrupdater.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_scrupdater.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_settingslistener.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_settingslistener.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_storageserverplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacaptain_ext_storageserverplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacbsscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacbsscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacentrep.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacentrep.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacomm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacomm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacomms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacomms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaconnectionmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaconnectionmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacontrolpanel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacontrolpanel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacontrolpanel.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javacontrolpanel.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javacoreui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javacoreui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javadatagram.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javadatagram.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javadatagramscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javadatagramscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javadebugapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javadebugapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaenvinfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaenvinfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javafile.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javafile.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javafileutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javafileutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javafinishjrtinstall.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javafinishjrtinstall.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javagcf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javagcf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javahttp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javahttp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javahttps.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javahttps.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaiapinfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaiapinfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javainstallcopier.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javainstallcopier.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javainstaller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javainstaller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javainstaller.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javainstaller.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javainstallerstarter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javainstallerstarter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javainstallerui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javainstallerui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaipc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaipc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javajvmargsmodifier.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javajvmargsmodifier.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javajvmargsmodifierfile.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javajvmargsmodifierfile.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javalauncher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javalauncher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javalocation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javalocation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javam3g.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javam3g.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javamidp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javamidp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javamidpruntime.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javamidpruntime.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javamidpstarter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javamidpstarter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javammsscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javammsscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javamobilemedia.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javamobilemedia.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javamobinfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javamobinfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javanokiasound.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javanokiasound.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javanokiaui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javanokiaui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javapim.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javapim.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javapreinstaller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javapreinstaller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javapushcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javapushcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javapushregistry.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javapushregistry.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaqtrequest.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javaqtrequest.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaregistryclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaregistryclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javarms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javarms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaruntimestarterutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaruntimestarterutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaruntimeui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaruntimeui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasatsa.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasatsa.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasecurity.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasecurity.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasecuritycustomization.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javasecuritycustomization.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasensor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasensor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasifplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasifplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasizehelperclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasizehelperclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasizehelperserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasizehelperserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasmsscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasmsscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasocket.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasocket.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasocketscplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasocketscplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javasoftindicatorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javasoftindicatorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javassl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javassl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javastarter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javastarter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javastorage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javastorage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javathreaddumper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javathreaddumper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaunicertstoreplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javaunicertstoreplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javaupgradeapp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/javaupgradeapp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/javautils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javautils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javawma.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javawma.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/javawmamms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/javawmamms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/jvmnativeport.dll	build	winscw_urel
+/epoc32/release/winscw/urel/jvmnativeport.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/midp2backupplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/midp2backupplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/openlcdui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/openlcdui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recjar.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recjar.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tckrunner.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tckrunner.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tckrunner.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tckrunner.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/javacontrolpanel_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/javainstaller_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/tckrunner_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/javaappscheme_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/javaqtrequest_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/javaappscheme.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/javainstaller_loc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/javaqtrequest.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/iad/javasifplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/iad/javaunicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/iad/midp2backupplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/iad/recjar.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/installerodclist	export	
+/epoc32/release/winscw/urel/z/resource/java/javacontrolpanelodclist	export	
+/epoc32/release/winscw/urel/z/resource/java/javausermessages.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/javausermessages.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/eswtqt.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/eswtqtwebkit.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javaamms.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javabluecove.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javabluetooth.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javabluetoothcommons.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javacentrep.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javacomm.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javacomms.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javaconnectionmanager.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javacontrolpanel.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javacoreui.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javadatagram.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javafile.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javafileutils.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javagcf.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javahttp.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javahttps.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javaiapinfo.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javainstaller.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javainstallerui.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javalocation.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javam3g.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javamidpruntime.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javamobilemedia.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javamobinfo.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javanokiasound.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javanokiaui.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javapim.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javapushregistry.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javarms.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javaruntimeui.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javasatsa.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javasecurity.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javasensor.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javasocket.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javassl.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javastorage.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javautils.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javawma.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/javawmamms.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/openlcdui.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/resources.jar	export	
+/epoc32/release/winscw/urel/z/resource/java/jvm/lib/jrt/tckrunner.odc	resource	winscw_urel
+/epoc32/release/winscw/urel/z/resource/java/midpodclist	export	
+/epoc32/release/winscw/urel/z/resource/java/pimcm.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/pimcm.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/pimevent.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/pimevent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/pimtodo.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/pimtodo.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/java/security/trustroots/midprootslist	export	
+/epoc32/release/winscw/urel/z/resource/java/tckrunnerodclist	export	
+/epoc32/release/winscw/urel/z/resource/plugins/indicators/javasoftindicatorplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/plugins/javasifplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/javaunicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/midp2backupplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recjar.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/qt/plugins/appsettings/javaapplicationsettingsview.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/versions/java.txt	export	
+/epoc32/release/winscw/urel/z/system/sounds/digital/CamcorderJavaCapture.wav	export	
+/epoc32/release/winscw/urel/z/system/sounds/digital/CamcorderJavaStart.wav	export	
+/epoc32/rom/config/assets/s60/confml/javainstaller.confml	export	
+/epoc32/rom/config/assets/s60/confml/javanetworking.confml	export	
+/epoc32/rom/config/assets/s60/confml/javaruntime.confml	export	
+/epoc32/rom/config/assets/s60/confml/javasecurity.confml	export	
+/epoc32/rom/config/assets/s60/confml/mobilemedia.confml	export	
+/epoc32/rom/config/assets/s60/implml/javainstaller_102824CE.crml	export	
+/epoc32/rom/config/assets/s60/implml/javanetworking_102823D3.crml	export	
+/epoc32/rom/config/assets/s60/implml/javaruntime_10282DFD.crml	export	
+/epoc32/rom/config/assets/s60/implml/javasecurity_2001B289.crml	export	
+/epoc32/rom/config/assets/s60/implml/mobilemedia_102828A1.crml	export	
+/epoc32/rom/include/core/app/java.iby	export	
+/epoc32/rom/include/core/tools/javatest.iby	export	
+/epoc32/rom/include/language/app/javalocalization.iby	export	
+/epoc32/tools/makefile_templates/java/buildjavastubsis.flm	export	
+/epoc32/tools/makefile_templates/java/buildjavastubsis.meta	export	
+/epoc32/tools/makefile_templates/java/buildjavastubsis.xml	export	
+/epoc32/tools/makefile_templates/java/nativejava.flm	export	
+/epoc32/tools/makefile_templates/java/nativejava.meta	export	
+/epoc32/tools/makefile_templates/java/nativejava.xml	export	
+/epoc32/winscw/c/private/102033E6/installer/inst_plugins.cfg	export	
+/sf/app/jrt/inc/amcinterface.h	export	
+/sf/app/jrt/inc/amcmessages.h	export	
+/sf/app/jrt/inc/applicationinfo.h	export	
+/sf/app/jrt/inc/applicationinfosetter.h	export	
+/sf/app/jrt/inc/applicationmanagementeventsinterface.h	export	
+/sf/app/jrt/inc/applicationruntimeeventsinterface.h	export	
+/sf/app/jrt/inc/applicationstatecontroller.h	export	
+/sf/app/jrt/inc/booteventprovidermessages.h	export	
+/sf/app/jrt/inc/comms.h	export	
+/sf/app/jrt/inc/commsclientendpoint.h	export	
+/sf/app/jrt/inc/commsendpoint.h	export	
+/sf/app/jrt/inc/commslistener.h	export	
+/sf/app/jrt/inc/commsmessage.h	export	
+/sf/app/jrt/inc/commspermissions.h	export	
+/sf/app/jrt/inc/commsserverendpoint.h	export	
+/sf/app/jrt/inc/connectionlistener.h	export	
+/sf/app/jrt/inc/connectionmanager.h	export	
+/sf/app/jrt/inc/coreinterface.h	export	
+/sf/app/jrt/inc/coremessages.h	export	
+/sf/app/jrt/inc/driveutilities.h	export	
+/sf/app/jrt/inc/dynamiclibloader.h	export	
+/sf/app/jrt/inc/eventconsumerinterface.h	export	
+/sf/app/jrt/inc/exceptionbase.h	export	
+/sf/app/jrt/inc/extensionplugininterface.h	export	
+/sf/app/jrt/inc/fileutilities.h	export	
+/sf/app/jrt/inc/fs_functor.h	export	
+/sf/app/jrt/inc/fs_methodcall.h	export	
+/sf/app/jrt/inc/fs_methodwrappers.h	export	
+/sf/app/jrt/inc/functionserver.h	export	
+/sf/app/jrt/inc/java_capabilities.hrh	export	
+/sf/app/jrt/inc/java_stdcpp_support_for_dll.hrh	export	
+/sf/app/jrt/inc/java_stdcpp_support_for_exe.hrh	export	
+/sf/app/jrt/inc/java_stdcpp_support_for_stddll.hrh	export	
+/sf/app/jrt/inc/java_stdcpp_support_for_stdexe.hrh	export	
+/sf/app/jrt/inc/javacommonutils.h	export	
+/sf/app/jrt/inc/javacoreui.h	export	
+/sf/app/jrt/inc/javacoreuiparams.h	export	
+/sf/app/jrt/inc/javainifileutils.h	export	
+/sf/app/jrt/inc/javajniutils.h	export	
+/sf/app/jrt/inc/javaosheaders.h	export	
+/sf/app/jrt/inc/javaoslayer.h	export	
+/sf/app/jrt/inc/javaprocessconstants.h	export	
+/sf/app/jrt/inc/javaredirector.h	export	
+/sf/app/jrt/inc/javaredirectserver.h	export	
+/sf/app/jrt/inc/javaruntimeprivatecrkeys.h	export	
+/sf/app/jrt/inc/javastarter.h	export	
+/sf/app/jrt/inc/javastorage.h	export	
+/sf/app/jrt/inc/javastorageentry.h	export	
+/sf/app/jrt/inc/javastorageexception.h	export	
+/sf/app/jrt/inc/javastoragenames.h	export	
+/sf/app/jrt/inc/javasymbianoslayer.h	export	
+/sf/app/jrt/inc/javauid.h	export	
+/sf/app/jrt/inc/javauids.h	export	
+/sf/app/jrt/inc/jniarrayutils.h	export	
+/sf/app/jrt/inc/jstringutils.h	export	
+/sf/app/jrt/inc/legacyeventserverwrapper.h	export	
+/sf/app/jrt/inc/libraryloaderexception.h	export	
+/sf/app/jrt/inc/logger.h	export	
+/sf/app/jrt/inc/midpauthenticationmodule.h	export	
+/sf/app/jrt/inc/midpruntimearguments.h	export	
+/sf/app/jrt/inc/midpruntimepushsupport.h	export	
+/sf/app/jrt/inc/mmceventprovidermessages.h	export	
+/sf/app/jrt/inc/monitor.h	export	
+/sf/app/jrt/inc/nativestreambase.h	export	
+/sf/app/jrt/inc/os_functionclient.h	export	
+/sf/app/jrt/inc/os_functionserver.h	export	
+/sf/app/jrt/inc/pendingconnectionlistener.h	export	
+/sf/app/jrt/inc/pmcinterface.h	export	
+/sf/app/jrt/inc/pmcmessages.h	export	
+/sf/app/jrt/inc/preinstallerstartermessages.h	export	
+/sf/app/jrt/inc/processmanagementeventsinterface.h	export	
+/sf/app/jrt/inc/pushcontrollerstarter.h	export	
+/sf/app/jrt/inc/pusherrorcodes.h	export	
+/sf/app/jrt/inc/pushexception.h	export	
+/sf/app/jrt/inc/pushregistry.h	export	
+/sf/app/jrt/inc/rtcinterface.h	export	
+/sf/app/jrt/inc/rtcmessages.h	export	
+/sf/app/jrt/inc/runtimeexception.h	export	
+/sf/app/jrt/inc/s60commonutils.h	export	
+/sf/app/jrt/inc/scopedlocks.h	export	
+/sf/app/jrt/inc/securitycommsmessagedefs.h	export	
+/sf/app/jrt/inc/securitystoragedatadefs.h	export	
+/sf/app/jrt/inc/serverconnection.h	export	
+/sf/app/jrt/inc/serverconnectionfactory.h	export	
+/sf/app/jrt/inc/serverconnectionfactorybase.h	export	
+/sf/app/jrt/inc/socketlocalhostinfo.h	export	
+/sf/app/jrt/inc/threaddumper.h	export	
+/sf/app/jrt/inc/timerserverinterface.h	export	
+/sf/app/jrt/inc/transport.h	export	
+/sf/app/jrt/javacommons/gcfprotocols/socket/inc/socketserverconnection.h	export	
+/sf/app/jrt/javacommons/gcfprotocols/socket/inc/socketserverconnectionfactory.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/bluetoothclientconnection.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/bluetoothconsts.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/bluetoothfunctionserver.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/bluetoothnamelookup.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/bluetoothplatformcontrol.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/bluetoothremotedevice.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btdataelementlistpopulator.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btl2cappushserverconnection.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btl2capserverconnection.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btl2capserverconnectionfactory.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btobexserverconnectionfactory.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btrfcommpushserverconnection.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btrfcommserverconnection.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btrfcommserverconnectionfactory.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/btservicerecordpopulator.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/bturlparams.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/serviceclasshandler.h	export	
+/sf/app/jrt/javaextensions/bluetooth/inc/servicerecord.h	export	
+/sf/app/jrt/javaextensions/datagram/inc/datagramserverconnection.h	export	
+/sf/app/jrt/javaextensions/datagram/inc/datagramserverconnectionfactory.h	export	
+/sf/app/jrt/javaextensions/pim/inc.s60/mpimlocalizationdata.h	export	
+/sf/app/jrt/javaextensions/pim/inc.s60/mpimlocalizationmanager.h	export	
+/sf/app/jrt/javaextensions/pim/inc.s60/pimlocalizationids.h	export	
+/sf/app/jrt/javaextensions/wma/inc/cbsserverconnectionfactory.h	export	
+/sf/app/jrt/javaextensions/wma/inc/javasmsattributes.h	export	
+/sf/app/jrt/javaextensions/wma/inc/mmsserverconnection.h	export	
+/sf/app/jrt/javaextensions/wma/inc/mmsserverconnectionfactory.h	export	
+/sf/app/jrt/javaextensions/wma/inc/serverconnectionbase.h	export	
+/sf/app/jrt/javaextensions/wma/inc/smsserverconnectionfactory.h	export	
+/sf/app/jrt/javamanager/javacaptain/inc/settingschangeeventsprovidermessages.h	export	
+/sf/app/jrt/javaruntimes/inc/jvmargsmodifier.h	export	
+/sf/app/jrt/javaruntimes/inc/jvmstarter.h	export	
+/sf/app/jrt/javaruntimes/inc/midpruntimeinternalsupport.h	export	
+/sf/app/jrt/javaruntimes/inc/runtimestarterutils.h	export	
+/sf/app/jrt/javauis/inc/mmmacontainer.h	export	
+/sf/app/jrt/javauis/inc/mmmadirectContent.h	export	

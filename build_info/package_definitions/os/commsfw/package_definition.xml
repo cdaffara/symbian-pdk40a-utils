@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="commsfw" level="services" levels="server support framework process app-if" long-name="Communications Framework">
+<collection name="commsprocess" long-name="Comms Process" level="process">
+<component name="commsrootserver" long-name="Comms Root Server" introduced="7.0s" purpose="mandatory">
+<unit bldFile="/sf/os/commsfw/commsprocess/commsrootserverconfig/group" mrp="/sf/os/commsfw/commsprocess/commsrootserverconfig/group/comms-infras_rootserver.mrp"/>
+</component>
+</collection>
+<collection name="commsconfig" long-name="Comms Config" level="process">
+<component name="commsdatabase" long-name="Comms Database" purpose="mandatory">
+<unit bldFile="/sf/os/commsfw/commsfwtools/preparedefaultcommsdatabase/group" mrp="/sf/os/commsfw/commsfwtools/preparedefaultcommsdatabase/group/comms-infras_commsdat.mrp"/>
+</component>
+<component name="commsdatabaseshim" long-name="Comms Database Shim" introduced="8.1" purpose="mandatory">
+<unit bldFile="/sf/os/commsfw/commsconfig/commsdatabaseshim/group" mrp="/sf/os/commsfw/commsconfig/commsdatabaseshim/group/comms-infras_commdbshim.mrp"/>
+</component>
+</collection>
+<collection name="datacommsserver" long-name="Data Comms Server" level="framework">
+<component name="esockserver" long-name="ESock Server" purpose="mandatory">
+<unit bldFile="/sf/os/commsfw/datacommsserver/esockserver/group" mrp="/sf/os/commsfw/datacommsserver/esockserver/group/comms-infras_esock.mrp" version="3"/>
+</component>
+<component name="networkingdialogapi" long-name="Networking Dialog API" introduced="6.1" purpose="optional">
+<unit bldFile="/sf/os/commsfw/datacommsserver/networkingdialogapi/group" mrp="/sf/os/commsfw/datacommsserver/networkingdialogapi/group/networking_dialog.mrp"/>
+</component>
+<component name="networkingdialogstub" long-name="Networking Dialog Stub" introduced="6.1" purpose="optional">
+<unit bldFile="/sf/os/commsfw/datacommsserver/networkingdialogapi/default" mrp="/sf/os/commsfw/datacommsserver/networkingdialogapi/default/networking_dialog_default.mrp"/>
+</component>
+<component name="networkcontroller" long-name="Network Controller" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/commsfw/datacommsserver/networkcontroller/group" mrp="/sf/os/commsfw/datacommsserver/networkcontroller/group/networking_netcon.mrp"/>
+</component>
+</collection>
+<collection name="serialserver" long-name="Serial Server" level="server">
+<component name="serialportcsy" long-name="Serial Port CSY" introduced="ER5" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/commsfw/serialserver/serialportcsy" mrp="/sf/os/commsfw/serialserver/serialportcsy/ser-comms_serialportcsy.mrp"/>
+</component>
+<component name="packetloopbackcsy" long-name="Packet Loopback CSY" introduced="8.1" purpose="development">
+<unit bldFile="/sf/os/commsfw/serialserver/packetloopbackcsy/group" mrp="/sf/os/commsfw/serialserver/packetloopbackcsy/group/PacketLoopbackCSY.mrp"/>
+</component>
+<component name="c32serialserver" long-name="C32 Serial Server" introduced="ER5" purpose="mandatory">
+<unit bldFile="/sf/os/commsfw/serialserver/c32serialserver/group" mrp="/sf/os/commsfw/serialserver/c32serialserver/group/ser-comms_c32.mrp"/>
+</component>
+<component name="c32serialserverconfig" long-name="C32 Serial Server Config" introduced="ER5" purpose="mandatory" class="config">
+<unit bldFile="/sf/os/commsfw/serialserver/c32serialserverconfig" mrp="/sf/os/commsfw/serialserver/c32serialserverconfig/ser-comms_c32-config.mrp"/>
+</component>
+<component name="c32serialserverdocs" long-name="C32 Serial Server Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/commsfw/serialserver/c32serialserverdocs/ser-comms_documentation.mrp"/>
+</component>
+</collection>
+<collection name="commsfwutils" long-name="Comms Framework Utilities" level="framework">
+<component name="commsbufs" long-name="Comms Buffers" introduced="^3" purpose="mandatory">
+<unit bldFile="/sf/os/commsfw/commsfwutils/commsbufs/group" mrp="/sf/os/commsfw/commsfwutils/commsbufs/group/comms-infras_commsbufs.mrp"/>
+</component>
+</collection>
+<collection name="commsfw_info" long-name="Comms Framework Info" level="app-if">
+<component name="commsinfrastructuredocs" long-name="Comms Infrastructure Documentation" introduced="7.0" purpose="development" class="doc">
+<unit mrp="/sf/os/commsfw/commsfw_info/commsinfrastructuredocs/comms-infras_documentation.mrp"/>
+</component>
+<component name="commsfw_metadata" long-name="Communications Framework Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/commsfw/commsfw_info/commsfw_metadata/commsfw_metadata.mrp"/>
+</component>
+</collection>
+<collection name="commsfwsupport" long-name="Comms Framework Support" level="support">
+<component name="commselements" long-name="Comms Elements" introduced="8.0" purpose="mandatory">
+<unit bldFile="/sf/os/commsfw/commsfwsupport/commselements/group" mrp="/sf/os/commsfw/commsfwsupport/commselements/group/comms-infras_elements.mrp"/>
+</component>
+</collection>
+<collection name="commsinfrastructureapitest" long-name="Comms-Infras API Tests" level="app-if">
+<component name="commsinfrastructuresvs" long-name="Comms Infrastructure Verification Suite" introduced="^3" purpose="development">
+<unit mrp="/sf/os/commsfw/commsinfrastructureapitest/commsinfrastructuresvs/group/commsinfrastructuresvs.mrp"/>
+</component>
+</collection>
+<collection name="commsfwtools" long-name="Comms Framework Tools" level="app-if">
+<component name="preparedefaultcommsdatabase" long-name="Prepare Default Comms Database" filter="gt" purpose="mandatory" class="config PC">
+<unit bldFile="/sf/os/commsfw/commsfwtools/preparedefaultcommsdatabase/defaultcommdb/group" mrp="/sf/os/commsfw/commsfwtools/preparedefaultcommsdatabase/defaultcommdb/group/comms-infras_defaultcommdb.mrp"/>
+</component>
+<component name="installdefaultcommsdatabase" long-name="Install Default Comms Database" purpose="mandatory" class="PC">
+<unit bldFile="/sf/os/commsfw/commsfwtools/preparedefaultcommsdatabase/installdefaultcommdb/group" mrp="/sf/os/commsfw/commsfwtools/preparedefaultcommsdatabase/installdefaultcommdb/group/comms-infras_installdefaultcommdb.mrp" priority="1010"/>
+</component>
+<component name="commstools" long-name="Comms Tools" introduced="^3" purpose="development" class="PC">
+<unit bldFile="/sf/os/commsfw/commsfwtools/commstools/group" mrp="/sf/os/commsfw/commsfwtools/commstools/group/comms-infras_tools.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

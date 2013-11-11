@@ -1,0 +1,71 @@
+/epoc32/data/lch.rsc	resource	armv5_urel
+/epoc32/data/lch.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/userguide_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/userguide_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/lch.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/lch.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/userguide.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/userguide.rsc	resource	winscw_udeb
+/epoc32/include/app/dbwriter.h	export	
+/epoc32/include/app/hlplch.h	export	
+/epoc32/include/app/hlpmodel.h	export	
+/epoc32/include/app/hlpzoom.h	export	
+/epoc32/include/lch.rsg	resource	armv5_urel
+/epoc32/include/lch.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/hlpconstants.h	export	
+/epoc32/include/userguide.rsg	resource	armv5_urel
+/epoc32/include/userguide.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/dbwriter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dbwriter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dbwriter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dbwriter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hlplch.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hlplch.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hlplch{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hlplch{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hlpmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hlpmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hlpmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hlpmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/Userguide.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/Userguide.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbwriter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dbwriter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hlplch.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hlplch.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hlpmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hlpmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/Userguide.exe	build	armv5_urel
+/epoc32/release/armv5/urel/Userguide.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dbwriter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dbwriter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hlplch.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hlplch.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hlpmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hlpmodel.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/Userguide.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dbwriter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dbwriter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hlplch.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hlplch.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hlpmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hlpmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lch.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/userguide_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/lch.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/userguide.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/Userguide.exe	build	winscw_urel
+/epoc32/release/winscw/urel/Userguide.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dbwriter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dbwriter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hlplch.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hlplch.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hlpmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hlpmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lch.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/userguide_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/lch.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/userguide.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/app/userguide.iby	export	
+/epoc32/rom/include/hlpmodel.iby	export	
+/epoc32/rom/include/language/app/userguide_resources.iby	export	

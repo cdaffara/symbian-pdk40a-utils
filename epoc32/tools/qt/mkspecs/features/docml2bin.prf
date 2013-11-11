@@ -1,0 +1,26 @@
+exists(hb_install.prf):include(hb_install.prf)
+else:include($${HB_BUILD_DIR}/hb_install.prf)
+include(hb_functions.prf)
+
+QMAKE_DOCML2BIN = $$hbToolCommand(docml2bin) 
+ 
+docml2bin.input = DOCML
+docml2bin.output = ${QMAKE_FILE_IN}.bin
+docml2bin.commands = "$$QMAKE_DOCML2BIN" -s "${QMAKE_FILE_IN}" -t "${QMAKE_FILE_OUT}"
+docml2bin.name = DOCML2BIN ${QMAKE_FILE_IN}
+docml2bin.CONFIG = no_link
+
+for(DOCMLFILE, $$list($$unique(DOCML))) {
+    DOCMLFILE_PWD = $${_PRO_FILE_PWD_}/$${DOCMLFILE}
+    rcc.depends += $${DOCMLFILE_PWD}.bin
+
+    DOCML2BINEXTENSION = \
+        "START EXTENSION qt/qmake_extra_pre_targetdep.export" \
+        "OPTION PREDEP_TARGET $${DOCMLFILE_PWD}.bin" \
+        "OPTION DEPS $${DOCMLFILE_PWD}" \
+        "OPTION COMMAND $${QMAKE_DOCML2BIN} -s $${DOCMLFILE_PWD} -t $${DOCMLFILE_PWD}.bin" \
+        "END"    
+    BLD_INF_RULES.prj_extensions += DOCML2BINEXTENSION
+}
+
+QMAKE_EXTRA_COMPILERS += docml2bin

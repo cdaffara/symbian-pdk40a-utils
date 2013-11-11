@@ -1,0 +1,1086 @@
+/epoc32/data/z/private/100012a5/policy/100069cc.spd	export	
+/epoc32/data/z/private/100069cc/backup_registration.xml	export	
+/epoc32/data/z/private/101f7988/esock_bt.cmi	export	
+/epoc32/data/z/private/101f7989/bluetooth/bluetooth_stack.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/cmdq.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/corehci_symbian.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/corehci_symbian_ti.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/hctl_bcsp.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/hctl_bcsp_port3.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/hctl_ti.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/hctl_uart_original.ini	export	
+/epoc32/data/z/private/101f7989/bluetooth/tiinit_4.1.21.bts	export	
+/epoc32/data/z/private/101f7989/bluetooth/tiinit_4.2.38.bts	export	
+/epoc32/data/z/private/101f7989/esock/bt.bt_v2.esk	export	
+/epoc32/data/z/private/101f7989/esock/ip.pannapiphook.esk	export	
+/epoc32/data/z/resource/plugins/corehci_symbian.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/corehci_symbian.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hctl_bcsp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hctl_bcsp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hctl_ti.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hctl_ti.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hctl_uart_original.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hctl_uart_original.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/initialisor_symbian.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/initialisor_symbian.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/initialisor_ti.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/initialisor_ti.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/legacymodemplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/legacymodemplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/panproviders.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/panproviders.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/qdp_symbian.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/qdp_symbian.rsc	resource	winscw_udeb
+/epoc32/include/bluetooth/btbaseband.h	export	
+/epoc32/include/bluetooth/btlogger.mmh	export	
+/epoc32/include/bluetooth/btscoparams.h	export	
+/epoc32/include/bluetooth/eirdatacodec.h	export	
+/epoc32/include/bluetooth/hci/hcierrors.h	export	
+/epoc32/include/bluetooth/lmoptions.h	export	
+/epoc32/include/bt_sock.h	export	
+/epoc32/include/bt_subscribe.h	export	
+/epoc32/include/bt_subscribe_keybase.h	export	
+/epoc32/include/btbasebandpolicy.h	export	
+/epoc32/include/btdefcommport.h	export	
+/epoc32/include/btdevice.h	export	
+/epoc32/include/btextnotifiers.h	export	
+/epoc32/include/btextnotifiersconsts.h	export	
+/epoc32/include/btmanclient.h	export	
+/epoc32/include/btsdp.h	export	
+/epoc32/include/btsecurity.h	export	
+/epoc32/include/btsockaddr.h	export	
+/epoc32/include/btsocketoptionlevels.h	export	
+/epoc32/include/btsyncbandwidth.h	export	
+/epoc32/include/bttypes.h	export	
+/epoc32/include/corehci_symbian.rsg	resource	armv5_urel
+/epoc32/include/corehci_symbian.rsg	resource	winscw_udeb
+/epoc32/include/errors/generic/irerr.ra	export	
+/epoc32/include/errors/generic/irerr.rls	export	
+/epoc32/include/hctl_bcsp.rsg	resource	armv5_urel
+/epoc32/include/hctl_bcsp.rsg	resource	winscw_udeb
+/epoc32/include/hctl_ti.rsg	resource	armv5_urel
+/epoc32/include/hctl_ti.rsg	resource	winscw_udeb
+/epoc32/include/hctl_uart_original.rsg	resource	armv5_urel
+/epoc32/include/hctl_uart_original.rsg	resource	winscw_udeb
+/epoc32/include/initialisor_symbian.rsg	resource	armv5_urel
+/epoc32/include/initialisor_symbian.rsg	resource	winscw_udeb
+/epoc32/include/initialisor_ti.rsg	resource	armv5_urel
+/epoc32/include/initialisor_ti.rsg	resource	winscw_udeb
+/epoc32/include/ir_sock.h	export	
+/epoc32/include/panerr.h	export	
+/epoc32/include/platform/atext.h	export	
+/epoc32/include/platform/atext_interfaceuid.h	export	
+/epoc32/include/platform/atextcommon.h	export	
+/epoc32/include/platform/atextcommonbase.h	export	
+/epoc32/include/platform/atextpluginbase.h	export	
+/epoc32/include/platform/avctpservices.h	export	
+/epoc32/include/platform/bluetooth/a2dpoptimisation.h	export	
+/epoc32/include/platform/bluetooth/a2dpoptimisationparams.h	export	
+/epoc32/include/platform/bluetooth/aclsockaddr.h	export	
+/epoc32/include/platform/bluetooth/avctptypes.h	export	
+/epoc32/include/platform/bluetooth/btpowercontrol.h	export	
+/epoc32/include/platform/bluetooth/btpowercontrolmessages.h	export	
+/epoc32/include/platform/bluetooth/dutmode.h	export	
+/epoc32/include/platform/bluetooth/eirclient.h	export	
+/epoc32/include/platform/bluetooth/eirmanshared.h	export	
+/epoc32/include/platform/bluetooth/eirpublisher.h	export	
+/epoc32/include/platform/bluetooth/eirpublisherbase.h	export	
+/epoc32/include/platform/bluetooth/eirpublishermanufacturerspecificdata.h	export	
+/epoc32/include/platform/bluetooth/hardresetinitiator.h	export	
+/epoc32/include/platform/bluetooth/hci/acceptconnectionrequestcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/acceptsynchronousconnectionrequestcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/aclpacketconsts.h	export	
+/epoc32/include/platform/bluetooth/hci/addscoconnectioncommand.h	export	
+/epoc32/include/platform/bluetooth/hci/authenticationcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/authenticationrequestedcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/basebandpacketconsts.h	export	
+/epoc32/include/platform/bluetooth/hci/bwins/commandseventsu.def	export	
+/epoc32/include/platform/bluetooth/hci/changeconnectionpackettypecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/changelinkkeycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/changelinkkeyevent.h	export	
+/epoc32/include/platform/bluetooth/hci/command.h	export	
+/epoc32/include/platform/bluetooth/hci/commandbaseextension.h	export	
+/epoc32/include/platform/bluetooth/hci/commandcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/commandstatusevent.h	export	
+/epoc32/include/platform/bluetooth/hci/completingeventquery.h	export	
+/epoc32/include/platform/bluetooth/hci/completingeventqueryhelper.h	export	
+/epoc32/include/platform/bluetooth/hci/connectioncompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/connectionpackettypechangedevent.h	export	
+/epoc32/include/platform/bluetooth/hci/connectionrequestevent.h	export	
+/epoc32/include/platform/bluetooth/hci/controllerinitialisationinterface.h	export	
+/epoc32/include/platform/bluetooth/hci/controllerinitialisationobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/controllerinitialisationplugin.h	export	
+/epoc32/include/platform/bluetooth/hci/controllerstateobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/corehci.h	export	
+/epoc32/include/platform/bluetooth/hci/corehciplugin.h	export	
+/epoc32/include/platform/bluetooth/hci/createaclconnectioncommand.h	export	
+/epoc32/include/platform/bluetooth/hci/createconnectioncancelcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/createconnectioncancelcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/createnewunitkeycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/createnewunitkeycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/databufferoverflowevent.h	export	
+/epoc32/include/platform/bluetooth/hci/delay.h	export	
+/epoc32/include/platform/bluetooth/hci/deletestoredlinkkeycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/deletestoredlinkkeycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/disconnectcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/disconnectioncompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/eabi/commandseventsu.def	export	
+/epoc32/include/platform/bluetooth/hci/enabledeviceundertestmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/enabledeviceundertestmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/encryptionchangeevent.h	export	
+/epoc32/include/platform/bluetooth/hci/encryptionkeyrefreshcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/enhancedflushcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/enhancedflushcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/event.h	export	
+/epoc32/include/platform/bluetooth/hci/exitparkmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/exitperiodicinquirymodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/exitperiodicinquirymodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/exitsniffmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/extendedinquiryresultevent.h	export	
+/epoc32/include/platform/bluetooth/hci/flowspecificationcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/flowspecificationcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/flushcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/flushcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/flushoccurredevent.h	export	
+/epoc32/include/platform/bluetooth/hci/hardwareerrorevent.h	export	
+/epoc32/include/platform/bluetooth/hci/hcibase.hrh	export	
+/epoc32/include/platform/bluetooth/hci/hciclientusage.h	export	
+/epoc32/include/platform/bluetooth/hci/hcicmdqueuedecisioninterface.h	export	
+/epoc32/include/platform/bluetooth/hci/hcicmdqueuedecisionplugin.h	export	
+/epoc32/include/platform/bluetooth/hci/hcicommandallocator.h	export	
+/epoc32/include/platform/bluetooth/hci/hciconsts.h	export	
+/epoc32/include/platform/bluetooth/hci/hcidataeventobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/hcidataframer.h	export	
+/epoc32/include/platform/bluetooth/hci/hcidataobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/hcievents.h	export	
+/epoc32/include/platform/bluetooth/hci/hciframe.h	export	
+/epoc32/include/platform/bluetooth/hci/hciinifile.h	export	
+/epoc32/include/platform/bluetooth/hci/hciipc.h	export	
+/epoc32/include/platform/bluetooth/hci/hciopcodes.h	export	
+/epoc32/include/platform/bluetooth/hci/hcishared.h	export	
+/epoc32/include/platform/bluetooth/hci/hcitypes.h	export	
+/epoc32/include/platform/bluetooth/hci/hciutil.h	export	
+/epoc32/include/platform/bluetooth/hci/hctlbase.h	export	
+/epoc32/include/platform/bluetooth/hci/hctlbase.hrh	export	
+/epoc32/include/platform/bluetooth/hci/hctlchannelobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/hctlconfiginterface.h	export	
+/epoc32/include/platform/bluetooth/hci/hctldataobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/hctleventobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/hctlinterface.h	export	
+/epoc32/include/platform/bluetooth/hci/hctlpowerinterface.h	export	
+/epoc32/include/platform/bluetooth/hci/hctluartbase.h	export	
+/epoc32/include/platform/bluetooth/hci/hctluartpowermanager.h	export	
+/epoc32/include/platform/bluetooth/hci/hctluartpowerobserver.h	export	
+/epoc32/include/platform/bluetooth/hci/holdmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/hostbuffersizecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/hostbuffersizecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/hostnumberofcompletedpacketscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/hostnumberofcompletedpacketscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/initialisorbase.hrh	export	
+/epoc32/include/platform/bluetooth/hci/inquirycancelcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/inquirycancelcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/inquirycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/inquirycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/inquiryresultevent.h	export	
+/epoc32/include/platform/bluetooth/hci/inquiryresultwithrssievent.h	export	
+/epoc32/include/platform/bluetooth/hci/iocapabilityrequestevent.h	export	
+/epoc32/include/platform/bluetooth/hci/iocapabilityrequestnegativereplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/iocapabilityrequestnegativereplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/iocapabilityrequestreplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/iocapabilityrequestreplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/iocapabilityresponseevent.h	export	
+/epoc32/include/platform/bluetooth/hci/keypressnotificationevent.h	export	
+/epoc32/include/platform/bluetooth/hci/linkkeynotificationevent.h	export	
+/epoc32/include/platform/bluetooth/hci/linkkeyrequestevent.h	export	
+/epoc32/include/platform/bluetooth/hci/linkkeyrequestreplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/linkkeyrequestreplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/linkkeyrequestreplynegativecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/linkkeyrequestreplynegativecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/linksupervisiontimeoutchangedevent.h	export	
+/epoc32/include/platform/bluetooth/hci/loopbackcommandevent.h	export	
+/epoc32/include/platform/bluetooth/hci/masterlinkkeycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/masterlinkkeyevent.h	export	
+/epoc32/include/platform/bluetooth/hci/maxslotschangeevent.h	export	
+/epoc32/include/platform/bluetooth/hci/modechangeevent.h	export	
+/epoc32/include/platform/bluetooth/hci/nopcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/numberofcompletedpacketsevent.h	export	
+/epoc32/include/platform/bluetooth/hci/pagescanmodechangeevent.h	export	
+/epoc32/include/platform/bluetooth/hci/pagescanrepetitionmodechangeevent.h	export	
+/epoc32/include/platform/bluetooth/hci/parkmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/periodicinquirymodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/periodicinquirymodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/pincoderequestevent.h	export	
+/epoc32/include/platform/bluetooth/hci/pincoderequestreplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/pincoderequestreplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/pincoderequestreplynegativecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/pincoderequestreplynegativecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/qdpbase.hrh	export	
+/epoc32/include/platform/bluetooth/hci/qdpplugininterfacefinder.h	export	
+/epoc32/include/platform/bluetooth/hci/qossetupcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/qossetupcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/qosviolationevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readafhchannelassessmentmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readafhchannelassessmentmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readafhchannelmapcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readafhchannelmapcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readauthenticationenablecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readauthenticationenablecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readautomaticflushtimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readautomaticflushtimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readbdaddrcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readbdaddrcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readbuffersizecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readbuffersizecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readclassofdevicecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readclassofdevicecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readclockcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readclockcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readclockoffsetcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readclockoffsetevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readconnectionaccepttimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readconnectionaccepttimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readcurrentiaclapcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readcurrentiaclapcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readdefaulterroneousdatareportingcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readdefaulterroneousdatareportingcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readdefaultlinkpolicysettingscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readdefaultlinkpolicysettingscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readencryptionmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readencryptionmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readextendedinquiryresponsecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readextendedinquiryresponsecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readfailedcontactcountercommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readfailedcontactcountercompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readholdmodeactivitycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readholdmodeactivitycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquirymodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquirymodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquiryresponsetransmitpowerlevelcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquiryresponsetransmitpowerlevelcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquiryscanactivitycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquiryscanactivitycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquiryscantypecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readinquiryscantypecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlinkpolicysettingscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlinkpolicysettingscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlinkqualitycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlinkqualitycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlinksupervisiontimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlinksupervisiontimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlmphandlecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlmphandlecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalextendedfeaturescommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalextendedfeaturescompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalnamecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalnamecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocaloobdatacommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocaloobdatacompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalsupportedcommandscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalsupportedcommandscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalsupportedfeaturescommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalsupportedfeaturescompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalversioninfocommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readlocalversioninfocompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readloopbackmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readloopbackmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readnumberofsupportediaccommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readnumberofsupportediaccompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readnumbroadcastretransmissionscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readnumbroadcastretransmissionscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagescanactivitycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagescanactivitycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagescanperiodcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagescanperiodcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagescantypecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagescantypecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagetimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readpagetimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readpintypecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readpintypecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readremoteextendedfeaturescommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readremoteextendedfeaturescompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readremotesupportedfeaturescommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readremoteversioninfocommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readremsuppfeatcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readremverinfocompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readrssicommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readrssicompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readscanenablecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readscanenablecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readsimplepairingmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readsimplepairingmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readstoredlinkkeycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readstoredlinkkeycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readsynchronousflowcontrolenablecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readsynchronousflowcontrolenablecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readtransmitpowerlevelcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readtransmitpowerlevelcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/readvoicesettingcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/readvoicesettingcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/refreshencryptionkeycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/rejectconnectionrequestcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/rejectsynchronousconnectionrequestcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/remotehostsupportedfeaturesnotificationevent.h	export	
+/epoc32/include/platform/bluetooth/hci/remotenamereqcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/remotenamerequestcancelcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/remotenamerequestcancelcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/remotenamerequestcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/remoteoobdatarequestevent.h	export	
+/epoc32/include/platform/bluetooth/hci/remoteoobdatarequestnegativereplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/remoteoobdatarequestnegativereplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/remoteoobdatarequestreplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/remoteoobdatarequestreplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/resetcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/resetcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/resetfailedcontactcountercommand.h	export	
+/epoc32/include/platform/bluetooth/hci/resetfailedcontactcountercompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/returnlinkkeysevent.h	export	
+/epoc32/include/platform/bluetooth/hci/rolechangeevent.h	export	
+/epoc32/include/platform/bluetooth/hci/rolediscoverycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/rolediscoverycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/sendkeypressnotificationcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/sendkeypressnotificationcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/setafhhostchannelclassificationcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/setafhhostchannelclassificationcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/setconnectionencryptioncommand.h	export	
+/epoc32/include/platform/bluetooth/hci/setcontrollertohostflowcontrolcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/setcontrollertohostflowcontrolcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/seteventfiltercommand.h	export	
+/epoc32/include/platform/bluetooth/hci/seteventfiltercompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/seteventmaskcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/seteventmaskcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/setupsynchronousconnectioncommand.h	export	
+/epoc32/include/platform/bluetooth/hci/simplepairingcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/sniffmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/sniffsubratingcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/sniffsubratingcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/sniffsubratingevent.h	export	
+/epoc32/include/platform/bluetooth/hci/switchrolecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/synchronousconnectionchangedevent.h	export	
+/epoc32/include/platform/bluetooth/hci/synchronousconnectioncompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/userconfirmationrequestevent.h	export	
+/epoc32/include/platform/bluetooth/hci/userconfirmationrequestnegativereplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/userconfirmationrequestnegativereplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/userconfirmationrequestreplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/userconfirmationrequestreplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/userpasskeynotificationevent.h	export	
+/epoc32/include/platform/bluetooth/hci/userpasskeyrequestevent.h	export	
+/epoc32/include/platform/bluetooth/hci/userpasskeyrequestnegativereplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/userpasskeyrequestnegativereplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/userpasskeyrequestreplycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/userpasskeyrequestreplycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/vendordebugcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/vendordebugcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/vendordebugevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeafhchannelassessmentmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeafhchannelassessmentmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeauthenticationenablecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeauthenticationenablecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeautomaticflushtimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeautomaticflushtimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeclassofdevicecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeclassofdevicecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeconnectionaccepttimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeconnectionaccepttimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writecurrentiaclapcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writecurrentiaclapcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writedefaulterroneousdatareportingcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writedefaulterroneousdatareportingcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writedefaultlinkpolicysettingscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writedefaultlinkpolicysettingscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeencryptionmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeencryptionmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeextendedinquiryresponsecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeextendedinquiryresponsecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeholdmodeactivitycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeholdmodeactivitycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquirymodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquirymodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquiryresponsetransmitpowerlevelcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquiryresponsetransmitpowerlevelcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquiryscanactivitycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquiryscanactivitycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquiryscantypecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeinquiryscantypecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writelinkpolicysettingscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writelinkpolicysettingscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writelinksupervisiontimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writelinksupervisiontimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writelocalnamecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writelocalnamecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writeloopbackmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writeloopbackmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writenumbroadcastretransmissionscommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writenumbroadcastretransmissionscompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagescanactivitycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagescanactivitycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagescanperiodcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagescanperiodcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagescantypecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagescantypecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagetimeoutcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writepagetimeoutcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writepintypecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writepintypecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writescanenablecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writescanenablecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writesimplepairingdebugmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writesimplepairingdebugmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writesimplepairingmodecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writesimplepairingmodecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writestoredlinkkeycommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writestoredlinkkeycompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writesynchronousflowcontrolenablecommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writesynchronousflowcontrolenablecompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hci/writevoicesettingcommand.h	export	
+/epoc32/include/platform/bluetooth/hci/writevoicesettingcompleteevent.h	export	
+/epoc32/include/platform/bluetooth/hcicmdqcontroller.h	export	
+/epoc32/include/platform/bluetooth/hcicommandeventobserver.h	export	
+/epoc32/include/platform/bluetooth/hcicommandqitem.h	export	
+/epoc32/include/platform/bluetooth/hcicommandqueue.h	export	
+/epoc32/include/platform/bluetooth/hcicommandqueueclient.h	export	
+/epoc32/include/platform/bluetooth/hciframelogger.h	export	
+/epoc32/include/platform/bluetooth/hciserverclient.h	export	
+/epoc32/include/platform/bluetooth/l2capdebuginfo.h	export	
+/epoc32/include/platform/bluetooth/linkmuxnotifier.h	export	
+/epoc32/include/platform/bluetooth/logger.h	export	
+/epoc32/include/platform/bluetooth/logger/components.h	export	
+/epoc32/include/platform/bluetooth/pairing.h	export	
+/epoc32/include/platform/bluetooth/pairingservershared.h	export	
+/epoc32/include/platform/bluetooth/pan/bneppacketnotifier.h	export	
+/epoc32/include/platform/bluetooth/physicallinksstate.h	export	
+/epoc32/include/platform/bluetoothav.h	export	
+/epoc32/include/platform/bt_subscribe_partner.h	export	
+/epoc32/include/platform/btaudiostreaminputbase.h	export	
+/epoc32/include/platform/btextnotifierspartner.h	export	
+/epoc32/include/platform/bthci.h	export	
+/epoc32/include/platform/btpm.h	export	
+/epoc32/include/platform/bttypespartner.h	export	
+/epoc32/include/platform/gavdp.h	export	
+/epoc32/include/platform/hciproxy.h	export	
+/epoc32/include/platform/irda.rh	export	
+/epoc32/include/platform/irdaextensions.h	export	
+/epoc32/include/platform/networking/panroles.h	export	
+/epoc32/include/platform/networking/panuiinterfaces.h	export	
+/epoc32/include/platform/panctrl.h	export	
+/epoc32/include/platform/panprog.h	export	
+/epoc32/include/qdp_symbian.rsg	resource	armv5_urel
+/epoc32/include/qdp_symbian.rsg	resource	winscw_udeb
+/epoc32/include/tranp.h	export	
+/epoc32/release/armv5/lib/a2dpoptimisation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/a2dpoptimisation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/a2dpoptimisation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/a2dpoptimisation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextcommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextcommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextcommonbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextcommonbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextcommonbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextcommonbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextcommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextcommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextpluginbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextpluginbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/atextpluginbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/atextpluginbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avctpservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avctpservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avctpservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avctpservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bluetooth.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bluetooth.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bluetoothav.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bluetoothav.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bluetoothav{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bluetoothav{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bluetooth{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bluetooth{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bnep.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bnep.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bnep{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bnep{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bt_v2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bt_v2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bt_v2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bt_v2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btaudioadaptation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btaudioadaptation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btaudioadaptation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btaudioadaptation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btcomm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btcomm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btcomm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btcomm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btdevice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btdevice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btdevice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btdevice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btextnotifiers.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btextnotifiers.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btextnotifiers{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btextnotifiers{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btlogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btlogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btlogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btlogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btmanclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btmanclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btmanclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btmanclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btpowercontrol.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btpowercontrol.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btpowercontrol{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btpowercontrol{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commandsevents.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commandsevents.dso	build	armv5_urel
+/epoc32/release/armv5/lib/commandsevents{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/commandsevents{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/corehci_base.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/corehci_base.dso	build	armv5_urel
+/epoc32/release/armv5/lib/corehci_base{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/corehci_base{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dutmode.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dutmode.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dutmode{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dutmode{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eirclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eirclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/eirclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/eirclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gavdp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gavdp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gavdp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gavdp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hcicmdq.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hcicmdq.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hcicmdq{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hcicmdq{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciframelogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciframelogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciframelogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciframelogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciproxy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciproxy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciproxy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciproxy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciserverclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciserverclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hcishared.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hcishared.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hcishared{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hcishared{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hciutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hciutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hctl_base.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hctl_base.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hctl_base{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hctl_base{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/initialisor_base.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/initialisor_base.dso	build	armv5_urel
+/epoc32/release/armv5/lib/initialisor_base{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/initialisor_base{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irda.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irda.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irda{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irda{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irtranp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irtranp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irtranp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irtranp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/panhelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/panhelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/panhelper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/panhelper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/panmessages.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/panmessages.dso	build	armv5_urel
+/epoc32/release/armv5/lib/panmessages{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/panmessages{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pannapiphook.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pannapiphook.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pannapiphook{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pannapiphook{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qdp_base.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qdp_base.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qdp_base{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qdp_base{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sdpagent.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sdpagent.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sdpagent{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sdpagent{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sdpdatabase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sdpdatabase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sdpdatabase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sdpdatabase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/a2dpoptimisation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/a2dpoptimisation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atext.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/atext.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextcommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextcommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextcommon.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextcommon.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextcommonbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextcommonbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextpluginbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atextpluginbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avctpservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avctpservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bluetooth.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bluetooth.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bluetoothav.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bluetoothav.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bnep.drv	build	armv5_udeb
+/epoc32/release/armv5/udeb/bnep.drv.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bt_v2.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/bt_v2.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudioadaptation_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudioadaptation_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btcomm.csy	build	armv5_udeb
+/epoc32/release/armv5/udeb/btcomm.csy.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btdevice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btdevice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btextnotifiers.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btextnotifiers.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btlogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btlogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmanclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmanclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmanserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmanserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btpowercontrol.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btpowercontrol.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/commandsevents.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/commandsevents.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/corehci_base.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/corehci_base.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/corehci_symbian.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/corehci_symbian.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dutmode.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dutmode.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eirclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/eirclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gavdp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gavdp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hcicmdq.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hcicmdq.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciframelogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciframelogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciproxy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciproxy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hcishared.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hcishared.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hciutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_base.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_base.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_bcsp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_bcsp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_ti.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_ti.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_uart_original.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hctl_uart_original.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialisor_base.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialisor_base.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialisor_symbian.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialisor_symbian.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialisor_ti.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/initialisor_ti.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/irda.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/irda.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/irtranp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/irtranp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/legacymodemplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/legacymodemplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/panagt.agt	build	armv5_udeb
+/epoc32/release/armv5/udeb/panagt.agt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/panhelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/panhelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/panmessages.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/panmessages.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pannapiphook.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/pannapiphook.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/panproviders.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/panproviders.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qdp_base.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qdp_base.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qdp_symbian.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qdp_symbian.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpagent.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpagent.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpdatabase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpdatabase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/a2dpoptimisation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/a2dpoptimisation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atext.exe	build	armv5_urel
+/epoc32/release/armv5/urel/atext.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/atextclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atextclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atextcommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atextcommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atextcommon.exe	build	armv5_urel
+/epoc32/release/armv5/urel/atextcommon.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/atextcommonbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atextcommonbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atextpluginbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atextpluginbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avctpservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avctpservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bluetooth.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bluetooth.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bluetoothav.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bluetoothav.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bnep.drv	build	armv5_urel
+/epoc32/release/armv5/urel/bnep.drv.map	build	armv5_urel
+/epoc32/release/armv5/urel/bt_v2.prt	build	armv5_urel
+/epoc32/release/armv5/urel/bt_v2.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/btaudioadaptation_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btaudioadaptation_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btcomm.csy	build	armv5_urel
+/epoc32/release/armv5/urel/btcomm.csy.map	build	armv5_urel
+/epoc32/release/armv5/urel/btdevice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btdevice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btextnotifiers.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btextnotifiers.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btlogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btlogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btmanclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btmanclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btmanserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/btmanserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/btpowercontrol.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btpowercontrol.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/commandsevents.dll	build	armv5_urel
+/epoc32/release/armv5/urel/commandsevents.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/corehci_base.dll	build	armv5_urel
+/epoc32/release/armv5/urel/corehci_base.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/corehci_symbian.dll	build	armv5_urel
+/epoc32/release/armv5/urel/corehci_symbian.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dutmode.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dutmode.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eirclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/eirclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gavdp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gavdp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hcicmdq.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hcicmdq.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hciframelogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hciframelogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hciproxy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hciproxy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hciserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hciserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hcishared.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hcishared.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hciutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hciutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_base.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_base.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_bcsp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_bcsp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_ti.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_ti.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_uart_original.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hctl_uart_original.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/initialisor_base.dll	build	armv5_urel
+/epoc32/release/armv5/urel/initialisor_base.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/initialisor_symbian.dll	build	armv5_urel
+/epoc32/release/armv5/urel/initialisor_symbian.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/initialisor_ti.dll	build	armv5_urel
+/epoc32/release/armv5/urel/initialisor_ti.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/irda.dll	build	armv5_urel
+/epoc32/release/armv5/urel/irda.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/irtranp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/irtranp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/legacymodemplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/legacymodemplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/panagt.agt	build	armv5_urel
+/epoc32/release/armv5/urel/panagt.agt.map	build	armv5_urel
+/epoc32/release/armv5/urel/panhelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/panhelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/panmessages.dll	build	armv5_urel
+/epoc32/release/armv5/urel/panmessages.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pannapiphook.prt	build	armv5_urel
+/epoc32/release/armv5/urel/pannapiphook.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/panproviders.dll	build	armv5_urel
+/epoc32/release/armv5/urel/panproviders.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qdp_base.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qdp_base.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/qdp_symbian.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qdp_symbian.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sdpagent.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sdpagent.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sdpdatabase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sdpdatabase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sdpserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sdpserver.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/a2dpoptimisation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/a2dpoptimisation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/atext.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextcommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextcommon.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextcommonbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextcommonbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextpluginbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atextpluginbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avctpservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avctpservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bluetooth.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bluetooth.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bluetoothav.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bluetoothav.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bnep.drv	build	winscw_udeb
+/epoc32/release/winscw/udeb/bnep.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bt_v2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bt_v2.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/btaudioadaptation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btaudioadaptation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btcomm.csy	build	winscw_udeb
+/epoc32/release/winscw/udeb/btcomm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btdevice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btdevice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btextnotifiers.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btextnotifiers.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btlogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btlogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmanclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmanclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmanserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/btpowercontrol.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btpowercontrol.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/commandsevents.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/commandsevents.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/corehci_base.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/corehci_base.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/corehci_symbian.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dutmode.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dutmode.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eirclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/eirclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/gavdp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gavdp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hcicmdq.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hcicmdq.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciframelogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciframelogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciproxy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciproxy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hcishared.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hcishared.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hciutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hctl_base.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hctl_base.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hctl_bcsp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hctl_ti.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hctl_uart_original.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/initialisor_base.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/initialisor_base.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/initialisor_symbian.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/initialisor_ti.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/irda.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/irda.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/irtranp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/irtranp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/legacymodemplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/panagt.agt	build	winscw_udeb
+/epoc32/release/winscw/udeb/panhelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/panhelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/panmessages.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/panmessages.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pannapiphook.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pannapiphook.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/panproviders.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qdp_base.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qdp_base.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/qdp_symbian.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sdpagent.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sdpagent.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sdpdatabase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sdpdatabase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sdpserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/100069cc.spd	export	
+/epoc32/release/winscw/udeb/z/private/100069cc/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/esock_bt.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/bluetooth_stack.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/cmdq.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/corehci_symbian.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/hctl_bcsp.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/hctl_ti.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/hctl_uart_original.ini	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/tiinit_4.1.21.bts	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/bluetooth/tiinit_4.2.38.bts	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/esock/bt.bt_v2.esk	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/esock/ip.pannapiphook.esk	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/corehci_symbian.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hctl_bcsp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hctl_ti.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hctl_uart_original.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/initialisor_symbian.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/initialisor_ti.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/legacymodemplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/panproviders.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/qdp_symbian.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/a2dpoptimisation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/a2dpoptimisation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atext.exe	build	winscw_urel
+/epoc32/release/winscw/urel/atext.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/atextclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atextclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atextcommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atextcommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atextcommon.exe	build	winscw_urel
+/epoc32/release/winscw/urel/atextcommon.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/atextcommonbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atextcommonbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atextpluginbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atextpluginbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avctpservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avctpservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bluetooth.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bluetooth.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bluetoothav.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bluetoothav.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bnep.drv	build	winscw_urel
+/epoc32/release/winscw/urel/bnep.drv.map	build	winscw_urel
+/epoc32/release/winscw/urel/bt_v2.prt	build	winscw_urel
+/epoc32/release/winscw/urel/bt_v2.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/btaudioadaptation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btaudioadaptation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btcomm.csy	build	winscw_urel
+/epoc32/release/winscw/urel/btcomm.csy.map	build	winscw_urel
+/epoc32/release/winscw/urel/btdevice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btdevice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btextnotifiers.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btextnotifiers.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btlogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btlogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btmanclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btmanclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btmanserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/btmanserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/btpowercontrol.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btpowercontrol.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/commandsevents.dll	build	winscw_urel
+/epoc32/release/winscw/urel/commandsevents.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/corehci_base.dll	build	winscw_urel
+/epoc32/release/winscw/urel/corehci_base.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/corehci_symbian.dll	build	winscw_urel
+/epoc32/release/winscw/urel/corehci_symbian.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dutmode.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dutmode.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eirclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/eirclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gavdp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gavdp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hcicmdq.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hcicmdq.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hciframelogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hciframelogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hciproxy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hciproxy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hciserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hciserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hcishared.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hcishared.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hciutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hciutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_base.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_base.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_bcsp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_bcsp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_ti.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_ti.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_uart_original.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hctl_uart_original.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/initialisor_base.dll	build	winscw_urel
+/epoc32/release/winscw/urel/initialisor_base.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/initialisor_symbian.dll	build	winscw_urel
+/epoc32/release/winscw/urel/initialisor_symbian.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/initialisor_ti.dll	build	winscw_urel
+/epoc32/release/winscw/urel/initialisor_ti.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/irda.dll	build	winscw_urel
+/epoc32/release/winscw/urel/irda.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/irtranp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/irtranp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/legacymodemplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/legacymodemplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/panagt.agt	build	winscw_urel
+/epoc32/release/winscw/urel/panagt.agt.map	build	winscw_urel
+/epoc32/release/winscw/urel/panhelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/panhelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/panmessages.dll	build	winscw_urel
+/epoc32/release/winscw/urel/panmessages.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pannapiphook.prt	build	winscw_urel
+/epoc32/release/winscw/urel/pannapiphook.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/panproviders.dll	build	winscw_urel
+/epoc32/release/winscw/urel/panproviders.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qdp_base.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qdp_base.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/qdp_symbian.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qdp_symbian.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sdpagent.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sdpagent.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sdpdatabase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sdpdatabase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sdpserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sdpserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/100012a5/policy/100069cc.spd	export	
+/epoc32/release/winscw/urel/z/private/100069cc/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101f7988/esock_bt.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/bluetooth_stack.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/cmdq.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/corehci_symbian.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/hctl_bcsp.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/hctl_ti.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/hctl_uart_original.ini	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/tiinit_4.1.21.bts	export	
+/epoc32/release/winscw/urel/z/private/101f7989/bluetooth/tiinit_4.2.38.bts	export	
+/epoc32/release/winscw/urel/z/private/101f7989/esock/bt.bt_v2.esk	export	
+/epoc32/release/winscw/urel/z/private/101f7989/esock/ip.pannapiphook.esk	export	
+/epoc32/release/winscw/urel/z/resource/plugins/corehci_symbian.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hctl_bcsp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hctl_ti.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hctl_uart_original.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/initialisor_symbian.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/initialisor_ti.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/legacymodemplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/panproviders.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/qdp_symbian.rsc	resource	winscw_udeb
+/epoc32/rom/include/bluetooth.iby	export	
+/epoc32/rom/include/btlogger.iby	export	
+/epoc32/rom/include/btpan.iby	export	
+/epoc32/rom/include/btsnoophcilogger.iby	export	
+/epoc32/rom/include/commandsevents_symbian.iby	export	
+/epoc32/rom/include/core/os/atext.iby	export	
+/epoc32/rom/include/core/os/legacymodemplugin.iby	export	
+/epoc32/rom/include/corehci_symbian.iby	export	
+/epoc32/rom/include/hci.iby	export	
+/epoc32/rom/include/hci_framework.iby	export	
+/epoc32/rom/include/hci_implementation_reference.iby	export	
+/epoc32/rom/include/hci_initialisor_ti.iby	export	
+/epoc32/rom/include/hci_qdp_symbian.iby	export	
+/epoc32/rom/include/hciproxy.iby	export	
+/epoc32/rom/include/hctl_bcsp.iby	export	
+/epoc32/rom/include/hctl_ti.iby	export	
+/epoc32/rom/include/hctl_uart_original.iby	export	
+/epoc32/rom/include/initialisor_symbian.iby	export	
+/epoc32/rom/include/irda.iby	export	

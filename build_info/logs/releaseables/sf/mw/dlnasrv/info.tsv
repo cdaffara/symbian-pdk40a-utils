@@ -1,0 +1,437 @@
+/epoc32/data/z/private/101f977c/backup_registration.xml	export	
+/epoc32/data/z/private/101f977c/objects.xml	export	
+/epoc32/data/z/private/101f977c/public/MediaServer1/ConnectionManager1.xml	export	
+/epoc32/data/z/private/101f977c/public/MediaServer1/ContentDirectory1.xml	export	
+/epoc32/data/z/private/101f977c/public/MediaServer1/MediaServer1.xml	export	
+/epoc32/data/z/private/101f977d/backup_registration.xml	export	
+/epoc32/data/z/private/20009CAE/backup_registration.xml	export	
+/epoc32/data/z/resource/plugins/upnpplaybackplugins.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/upnpplaybackplugins.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/upnpsecuritymanagerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/upnpsecuritymanagerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/upnpnotifier.r01	resource	armv5_urel
+/epoc32/data/z/resource/upnpnotifier.r01	resource	winscw_udeb
+/epoc32/data/z/resource/upnpnotifier.rsc	resource	armv5_urel
+/epoc32/data/z/resource/upnpnotifier.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/upnpframework_stub.sis	export	
+/epoc32/include/platform/mw/loc/sc/upnpframework.loc	export	
+/epoc32/include/platform/mw/loc/sc/upnpsettings.loc	export	
+/epoc32/include/platform/mw/loc/sc/upnpsharing.loc	export	
+/epoc32/include/platform/mw/upnpattribute.h	export	
+/epoc32/include/platform/mw/upnpavcontrolpoint.h	export	
+/epoc32/include/platform/mw/upnpavcontrolpointobserver.h	export	
+/epoc32/include/platform/mw/upnpbrowsecommand.h	export	
+/epoc32/include/platform/mw/upnpbrowsecriteria.h	export	
+/epoc32/include/platform/mw/upnpcommandobserver.h	export	
+/epoc32/include/platform/mw/upnpcontainer.h	export	
+/epoc32/include/platform/mw/upnpcontainerlist.h	export	
+/epoc32/include/platform/mw/upnpcopycommand.h	export	
+/epoc32/include/platform/mw/upnpdlnaprotocolinfo.h	export	
+/epoc32/include/platform/mw/upnpdlnaprotocolinfocons.h	export	
+/epoc32/include/platform/mw/upnpelement.h	export	
+/epoc32/include/platform/mw/upnpfilesharing.h	export	
+/epoc32/include/platform/mw/upnpfiletransferevent.h	export	
+/epoc32/include/platform/mw/upnpitem.h	export	
+/epoc32/include/platform/mw/upnpitemlist.h	export	
+/epoc32/include/platform/mw/upnpmediaserverclient.h	export	
+/epoc32/include/platform/mw/upnpmediaserverevent.h	export	
+/epoc32/include/platform/mw/upnpmediaservernotifier.h	export	
+/epoc32/include/platform/mw/upnpmediaserverobserver.h	export	
+/epoc32/include/platform/mw/upnpmediaserversettings.h	export	
+/epoc32/include/platform/mw/upnpmediaserverstatuswatcher.h	export	
+/epoc32/include/platform/mw/upnpmovecommand.h	export	
+/epoc32/include/platform/mw/upnpobject.h	export	
+/epoc32/include/platform/mw/upnpobjectlist.h	export	
+/epoc32/include/platform/mw/upnpplugininterface.h	export	
+/epoc32/include/platform/mw/upnpprotocolinfo.h	export	
+/epoc32/include/platform/mw/upnprunsetupcommand.h	export	
+/epoc32/include/platform/mw/upnpsecuritymanager.h	export	
+/epoc32/include/platform/mw/upnpshowcommand.h	export	
+/epoc32/include/upnpnotifier.rsg	resource	armv5_urel
+/epoc32/include/upnpnotifier.rsg	resource	winscw_udeb
+/epoc32/release/arm5/urel/z/private/20007564.cre	export	
+/epoc32/release/arm5/urel/z/private/20009cae.cre	export	
+/epoc32/release/armv5/lib/avconnectionmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avconnectionmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avconnectionmanager{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avconnectionmanager{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avcontentdirectory.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avcontentdirectory.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avcontentdirectory{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avcontentdirectory{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avcontrolframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avcontrolframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avcontrolframework{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avcontrolframework{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avmediaserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avmediaserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avmediaserverclient{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avmediaserverclient{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dlnaprofiler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dlnaprofiler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dlnaprofiler{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dlnaprofiler{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpapplicationengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpapplicationengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpapplicationengine{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpapplicationengine{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpavcontrollerclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpavcontrollerclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpavcontrollerclient{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpavcontrollerclient{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpavcontrollerhelper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpavcontrollerhelper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpavcontrollerhelper{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpavcontrollerhelper{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpavobjects.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpavobjects.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpavobjects{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpavobjects{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpcommand.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpcommand.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpcommand{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpcommand{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpcontentserverclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpcontentserverclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpcontentserverclient{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpcontentserverclient{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpmusicadapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpmusicadapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpmusicadapter{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpmusicadapter{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpsecurity.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpsecurity.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpsecuritymanagerclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpsecuritymanagerclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpsecuritymanagerclient{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpsecuritymanagerclient{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpsecurity{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpsecurity{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpsettingsengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpsettingsengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpsettingsengine{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpsettingsengine{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnputilities.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnputilities.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnputilities{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnputilities{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpxmlparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpxmlparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpxmlparser{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpxmlparser{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/Z/system/apps/upnp/upnp_ms_jpeg_lrg.jpg	export	
+/epoc32/release/armv5/udeb/Z/system/apps/upnp/upnp_ms_jpeg_sm.jpg	export	
+/epoc32/release/armv5/udeb/Z/system/apps/upnp/upnp_ms_png_lrg.png	export	
+/epoc32/release/armv5/udeb/Z/system/apps/upnp/upnp_ms_png_sm.png	export	
+/epoc32/release/armv5/udeb/avconnectionmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avconnectionmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avcontentdirectory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avcontentdirectory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avcontrolframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avcontrolframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avmediaserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/avmediaserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avmediaserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avmediaserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlnaprofiler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlnaprofiler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpapplicationengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpapplicationengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavcontrollerclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavcontrollerclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavcontrollerhelper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavcontrollerhelper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavcontrollerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavcontrollerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavobjects.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpavobjects.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcommand.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcommand.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcontentserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcontentserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcontentserverclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcontentserverclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpmusicadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpmusicadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpplaybackplugins.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpplaybackplugins.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecurity.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecurity.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecuritymanagerclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecuritymanagerclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecuritymanagerplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecuritymanagerplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecuritymanagerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsecuritymanagerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsettingsengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpsettingsengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnputilities.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnputilities.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpxmlparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpxmlparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/z/private/10202be9/20007564.txt	export	
+/epoc32/release/armv5/udeb/z/private/10202be9/20009cae.txt	export	
+/epoc32/release/armv5/urel/Z/system/apps/upnp/upnp_ms_jpeg_lrg.jpg	export	
+/epoc32/release/armv5/urel/Z/system/apps/upnp/upnp_ms_jpeg_sm.jpg	export	
+/epoc32/release/armv5/urel/Z/system/apps/upnp/upnp_ms_png_lrg.png	export	
+/epoc32/release/armv5/urel/Z/system/apps/upnp/upnp_ms_png_sm.png	export	
+/epoc32/release/armv5/urel/avconnectionmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avconnectionmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avcontentdirectory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avcontentdirectory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avcontrolframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avcontrolframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avmediaserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/avmediaserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/avmediaserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avmediaserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dlnaprofiler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dlnaprofiler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpapplicationengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpapplicationengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavcontrollerclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavcontrollerclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavcontrollerhelper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavcontrollerhelper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavcontrollerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavcontrollerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavobjects.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpavobjects.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcommand.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcommand.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcontentserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcontentserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcontentserverclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcontentserverclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpmusicadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpmusicadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpplaybackplugins.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpplaybackplugins.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecurity.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecurity.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecuritymanagerclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecuritymanagerclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecuritymanagerplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecuritymanagerplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecuritymanagerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsecuritymanagerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsettingsengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpsettingsengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnputilities.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnputilities.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpxmlparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpxmlparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/z/private/10202be9/20007564.txt	export	
+/epoc32/release/armv5/urel/z/private/10202be9/20009cae.txt	export	
+/epoc32/release/winscw/udeb/Z/system/apps/upnp/upnp_ms_jpeg_lrg.jpg	export	
+/epoc32/release/winscw/udeb/Z/system/apps/upnp/upnp_ms_jpeg_sm.jpg	export	
+/epoc32/release/winscw/udeb/Z/system/apps/upnp/upnp_ms_png_lrg.png	export	
+/epoc32/release/winscw/udeb/Z/system/apps/upnp/upnp_ms_png_sm.png	export	
+/epoc32/release/winscw/udeb/avconnectionmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avconnectionmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avcontentdirectory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avcontentdirectory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avcontrolframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avcontrolframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avmediaserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/avmediaserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avmediaserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlnaprofiler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlnaprofiler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpapplicationengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpapplicationengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpavcontrollerclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpavcontrollerclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpavcontrollerhelper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpavcontrollerhelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpavcontrollerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpavobjects.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpavobjects.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpcommand.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpcommand.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpcontentserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpcontentserverclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpcontentserverclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpmusicadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpmusicadapter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpplaybackplugins.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsecurity.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsecurity.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsecuritymanagerclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsecuritymanagerclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsecuritymanagerplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsecuritymanagerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsettingsengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpsettingsengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnputilities.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnputilities.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpxmlparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpxmlparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f977c/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f977c/objects.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f977c/public/MediaServer1/ConnectionManager1.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f977c/public/MediaServer1/ContentDirectory1.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f977c/public/MediaServer1/MediaServer1.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f977d/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/20007564.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/20009cae.txt	export	
+/epoc32/release/winscw/udeb/z/private/20009CAE/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/upnpplaybackplugins.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/upnpsecuritymanagerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/upnpnotifier.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/upnpnotifier.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/Z/system/apps/upnp/upnp_ms_jpeg_lrg.jpg	export	
+/epoc32/release/winscw/urel/Z/system/apps/upnp/upnp_ms_jpeg_sm.jpg	export	
+/epoc32/release/winscw/urel/Z/system/apps/upnp/upnp_ms_png_lrg.png	export	
+/epoc32/release/winscw/urel/Z/system/apps/upnp/upnp_ms_png_sm.png	export	
+/epoc32/release/winscw/urel/avconnectionmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avconnectionmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avcontentdirectory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avcontentdirectory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avcontrolframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avcontrolframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avmediaserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/avmediaserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/avmediaserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avmediaserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dlnaprofiler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dlnaprofiler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpapplicationengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpapplicationengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavcontrollerclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavcontrollerclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavcontrollerhelper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavcontrollerhelper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavcontrollerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavcontrollerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavobjects.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpavobjects.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcommand.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcommand.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcontentserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcontentserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcontentserverclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcontentserverclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpmusicadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpmusicadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpplaybackplugins.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpplaybackplugins.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecurity.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecurity.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecuritymanagerclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecuritymanagerclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecuritymanagerplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecuritymanagerplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecuritymanagerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsecuritymanagerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsettingsengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpsettingsengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnputilities.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnputilities.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpxmlparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpxmlparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101f977c/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101f977c/objects.xml	export	
+/epoc32/release/winscw/urel/z/private/101f977c/public/MediaServer1/ConnectionManager1.xml	export	
+/epoc32/release/winscw/urel/z/private/101f977c/public/MediaServer1/ContentDirectory1.xml	export	
+/epoc32/release/winscw/urel/z/private/101f977c/public/MediaServer1/MediaServer1.xml	export	
+/epoc32/release/winscw/urel/z/private/101f977d/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10202be9/20007564.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/20009cae.txt	export	
+/epoc32/release/winscw/urel/z/private/20009CAE/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/upnpplaybackplugins.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/upnpsecuritymanagerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/upnpnotifier.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/upnpnotifier.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/upnpcontentserver.confml	export	
+/epoc32/rom/config/assets/s60/confml/upnpmediaserver.confml	export	
+/epoc32/rom/config/assets/s60/confml/upnpsettingsengine.confml	export	
+/epoc32/rom/config/assets/s60/implml/upnpcontentserver_20007564.crml	export	
+/epoc32/rom/config/assets/s60/implml/upnpmediaserver_101F978F.crml	export	
+/epoc32/rom/config/assets/s60/implml/upnpsettingsengine_20009CAE.crml	export	
+/epoc32/rom/include/core/mw/upnpavcontroller.iby	export	
+/epoc32/rom/include/core/mw/upnpavcontrolpoint.iby	export	
+/epoc32/rom/include/core/mw/upnpframework.iby	export	
+/epoc32/rom/include/core/mw/upnpframeworkresources.iby	export	
+/epoc32/rom/include/core/mw/upnpmediaserver.iby	export	
+/epoc32/rom/include/core/mw/upnpmpxplugins.iby	export	
+/epoc32/rom/include/core/mw/upnpsettings.iby	export	
+/epoc32/rom/include/core/mw/upnpsettingsresources.iby	export	
+/epoc32/rom/include/core/mw/upnpsharing.iby	export	
+/epoc32/rom/include/core/mw/upnpsharingresources.iby	export	
+/sf/mw/dlnasrv/inc/upnpalbumservices.h	export	
+/sf/mw/dlnasrv/inc/upnpapplicationcrkeys.h	export	
+/sf/mw/dlnasrv/inc/upnpavbrowsingsession.h	export	
+/sf/mw/dlnasrv/inc/upnpavbrowsingsessionobserver.h	export	
+/sf/mw/dlnasrv/inc/upnpavcontroller.h	export	
+/sf/mw/dlnasrv/inc/upnpavcontrollerfactory.h	export	
+/sf/mw/dlnasrv/inc/upnpavcontrollerglobals.h	export	
+/sf/mw/dlnasrv/inc/upnpavdevice.h	export	
+/sf/mw/dlnasrv/inc/upnpavdevicelist.h	export	
+/sf/mw/dlnasrv/inc/upnpavdeviceobserver.h	export	
+/sf/mw/dlnasrv/inc/upnpavrenderingsession.h	export	
+/sf/mw/dlnasrv/inc/upnpavrenderingsessionobserver.h	export	
+/sf/mw/dlnasrv/inc/upnpavsessionbase.h	export	
+/sf/mw/dlnasrv/inc/upnpavsessionobserverbase.h	export	
+/sf/mw/dlnasrv/inc/upnpbrowseplaylistfiller.h	export	
+/sf/mw/dlnasrv/inc/upnpbrowsetimer.h	export	
+/sf/mw/dlnasrv/inc/upnpcdsreselementutility.h	export	
+/sf/mw/dlnasrv/inc/upnpcommonutils.h	export	
+/sf/mw/dlnasrv/inc/upnpconnectionmonitor.h	export	
+/sf/mw/dlnasrv/inc/upnpconnectionmonitorobserver.h	export	
+/sf/mw/dlnasrv/inc/upnpconstantdefs.h	export	
+/sf/mw/dlnasrv/inc/upnpcontentserverclient.h	export	
+/sf/mw/dlnasrv/inc/upnpcontentservercrkeys.h	export	
+/sf/mw/dlnasrv/inc/upnpcontentserverdefs.h	export	
+/sf/mw/dlnasrv/inc/upnpdlnaprofiler.h	export	
+/sf/mw/dlnasrv/inc/upnpdlnautility.h	export	
+/sf/mw/dlnasrv/inc/upnpdownloaditemresolver.h	export	
+/sf/mw/dlnasrv/inc/upnpfiledownloadsession.h	export	
+/sf/mw/dlnasrv/inc/upnpfilesharingengine.h	export	
+/sf/mw/dlnasrv/inc/upnpfilesharingengineobserver.h	export	
+/sf/mw/dlnasrv/inc/upnpfiletransfersession.h	export	
+/sf/mw/dlnasrv/inc/upnpfiletransfersessionobserver.h	export	
+/sf/mw/dlnasrv/inc/upnpfileuploadsession.h	export	
+/sf/mw/dlnasrv/inc/upnpfileutility.h	export	
+/sf/mw/dlnasrv/inc/upnpfileutilitytypes.h	export	
+/sf/mw/dlnasrv/inc/upnpframeworkfeatures_mmp.hrh	export	
+/sf/mw/dlnasrv/inc/upnpinternalfileutility.h	export	
+/sf/mw/dlnasrv/inc/upnpitemresolver.h	export	
+/sf/mw/dlnasrv/inc/upnpitemresolverfactory.h	export	
+/sf/mw/dlnasrv/inc/upnpitemresolverobserver.h	export	
+/sf/mw/dlnasrv/inc/upnpitemutility.h	export	
+/sf/mw/dlnasrv/inc/upnplitefiller.h	export	
+/sf/mw/dlnasrv/inc/upnpliteselectionfiller.h	export	
+/sf/mw/dlnasrv/inc/upnplog.h	export	
+/sf/mw/dlnasrv/inc/upnplogging.h	export	
+/sf/mw/dlnasrv/inc/upnpmetadatafetcher.h	export	
+/sf/mw/dlnasrv/inc/upnpmetadatautility.h	export	
+/sf/mw/dlnasrv/inc/upnpmusicadapter.h	export	
+/sf/mw/dlnasrv/inc/upnpobjectlite.h	export	
+/sf/mw/dlnasrv/inc/upnppanic.h	export	
+/sf/mw/dlnasrv/inc/upnpperiodic.h	export	
+/sf/mw/dlnasrv/inc/upnpplaylistfiller.h	export	
+/sf/mw/dlnasrv/inc/upnpplaylistservices.h	export	
+/sf/mw/dlnasrv/inc/upnpprotocolinfolocal.h	export	
+/sf/mw/dlnasrv/inc/upnpresourceselector.h	export	
+/sf/mw/dlnasrv/inc/upnpresparameters.h	export	
+/sf/mw/dlnasrv/inc/upnpresresolver.h	export	
+/sf/mw/dlnasrv/inc/upnpsecaccesscontroller.h	export	
+/sf/mw/dlnasrv/inc/upnpsettingsengine.h	export	
+/sf/mw/dlnasrv/inc/upnpsettingsengine.hrh	export	
+/sf/mw/dlnasrv/inc/upnpxmlparser.h	export	
+/sf/mw/dlnasrv/inc/upnpxmlparserlite.h	export	
+/sf/mw/dlnasrv/upnpavcontroller/inc/upnpavbrowserequest.h	export	
+/sf/mw/dlnasrv/upnpavcontroller/inc/upnpavbrowserespparams.h	export	
+/sf/mw/dlnasrv/upnpavcontroller/inc/upnpavrequest.h	export	
+/sf/mw/dlnasrv/upnpavcontroller/inc/upnpfiletransferitem.h	export	
+/sf/mw/dlnasrv/upnpavcontroller/inc/upnpxmleventparser.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpcdsettings.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpcm.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpcontentdirectoryeventobserver.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpcontentdirectoryglobals.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpcontentdirectoryservice.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpcustomlog.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpfiletransfereventlist.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpmediaservereventlist.h	export	
+/sf/mw/dlnasrv/upnpmediaserver/inc/upnpmediaserverglobals.h	export	

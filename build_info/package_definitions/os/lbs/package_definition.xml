@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="lbs" level="services" levels="hw-if data-acquisition adaptation management application-interface" long-name="Locating Services">
+<collection name="datasourcemodules" long-name="Generic Positioning Plugins" level="data-acquisition">
+<component name="defaultpositioningmodule" long-name="Default Positioning Module" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/datasourcemodules/defaultpositioningmodule/group" mrp="/sf/os/lbs/datasourcemodules/defaultpositioningmodule/group/lbs_default_positioning_module.mrp"/>
+</component>
+<component name="bluetoothgpspositioningmodule" long-name="Bluetooth GPS Positioning Module" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/datasourcemodules/bluetoothgpspositioningmodule/group" mrp="/sf/os/lbs/datasourcemodules/bluetoothgpspositioningmodule/group/lbs_bt_positioning_module.mrp"/>
+</component>
+<component name="simulationpositioningmodule" long-name="Simulation Positioning Module" introduced="^2" purpose="development" plugin="Y">
+<unit bldFile="/sf/os/lbs/datasourcemodules/simulationpositioningmodule/group" mrp="/sf/os/lbs/datasourcemodules/simulationpositioningmodule/group/lbs_simulation_positioning_module.mrp"/>
+</component>
+<component name="gpspositioningmodule" long-name="GPS/A-GPS Positioning Module" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/datasourcemodules/gpspositioningmodule/group" mrp="/sf/os/lbs/datasourcemodules/gpspositioningmodule/group/lbs_agps_positioning_module.mrp"/>
+</component>
+<component name="networkpositioningmodule" long-name="Network Positioning Module" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/datasourcemodules/networkpositioningmodule/group" mrp="/sf/os/lbs/datasourcemodules/networkpositioningmodule/group/lbs_network_positioning_module.mrp"/>
+</component>
+<component name="locationapesuplpsy" long-name="APE SUPL Positioning Module" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/datasourcemodules/locationapesuplpsy/group" mrp="/sf/os/lbs/datasourcemodules/locationapesuplpsy/group/lbs_ape_supl_positioning_module.mrp"/>
+</component>
+</collection>
+<collection name="datasourceadaptation" long-name="Data Source Adaptation" level="adaptation">
+<component name="gpsdatasourceadaptation" long-name="GPS Data Source Adaptation" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/datasourceadaptation/gpsdatasourceadaptation/group" mrp="/sf/os/lbs/datasourceadaptation/gpsdatasourceadaptation/group/lbs_gps_data_source_adaptation.mrp"/>
+</component>
+</collection>
+<collection name="locationrequestmgmt" long-name="Location Request Management" level="application-interface">
+<component name="locationserver" long-name="Location Server" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/lbs/locationrequestmgmt/locationserver/group" mrp="/sf/os/lbs/locationrequestmgmt/locationserver/group/lbs_locationserver.mrp"/>
+</component>
+<component name="networkrequesthandler" long-name="Network Request Handler" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/lbs/locationrequestmgmt/networkrequesthandler/group" mrp="/sf/os/lbs/locationrequestmgmt/networkrequesthandler/group/lbs_networkrequesthandler.mrp"/>
+</component>
+</collection>
+<collection name="lbstest" long-name="Locating Services Tests" level="application-interface">
+<component name="locationprotocoltest" long-name="Location Protocol Tests" introduced="9.2" purpose="development" plugin="Y">
+<unit bldFile="/sf/os/lbs/lbstest/locationprotocoltest/group" mrp="/sf/os/lbs/lbstest/locationprotocoltest/group/lbs_networktest.mrp"/>
+</component>
+</collection>
+<collection name="locationmgmt" long-name="Location Management" level="management">
+<component name="locmonitor" long-name="Location Monitor" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/lbs/locationmgmt/locmonitor/lbslocmonitorserver/group" mrp="/sf/os/lbs/locationmgmt/locmonitor/lbslocmonitorserver/group/lbs_locationmonitor.mrp"/>
+</component>
+<component name="agpslocationmgr" long-name="A-GPS Location Manager" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/lbs/locationmgmt/agpslocationmgr/group" mrp="/sf/os/lbs/locationmgmt/agpslocationmgr/group/lbs_agpslocationmanager.mrp"/>
+</component>
+<component name="networklocationmgr" long-name="Network Location Manager" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/lbs/locationmgmt/networklocationmgr/group" mrp="/sf/os/lbs/locationmgmt/networklocationmgr/group/lbs_networklocationmanager.mrp"/>
+</component>
+<component name="locationcore" long-name="Location Core" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/lbs/locationmgmt/locationcore/group" mrp="/sf/os/lbs/locationmgmt/locationcore/group/lbs_admin.mrp"/>
+</component>
+<component name="networkgateway" long-name="Network Gateway" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/lbs/locationmgmt/networkgateway/group" mrp="/sf/os/lbs/locationmgmt/networkgateway/group/lbs_networkgateway.mrp"/>
+</component>
+</collection>
+<collection name="networkprotocolmodules" long-name="Network Protocol Modules" level="adaptation">
+<component name="privacyprotocolmodule" long-name="Privacy Protocol Module" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/networkprotocolmodules/privacyprotocolmodule/group" mrp="/sf/os/lbs/networkprotocolmodules/privacyprotocolmodule/group/lbs_privacyprotocolmodule.mrp"/>
+</component>
+<component name="networkpmutils" long-name="Network Protocol Module Utilities" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/networkprotocolmodules/networkpmutils/group" mrp="/sf/os/lbs/networkprotocolmodules/networkpmutils/group/lbs_networkpmutils.mrp"/>
+</component>
+<component name="suplpmcore" long-name="SUPL Protocol Module Core" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/networkprotocolmodules/suplpmcore/group" mrp="/sf/os/lbs/networkprotocolmodules/suplpmcore/group/lbs_suplpmcore.mrp"/>
+</component>
+<component name="networkpmasn1_pub" long-name="Network Protocol Module ASN1 Public Interfaces" introduced="^3" purpose="optional" class="api">
+<unit bldFile="/sf/os/lbs/networkprotocolmodules/networkpmasn1_pub/group" mrp="/sf/os/lbs/networkprotocolmodules/networkpmasn1_pub/group/lbs_networkpmasn1_pub.mrp"/>
+</component>
+<component name="suplcontrolplaneprotocols" long-name="SUPL Control Plane Protocols" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/networkprotocolmodules/suplcontrolplaneprotocols/group" mrp="/sf/os/lbs/networkprotocolmodules/suplcontrolplaneprotocols/group/lbs_suplcontrolplaneprotocols.mrp"/>
+</component>
+<component name="suplproxyprotocolmodule" long-name="SUPL Proxy Protocol Module" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/networkprotocolmodules/suplproxyprotocolmodule/group" mrp="/sf/os/lbs/networkprotocolmodules/suplproxyprotocolmodule/group/lbs_suplproxyprotocolmodule.mrp"/>
+</component>
+<component name="suplprotocolmodule" long-name="SUPL Protocol Module" introduced="^2" deprecated="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/lbs/networkprotocolmodules/suplprotocolmodule/group" mrp="/sf/os/lbs/networkprotocolmodules/suplprotocolmodule/group/lbs_suplprotocolmodule.mrp"/>
+</component>
+</collection>
+<collection name="lbsapitest" long-name="Location API Tests" level="application-interface"/>
+<collection name="lbs_info" long-name="Locating Services Info" level="application-interface">
+<component name="lbs_metadata" long-name="Locating Services Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/lbs/lbs_info/lbs_metadata/lbs_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

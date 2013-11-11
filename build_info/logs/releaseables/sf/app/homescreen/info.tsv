@@ -1,0 +1,357 @@
+/epoc32/data/z/private/10003a3f/import/apps/hsapplication_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hsapplication_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/hswidgetuninstaller_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/hswidgetuninstaller_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/20022F35/backup_registration.xml	export	
+/epoc32/data/z/private/20022F35/homescreen.db	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20022F46/hsshortcutwidgetplugin.manifest	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20022F6C/hsclockwidgetplugin.manifest	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/20022F6C/qtg_graf_hswidget_preview_clock.svg	export	
+/epoc32/data/z/private/20022f35/wallpapers/originals/car.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/originals/shapes.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/originals/shoes.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/1_landscape.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/1_portrait.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/2_landscape.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/2_portrait.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/3_landscape.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/3_portrait.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/default_landscape.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/page/default_portrait.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/scene/default_landscape.png	export	
+/epoc32/data/z/private/20022f35/wallpapers/scene/default_portrait.png	export	
+/epoc32/data/z/private/2002AC7F/des/hsapplibrarystateplugin.xml	export	
+/epoc32/data/z/private/2002AC7F/des/hsclockwidgetplugin.xml	export	
+/epoc32/data/z/private/2002AC7F/des/hshomescreenclientplugin.xml	export	
+/epoc32/data/z/private/2002AC7F/des/hshomescreenstateplugin.xml	export	
+/epoc32/data/z/private/2002AC7F/des/hsmenuclientplugin.xml	export	
+/epoc32/data/z/private/2002AC7F/des/hsmenuworkerstateplugin.xml	export	
+/epoc32/data/z/private/2002AC7F/des/hsshortcutwidgetplugin.xml	export	
+/epoc32/data/z/resource/apps/hsapplication.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/hsapplication.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hsapplication.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/hswidgetuninstaller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/hswidgetuninstaller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/plugins/homescreen/hsapplibrarystateplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/homescreen/hsclockwidgetplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/homescreen/hshomescreenstateplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/homescreen/hsmenuworkerstateplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/homescreen/hsshortcutwidgetplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/hshomescreenclientplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/plugins/hsmenuclientplugin.qtplugin	export	
+/epoc32/data/z/resource/qt/translations/homescreen.qm	export	
+/epoc32/data/z/resource/qt/translations/hsapplibrary.qm	export	
+/epoc32/data/z/resource/qt/translations/snsrbigclockscreensaverplugin.qm	export	
+/epoc32/data/z/snsrdevicedialogplugin.qtplugin	export	
+/epoc32/data/z/snsrresources/plugins/snsrplugins/snsrbigclockscreensaverplugin.qtplugin	export	
+/epoc32/data/z/snsrresources/plugins/snsrplugins/snsrbigclockscreensaverplugin.xml	export	
+/epoc32/include/hsapplication.rsg	resource	armv5_urel
+/epoc32/include/hsapplication.rsg	resource	winscw_udeb
+/epoc32/include/hswidgetuninstaller.rsg	resource	armv5_urel
+/epoc32/include/hswidgetuninstaller.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/hsmenuclient.h	export	
+/epoc32/include/platform/app/screensaverdomaincrkeys.h	export	
+/epoc32/release/armv5/lib/hsapplibrarystateplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsapplibrarystateplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsapplibrarystateplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsapplibrarystateplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsclockwidgetplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsclockwidgetplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsclockwidgetplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsclockwidgetplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsdomainmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsdomainmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsdomainmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsdomainmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hshomescreenclientplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hshomescreenclientplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hshomescreenclientplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hshomescreenclientplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hshomescreenstateplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hshomescreenstateplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hshomescreenstateplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hshomescreenstateplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsmenuclientplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsmenuclientplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsmenuclientplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsmenuclientplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsmenuserviceprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsmenuserviceprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsmenuserviceprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsmenuserviceprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsmenuworkerstateplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsmenuworkerstateplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsmenuworkerstateplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsmenuworkerstateplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsshortcutwidgetplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsshortcutwidgetplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsshortcutwidgetplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsshortcutwidgetplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hsutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hsutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/screensavermodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/screensavermodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/screensavermodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/screensavermodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrbigclockscreensaverplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrbigclockscreensaverplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrbigclockscreensaverplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrbigclockscreensaverplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrdevicedialogplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrdevicedialogplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrdevicedialogplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrdevicedialogplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrdisplaycontrolclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrdisplaycontrolclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrdisplaycontrolclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrdisplaycontrolclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/snsrutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/snsrutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/hsapplibrarystateplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsapplibrarystateplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsapplication.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsapplication.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsapplicationlauncher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsapplicationlauncher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsclockwidgetplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsclockwidgetplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsdomainmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsdomainmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hshomescreenclientplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hshomescreenclientplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hshomescreenstateplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hshomescreenstateplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsmenuclientplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsmenuclientplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsmenuserviceprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsmenuserviceprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsmenuworkerstateplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsmenuworkerstateplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsshortcutwidgetplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsshortcutwidgetplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hsutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hswidgetuninstaller.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/hswidgetuninstaller.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/screensavermodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/screensavermodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrbigclockscreensaverplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrbigclockscreensaverplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrdevicedialogplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrdevicedialogplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrdisplaycontrolclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrdisplaycontrolclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrdisplaycontrolserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrdisplaycontrolserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/snsrutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/hsapplibrarystateplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsapplibrarystateplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsapplication.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hsapplication.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsapplicationlauncher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hsapplicationlauncher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsclockwidgetplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsclockwidgetplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsdomainmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsdomainmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hshomescreenclientplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hshomescreenclientplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hshomescreenstateplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hshomescreenstateplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsmenuclientplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsmenuclientplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsmenuserviceprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsmenuserviceprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsmenuworkerstateplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsmenuworkerstateplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsshortcutwidgetplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsshortcutwidgetplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hsutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hsutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hswidgetuninstaller.exe	build	armv5_urel
+/epoc32/release/armv5/urel/hswidgetuninstaller.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/screensavermodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/screensavermodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/snsrbigclockscreensaverplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/snsrbigclockscreensaverplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/snsrdevicedialogplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/snsrdevicedialogplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/snsrdisplaycontrolclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/snsrdisplaycontrolclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/snsrdisplaycontrolserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/snsrdisplaycontrolserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/snsrutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/snsrutils.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/hsapplibrarystateplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsapplibrarystateplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsapplication.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsapplicationlauncher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsclockwidgetplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsclockwidgetplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsdomainmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsdomainmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hshomescreenclientplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hshomescreenclientplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hshomescreenstateplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hshomescreenstateplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsmenuclientplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsmenuclientplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsmenuserviceprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsmenuserviceprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsmenuworkerstateplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsmenuworkerstateplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsshortcutwidgetplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsshortcutwidgetplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hsutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hswidgetuninstaller.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/screensavermodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/screensavermodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrbigclockscreensaverplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrbigclockscreensaverplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrdevicedialogplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrdevicedialogplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrdisplaycontrolclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrdisplaycontrolclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrdisplaycontrolserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/snsrutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hsapplication_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/hswidgetuninstaller_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/20022F35/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/homescreen.db	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20022F46/hsshortcutwidgetplugin.manifest	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20022F6C/hsclockwidgetplugin.manifest	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/20022F6C/qtg_graf_hswidget_preview_clock.svg	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/originals/car.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/originals/shapes.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/originals/shoes.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/1_landscape.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/1_portrait.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/2_landscape.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/2_portrait.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/3_landscape.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/3_portrait.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/default_landscape.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/page/default_portrait.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/scene/default_landscape.png	export	
+/epoc32/release/winscw/udeb/z/private/20022f35/wallpapers/scene/default_portrait.png	export	
+/epoc32/release/winscw/udeb/z/resource/apps/hsapplication.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/hsapplication.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/hswidgetuninstaller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/homescreen/hsapplibrarystateplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/homescreen/hsclockwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/homescreen/hshomescreenstateplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/homescreen/hsmenuworkerstateplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/homescreen/hsshortcutwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/hshomescreenclientplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/plugins/hsmenuclientplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/resource/qt/translations/homescreen.qm	export	
+/epoc32/release/winscw/udeb/z/resource/qt/translations/hsapplibrary.qm	export	
+/epoc32/release/winscw/udeb/z/resource/qt/translations/snsrbigclockscreensaverplugin.qm	export	
+/epoc32/release/winscw/udeb/z/snsrdevicedialogplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/snsrresources/plugins/snsrplugins/snsrbigclockscreensaverplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/snsrresources/plugins/snsrplugins/snsrbigclockscreensaverplugin.xml	export	
+/epoc32/release/winscw/urel/hsapplibrarystateplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsapplibrarystateplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsapplication.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hsapplication.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsapplicationlauncher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hsapplicationlauncher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsclockwidgetplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsclockwidgetplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsdomainmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsdomainmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hshomescreenclientplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hshomescreenclientplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hshomescreenstateplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hshomescreenstateplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsmenuclientplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsmenuclientplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsmenuserviceprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsmenuserviceprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsmenuworkerstateplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsmenuworkerstateplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsshortcutwidgetplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsshortcutwidgetplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hsutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hsutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hswidgetuninstaller.exe	build	winscw_urel
+/epoc32/release/winscw/urel/hswidgetuninstaller.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/screensavermodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/screensavermodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/snsrbigclockscreensaverplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/snsrbigclockscreensaverplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/snsrdevicedialogplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/snsrdevicedialogplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/snsrdisplaycontrolclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/snsrdisplaycontrolclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/snsrdisplaycontrolserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/snsrdisplaycontrolserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/snsrutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/snsrutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hsapplication_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/hswidgetuninstaller_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/20022F35/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/20022F35/homescreen.db	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20022F46/hsshortcutwidgetplugin.manifest	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20022F6C/hsclockwidgetplugin.manifest	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/20022F6C/qtg_graf_hswidget_preview_clock.svg	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/originals/car.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/originals/shapes.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/originals/shoes.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/1_landscape.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/1_portrait.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/2_landscape.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/2_portrait.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/3_landscape.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/3_portrait.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/default_landscape.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/page/default_portrait.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/scene/default_landscape.png	export	
+/epoc32/release/winscw/urel/z/private/20022f35/wallpapers/scene/default_portrait.png	export	
+/epoc32/release/winscw/urel/z/resource/apps/hsapplication.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/hsapplication.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/hswidgetuninstaller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/qt/plugins/homescreen/hsapplibrarystateplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/homescreen/hsclockwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/homescreen/hshomescreenstateplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/homescreen/hsmenuworkerstateplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/homescreen/hsshortcutwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/hshomescreenclientplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/plugins/hsmenuclientplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/resource/qt/translations/homescreen.qm	export	
+/epoc32/release/winscw/urel/z/resource/qt/translations/hsapplibrary.qm	export	
+/epoc32/release/winscw/urel/z/resource/qt/translations/snsrbigclockscreensaverplugin.qm	export	
+/epoc32/release/winscw/urel/z/snsrdevicedialogplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/snsrresources/plugins/snsrplugins/snsrbigclockscreensaverplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/snsrresources/plugins/snsrplugins/snsrbigclockscreensaverplugin.xml	export	
+/epoc32/rom/config/assets/s60/confml/CI_homescreendb.confml	export	
+/epoc32/rom/config/assets/s60/confml/CI_hsapplibrary.confml	export	
+/epoc32/rom/config/assets/s60/confml/homescreendb.confml	export	
+/epoc32/rom/config/assets/s60/confml/hsapplibrary.confml	export	
+/epoc32/rom/config/assets/s60/confml/screensaver.confml	export	
+/epoc32/rom/config/assets/s60/implml/homescreendb.implml	export	
+/epoc32/rom/config/assets/s60/implml/homescreendb_templates/create.sql	export	
+/epoc32/rom/config/assets/s60/implml/homescreendb_templates/fill.sql	export	
+/epoc32/rom/config/assets/s60/implml/hsapplibrary.implml	export	
+/epoc32/rom/config/assets/s60/implml/hsapplibrary_20022F97.crml	export	
+/epoc32/rom/config/assets/s60/implml/screensaver_2002FFAB.crml	export	
+/epoc32/rom/include/core/app/screensaver.iby	export	
+/epoc32/rom/include/core/app/snsrdisplaycontrol_s60.iby	export	
+/epoc32/winscw/c/private/2002AC7F/des/hsapplibrarystateplugin.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/hsclockwidgetplugin.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/hshomescreenclientplugin.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/hshomescreenstateplugin.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/hsmenuclientplugin.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/hsmenuworkerstateplugin.xml	export	
+/epoc32/winscw/c/private/2002AC7F/des/hsshortcutwidgetplugin.xml	export	
+/sf/app/homescreen/screensaver/inc/screensaver.h	export	
+/sf/app/homescreen/screensaver/inc/screensaverfactory.h	export	
+/sf/app/homescreen/screensaver/inc/screensavermodel_global.h	export	
+/sf/app/homescreen/screensaver/inc/snsrdisplaycontrolclient.h	export	

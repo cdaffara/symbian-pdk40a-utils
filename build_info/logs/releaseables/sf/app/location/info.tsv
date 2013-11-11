@@ -1,0 +1,94 @@
+/epoc32/data/z/private/10003a3f/import/apps/locationpickerservice_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/locationpickerservice_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/mylocationsengine_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/mylocationsengine_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/locationpickerservice.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/locationpickerservice.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/mylocationsengine.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/mylocationsengine.rsc	resource	winscw_udeb
+/epoc32/include/app/maptileservice.h	export	
+/epoc32/include/locationpickerservice.rsg	resource	armv5_urel
+/epoc32/include/locationpickerservice.rsg	resource	winscw_udeb
+/epoc32/include/mylocationsengine.rsg	resource	armv5_urel
+/epoc32/include/mylocationsengine.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/locationdatalookupdb.h	export	
+/epoc32/include/platform/app/locationservicedefines.h	export	
+/epoc32/include/platform/app/maptilegeocoderplugin.h	export	
+/epoc32/include/platform/app/maptilegeocoderplugin.inl	export	
+/epoc32/include/platform/app/qlocationpickeritem.h	export	
+/epoc32/release/armv5/lib/geocodeupdate.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/geocodeupdate.dso	build	armv5_urel
+/epoc32/release/armv5/lib/geocodeupdate{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/geocodeupdate{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locationdatalookupdb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locationdatalookupdb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locationdatalookupdb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locationdatalookupdb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/maptileservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/maptileservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/maptileservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/maptileservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mylocationsdatabasemanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mylocationsdatabasemanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mylocationsdatabasemanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mylocationsdatabasemanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/geocodeupdate.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/geocodeupdate.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationdatalookupdb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationdatalookupdb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationpickerservice.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationpickerservice.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/maptileservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/maptileservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mylocationsdatabasemanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mylocationsdatabasemanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mylocationsengine.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mylocationsengine.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/geocodeupdate.dll	build	armv5_urel
+/epoc32/release/armv5/urel/geocodeupdate.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locationdatalookupdb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/locationdatalookupdb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locationpickerservice.exe	build	armv5_urel
+/epoc32/release/armv5/urel/locationpickerservice.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/maptileservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/maptileservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mylocationsdatabasemanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mylocationsdatabasemanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mylocationsengine.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mylocationsengine.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/geocodeupdate.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/geocodeupdate.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locationdatalookupdb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/locationdatalookupdb.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locationpickerservice.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/maptileservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/maptileservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mylocationsdatabasemanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mylocationsdatabasemanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mylocationsengine.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/locationpickerservice_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/mylocationsengine_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/locationpickerservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/mylocationsengine.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/geocodeupdate.dll	build	winscw_urel
+/epoc32/release/winscw/urel/geocodeupdate.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locationdatalookupdb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/locationdatalookupdb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locationpickerservice.exe	build	winscw_urel
+/epoc32/release/winscw/urel/locationpickerservice.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/maptileservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/maptileservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mylocationsdatabasemanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mylocationsdatabasemanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mylocationsengine.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mylocationsengine.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/locationpickerservice_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/mylocationsengine_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/locationpickerservice.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/mylocationsengine.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/maptileservice.confml	export	
+/epoc32/rom/config/assets/s60/implml/maptileservice_2002E6E8.crml	export	
+/epoc32/rom/include/core/app/locationpickerservice.iby	export	
+/epoc32/rom/include/core/app/mylocations.iby	export	
+/epoc32/rom/include/language/app/locationpickerservice_resources.iby	export	
+/epoc32/winscw/c/private/10202be9/2002E6E8.txt	export	

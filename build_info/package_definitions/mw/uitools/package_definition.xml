@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="uitools" level="specific" levels="compile encode tool if" long-name="UI Tools">
+<collection name="uitools_pub" long-name="UI Tools Public Interfaces" level="if">
+<component name="third_party_bitmap_palette_api" long-name="Third Party Bitmap Palette API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/uitools/uitools_pub/third_party_bitmap_palette_api/group"/>
+</component>
+</collection>
+<collection name="uitools_plat" long-name="UI Tools Platform Interfaces" level="if">
+<component name="uitools_cdl_api" long-name="CDL API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/uitools/uitools_plat/cdl_api/group"/>
+</component>
+<component name="uitools_layout_system_private_api" long-name="Layout System Private API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/uitools/uitools_plat/layout_system_private_api/group"/>
+</component>
+</collection>
+<collection name="cdlcompilertoolkit" long-name="CDL Compiler Toolkit" level="compile">
+<!-- collection is actually a component. Needs to be moved down a directory -->
+<component name="cdlcompilertoolkit_build" long-name="CDL Compiler Toolkit Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/uitools/cdlcompilertoolkit/group"/>
+</component>
+</collection>
+<collection name="cdlcompiler" long-name="CDL Compiler" level="compile">
+<!-- collection is actually a component. Needs to be moved down a directory -->
+<component name="cdlcompiler_build" long-name="CDL Compiler Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/uitools/cdlcompiler/group"/>
+</component>
+</collection>
+<collection name="gfxtools" long-name="Graphics Tools" level="tool">
+<component name="color" long-name="Bitmap Colour Palette" filter="s60" purpose="optional" class="PC">
+<unit bldFile="/sf/mw/uitools/gfxtools/color/group"/>
+</component>
+</collection>
+<collection name="aknlayoutcompiler" long-name="Avkon Layout Compiler" level="compile">
+<!-- collection is actually a component. Needs to be moved down a directory -->
+<component name="aknlayoutcompiler_build" long-name="Avkon Layout Compiler Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/uitools/aknlayoutcompiler/group"/>
+</component>
+</collection>
+<collection name="skincompiler" long-name="Skin Compiler" level="compile">
+<component name="aknskindesccompiler" long-name="Avkon Skin Descriptor Compiler" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/uitools/skincompiler/AknSkinDescCompiler/group"/>
+</component>
+</collection>
+<collection name="reszip" long-name="Resource Zip" level="encode">
+<!-- collection is actually a component. Needs to be moved down a directory -->
+<component name="reszip_build" long-name="Resource Zip Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/uitools/reszip/group"/>
+</component>
+</collection>
+<collection name="toollibraries" long-name="Tool Libraries" level="tool"/>
+<collection name="svgtencoder" long-name="SVGT Encoder" level="encode">
+<component name="svgtenc" long-name="Standalone SVGT Encoder" filter="s60" purpose="optional" class="PC">
+<unit bldFile="/sf/mw/uitools/svgtencoder/svgtenc/standalone/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

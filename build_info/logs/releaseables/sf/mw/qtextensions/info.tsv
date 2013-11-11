@@ -1,0 +1,311 @@
+/epoc32/data/z/private/10003a3f/import/apps/keycaptureex_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/keycaptureex_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/settingsmanagerex_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/settingsmanagerex_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/sysinfoex_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/sysinfoex_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/systemtoneserviceex_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/systemtoneserviceex_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/testapp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/testapp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/utilsex_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/utilsex_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/keycaptureex.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/keycaptureex.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/settingsmanagerex.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/settingsmanagerex.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/sysinfoex.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/sysinfoex.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/systemtoneserviceex.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/systemtoneserviceex.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/testapp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/testapp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/utilsex.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/utilsex.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/testplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/testplugin.rsc	resource	winscw_udeb
+/epoc32/include/keycaptureex.rsg	resource	armv5_urel
+/epoc32/include/keycaptureex.rsg	resource	winscw_udeb
+/epoc32/include/mw/xqaiwdecl.h	export	
+/epoc32/include/mw/xqaiwglobal.h	export	
+/epoc32/include/mw/xqaiwinterfacedescriptor.h	export	
+/epoc32/include/mw/xqaiwrequest.h	export	
+/epoc32/include/mw/xqapplicationmanager.h	export	
+/epoc32/include/mw/xqappmgr.h	export	
+/epoc32/include/mw/xqplugin.h	export	
+/epoc32/include/mw/xqpluginfactory.h	export	
+/epoc32/include/mw/xqplugininfo.h	export	
+/epoc32/include/mw/xqpluginloader.h	export	
+/epoc32/include/mw/xqrequestinfo.h	export	
+/epoc32/include/mw/xqserviceclientinfo.h	export	
+/epoc32/include/mw/xqserviceerrdefs.h	export	
+/epoc32/include/mw/xqserviceglobal.h	export	
+/epoc32/include/mw/xqserviceipc.h	export	
+/epoc32/include/mw/xqserviceipcconst.h	export	
+/epoc32/include/mw/xqserviceipcdefs.h	export	
+/epoc32/include/mw/xqserviceipcmarshal.h	export	
+/epoc32/include/mw/xqserviceipcobserver.h	export	
+/epoc32/include/mw/xqserviceipcrequest.h	export	
+/epoc32/include/mw/xqserviceipcserver.h	export	
+/epoc32/include/mw/xqservicemanager.h	export	
+/epoc32/include/mw/xqserviceprovider.h	export	
+/epoc32/include/mw/xqservicerequest.h	export	
+/epoc32/include/mw/xqserviceutil.h	export	
+/epoc32/include/mw/xqsharablefile.h	export	
+/epoc32/include/mw/xqtecom.hrh	export	
+/epoc32/include/platform/mw/XQCentralRepositorySearchCriteria	export	
+/epoc32/include/platform/mw/XQCentralRepositorySettingsKey	export	
+/epoc32/include/platform/mw/XQCentralRepositoryUtils	export	
+/epoc32/include/platform/mw/XQConversions	export	
+/epoc32/include/platform/mw/XQKeyCapture	export	
+/epoc32/include/platform/mw/XQPublishAndSubscribeSecurityPolicy	export	
+/epoc32/include/platform/mw/XQPublishAndSubscribeSettingsKey	export	
+/epoc32/include/platform/mw/XQPublishAndSubscribeUtils	export	
+/epoc32/include/platform/mw/XQSettingsKey	export	
+/epoc32/include/platform/mw/XQSettingsManager	export	
+/epoc32/include/platform/mw/XQSysInfo	export	
+/epoc32/include/platform/mw/XQSystemToneService	export	
+/epoc32/include/platform/mw/XQUtils	export	
+/epoc32/include/platform/mw/settingsmanager_global.h	export	
+/epoc32/include/platform/mw/sysinfo_global.h	export	
+/epoc32/include/platform/mw/utils_global.h	export	
+/epoc32/include/platform/mw/xqaiwdeclplat.h	export	
+/epoc32/include/platform/mw/xqcentralrepositorysearchcriteria.h	export	
+/epoc32/include/platform/mw/xqcentralrepositoryutils.h	export	
+/epoc32/include/platform/mw/xqconversions.h	export	
+/epoc32/include/platform/mw/xqkeycapture.h	export	
+/epoc32/include/platform/mw/xqpublishandsubscribesecuritypolicy.h	export	
+/epoc32/include/platform/mw/xqpublishandsubscribeutils.h	export	
+/epoc32/include/platform/mw/xqsettingskey.h	export	
+/epoc32/include/platform/mw/xqsettingsmanager.h	export	
+/epoc32/include/platform/mw/xqsysinfo.h	export	
+/epoc32/include/platform/mw/xqsystemtoneservice.h	export	
+/epoc32/include/platform/mw/xqutils.h	export	
+/epoc32/include/settingsmanagerex.rsg	resource	armv5_urel
+/epoc32/include/settingsmanagerex.rsg	resource	winscw_udeb
+/epoc32/include/sysinfoex.rsg	resource	armv5_urel
+/epoc32/include/sysinfoex.rsg	resource	winscw_udeb
+/epoc32/include/systemtoneserviceex.rsg	resource	armv5_urel
+/epoc32/include/systemtoneserviceex.rsg	resource	winscw_udeb
+/epoc32/include/testapp.rsg	resource	armv5_urel
+/epoc32/include/testapp.rsg	resource	winscw_udeb
+/epoc32/include/utilsex.rsg	resource	armv5_urel
+/epoc32/include/utilsex.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/qhbstyle.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qhbstyle.dso	build	armv5_urel
+/epoc32/release/armv5/lib/qhbstyle{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/qhbstyle{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqkeycapture.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqkeycapture.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqkeycapture{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqkeycapture{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqplugins.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqplugins.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqplugins{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqplugins{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqserviceipcclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqserviceipcclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqserviceipcclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqserviceipcclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqserviceipcserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqserviceipcserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqserviceipcserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqserviceipcserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqserviceutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqserviceutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqserviceutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqserviceutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqsettingsmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqsettingsmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqsettingsmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqsettingsmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqsysinfo.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqsysinfo.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqsysinfo{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqsysinfo{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqsystemtoneservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqsystemtoneservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqsystemtoneservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqsystemtoneservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xqutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xqutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/KeyCaptureEx.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/KeyCaptureEx.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SettingsManagerEx.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SettingsManagerEx.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SysInfoEx.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SysInfoEx.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SystemToneServiceEx.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/SystemToneServiceEx.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/UtilsEx.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/UtilsEx.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/qhbstyle.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/qhbstyle.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/testapp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/testapp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/testplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/testplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqkeycapture.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqkeycapture.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqplugins.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqplugins.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqserviceipcclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqserviceipcclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqserviceipcserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqserviceipcserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqserviceutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqserviceutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqsettingsmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqsettingsmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqsysinfo.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqsysinfo.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqsystemtoneservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqsystemtoneservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xqutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/KeyCaptureEx.exe	build	armv5_urel
+/epoc32/release/armv5/urel/KeyCaptureEx.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SettingsManagerEx.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SettingsManagerEx.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SysInfoEx.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SysInfoEx.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/SystemToneServiceEx.exe	build	armv5_urel
+/epoc32/release/armv5/urel/SystemToneServiceEx.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/UtilsEx.exe	build	armv5_urel
+/epoc32/release/armv5/urel/UtilsEx.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/qhbstyle.dll	build	armv5_urel
+/epoc32/release/armv5/urel/qhbstyle.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/testapp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/testapp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/testplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/testplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqkeycapture.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqkeycapture.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqplugins.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqplugins.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqserviceipcclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqserviceipcclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqserviceipcserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqserviceipcserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqserviceutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqserviceutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqsettingsmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqsettingsmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqsysinfo.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqsysinfo.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqsystemtoneservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqsystemtoneservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xqutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xqutils.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/KeyCaptureEx.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SettingsManagerEx.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SysInfoEx.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/SystemToneServiceEx.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/UtilsEx.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/qhbstyle.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/qhbstyle.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/testapp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/testplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqkeycapture.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqkeycapture.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqplugins.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqplugins.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqserviceipcclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqserviceipcclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqserviceipcserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqserviceipcserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqserviceutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqserviceutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqsettingsmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqsettingsmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqsysinfo.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqsysinfo.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqsystemtoneservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqsystemtoneservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xqutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/keycaptureex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/settingsmanagerex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/sysinfoex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/systemtoneserviceex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/testapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/utilsex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/keycaptureex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/settingsmanagerex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/sysinfoex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/systemtoneserviceex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/testapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/utilsex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/testplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/KeyCaptureEx.exe	build	winscw_urel
+/epoc32/release/winscw/urel/KeyCaptureEx.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SettingsManagerEx.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SettingsManagerEx.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SysInfoEx.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SysInfoEx.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/SystemToneServiceEx.exe	build	winscw_urel
+/epoc32/release/winscw/urel/SystemToneServiceEx.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/UtilsEx.exe	build	winscw_urel
+/epoc32/release/winscw/urel/UtilsEx.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/qhbstyle.dll	build	winscw_urel
+/epoc32/release/winscw/urel/qhbstyle.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/testapp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/testapp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/testplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/testplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqkeycapture.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqkeycapture.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqplugins.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqplugins.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqserviceipcclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqserviceipcclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqserviceipcserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqserviceipcserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqserviceutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqserviceutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqsettingsmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqsettingsmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqsysinfo.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqsysinfo.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqsystemtoneservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqsystemtoneservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xqutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xqutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/keycaptureex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/settingsmanagerex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/sysinfoex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/systemtoneserviceex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/testapp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/utilsex_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/keycaptureex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/settingsmanagerex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/sysinfoex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/systemtoneserviceex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/testapp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/utilsex.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/testplugin.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/mw/qhbstyle.iby	export	
+/epoc32/rom/include/core/mw/qtecomplugins.iby	export	
+/epoc32/rom/include/core/mw/qtmobileextensions.iby	export	
+/epoc32/rom/include/core/mw/xqservice.iby	export	
+/epoc32/rom/include/customervariant/app/qtmobileextensionsexamples.iby	export	
+/epoc32/tools/makefile_templates/qt/qtextensions_pre_targetdep.flm	export	
+/epoc32/tools/makefile_templates/qt/qtextensionsconfig.xml	export	
+/epoc32/tools/qt/mkspecs/features/symbian/ecomplugin.prf	export	
+/epoc32/tools/qt/mkspecs/features/symbian/service.prf	export	
+/epoc32/tools/xqecom.py	export	
+/sf/mw/qtextensions/qthighway/inc/xqrequestutil.h	export	

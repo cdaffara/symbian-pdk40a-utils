@@ -1,0 +1,1025 @@
+/epoc32/data/Z/system/install/metadata_stub.sis	export	
+/epoc32/data/z/private/10207B87/backup_registration.xml	export	
+/epoc32/data/z/private/10207bd2/backup_registration.xml	export	
+/epoc32/data/z/resource/3gpaudioplaycontrollerresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/3gpaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/3gpaudiorecordcontrollerresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/3gpaudiorecordcontrollerresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/aacaudioplaycontrollerresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/aacaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/amraudioplaycontrollerresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/amraudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/amraudiorecordcontrollerresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/amraudiorecordcontrollerresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/awbaudioplaycontrollerresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/awbaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mp3audioplaycontrollerresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mp3audioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/3gpaudioplaycontrollerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/3gpaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/3gpaudioplaycontrollerrecognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/3gpaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/3gpaudiorecordcontrollerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/3gpaudiorecordcontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/aacaudioplaycontrollerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/aacaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/aacaudioplaycontrollerrecognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/aacaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/amraudioplaycontrollerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/amraudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/amraudiorecordcontrollerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/amraudiorecordcontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/awbaudioplaycontrollerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/awbaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/databuffersource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/databuffersource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/descriptordatasource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/descriptordatasource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/filesource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/filesource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hxaudioplaycontrollerrecognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hxaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmfaudiocontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmfaudiocontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmfaudiotonecontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmfaudiotonecontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mp3audioplaycontrollerplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mp3audioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mp3audioplaycontrollerrecognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mp3audioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/playlistrecognizer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/playlistrecognizer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/recrt.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/recrt.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/s60streamingsource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/s60streamingsource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/topcharacterset.rsc	resource	armv5_urel
+/epoc32/data/z/resource/topcharacterset.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/AudioControllerPluginsVariant_Stub.SIS	export	
+/epoc32/data/z/system/install/AudioOutputControlUtility_Stub.SIS	export	
+/epoc32/data/z/system/install/ConfigurationComponentsFactory_Stub.SIS	export	
+/epoc32/data/z/system/install/EnhancedMediaClient_Stub.SIS	export	
+/epoc32/data/z/system/install/ProfileSettingsMonitor_Stub.SIS	export	
+/epoc32/data/z/system/install/WMA_AudCon_stub.SIS	export	
+/epoc32/data/z/system/install/callaudiocontrol_stub.sis	export	
+/epoc32/data/z/system/install/openmax_al_stub.sis	export	
+/epoc32/data/z/system/install/playlistrecognizer_stub.sis	export	
+/epoc32/data/z/system/install/radioutility_stub.sis	export	
+/epoc32/data/z/system/install/sts_stub.sis	export	
+/epoc32/data/z/system/install/tms_stub.sis	export	
+/epoc32/data/z/system/install/voipaudiosrvc_stub.sis	export	
+/epoc32/data/z/system/install/vtne_stub.sis	export	
+/epoc32/include/3gpaudioplaycontrollerresource.rsg	resource	armv5_urel
+/epoc32/include/3gpaudioplaycontrollerresource.rsg	resource	winscw_udeb
+/epoc32/include/3gpaudiorecordcontrollerresource.rsg	resource	armv5_urel
+/epoc32/include/3gpaudiorecordcontrollerresource.rsg	resource	winscw_udeb
+/epoc32/include/aacaudioplaycontrollerresource.rsg	resource	armv5_urel
+/epoc32/include/aacaudioplaycontrollerresource.rsg	resource	winscw_udeb
+/epoc32/include/amraudioplaycontrollerresource.rsg	resource	armv5_urel
+/epoc32/include/amraudioplaycontrollerresource.rsg	resource	winscw_udeb
+/epoc32/include/amraudiorecordcontrollerresource.rsg	resource	armv5_urel
+/epoc32/include/amraudiorecordcontrollerresource.rsg	resource	winscw_udeb
+/epoc32/include/awbaudioplaycontrollerresource.rsg	resource	armv5_urel
+/epoc32/include/awbaudioplaycontrollerresource.rsg	resource	winscw_udeb
+/epoc32/include/mp3audioplaycontrollerresource.rsg	resource	armv5_urel
+/epoc32/include/mp3audioplaycontrollerresource.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/AudioEffectControl.h	export	
+/epoc32/include/platform/mw/AudioOutputControlUtility.h	export	
+/epoc32/include/platform/mw/AudioOutputControlUtilityProxy.h	export	
+/epoc32/include/platform/mw/BalanceControl.h	export	
+/epoc32/include/platform/mw/BassBoostControl.h	export	
+/epoc32/include/platform/mw/CallAudioControl.h	export	
+/epoc32/include/platform/mw/ConfigurationComponentsFactory.h	export	
+/epoc32/include/platform/mw/Control.h	export	
+/epoc32/include/platform/mw/ControlObserver.h	export	
+/epoc32/include/platform/mw/DRMConfigIntfc.h	export	
+/epoc32/include/platform/mw/DRMConfigIntfc.inl	export	
+/epoc32/include/platform/mw/DRMConfigTypes.h	export	
+/epoc32/include/platform/mw/DataBuffer.h	export	
+/epoc32/include/platform/mw/DataBufferSource.h	export	
+/epoc32/include/platform/mw/DataSourceConfigIntfc.h	export	
+/epoc32/include/platform/mw/DescriptorSource.h	export	
+/epoc32/include/platform/mw/DistanceAttenuationControl.h	export	
+/epoc32/include/platform/mw/DownlinkVolumeObserver.h	export	
+/epoc32/include/platform/mw/EffectControl.h	export	
+/epoc32/include/platform/mw/EqualizerControl.h	export	
+/epoc32/include/platform/mw/Events.h	export	
+/epoc32/include/platform/mw/FileSource.h	export	
+/epoc32/include/platform/mw/ListenerDopplerControl.h	export	
+/epoc32/include/platform/mw/ListenerLocationControl.h	export	
+/epoc32/include/platform/mw/ListenerOrientationControl.h	export	
+/epoc32/include/platform/mw/LoudnessControl.h	export	
+/epoc32/include/platform/mw/MDUChunkDataObserver.h	export	
+/epoc32/include/platform/mw/MMControlFactory.h	export	
+/epoc32/include/platform/mw/MetaDataField.hrh	export	
+/epoc32/include/platform/mw/MetaDataFieldContainer.h	export	
+/epoc32/include/platform/mw/MetaDataUtility.h	export	
+/epoc32/include/platform/mw/MimeTypes.h	export	
+/epoc32/include/platform/mw/MultimediaDataSource.h	export	
+/epoc32/include/platform/mw/MultimediaDataSource.inl	export	
+/epoc32/include/platform/mw/MultimediaDataSourceEvents.h	export	
+/epoc32/include/platform/mw/MultimediaDataSourceFactory.h	export	
+/epoc32/include/platform/mw/RadioFmPresetUtility.h	export	
+/epoc32/include/platform/mw/RadioFmTunerUtility.h	export	
+/epoc32/include/platform/mw/RadioMonitor.h	export	
+/epoc32/include/platform/mw/RadioPlayerUtility.h	export	
+/epoc32/include/platform/mw/RadioPresetUtility.h	export	
+/epoc32/include/platform/mw/RadioRdsUtility.h	export	
+/epoc32/include/platform/mw/RadioUtility.h	export	
+/epoc32/include/platform/mw/ReverbControl.h	export	
+/epoc32/include/platform/mw/RoomLevelControl.h	export	
+/epoc32/include/platform/mw/RoutingObserver.h	export	
+/epoc32/include/platform/mw/SCCustomInterfaceUIDs.h	export	
+/epoc32/include/platform/mw/SinkControl.h	export	
+/epoc32/include/platform/mw/SinkControlObserver.h	export	
+/epoc32/include/platform/mw/SourceControl.h	export	
+/epoc32/include/platform/mw/SourceControlObserver.h	export	
+/epoc32/include/platform/mw/SourceDopplerControl.h	export	
+/epoc32/include/platform/mw/SourceLocationControl.h	export	
+/epoc32/include/platform/mw/SourceOrientationControl.h	export	
+/epoc32/include/platform/mw/StereoWideningControl.h	export	
+/epoc32/include/platform/mw/StreamControl.h	export	
+/epoc32/include/platform/mw/StreamControlCustomCommands.h	export	
+/epoc32/include/platform/mw/StreamControlCustomCommandsParser.h	export	
+/epoc32/include/platform/mw/StreamControlEvents.h	export	
+/epoc32/include/platform/mw/StreamControlObserver.h	export	
+/epoc32/include/platform/mw/TNECommon.h	export	
+/epoc32/include/platform/mw/TNECommon.inl	export	
+/epoc32/include/platform/mw/TNEVideoClipInfo.h	export	
+/epoc32/include/platform/mw/UplinkGainObserver.h	export	
+/epoc32/include/platform/mw/VolumeControl.h	export	
+/epoc32/include/platform/mw/khronos/OpenMAXAL.h	export	
+/epoc32/include/platform/mw/khronos/OpenMAXAL_Platform.h	export	
+/epoc32/include/platform/mw/khronos/readme.txt	export	
+/epoc32/include/platform/mw/khronos/readme_ext.txt	export	
+/epoc32/include/platform/mw/khronos/xanokialinearvolumeitf.h	export	
+/epoc32/include/platform/mw/khronos/xanokiavolumeextitf.h	export	
+/epoc32/include/platform/mw/khronos/xaradioitfext.h	export	
+/epoc32/include/platform/mw/preset.h	export	
+/epoc32/include/platform/mw/presetutility.h	export	
+/epoc32/include/platform/mw/presetutilityobserver.h	export	
+/epoc32/include/platform/mw/systemtoneservice.h	export	
+/epoc32/include/platform/mw/tms.h	export	
+/epoc32/include/platform/mw/tmsamrformat.h	export	
+/epoc32/include/platform/mw/tmsbuffer.h	export	
+/epoc32/include/platform/mw/tmscall.h	export	
+/epoc32/include/platform/mw/tmsclientsink.h	export	
+/epoc32/include/platform/mw/tmsclientsinkobsrvr.h	export	
+/epoc32/include/platform/mw/tmsclientsource.h	export	
+/epoc32/include/platform/mw/tmsclientsourceobsrvr.h	export	
+/epoc32/include/platform/mw/tmsdtmf.h	export	
+/epoc32/include/platform/mw/tmsdtmfobsrvr.h	export	
+/epoc32/include/platform/mw/tmseffect.h	export	
+/epoc32/include/platform/mw/tmseffectobsrvr.h	export	
+/epoc32/include/platform/mw/tmsfactory.h	export	
+/epoc32/include/platform/mw/tmsformat.h	export	
+/epoc32/include/platform/mw/tmsg711format.h	export	
+/epoc32/include/platform/mw/tmsg729format.h	export	
+/epoc32/include/platform/mw/tmsgaineffect.h	export	
+/epoc32/include/platform/mw/tmsglobalgaineffect.h	export	
+/epoc32/include/platform/mw/tmsglobalrouting.h	export	
+/epoc32/include/platform/mw/tmsglobalroutingobsrvr.h	export	
+/epoc32/include/platform/mw/tmsglobalvoleffect.h	export	
+/epoc32/include/platform/mw/tmsilbcformat.h	export	
+/epoc32/include/platform/mw/tmsinbandtone.h	export	
+/epoc32/include/platform/mw/tmsinbandtoneobsrvr.h	export	
+/epoc32/include/platform/mw/tmsmicsource.h	export	
+/epoc32/include/platform/mw/tmsmodemsink.h	export	
+/epoc32/include/platform/mw/tmsmodemsource.h	export	
+/epoc32/include/platform/mw/tmspcmformat.h	export	
+/epoc32/include/platform/mw/tmsringtone.h	export	
+/epoc32/include/platform/mw/tmsringtoneobsrvr.h	export	
+/epoc32/include/platform/mw/tmssink.h	export	
+/epoc32/include/platform/mw/tmssource.h	export	
+/epoc32/include/platform/mw/tmsspeakersink.h	export	
+/epoc32/include/platform/mw/tmsstream.h	export	
+/epoc32/include/platform/mw/tmsstreamobsrvr.h	export	
+/epoc32/include/platform/mw/tmsver.h	export	
+/epoc32/include/platform/mw/tmsvolumeeffect.h	export	
+/epoc32/include/platform/mw/voipaudiocommon.h	export	
+/epoc32/include/platform/mw/voipdatabuffer.h	export	
+/epoc32/include/platform/mw/voipdownlinkstream.h	export	
+/epoc32/include/platform/mw/voipdtmftoneplayer.h	export	
+/epoc32/include/platform/mw/voipformatintfc.h	export	
+/epoc32/include/platform/mw/voipg711decoderintfc.h	export	
+/epoc32/include/platform/mw/voipg711encoderintfc.h	export	
+/epoc32/include/platform/mw/voipg729decoderintfc.h	export	
+/epoc32/include/platform/mw/voipilbcdecoderintfc.h	export	
+/epoc32/include/platform/mw/voipilbcencoderintfc.h	export	
+/epoc32/include/platform/mw/voipjitterbufferintfc.h	export	
+/epoc32/include/platform/mw/voipringtonefactory.h	export	
+/epoc32/include/platform/mw/voipringtoneplayer.h	export	
+/epoc32/include/platform/mw/voipuplinkstream.h	export	
+/epoc32/include/platform/mw/voiputilityfactory.h	export	
+/epoc32/include/topcharacterset.rsg	resource	armv5_urel
+/epoc32/include/topcharacterset.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/3GPExtParser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/3GPExtParser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/3GPExtParser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/3GPExtParser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/3gpDataSourceAdapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/3gpDataSourceAdapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/3gpDataSourceAdapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/3gpDataSourceAdapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AMRAudioControllerUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AMRAudioControllerUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AMRAudioControllerUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AMRAudioControllerUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AWBAudioControllerUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AWBAudioControllerUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AWBAudioControllerUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AWBAudioControllerUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AdvancedAudioController.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AdvancedAudioController.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AdvancedAudioController{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AdvancedAudioController{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioOutputControlUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioOutputControlUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioOutputControlUtilityProxy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioOutputControlUtilityProxy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioOutputControlUtilityProxy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioOutputControlUtilityProxy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/AudioOutputControlUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/AudioOutputControlUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CacheSource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CacheSource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/CacheSource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/CacheSource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConfigurationComponentsFactory.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConfigurationComponentsFactory.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ConfigurationComponentsFactory{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ConfigurationComponentsFactory{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DataBufferSource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DataBufferSource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DataBufferSource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DataBufferSource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DataSourceAdapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DataSourceAdapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DataSourceAdapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DataSourceAdapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DataSourceConfigIntfc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DataSourceConfigIntfc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DataSourceConfigIntfc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DataSourceConfigIntfc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DescriptorDataSource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DescriptorDataSource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DescriptorDataSource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DescriptorDataSource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevSoundAudioInput.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevSoundAudioInput.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevSoundAudioInput{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevSoundAudioInput{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevSoundAudioOutput.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevSoundAudioOutput.dso	build	armv5_urel
+/epoc32/release/armv5/lib/DevSoundAudioOutput{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/DevSoundAudioOutput{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EAACPlusAudioControllerUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EAACPlusAudioControllerUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EAACPlusAudioControllerUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EAACPlusAudioControllerUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EnhancedMediaClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EnhancedMediaClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/EnhancedMediaClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/EnhancedMediaClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FileAudioOutput.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FileAudioOutput.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FileAudioOutput{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FileAudioOutput{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FileSource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FileSource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FileSource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FileSource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FmPresetUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FmPresetUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FmPresetUtility{000a0003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FmPresetUtility{000a0003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MMDataSourceFactory.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MMDataSourceFactory.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MMDataSourceFactory{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MMDataSourceFactory{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MP3AudioControllerUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MP3AudioControllerUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MP3AudioControllerUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MP3AudioControllerUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MetaDataUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MetaDataUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MetaDataUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MetaDataUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MetaDataWrite.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MetaDataWrite.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MetaDataWrite{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MetaDataWrite{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RadioSession.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RadioSession.dso	build	armv5_urel
+/epoc32/release/armv5/lib/RadioSession{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/RadioSession{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Radio_Utility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Radio_Utility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/Radio_Utility{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/Radio_Utility{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioClientStreamSource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioClientStreamSource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioClientStreamSource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioClientStreamSource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioPlayer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioPlayer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioPlayer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioPlayer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioSource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioSource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioSourceFactory.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioSourceFactory.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioSourceFactory{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioSourceFactory{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioSource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioSource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioUtility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioUtility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60AudioUtility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60AudioUtility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60StreamingSource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60StreamingSource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/S60StreamingSource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/S60StreamingSource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/StreamControlCustomCommands.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/StreamControlCustomCommands.dso	build	armv5_urel
+/epoc32/release/armv5/lib/StreamControlCustomCommands{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/StreamControlCustomCommands{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/TNEEngine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/TNEEngine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/TNEEngine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/TNEEngine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/callaudiocontrol.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/callaudiocontrol.dso	build	armv5_urel
+/epoc32/release/armv5/lib/callaudiocontrol{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/callaudiocontrol{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/openmaxal.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/openmaxal.dso	build	armv5_urel
+/epoc32/release/armv5/lib/openmaxal{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/openmaxal{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presetutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presetutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/presetutility{000a0003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/presetutility{000a0003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/systemtoneservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/systemtoneservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/systemtoneservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/systemtoneservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmscallproxy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmscallproxy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmscallproxy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmscallproxy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmscallserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmscallserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmscallserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmscallserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsfactory.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsfactory.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsfactory{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsfactory{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsimpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsimpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsimpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsimpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsproxy.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsproxy.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsproxy{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsproxy{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tmsutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tmsutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/voipaudiointfc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/voipaudiointfc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/voipaudiointfc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/voipaudiointfc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/voipaudiosession.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/voipaudiosession.dso	build	armv5_urel
+/epoc32/release/armv5/lib/voipaudiosession{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/voipaudiosession{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/voipjitterbuffer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/voipjitterbuffer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/voipjitterbuffer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/voipjitterbuffer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/3GPAudioPlayControllerPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/3GPAudioPlayControllerPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/3GPAudioPlayControllerRecognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/3GPAudioPlayControllerRecognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/3GPAudioRecordControllerPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/3GPAudioRecordControllerPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/3GPExtParser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/3GPExtParser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/3gpDataSourceAdapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/3gpDataSourceAdapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AACAudioPlayControllerPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AACAudioPlayControllerPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AACAudioPlayControllerRecognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AACAudioPlayControllerRecognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AMRAudioControllerUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AMRAudioControllerUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AMRAudioPlayControllerPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AMRAudioPlayControllerPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AMRAudioRecordControllerPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AMRAudioRecordControllerPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AWBAudioControllerUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AWBAudioControllerUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AWBAudioPlayControllerPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AWBAudioPlayControllerPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AdvancedAudioController.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AdvancedAudioController.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioOutputControlUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioOutputControlUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioOutputControlUtilityProxy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/AudioOutputControlUtilityProxy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/CacheSource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/CacheSource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConfigurationComponentsFactory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ConfigurationComponentsFactory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DataBufferSource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DataBufferSource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DataSourceAdapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DataSourceAdapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DataSourceConfigIntfc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DataSourceConfigIntfc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DescriptorDataSource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DescriptorDataSource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevSoundAudioInput.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevSoundAudioInput.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevSoundAudioOutput.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DevSoundAudioOutput.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/EAACPlusAudioControllerUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/EAACPlusAudioControllerUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/EnhancedMediaClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/EnhancedMediaClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileAudioOutput.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileAudioOutput.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileSource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileSource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FmPresetUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FmPresetUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HXAudioPlayControllerRecognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HXAudioPlayControllerRecognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MMDataSourceFactory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MMDataSourceFactory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MP3AudioControllerUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MP3AudioControllerUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MP3AudioPlayControllerPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MP3AudioPlayControllerPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MP3AudioPlayControllerRecognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MP3AudioPlayControllerRecognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MetaDataUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MetaDataUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MetaDataWrite.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MetaDataWrite.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProfileSettingsMonitor.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProfileSettingsMonitor.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RadioServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/RadioServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/RadioSession.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RadioSession.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Radio_Utility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/Radio_Utility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioClientStreamSource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioClientStreamSource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioPlayer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioPlayer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioSource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioSource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioSourceFactory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioSourceFactory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioUtility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60AudioUtility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60StreamingSource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/S60StreamingSource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/StreamControlCustomCommands.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/StreamControlCustomCommands.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/TNEEngine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/TNEEngine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/callaudiocontrol.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/callaudiocontrol.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmfaudiocontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmfaudiocontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmfaudiotonecontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmfaudiotonecontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/openmaxal.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/openmaxal.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/playlistrecognizer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/playlistrecognizer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/presetutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/presetutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/recrt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/recrt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sts.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/stsproxy.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/stsserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/stsserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/systemtoneservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/systemtoneservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmscallproxy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmscallproxy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmscallserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmscallserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsfactory.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsfactory.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsproxy.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsproxy.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tmsutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipaudiointfc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipaudiointfc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipaudioserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipaudioserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipaudiosession.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipaudiosession.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipjitterbuffer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/voipjitterbuffer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/3GPAudioPlayControllerPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/3GPAudioPlayControllerPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/3GPAudioPlayControllerRecognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/3GPAudioPlayControllerRecognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/3GPAudioRecordControllerPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/3GPAudioRecordControllerPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/3GPExtParser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/3GPExtParser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/3gpDataSourceAdapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/3gpDataSourceAdapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AACAudioPlayControllerPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AACAudioPlayControllerPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AACAudioPlayControllerRecognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AACAudioPlayControllerRecognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AMRAudioControllerUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AMRAudioControllerUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AMRAudioPlayControllerPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AMRAudioPlayControllerPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AMRAudioRecordControllerPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AMRAudioRecordControllerPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AWBAudioControllerUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AWBAudioControllerUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AWBAudioPlayControllerPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AWBAudioPlayControllerPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AdvancedAudioController.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AdvancedAudioController.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AudioOutputControlUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AudioOutputControlUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/AudioOutputControlUtilityProxy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/AudioOutputControlUtilityProxy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/CacheSource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/CacheSource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ConfigurationComponentsFactory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ConfigurationComponentsFactory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DataBufferSource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DataBufferSource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DataSourceAdapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DataSourceAdapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DataSourceConfigIntfc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DataSourceConfigIntfc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DescriptorDataSource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DescriptorDataSource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevSoundAudioInput.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevSoundAudioInput.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/DevSoundAudioOutput.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DevSoundAudioOutput.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/EAACPlusAudioControllerUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/EAACPlusAudioControllerUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/EnhancedMediaClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/EnhancedMediaClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FileAudioOutput.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FileAudioOutput.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FileSource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FileSource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FmPresetUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FmPresetUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HXAudioPlayControllerRecognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HXAudioPlayControllerRecognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MMDataSourceFactory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MMDataSourceFactory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MP3AudioControllerUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MP3AudioControllerUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MP3AudioPlayControllerPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MP3AudioPlayControllerPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MP3AudioPlayControllerRecognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MP3AudioPlayControllerRecognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MetaDataUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MetaDataUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MetaDataWrite.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MetaDataWrite.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ProfileSettingsMonitor.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ProfileSettingsMonitor.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/RadioServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/RadioServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/RadioSession.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RadioSession.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/Radio_Utility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/Radio_Utility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioClientStreamSource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioClientStreamSource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioPlayer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioPlayer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioSource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioSource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioSourceFactory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioSourceFactory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioUtility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/S60AudioUtility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/S60StreamingSource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/S60StreamingSource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/StreamControlCustomCommands.dll	build	armv5_urel
+/epoc32/release/armv5/urel/StreamControlCustomCommands.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/TNEEngine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/TNEEngine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/callaudiocontrol.dll	build	armv5_urel
+/epoc32/release/armv5/urel/callaudiocontrol.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmfaudiocontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmfaudiocontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmfaudiotonecontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmfaudiotonecontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/openmaxal.dll	build	armv5_urel
+/epoc32/release/armv5/urel/openmaxal.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/playlistrecognizer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/playlistrecognizer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/presetutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/presetutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/recrt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/recrt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sts.lib	build	armv5_urel
+/epoc32/release/armv5/urel/stsproxy.lib	build	armv5_urel
+/epoc32/release/armv5/urel/stsserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/stsserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/systemtoneservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/systemtoneservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmsapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tmsapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmscallproxy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tmscallproxy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmscallserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tmscallserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmsfactory.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tmsfactory.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmsimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tmsimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmsproxy.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tmsproxy.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmsserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tmsserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/tmsutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tmsutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/voipaudiointfc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/voipaudiointfc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/voipaudioserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/voipaudioserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/voipaudiosession.dll	build	armv5_urel
+/epoc32/release/armv5/urel/voipaudiosession.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/voipjitterbuffer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/voipjitterbuffer.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/3GPAudioPlayControllerPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/3GPAudioPlayControllerRecognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/3GPAudioRecordControllerPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/3GPExtParser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/3GPExtParser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/3gpDataSourceAdapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/3gpDataSourceAdapter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AACAudioPlayControllerPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AACAudioPlayControllerRecognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AMRAudioControllerUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AMRAudioControllerUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AMRAudioPlayControllerPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AMRAudioRecordControllerPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AWBAudioControllerUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AWBAudioControllerUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AWBAudioPlayControllerPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AdvancedAudioController.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AdvancedAudioController.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioOutputControlUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioOutputControlUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioOutputControlUtilityProxy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/AudioOutputControlUtilityProxy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/CacheSource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/CacheSource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConfigurationComponentsFactory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ConfigurationComponentsFactory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DataBufferSource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DataBufferSource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DataSourceAdapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DataSourceAdapter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DataSourceConfigIntfc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DataSourceConfigIntfc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DescriptorDataSource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DescriptorDataSource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevSoundAudioInput.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevSoundAudioInput.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevSoundAudioOutput.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/DevSoundAudioOutput.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/EAACPlusAudioControllerUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/EAACPlusAudioControllerUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/EnhancedMediaClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/EnhancedMediaClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileAudioOutput.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileAudioOutput.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileSource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileSource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FmPresetUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FmPresetUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HXAudioPlayControllerRecognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MMDataSourceFactory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MMDataSourceFactory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MP3AudioControllerUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MP3AudioControllerUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MP3AudioPlayControllerPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MP3AudioPlayControllerRecognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MetaDataUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MetaDataUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MetaDataWrite.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MetaDataWrite.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ProfileSettingsMonitor.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/RadioServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/RadioSession.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/RadioSession.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/Radio_Utility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/Radio_Utility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioClientStreamSource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioClientStreamSource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioPlayer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioPlayer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioSource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioSource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioSourceFactory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioSourceFactory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioUtility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60AudioUtility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60StreamingSource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/S60StreamingSource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/StreamControlCustomCommands.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/StreamControlCustomCommands.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/TNEEngine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/TNEEngine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/callaudiocontrol.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/callaudiocontrol.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmfaudiocontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmfaudiotonecontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/openmaxal.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/openmaxal.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/playlistrecognizer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presetutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/presetutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/recrt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sts.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/stsproxy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/stsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/systemtoneservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/systemtoneservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmscallproxy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmscallproxy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmscallserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmscallserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsfactory.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsfactory.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsimpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsproxy.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsproxy.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tmsutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/voipaudiointfc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/voipaudiointfc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/voipaudioserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/voipaudiosession.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/voipaudiosession.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/voipjitterbuffer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/voipjitterbuffer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10207B87/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/3gpaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/3gpaudiorecordcontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/aacaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/amraudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/amraudiorecordcontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/awbaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mp3audioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/3gpaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/3gpaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/3gpaudiorecordcontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/aacaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/aacaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/amraudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/amraudiorecordcontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/awbaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/databuffersource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/descriptordatasource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/filesource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hxaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmfaudiocontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmfaudiotonecontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mp3audioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mp3audioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/playlistrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/recrt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/s60streamingsource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/topcharacterset.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/3GPAudioPlayControllerPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/3GPAudioPlayControllerPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/3GPAudioPlayControllerRecognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/3GPAudioPlayControllerRecognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/3GPAudioRecordControllerPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/3GPAudioRecordControllerPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/3GPExtParser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/3GPExtParser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/3gpDataSourceAdapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/3gpDataSourceAdapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AACAudioPlayControllerPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AACAudioPlayControllerPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AACAudioPlayControllerRecognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AACAudioPlayControllerRecognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AMRAudioControllerUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AMRAudioControllerUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AMRAudioPlayControllerPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AMRAudioPlayControllerPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AMRAudioRecordControllerPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AMRAudioRecordControllerPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AWBAudioControllerUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AWBAudioControllerUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AWBAudioPlayControllerPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AWBAudioPlayControllerPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AdvancedAudioController.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AdvancedAudioController.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AudioOutputControlUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AudioOutputControlUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/AudioOutputControlUtilityProxy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/AudioOutputControlUtilityProxy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/CacheSource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/CacheSource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ConfigurationComponentsFactory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ConfigurationComponentsFactory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DataBufferSource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DataBufferSource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DataSourceAdapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DataSourceAdapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DataSourceConfigIntfc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DataSourceConfigIntfc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DescriptorDataSource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DescriptorDataSource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevSoundAudioInput.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevSoundAudioInput.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/DevSoundAudioOutput.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DevSoundAudioOutput.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/EAACPlusAudioControllerUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/EAACPlusAudioControllerUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/EnhancedMediaClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/EnhancedMediaClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FileAudioOutput.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FileAudioOutput.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FileSource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FileSource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FmPresetUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FmPresetUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HXAudioPlayControllerRecognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HXAudioPlayControllerRecognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MMDataSourceFactory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MMDataSourceFactory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MP3AudioControllerUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MP3AudioControllerUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MP3AudioPlayControllerPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MP3AudioPlayControllerPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MP3AudioPlayControllerRecognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MP3AudioPlayControllerRecognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MetaDataUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MetaDataUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MetaDataWrite.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MetaDataWrite.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ProfileSettingsMonitor.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ProfileSettingsMonitor.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/RadioServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/RadioServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/RadioSession.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RadioSession.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/Radio_Utility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/Radio_Utility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioClientStreamSource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioClientStreamSource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioPlayer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioPlayer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioSource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioSource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioSourceFactory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioSourceFactory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioUtility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/S60AudioUtility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/S60StreamingSource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/S60StreamingSource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/StreamControlCustomCommands.dll	build	winscw_urel
+/epoc32/release/winscw/urel/StreamControlCustomCommands.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/TNEEngine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/TNEEngine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/callaudiocontrol.dll	build	winscw_urel
+/epoc32/release/winscw/urel/callaudiocontrol.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmfaudiocontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmfaudiocontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmfaudiotonecontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmfaudiotonecontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/openmaxal.dll	build	winscw_urel
+/epoc32/release/winscw/urel/openmaxal.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/playlistrecognizer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/playlistrecognizer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/presetutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/presetutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/recrt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/recrt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sts.lib	build	winscw_urel
+/epoc32/release/winscw/urel/stsproxy.lib	build	winscw_urel
+/epoc32/release/winscw/urel/stsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/stsserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/systemtoneservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/systemtoneservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmsapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tmsapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmscallproxy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tmscallproxy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmscallserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tmscallserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmsfactory.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tmsfactory.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmsimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tmsimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmsproxy.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tmsproxy.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tmsserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/tmsutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tmsutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/voipaudiointfc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/voipaudiointfc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/voipaudioserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/voipaudioserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/voipaudiosession.dll	build	winscw_urel
+/epoc32/release/winscw/urel/voipaudiosession.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/voipjitterbuffer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/voipjitterbuffer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10207B87/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/3gpaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/3gpaudiorecordcontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/aacaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/amraudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/amraudiorecordcontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/awbaudioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mp3audioplaycontrollerresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/3gpaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/3gpaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/3gpaudiorecordcontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/aacaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/aacaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/amraudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/amraudiorecordcontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/awbaudioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/databuffersource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/descriptordatasource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/filesource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hxaudioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmfaudiocontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmfaudiotonecontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mp3audioplaycontrollerplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mp3audioplaycontrollerrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/playlistrecognizer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/recrt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/s60streamingsource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/topcharacterset.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/apac/confml/metadatautility_apac.confml	export	
+/epoc32/rom/config/assets/japan/confml/metadatautility_japan.confml	export	
+/epoc32/rom/config/assets/s60/confml/enhancedmediaclient.confml	export	
+/epoc32/rom/config/assets/s60/confml/metadatautility.confml	export	
+/epoc32/rom/config/assets/s60/confml/presetutility.confml	export	
+/epoc32/rom/config/assets/s60/confml/tmseffectscenrep.confml	export	
+/epoc32/rom/config/assets/s60/implml/enhancedmediaclient_10207B74.crml	export	
+/epoc32/rom/config/assets/s60/implml/metadatautility_10207AF7.crml	export	
+/epoc32/rom/config/assets/s60/implml/presetutility_10207B87.crml	export	
+/epoc32/rom/config/assets/s60/implml/tmseffectscenrep_10207c80.crml	export	
+/epoc32/rom/include/core/mw/AudioControllerPluginsVariant.iby	export	
+/epoc32/rom/include/core/mw/CallAudioControl.iby	export	
+/epoc32/rom/include/core/mw/EnhancedMediaClient.iby	export	
+/epoc32/rom/include/core/mw/MetaDataUtility.iby	export	
+/epoc32/rom/include/core/mw/ProfileSettingsMonitor.iby	export	
+/epoc32/rom/include/core/mw/RadioServer.iby	export	
+/epoc32/rom/include/core/mw/Radio_Utility.iby	export	
+/epoc32/rom/include/core/mw/S60Audio.iby	export	
+/epoc32/rom/include/core/mw/TNEEngine.iby	export	
+/epoc32/rom/include/core/mw/VoIPAudioServices.iby	export	
+/epoc32/rom/include/core/mw/fmpresetutility.iby	export	
+/epoc32/rom/include/core/mw/mmfaudiotonecontroller.iby	export	
+/epoc32/rom/include/core/mw/mmmwsystemtoneservice.iby	export	
+/epoc32/rom/include/core/mw/openmax_al.iby	export	
+/epoc32/rom/include/core/mw/playlistrecognizer.iby	export	
+/epoc32/rom/include/core/mw/presetutility.iby	export	
+/epoc32/rom/include/core/mw/tms.iby	export	
+/epoc32/rom/include/core/os/AudioOutputControlUtility.iby	export	
+/epoc32/rom/include/core/os/ConfigurationComponentsFactory.iby	export	
+/epoc32/winscw/c/openmaxal/openmaxal.cfg	export	

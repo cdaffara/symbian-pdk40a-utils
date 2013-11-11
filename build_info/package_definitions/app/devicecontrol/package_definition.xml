@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="devicecontrol" level="services" levels="support mid app" long-name="Device Control Daemons">
+<collection name="devicemgmtdialogsplugin" long-name="Device Management Dialogs Plugin" level="support">
+<!-- need to put component at the proper directory level -->
+<component name="devicemanagementnotifiersplugin" long-name="Device Management Notifiers Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/devicemgmtdialogsplugin" proFile="devicemgmtdialogsplugin.pro"/>
+</component>
+</collection>
+<collection name="devicemgmtindicatorsplugin" long-name="Device Management Indicators Plugin" level="support">
+<!-- collection is really a component. Need to move down a dir -->
+<component name="devicemgmtindicatorsplugin_build" long-name="Device Management Indicators Plugin Build" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/devicemgmtindicatorsplugin" proFile="devicemgmtindicatorsplugin.pro"/>
+</component>
+</collection>
+<collection name="deviceupdatesui" long-name="Device Updates UI" level="app">
+<component name="deviceupdates" long-name="Device Updates" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/deviceupdatesui/deviceupdates" proFile="deviceupdates.pro"/>
+</component>
+<component name="deviceupdatesplugin" long-name="Device Updates Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/deviceupdatesui/deviceupdatesplugin" proFile="deviceupdatesplugin.pro"/>
+</component>
+<component name="deviceupdatesqtsp" long-name="Device Updates Qt Service Provider" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/deviceupdatesui/deviceupdatesqtsp" proFile="deviceupdatesqtsp.pro"/>
+</component>
+</collection>
+<collection name="clientprovisioning" long-name="Client Provisioning" level="mid">
+<component name="cpqtsp" long-name="Client Provisioning Qt Service Provider" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/clientprovisioning/cpqtsp" proFile="cpqtsp.pro"/>
+</component>
+</collection>
+<collection name="applicationmanagement" long-name="Applicaton Management" level="mid">
+<component name="applicationmgmtserver" long-name="Applicaton Management Server" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/applicationmanagement/server" proFile="server.pro"/>
+</component>
+<component name="applicationmgmt_build" long-name="Applicaton Management Build" introduced="^4" filter="s60" purpose="optional">
+<!-- need to break up into components or move down a directory -->
+<unit bldFile="/sf/app/devicecontrol/applicationmanagement/group"/>
+</component>
+</collection>
+<collection name="omadmadapters" long-name="OMA DM Adapters" level="support">
+<component name="omadmadapters_build" long-name="OMA DM Adapters Build" filter="s60" purpose="optional">
+<!-- need to split IBY into the components or make this a ROM component -->
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/bld"/>
+</component>
+<component name="devinfo" long-name="Device Info" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/devinfo/bld"/>
+</component>
+<component name="devdetail" long-name="Device Detail" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/devdetail/bld"/>
+</component>
+<component name="syncmldm" long-name="SyncML DM" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/syncmldm/bld"/>
+</component>
+<component name="syncmldm12" long-name="SyncML DM 1.2" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/syncmldm12/bld"/>
+</component>
+<component name="omadm_browseradapter" long-name="Browser Adapter" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!--  <unit bldFile="omadmadapters/browseradapter/bld"/> -->
+</component>
+<component name="omadm_streamingadapter" long-name="Streaming Adapter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/streamingadapter/bld"/>
+</component>
+<component name="globalwlansettings" long-name="Global WLAN Settings" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/globalwlansettings/group"/>
+</component>
+<component name="nsmldminternet" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/nsmldminternet/group"/>
+</component>
+<component name="nsmldmalwaysonadapter" long-name="Always Online Device Management Adapter" introduced="9.1" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/nsmldmalwaysonadapter/group"/>
+</component>
+<component name="nsmldmbmadapter" long-name="NSML DM BM Adapter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/nsmldmbmadapter/group"/>
+</component>
+<component name="connmoadapter" long-name="Connection Management Object Adapter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/connmoadapter/group"/>
+</component>
+<component name="syncmlds" long-name="SyncML Data Sync" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/syncmlds/bld"/>
+</component>
+<component name="omadm_email" long-name="OMA DM Email" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/email/bld"/>
+</component>
+<component name="omadm_mms" long-name="OMA DM MMS" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/mms/bld"/>
+</component>
+<component name="omadm_fota" long-name="OMA DM FOTA" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/fota/bld"/>
+</component>
+<component name="omadm_imps" long-name="OMA DM IMPS" filter="s60" purpose="optional" class="placeholder">
+<!--  <unit bldFile="omadmadapters/imps/bld"/> -->
+</component>
+<component name="dcmodmadapter" long-name="DC Management Object  DM Adapter" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/devicecontrol/omadmadapters/dcmodmadapter/group"/>
+</component>
+</collection>
+<collection name="omadcmoadapters" long-name="OMA DC Management Object Adapters" level="support">
+<component name="omadcmoadapters_build" long-name="OMA DCMA Adapters Build" introduced="^4" filter="s60" purpose="optional">
+<!-- need to break up into components  -->
+<unit bldFile="/sf/app/devicecontrol/omadcmoadapters/group"/>
+</component>
+</collection>
+<collection name="omacpadapters" long-name="OMA Client Provisioning Adapters" level="support">
+<component name="omacpadapters_build" long-name="OMA CP Adapters Build" introduced="^4" filter="s60" purpose="optional">
+<!-- need to break up into components  -->
+<unit bldFile="/sf/app/devicecontrol/omacpadapters/bld"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="gsprofilesrv" level="generic" levels="system plugin framework server generic specific" long-name="General Settings and Profiles Services">
+<collection name="gsprofilesrv_pub" long-name="GS and Profiles Services Public Interfaces" level="specific">
+<component name="profiles_engine_active_profile_settings_api" long-name="Profiles Engine Active Profile Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/gsprofilesrv/gsprofilesrv_pub/profiles_engine_active_profile_settings_api/group"/>
+</component>
+<component name="profiles_engine_wrapper_api" long-name="Profiles Engine Wrapper API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/gsprofilesrv/gsprofilesrv_pub/profiles_engine_wrapper_api/group"/>
+</component>
+</collection>
+<collection name="gsprofilesrv_plat" long-name="GS and Profiles Services Platform Interfaces" level="specific">
+<component name="ftuwizardmodel_api" long-name="FTU Wizard Model API" filter="bldfirst,s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/gsprofilesrv/gsprofilesrv_plat/ftuwizardmodel_api" proFile="ftuwizardmodel_api.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="profiles_engine_api" long-name="Profiles Engine API" filter="bldfirst,s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/gsprofilesrv/gsprofilesrv_plat/profiles_engine_api/group"/>
+</component>
+<component name="settings_uis_cenrep_collection_api" long-name="Settings UIs CenRep Collection API" filter="bldfirst,s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/gsprofilesrv/gsprofilesrv_plat/settings_uis_cenrep_collection_api/group"/>
+</component>
+<component name="controlpanel_api" long-name="Control panel api" filter="bldfirst,s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/gsprofilesrv/gsprofilesrv_plat/controlpanel_api" proFile="controlpanel_api.pro" qmakeArgs="-r -config rom"/>
+</component>
+</collection>
+<collection name="ftuwizardmodel" long-name="FTU Wizard Model" level="generic">
+<component name="ftuwizardmodel_build" long-name="FTU Wizardmodel Build" filter="s60,bldfirst" purpose="optional">
+<unit bldFile="/sf/mw/gsprofilesrv/ftuwizardmodel" proFile="ftuwizardmodel.pro" qmakeArgs="-r -config rom"/>
+</component>
+</collection>
+<collection name="controlpanel" long-name="Control Panel" level="generic">
+<component name="controlpanel_rom" long-name="Control Panel ROM" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/mw/gsprofilesrv/controlpanel/rom"/>
+</component>
+<component name="controlpanel_config" long-name="Control Panel Config" introduced="^4" filter="s60" purpose="optional" class="config">
+<unit bldFile="/sf/mw/gsprofilesrv/controlpanel/conf"/>
+</component>
+<component name="controlpanel_source" long-name="Control Panel Source" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/gsprofilesrv/controlpanel/src" proFile="src.pro" qmakeArgs="-r -config rom"/>
+</component>
+</collection>
+<collection name="profilesservices" long-name="Profiles Services" level="server">
+<component name="profileengine" long-name="Profile Engine" introduced="9.1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/gsprofilesrv/profilesservices/profileengine/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

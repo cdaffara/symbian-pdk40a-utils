@@ -1,0 +1,708 @@
+/epoc32/data/z/private/10202be9/10282fcc.cre	export	
+/epoc32/data/z/private/10202be9/2001fca2.txt	export	
+/epoc32/data/z/private/102827a2/backup_registration.xml	export	
+/epoc32/data/z/private/102827a2/mtpdevice.ico	export	
+/epoc32/data/z/resource/dps.rsc	resource	armv5_urel
+/epoc32/data/z/resource/dps.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/102827af.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/102827af.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/102827b0.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/102827b0.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/102827b1.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/102827b1.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/2001fcae.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/2001fcae.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/2001fe3c.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/2001fe3c.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/2002ea99.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/2002ea99.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/dummydp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/dummydp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mtp/services.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mtp/services.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/devdpextn.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/devdpextn.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/dunclient.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/dunclient.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hidheadset.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hidheadset.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hidremconbearer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hidremconbearer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtpdevicedp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtpdevicedp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtpfiledp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtpfiledp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtpimagedp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtpimagedp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtppictbridgedp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtppictbridgedp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtpplaybackcontroldp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtpplaybackcontroldp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtpproxydp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtpproxydp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtpusbsiccc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtpusbsiccc.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mtpusbsicimp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mtpusbsicimp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexbtrfcommtransportcontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexbtrfcommtransportcontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexusbtransportcontroller.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexusbtransportcontroller.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/ptpipplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/ptpipplugin.rsc	resource	winscw_udeb
+/epoc32/include/102827af.rsg	resource	armv5_urel
+/epoc32/include/102827af.rsg	resource	winscw_udeb
+/epoc32/include/102827b1.rsg	resource	armv5_urel
+/epoc32/include/102827b1.rsg	resource	winscw_udeb
+/epoc32/include/dps.rsg	resource	armv5_urel
+/epoc32/include/dps.rsg	resource	winscw_udeb
+/epoc32/include/mtp/mtpdataproviderconfig.hrh	export	
+/epoc32/include/mw/mobexnotify.h	export	
+/epoc32/include/mw/obex.h	export	
+/epoc32/include/mw/obexbase.h	export	
+/epoc32/include/mw/obexbaseobject.h	export	
+/epoc32/include/mw/obexbttransportinfo.h	export	
+/epoc32/include/mw/obexclient.h	export	
+/epoc32/include/mw/obexconstants.h	export	
+/epoc32/include/mw/obexfinalpacketobserver.h	export	
+/epoc32/include/mw/obexheaders.h	export	
+/epoc32/include/mw/obexirtransportinfo.h	export	
+/epoc32/include/mw/obexobjects.h	export	
+/epoc32/include/mw/obexpanics.h	export	
+/epoc32/include/mw/obexserver.h	export	
+/epoc32/include/mw/obextransportinfo.h	export	
+/epoc32/include/mw/obextypes.h	export	
+/epoc32/include/mw/obexusbtransportinfo.h	export	
+/epoc32/include/obex/transport/obextransport.hrh	export	
+/epoc32/include/platform/mw/SecondaryDisplay/dunsecondarydisplayapi.h	export	
+/epoc32/include/platform/mw/connect/installmimetypes.h	export	
+/epoc32/include/platform/mw/connect/javamanagerinterface.h	export	
+/epoc32/include/platform/mw/connect/javamanagerinterface.inl	export	
+/epoc32/include/platform/mw/connect/sbeclient.h	export	
+/epoc32/include/platform/mw/connect/sbencrypt.h	export	
+/epoc32/include/platform/mw/connect/sbexternalisablearray.h	export	
+/epoc32/include/platform/mw/connect/sbexternalisablearray.inl	export	
+/epoc32/include/platform/mw/connect/sbtypes.h	export	
+/epoc32/include/platform/mw/dundomainpskeys.h	export	
+/epoc32/include/platform/mw/hidcollection.h	export	
+/epoc32/include/platform/mw/hidfield.h	export	
+/epoc32/include/platform/mw/hidgeneric.h	export	
+/epoc32/include/platform/mw/hidinterfaces.h	export	
+/epoc32/include/platform/mw/hidreportroot.h	export	
+/epoc32/include/platform/mw/hidtranslate.h	export	
+/epoc32/include/platform/mw/hidvalues.h	export	
+/epoc32/include/platform/mw/locodbearer.h	export	
+/epoc32/include/platform/mw/locodbearerplugin.h	export	
+/epoc32/include/platform/mw/locodbearerplugin.inl	export	
+/epoc32/include/platform/mw/locodbearerpluginobserver.h	export	
+/epoc32/include/platform/mw/locodbearerpluginparams.h	export	
+/epoc32/include/platform/mw/locodbearerpluginparams.inl	export	
+/epoc32/include/platform/mw/locodplugin.hrh	export	
+/epoc32/include/platform/mw/locodserviceplugin.h	export	
+/epoc32/include/platform/mw/locodserviceplugin.inl	export	
+/epoc32/include/platform/mw/locodservicepluginobserver.h	export	
+/epoc32/include/platform/mw/locodservicepluginparams.h	export	
+/epoc32/include/platform/mw/locodservicepluginparams.inl	export	
+/epoc32/include/platform/mw/mtp/cmtpdataproviderplugin.h	export	
+/epoc32/include/platform/mw/mtp/cmtpextndevdp.h	export	
+/epoc32/include/platform/mw/mtp/cmtpmetadata.h	export	
+/epoc32/include/platform/mw/mtp/cmtpobjectmetadata.h	export	
+/epoc32/include/platform/mw/mtp/cmtpstoragemetadata.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypearray.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypecompoundbase.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypedeleteobjectproplist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypedeleteserviceproplist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypedevicepropdesc.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypefile.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeformatcapabilitylist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeinterdependentpropdesc.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypelist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeobjectinfo.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeobjectpropdesc.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeobjectproplist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeopaquedata.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeservicecapabilitylist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeserviceevent.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeserviceformat.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeserviceinfo.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeservicemethod.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeservicemethodparamextnform.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeserviceobjpropextnform.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeserviceprop.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeservicepropdesclist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypeserviceproplist.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypestorageinfo.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypestring.h	export	
+/epoc32/include/platform/mw/mtp/cmtptypetrivialdata.h	export	
+/epoc32/include/platform/mw/mtp/cptpiphostfilterinterface.h	export	
+/epoc32/include/platform/mw/mtp/mmtpconnection.h	export	
+/epoc32/include/platform/mw/mtp/mmtpdatacodegenerator.h	export	
+/epoc32/include/platform/mw/mtp/mmtpdataprovider.h	export	
+/epoc32/include/platform/mw/mtp/mmtpdataproviderconfig.h	export	
+/epoc32/include/platform/mw/mtp/mmtpdataproviderframework.h	export	
+/epoc32/include/platform/mw/mtp/mmtpdevdpextn.h	export	
+/epoc32/include/platform/mw/mtp/mmtpframeworkconfig.h	export	
+/epoc32/include/platform/mw/mtp/mmtpobjectmgr.h	export	
+/epoc32/include/platform/mw/mtp/mmtpreferencemgr.h	export	
+/epoc32/include/platform/mw/mtp/mmtpsession.h	export	
+/epoc32/include/platform/mw/mtp/mmtpstoragemgr.h	export	
+/epoc32/include/platform/mw/mtp/mmtptype.h	export	
+/epoc32/include/platform/mw/mtp/mptpipcontroller.h	export	
+/epoc32/include/platform/mw/mtp/mptpiphostfilter.h	export	
+/epoc32/include/platform/mw/mtp/mtpdataproviderapitypes.h	export	
+/epoc32/include/platform/mw/mtp/mtpdataproviderconfig.rh	export	
+/epoc32/include/platform/mw/mtp/mtpdatatypeconstants.h	export	
+/epoc32/include/platform/mw/mtp/mtpdevicedp_config.rh	export	
+/epoc32/include/platform/mw/mtp/mtpfiledp_config.rh	export	
+/epoc32/include/platform/mw/mtp/mtpobjectmgrquerytypes.h	export	
+/epoc32/include/platform/mw/mtp/mtpprotocolconstants.h	export	
+/epoc32/include/platform/mw/mtp/mtpstoragemgrquerytypes.h	export	
+/epoc32/include/platform/mw/mtp/mtptypes.h	export	
+/epoc32/include/platform/mw/mtp/mtptypescomplex.h	export	
+/epoc32/include/platform/mw/mtp/mtptypescompound.h	export	
+/epoc32/include/platform/mw/mtp/mtptypesflat.h	export	
+/epoc32/include/platform/mw/mtp/mtptypessimple.h	export	
+/epoc32/include/platform/mw/mtp/rmtpclient.h	export	
+/epoc32/include/platform/mw/mtp/rmtptype.h	export	
+/epoc32/include/platform/mw/mtp/rptpipframework.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypedatapair.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeevent.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeflatbase.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeguid.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeint128.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeint16.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeint32.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeint64.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeint8.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeintbase.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypenull.h	export	
+/epoc32/include/platform/mw/mtp/tmtptyperequest.h	export	
+/epoc32/include/platform/mw/mtp/tmtptyperesponse.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeuint128.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeuint16.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeuint32.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeuint64.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeuint8.h	export	
+/epoc32/include/platform/mw/mtp/tmtptypeuintbase.h	export	
+/epoc32/include/platform/mw/obex/extensionapis/mobexserverrequestpacketnotify.h	export	
+/epoc32/include/platform/mw/obex/extensionapis/obexclienterrorresolver.h	export	
+/epoc32/include/platform/mw/obex/extensionapis/obexserverpacketaccessextension.h	export	
+/epoc32/include/platform/mw/obex/internal/mobexclienterrorresolver.h	export	
+/epoc32/include/platform/mw/obex/internal/mobexnotifyextend.h	export	
+/epoc32/include/platform/mw/obex/internal/mobexserverrequestpacketnotifyregister.h	export	
+/epoc32/include/platform/mw/obex/internal/obexactiverw.h	export	
+/epoc32/include/platform/mw/obex/internal/obexdata.h	export	
+/epoc32/include/platform/mw/obex/internal/obexinternalconstants.h	export	
+/epoc32/include/platform/mw/obex/internal/obexinternalheader.h	export	
+/epoc32/include/platform/mw/obex/internal/obexpacket.h	export	
+/epoc32/include/platform/mw/obex/internal/obextransportconstants.h	export	
+/epoc32/include/platform/mw/obex/transport/mobextransportnotify.h	export	
+/epoc32/include/platform/mw/obex/transport/obexactivereader.h	export	
+/epoc32/include/platform/mw/obex/transport/obexactivewriter.h	export	
+/epoc32/include/platform/mw/obex/transport/obexconnector.h	export	
+/epoc32/include/platform/mw/obex/transport/obexreaderbase.h	export	
+/epoc32/include/platform/mw/obex/transport/obextransportcontrollerbase.h	export	
+/epoc32/include/platform/mw/obex/transport/obexwriterbase.h	export	
+/epoc32/include/platform/mw/obexconstantsinternal.h	export	
+/epoc32/include/platform/mw/obexreadactivityobserver.h	export	
+/epoc32/include/platform/mw/rptp.h	export	
+/epoc32/release/armv5/lib/dunatext.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunatext.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunatext{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunatext{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunbt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunbt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunbt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunbt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunir.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunir.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunir{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunir{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunusb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunusb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunusb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunusb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dunutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dunutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/generichid.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/generichid.dso	build	armv5_urel
+/epoc32/release/armv5/lib/generichid{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/generichid{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irobex.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irobex.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irobex{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irobex{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdataproviderapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdataproviderapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdataproviderapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdataproviderapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdataproviderutility.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdataproviderutility.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdataproviderutility{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdataproviderutility{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdatatypes.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdatatypes.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdatatypes{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdatatypes{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdevdpextnapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdevdpextnapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpdevdpextnapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpdevdpextnapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpframework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpframework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtptransportapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtptransportapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtptransportapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtptransportapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpusbdatatypes.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpusbdatatypes.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mtpusbdatatypes{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mtpusbdatatypes{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obex.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obex.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexcommontransport.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexcommontransport.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexcommontransport{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexcommontransport{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexextensionapis.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexextensionapis.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexextensionapis{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexextensionapis{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obex{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obex{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pictbridge.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pictbridge.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pictbridge{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pictbridge{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ptpipcontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ptpipcontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ptpipcontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ptpipcontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ptpipdatatypes.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ptpipdatatypes.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ptpipdatatypes{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ptpipdatatypes{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ptpipfilterapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ptpipfilterapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ptpipfilterapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ptpipfilterapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rptp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rptp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rptp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rptp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sbeclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sbeclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sbeclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sbeclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sbencrypt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sbencrypt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sbencrypt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sbencrypt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/devdpextn.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/devdpextn.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunatext.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunatext.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunbt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunbt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunir.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunir.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunusb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunusb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dunutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/generichid.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/generichid.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidheadset.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidheadset.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidremconbearer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidremconbearer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locod.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/locod.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdataproviderapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdataproviderapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdataproviderutility.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdataproviderutility.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdatatypes.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdatatypes.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdevdpextnapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdevdpextnapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdevicedp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpdevicedp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpfiledp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpfiledp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpimagedp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpimagedp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtppictbridgedp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtppictbridgedp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpplaybackcontroldp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpplaybackcontroldp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpproxydp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpproxydp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtptransportapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtptransportapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpusbdatatypes.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpusbdatatypes.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpusbsiccc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpusbsiccc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpusbsicimp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mtpusbsicimp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obex.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obex.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexbtrfcommtransportcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexbtrfcommtransportcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexcommontransport.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexcommontransport.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexextensionapis.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexextensionapis.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexusbtransportcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexusbtransportcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pictbridge.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pictbridge.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipcontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipcontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipdatatypes.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipdatatypes.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipfilterapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipfilterapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ptpipplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rptp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rptp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sbeclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sbeclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sbencrypt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sbencrypt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sbengine.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sbengine.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/devdpextn.dll	build	armv5_urel
+/epoc32/release/armv5/urel/devdpextn.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dunatext.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dunatext.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dunbt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dunbt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dunclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dunclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dunir.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dunir.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dunserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/dunserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dunusb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dunusb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dunutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dunutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/generichid.dll	build	armv5_urel
+/epoc32/release/armv5/urel/generichid.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hidheadset.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hidheadset.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hidremconbearer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hidremconbearer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locod.exe	build	armv5_urel
+/epoc32/release/armv5/urel/locod.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdataproviderapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdataproviderapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdataproviderutility.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdataproviderutility.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdatatypes.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdatatypes.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdevdpextnapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdevdpextnapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdevicedp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpdevicedp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpfiledp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpfiledp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpimagedp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpimagedp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtppictbridgedp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtppictbridgedp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpplaybackcontroldp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpplaybackcontroldp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpproxydp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpproxydp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mtpserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtptransportapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtptransportapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpusbdatatypes.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpusbdatatypes.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpusbsiccc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpusbsiccc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mtpusbsicimp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mtpusbsicimp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obex.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obex.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexbtrfcommtransportcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexbtrfcommtransportcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexcommontransport.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexcommontransport.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexextensionapis.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexextensionapis.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexusbtransportcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexusbtransportcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pictbridge.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pictbridge.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipcontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipcontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipdatatypes.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipdatatypes.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipfilterapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipfilterapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ptpipplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rptp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rptp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sbeclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sbeclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sbencrypt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sbencrypt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sbengine.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sbengine.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/devdpextn.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunatext.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunatext.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunbt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunbt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunir.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunir.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunusb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunusb.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dunutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/generichid.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/generichid.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hidheadset.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hidremconbearer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/irobex.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locod.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdataproviderapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdataproviderapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdataproviderutility.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdataproviderutility.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdatatypes.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdatatypes.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdevdpextnapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdevdpextnapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpdevicedp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpfiledp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpimagedp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtppictbridgedp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpplaybackcontroldp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpproxydp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtptransportapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtptransportapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpusbdatatypes.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpusbdatatypes.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpusbsiccc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mtpusbsicimp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obex.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obex.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexbtrfcommtransportcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexcommontransport.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexcommontransport.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexextensionapis.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexextensionapis.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexusbtransportcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pictbridge.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pictbridge.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ptpipcontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ptpipcontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ptpipdatatypes.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ptpipdatatypes.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ptpipfilterapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ptpipfilterapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ptpipplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rptp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rptp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sbeclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sbeclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sbencrypt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sbencrypt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sbengine.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/dps.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/102827af.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/102827b0.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/102827b1.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/2001fcae.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/2001fe3c.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/2002ea99.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/dummydp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mtp/services.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/devdpextn.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/dunclient.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hidheadset.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hidremconbearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtpdevicedp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtpfiledp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtpimagedp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtppictbridgedp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtpplaybackcontroldp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtpproxydp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtpusbsiccc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mtpusbsicimp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexbtrfcommtransportcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexusbtransportcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/ptpipplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/devdpextn.dll	build	winscw_urel
+/epoc32/release/winscw/urel/devdpextn.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dunatext.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dunatext.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dunbt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dunbt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dunclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dunclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dunir.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dunir.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dunserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/dunserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dunusb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dunusb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dunutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dunutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/generichid.dll	build	winscw_urel
+/epoc32/release/winscw/urel/generichid.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hidheadset.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hidheadset.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hidremconbearer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hidremconbearer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locod.exe	build	winscw_urel
+/epoc32/release/winscw/urel/locod.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdataproviderapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdataproviderapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdataproviderutility.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdataproviderutility.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdatatypes.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdatatypes.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdevdpextnapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdevdpextnapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdevicedp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpdevicedp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpfiledp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpfiledp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpimagedp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpimagedp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtppictbridgedp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtppictbridgedp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpplaybackcontroldp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpplaybackcontroldp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpproxydp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpproxydp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mtpserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtptransportapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtptransportapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpusbdatatypes.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpusbdatatypes.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpusbsiccc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpusbsiccc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mtpusbsicimp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mtpusbsicimp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obex.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obex.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexbtrfcommtransportcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexbtrfcommtransportcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexcommontransport.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexcommontransport.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexextensionapis.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexextensionapis.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexusbtransportcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexusbtransportcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pictbridge.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pictbridge.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipcontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipcontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipdatatypes.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipdatatypes.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipfilterapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipfilterapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ptpipplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rptp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rptp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sbeclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sbeclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sbencrypt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sbencrypt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sbengine.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sbengine.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/dps.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/102827af.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/102827b0.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/102827b1.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/2001fcae.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/2001fe3c.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/2002ea99.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/dummydp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mtp/services.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/devdpextn.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/dunclient.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hidheadset.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hidremconbearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtpdevicedp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtpfiledp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtpimagedp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtppictbridgedp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtpplaybackcontroldp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtpproxydp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtpusbsiccc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mtpusbsicimp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexbtrfcommtransportcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexusbtransportcontroller.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/ptpipplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/symbianos/confml/mtp_imagedp.confml	export	
+/epoc32/rom/config/assets/symbianos/confml/mtpframework.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/mtp_imagedp_2001fca2.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/mtpframework_10282fcc.crml	export	
+/epoc32/rom/include/connectivity_securebackupengine.iby	export	
+/epoc32/rom/include/core/mw/dunatext.iby	export	
+/epoc32/rom/include/core/mw/dunbt.iby	export	
+/epoc32/rom/include/core/mw/dunclient.iby	export	
+/epoc32/rom/include/core/mw/dunir.iby	export	
+/epoc32/rom/include/core/mw/dunserver.iby	export	
+/epoc32/rom/include/core/mw/dunusb.iby	export	
+/epoc32/rom/include/core/mw/dunutils.iby	export	
+/epoc32/rom/include/core/mw/generichid.iby	export	
+/epoc32/rom/include/core/mw/hidheadset.iby	export	
+/epoc32/rom/include/core/mw/locod.iby	export	
+/epoc32/rom/include/core/mw/mtp_devicedp.iby	export	
+/epoc32/rom/include/core/mw/mtp_filedp.iby	export	
+/epoc32/rom/include/core/mw/mtp_framework.iby	export	
+/epoc32/rom/include/core/mw/mtp_imagedp.iby	export	
+/epoc32/rom/include/core/mw/mtp_usbsic.iby	export	
+/epoc32/rom/include/core/mw/mtppictbridgedp.iby	export	
+/epoc32/rom/include/core/mw/pictbridge.iby	export	
+/epoc32/rom/include/core/mw/rptp.iby	export	
+/epoc32/rom/include/mtp_playbackcontroldp.iby	export	
+/epoc32/rom/include/mtp_ptpip.iby	export	
+/epoc32/rom/include/obexprotocol.iby	export	

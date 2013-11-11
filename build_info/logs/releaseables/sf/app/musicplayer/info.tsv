@@ -1,0 +1,331 @@
+/epoc32/data/z/private/10003a3f/import/apps/musicplayer_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/musicplayer_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/mpxcollectiondbhgres.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/mpxcollectiondbhgres.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/mpxcollectiondbhgres.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/mpxcollectiondbhgres.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/musicplayer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/musicplayer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/pcres.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/pcres.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/pcres.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/pcres.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/hb/splashml/musicplayer.docml	export	
+/epoc32/data/z/resource/hb/splashml/musicplayer.splashml	export	
+/epoc32/data/z/resource/plugins/mpcollectionviewplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpcollectionviewplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpdetailsviewplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpdetailsviewplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpmediawallviewplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpmediawallviewplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpplaybackviewplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpplaybackviewplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpsettingsviewplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpsettingsviewplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpxinmemoryplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpxinmemoryplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpxlocalaudioplayback.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpxlocalaudioplayback.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpxm3uplaylistplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpxm3uplaylistplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpxsqlitedbhgplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpxsqlitedbhgplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mpxsqlitepodcastdbplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mpxsqlitepodcastdbplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/data/nullsound.mp3	export	
+/epoc32/data/z/system/install/musicplayer_stub.sis	export	
+/epoc32/include/mpxcollectiondbhgres.rsg	resource	armv5_urel
+/epoc32/include/mpxcollectiondbhgres.rsg	resource	winscw_udeb
+/epoc32/include/musicplayer.rsg	resource	armv5_urel
+/epoc32/include/musicplayer.rsg	resource	winscw_udeb
+/epoc32/include/pcres.rsg	resource	armv5_urel
+/epoc32/include/pcres.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/mpalbumcoverwidget.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpalbumcoverwidget.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpalbumcoverwidget{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpalbumcoverwidget{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpapplicationmonitor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpapplicationmonitor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpapplicationmonitor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpapplicationmonitor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpdata.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpdata.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpdata{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpdata{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpmediacontroller.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpmediacontroller.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpmediacontroller{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpmediacontroller{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpnowplayingbanner.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpnowplayingbanner.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpnowplayingbanner{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpnowplayingbanner{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpsettingsmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpsettingsmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpsettingsmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpsettingsmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxaudioeffectengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxaudioeffectengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxaudioeffectengine{000f0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxaudioeffectengine{000f0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxm3uplaylistparsers.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxm3uplaylistparsers.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxm3uplaylistparsers{000f0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxm3uplaylistparsers{000f0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxsqlitedbcommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxsqlitedbcommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mpxsqlitedbcommon{000f0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mpxsqlitedbcommon{000f0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/musicservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/musicservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/musicservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/musicservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/musicwidgetplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/musicwidgetplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/musicwidgetplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/musicwidgetplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/mpalbumcoverwidget.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpalbumcoverwidget.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpapplicationmonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpapplicationmonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpcollectionviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpcollectionviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpdata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpdata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpdetailsviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpdetailsviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmediacontroller.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmediacontroller.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmediawallviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpmediawallviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpnowplayingbanner.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpnowplayingbanner.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpplaybackviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpplaybackviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpsettingsmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpsettingsmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpsettingsviewplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpsettingsviewplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxaudioeffectengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxaudioeffectengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxinmemoryplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxinmemoryplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxlocalaudioplayback.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxlocalaudioplayback.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxm3uplaylistparsers.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxm3uplaylistparsers.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxm3uplaylistplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxm3uplaylistplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxsqlitedbcommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxsqlitedbcommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxsqlitedbhgplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxsqlitedbhgplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxsqlitepodcastdbplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mpxsqlitepodcastdbplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/musicplayer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/musicplayer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/musicservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/musicservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/musicwidgetplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/musicwidgetplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/mpalbumcoverwidget.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpalbumcoverwidget.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpapplicationmonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpapplicationmonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpcollectionviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpcollectionviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpdata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpdata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpdetailsviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpdetailsviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpmediacontroller.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpmediacontroller.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpmediawallviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpmediawallviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpnowplayingbanner.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpnowplayingbanner.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpplaybackviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpplaybackviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpsettingsmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpsettingsmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpsettingsviewplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpsettingsviewplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxaudioeffectengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxaudioeffectengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxinmemoryplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxinmemoryplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxlocalaudioplayback.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxlocalaudioplayback.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxm3uplaylistparsers.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxm3uplaylistparsers.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxm3uplaylistplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxm3uplaylistplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxsqlitedbcommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxsqlitedbcommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxsqlitedbhgplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxsqlitedbhgplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mpxsqlitepodcastdbplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mpxsqlitepodcastdbplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/musicplayer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/musicplayer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/musicservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/musicservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/musicwidgetplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/musicwidgetplugin.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/mpalbumcoverwidget.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpalbumcoverwidget.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpapplicationmonitor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpapplicationmonitor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpcollectionviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpdata.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpdata.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpdetailsviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpmediacontroller.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpmediacontroller.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpmediawallviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpnowplayingbanner.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpnowplayingbanner.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpplaybackviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpsettingsmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpsettingsmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpsettingsviewplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxaudioeffectengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxaudioeffectengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxinmemoryplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxlocalaudioplayback.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxm3uplaylistparsers.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxm3uplaylistparsers.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxm3uplaylistplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxsqlitedbcommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxsqlitedbcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxsqlitedbhgplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mpxsqlitepodcastdbplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/musicplayer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/musicservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/musicservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/musicwidgetplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/musicwidgetplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/musicplayer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/mpxcollectiondbhgres.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/mpxcollectiondbhgres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/musicplayer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/pcres.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/pcres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/musicplayer.docml	export	
+/epoc32/release/winscw/udeb/z/resource/hb/splashml/musicplayer.splashml	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/mpcollectionviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpdetailsviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpmediawallviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpplaybackviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpsettingsviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpxinmemoryplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpxlocalaudioplayback.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpxm3uplaylistplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpxsqlitedbhgplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mpxsqlitepodcastdbplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/system/data/nullsound.mp3	export	
+/epoc32/release/winscw/udeb/z/system/install/musicplayer_stub.sis	export	
+/epoc32/release/winscw/urel/mpalbumcoverwidget.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpalbumcoverwidget.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpapplicationmonitor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpapplicationmonitor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpcollectionviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpcollectionviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpdata.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpdata.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpdetailsviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpdetailsviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpmediacontroller.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpmediacontroller.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpmediawallviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpmediawallviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpnowplayingbanner.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpnowplayingbanner.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpplaybackviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpplaybackviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpsettingsmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpsettingsmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpsettingsviewplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpsettingsviewplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxaudioeffectengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxaudioeffectengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxinmemoryplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxinmemoryplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxlocalaudioplayback.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxlocalaudioplayback.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxm3uplaylistparsers.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxm3uplaylistparsers.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxm3uplaylistplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxm3uplaylistplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxsqlitedbcommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxsqlitedbcommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxsqlitedbhgplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxsqlitedbhgplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mpxsqlitepodcastdbplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mpxsqlitepodcastdbplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/musicplayer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/musicplayer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/musicservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/musicservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/musicwidgetplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/musicwidgetplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/musicplayer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/mpxcollectiondbhgres.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/mpxcollectiondbhgres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/musicplayer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/pcres.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/pcres.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/hb/splashml/musicplayer.docml	export	
+/epoc32/release/winscw/urel/z/resource/hb/splashml/musicplayer.splashml	export	
+/epoc32/release/winscw/urel/z/resource/plugins/mpcollectionviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpdetailsviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpmediawallviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpplaybackviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpsettingsviewplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpxinmemoryplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpxlocalaudioplayback.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpxm3uplaylistplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpxsqlitedbhgplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mpxsqlitepodcastdbplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/system/data/nullsound.mp3	export	
+/epoc32/release/winscw/urel/z/system/install/musicplayer_stub.sis	export	
+/epoc32/rom/config/assets/s60/confml/musicplayer.confml	export	
+/epoc32/rom/config/assets/s60/implml/musicplayer_10207C92.crml	export	
+/epoc32/rom/include/core/app/mpalbumcoverwidget.iby	export	
+/epoc32/rom/include/core/app/mpapplicationmonitor.iby	export	
+/epoc32/rom/include/core/app/mpcollectionviewplugin.iby	export	
+/epoc32/rom/include/core/app/mpdata.iby	export	
+/epoc32/rom/include/core/app/mpdetailsviewplugin.iby	export	
+/epoc32/rom/include/core/app/mpengine.iby	export	
+/epoc32/rom/include/core/app/mpmediacontroller.iby	export	
+/epoc32/rom/include/core/app/mpmediawallviewplugin.iby	export	
+/epoc32/rom/include/core/app/mpnowplayingbanner.iby	export	
+/epoc32/rom/include/core/app/mpplaybackviewplugin.iby	export	
+/epoc32/rom/include/core/app/mpsettingsmanager.iby	export	
+/epoc32/rom/include/core/app/mpsettingsviewplugin.iby	export	
+/epoc32/rom/include/core/app/mpxaudioeffects.iby	export	
+/epoc32/rom/include/core/app/mpxinmemplugin.iby	export	
+/epoc32/rom/include/core/app/mpxlocalaudioplugin.iby	export	
+/epoc32/rom/include/core/app/mpxm3uplaylistplugin.iby	export	
+/epoc32/rom/include/core/app/mpxsqlitedbcommon.iby	export	
+/epoc32/rom/include/core/app/mpxsqlitedbhgplugin.iby	export	
+/epoc32/rom/include/core/app/mpxsqlitedbhgpluginrsc.iby	export	
+/epoc32/rom/include/core/app/mpxsqlitepodcastdbplugin.iby	export	
+/epoc32/rom/include/core/app/mpxsqlitepodcastdbpluginrsc.iby	export	
+/epoc32/rom/include/core/app/musicplayer.iby	export	
+/epoc32/rom/include/core/app/musicservices.iby	export	
+/epoc32/rom/include/core/app/musicwidgetplugin.iby	export	
+/epoc32/rom/include/language/app/musicplayer_resources.iby	export	
+/epoc32/rom/include/language/app/musicwidgetplugin_resources.iby	export	

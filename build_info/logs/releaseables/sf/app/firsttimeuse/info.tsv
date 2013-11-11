@@ -1,0 +1,80 @@
+/epoc32/data/z/ftudefaultruntimeprovider.xml	export	
+/epoc32/data/z/private/10003a3f/import/apps/ftuapplication_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/ftuapplication_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/ftuapplication.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/ftuapplication.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/ftuapplication.rsc	resource	winscw_udeb
+/epoc32/include/ftuapplication.rsg	resource	armv5_urel
+/epoc32/include/ftuapplication.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/ftudefaultruntimeprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftudefaultruntimeprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftudefaultruntimeprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftudefaultruntimeprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fturuntimeservices.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fturuntimeservices.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fturuntimeservices{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fturuntimeservices{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftustateprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftustateprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftustateprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftustateprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftuwizardprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftuwizardprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftuwizardprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftuwizardprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/ftuapplication.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftuapplication.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftudefaultruntimeprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftudefaultruntimeprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fturuntimeservices.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fturuntimeservices.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftustateprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftustateprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftuwizardprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftuwizardprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/ftuapplication.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ftuapplication.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftudefaultruntimeprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ftudefaultruntimeprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fturuntimeservices.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fturuntimeservices.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftustateprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ftustateprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftuwizardprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ftuwizardprovider.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/ftuapplication.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftudefaultruntimeprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftudefaultruntimeprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fturuntimeservices.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fturuntimeservices.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftustateprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftustateprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftuwizardprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftuwizardprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/ftudefaultruntimeprovider.xml	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/ftuapplication_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ftuapplication.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ftuapplication.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/ftuapplication.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ftuapplication.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftudefaultruntimeprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ftudefaultruntimeprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fturuntimeservices.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fturuntimeservices.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftustateprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ftustateprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftuwizardprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ftuwizardprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/ftudefaultruntimeprovider.xml	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/ftuapplication_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ftuapplication.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ftuapplication.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/ftustateprovider.confml	export	
+/epoc32/rom/config/assets/s60/confml/ftuwizardprovider.confml	export	
+/epoc32/rom/config/assets/s60/implml/Ftustateprovider_20026f99.crml	export	
+/epoc32/rom/config/assets/s60/implml/ftuwizardprovider_20026F9B.crml	export	
+/epoc32/rom/include/core/app/ftu.iby	export	
+/sf/app/firsttimeuse/inc/ftucontentservice.h	export	
+/sf/app/firsttimeuse/inc/fturuntimeservices_global.h	export	
+/sf/app/firsttimeuse/inc/ftustateprovider.h	export	
+/sf/app/firsttimeuse/inc/ftustateprovider_global.h	export	

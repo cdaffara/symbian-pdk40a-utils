@@ -1,0 +1,43 @@
+/EPOC32/Data/Z/System/Install/calendarwidget_stub.sis	build	armv5_udeb
+/EPOC32/Data/Z/System/Install/calendarwidget_stub.sis	build	armv5_urel
+/EPOC32/Data/Z/System/Install/calendarwidget_stub.sis	build	winscw_udeb
+/EPOC32/Data/Z/System/Install/calendarwidget_stub.sis	build	winscw_urel
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.manifest	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.qtplugin	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.xml	export	
+/epoc32/data/z/private/20022F35/import/widgetregistry/2002C35A/qtg_graf_hswidget_preview_calendar.svg	export	
+/epoc32/data/z/resource/gestures.xml	export	
+/epoc32/data/z/system/install/calendarwidget_stub.sis	build	armv5_urel
+/epoc32/release/armv5/lib/calendarwidgetplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calendarwidgetplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/calendarwidgetplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/calendarwidgetplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/calendarwidgetinstaller.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/calendarwidgetinstaller.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calendarwidgetplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calendarwidgetplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/calendarwidgetinstaller.exe	build	armv5_urel
+/epoc32/release/armv5/urel/calendarwidgetinstaller.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/calendarwidgetplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calendarwidgetplugin.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/calendarwidgetinstaller.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/calendarwidgetplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/calendarwidgetplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.manifest	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.xml	export	
+/epoc32/release/winscw/udeb/z/private/20022F35/import/widgetregistry/2002C35A/qtg_graf_hswidget_preview_calendar.svg	export	
+/epoc32/release/winscw/udeb/z/resource/gestures.xml	export	
+/epoc32/release/winscw/udeb/z/system/install/calendarwidget_stub.sis	build	winscw_udeb
+/epoc32/release/winscw/urel/calendarwidgetinstaller.exe	build	winscw_urel
+/epoc32/release/winscw/urel/calendarwidgetinstaller.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/calendarwidgetplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calendarwidgetplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.manifest	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.qtplugin	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C35A/calendarwidgetplugin.xml	export	
+/epoc32/release/winscw/urel/z/private/20022F35/import/widgetregistry/2002C35A/qtg_graf_hswidget_preview_calendar.svg	export	
+/epoc32/release/winscw/urel/z/resource/gestures.xml	export	
+/epoc32/release/winscw/urel/z/system/install/calendarwidget_stub.sis	build	winscw_urel
+/epoc32/rom/include/core/app/calendarwidget.iby	export	
+/epoc32/rom/include/language/app/calendarwidgetresources.iby	export	

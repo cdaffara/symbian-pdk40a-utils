@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="recents" level="apps" levels="engine support ui api" long-name="Recent Events">
+<collection name="recents_plat" long-name="Recent Events Platform Interfaces" level="api">
+<component name="logs_services_api" long-name="Logs Services API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="logs_engine_api" long-name="Logs Engine API" introduced="^4" filter="s60" purpose="optional" class="api"/>
+<component name="logs_timers_api" long-name="Logs Timers API" filter="s60" purpose="optional" class="api"/>
+<component name="logs_engine_api_extensions" long-name="Logs Engine API Extensions" filter="s60" purpose="optional" class="api"/>
+</collection>
+<collection name="logsui" long-name="Logs UI" level="ui">
+<!-- split into actual components -->
+<component name="logsservices" long-name="Logs Services" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="logsui/logsservices" qt:proFile="logsui.pro"/> -->
+</component>
+<component name="logscntfinder" long-name="Logs Contact finder" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="logsui/logscntfinder" qt:proFile="logscntfinder.pro"/> -->
+</component>
+<component name="logsengine" long-name="Logs Engine" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="logsui/logsengine" qt:proFile="logsengine.pro"/> -->
+</component>
+<component name="logsapp" long-name="Logs Application" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="logsui/logsengine" qt:proFile="logsengine.pro"/> -->
+</component>
+<component name="logsui_build" long-name="Logs UI Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/recents/logsui" proFile="logsui.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

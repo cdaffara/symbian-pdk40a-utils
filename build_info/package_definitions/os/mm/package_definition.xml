@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="mm" level="services" levels="adaptation hw-if device-fw devices middleware app-if" long-name="Multimedia">
+<collection name="mm_pub" long-name="Multimedia Public Interfaces" level="app-if">
+<component name="audio_effects_api" long-name="Audio Effects API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_pub/audio_effects_api/group" filter="!test"/>
+</component>
+<component name="audio_effects_presets_api" long-name="Audio Effects Presets API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_pub/audio_effects_presets_api/group" filter="!test"/>
+</component>
+<component name="drm_audio_player_api" long-name="DRM Audio Player API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_pub/drm_audio_player_api/group" filter="!test"/>
+</component>
+<component name="multimedia_extension_interfaces_api" long-name="Multimedia Extension Interfaces API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_pub/multimedia_extension_interfaces_api/group"/>
+</component>
+</collection>
+<collection name="mm_plat" long-name="Multimedia Platform Interfaces" level="app-if">
+<component name="aac_decoder_config_api" long-name="AAC Decoder Config API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/aac_decoder_config_api/group" filter="!test"/>
+</component>
+<component name="aac_decoder_config_msg_hdlr_api" long-name="AAC Decoder Config Msg Hdlr API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/aac_decoder_config_msg_hdlr_api/group"/>
+</component>
+<component name="aac_decoder_config_proxy_api" long-name="AAC Decoder Config Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/aac_decoder_config_proxy_api/group"/>
+</component>
+<component name="added_devsound_control_api" long-name="Added DevSound Control API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/added_devsound_control_api/group"/>
+</component>
+<component name="added_devsound_control_msg_hdlr_api" long-name="Added DevSound Control Msg Hdlr API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/added_devsound_control_msg_hdlr_api/group"/>
+</component>
+<component name="added_devsound_control_proxy_api" long-name="Added DevSound Control Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/added_devsound_control_proxy_api/group"/>
+</component>
+<component name="audio_effects_msg_hdlr_api" long-name="Audio Effects Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/audio_effects_msg_hdlr_api/group"/>
+</component>
+<component name="audio_effects_proxy_api" long-name="Audio Effects Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/audio_effects_proxy_api/group"/>
+</component>
+<component name="audio_policy_header_api" long-name="Audio Policy Header API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/audio_policy_header_api/group"/>
+</component>
+<component name="audio_routing_api" long-name="Audio Routing API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/audio_routing_api/group" filter="!test"/>
+</component>
+<component name="audio_routing_msg_hdlr_api" long-name="Audio Routing Msg Hdlr API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/audio_routing_msg_hdlr_api/group"/>
+</component>
+<component name="audio_routing_proxy_api" long-name="Audio Routing Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/audio_routing_proxy_api/group"/>
+</component>
+<component name="custom_interface_builder_api" long-name="Custom Interface Builder API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/custom_interface_builder_api/group"/>
+</component>
+<component name="custom_interface_message_handler_factory_api" long-name="Custom Interface Message Handler Factory API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/custom_interface_message_handler_factory_api/group"/>
+</component>
+<component name="custom_interface_proxy_factory_api" long-name="Custom Interface Proxy Factory API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/custom_interface_proxy_factory_api/group"/>
+</component>
+<component name="custom_interface_utility_api" long-name="Custom Interface Utility API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/custom_interface_utility_api/group"/>
+</component>
+<component name="devsound_adaptation_api" long-name="DevSound Adaptation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/devsound_adaptation_api/group"/>
+</component>
+<component name="display_posting_api" long-name="Display Posting API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/display_posting_api/group"/>
+</component>
+<component name="eaac_plus_decoder_interface_api" long-name="eAAC Plus Decoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/eaac_plus_decoder_interface_api/group" filter="!test"/>
+</component>
+<component name="eaac_plus_decoder_interface_msg_hdlr_api" long-name="eAAC Plus Decoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/eaac_plus_decoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="eaac_plus_decoder_interface_proxy_api" long-name="eAAC Plus Decoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/eaac_plus_decoder_interface_proxy_api/group"/>
+</component>
+<component name="error_concealment_interface_api" long-name="Error Concealment Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/error_concealment_interface_api/group" filter="!test"/>
+</component>
+<component name="error_concealment_interface_msg_hdlr_api" long-name="Error Concealment Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/error_concealment_interface_msg_hdlr_api/group"/>
+</component>
+<component name="error_concealment_interface_proxy_api" long-name="Error Concealment Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/error_concealment_interface_proxy_api/group"/>
+</component>
+<component name="fm_radio_adaptation_api" long-name="FM Radio Adaptation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/fm_radio_adaptation_api/group"/>
+</component>
+<component name="g711_decoder_interface_api" long-name="G711 Decoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g711_decoder_interface_api/group" filter="!test"/>
+</component>
+<component name="g711_decoder_interface_msg_hdlr_api" long-name="G711 Decoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g711_decoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="g711_decoder_interface_proxy_api" long-name="G711 Decoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g711_decoder_interface_proxy_api/group"/>
+</component>
+<component name="g711_encoder_interface_api" long-name="G711 Encoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g711_encoder_interface_api/group" filter="!test"/>
+</component>
+<component name="g711_encoder_interface_msg_hdlr_api" long-name="G711 Encoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g711_encoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="g711_encoder_interface_proxy_api" long-name="G711 Encoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g711_encoder_interface_proxy_api/group"/>
+</component>
+<component name="g729_decoder_interface_api" long-name="G729 Decoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g729_decoder_interface_api/group" filter="!test"/>
+</component>
+<component name="g729_decoder_interface_msg_hdlr_api" long-name="G729 Decoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g729_decoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="g729_decoder_interface_proxy_api" long-name="G729 Decoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g729_decoder_interface_proxy_api/group"/>
+</component>
+<component name="g729_encoder_interface_api" long-name="G729 Encoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g729_encoder_interface_api/group" filter="!test"/>
+</component>
+<component name="g729_encoder_interface_proxy_api" long-name="G729 Encoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g729_encoder_interface_proxy_api/group"/>
+</component>
+<component name="g729_encoder_interface_msg_hdlr_api" long-name="G729 Encoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/g729_encoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="global_audio_settings_api" long-name="Global Audio Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/global_audio_settings_api/group" filter="!test"/>
+</component>
+<component name="global_audio_settings_definition_api" long-name="Global Audio Settings Definition API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/global_audio_settings_definition_api/group"/>
+</component>
+<component name="ilbc_decoder_interface_api" long-name="Ilbc Decoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ilbc_decoder_interface_api/group" filter="!test"/>
+</component>
+<component name="ilbc_decoder_interface_msg_hdlr_api" long-name="Ilbc Decoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ilbc_decoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="ilbc_decoder_interface_proxy_api" long-name="Ilbc Decoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ilbc_decoder_interface_proxy_api/group"/>
+</component>
+<component name="ilbc_encoder_interface_api" long-name="Ilbc Encoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ilbc_encoder_interface_api/group" filter="!test"/>
+</component>
+<component name="ilbc_encoder_interface_msg_hdlr_api" long-name="Ilbc Encoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ilbc_encoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="ilbc_encoder_interface_proxy_api" long-name="Ilbc Encoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ilbc_encoder_interface_proxy_api/group"/>
+</component>
+<component name="mdf_plugin_uids" long-name="MDF Plug-in UIDs" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/mdf_plugin_uids/group"/>
+</component>
+<component name="multimedia_fourcc_definitions_api" long-name="Multimedia FourCC Definitions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/multimedia_fourcc_definitions_api/group"/>
+</component>
+<component name="nokia_audio_policy_header_api" long-name="Nokia Audio Policy Header API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/nokia_audio_policy_header_api/group"/>
+</component>
+<component name="nokia_multimedia_fourcc_definitions_api" long-name="Nokia Multimedia Fourcc Definitions API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/nokia_multimedia_fourcc_definitions_api/group"/>
+</component>
+<component name="ra8_decoder_interface_api" long-name="RA8 Decoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ra8_decoder_interface_api/group" filter="!test"/>
+</component>
+<component name="ra8_decoder_interface_msg_hdlr_api" long-name="RA8 Decoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ra8_decoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="ra8_decoder_interface_proxy_api" long-name="RA8 Decoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/ra8_decoder_interface_proxy_api/group"/>
+</component>
+<component name="rds_adaptation_api" long-name="RDS Adaptation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/rds_adaptation_api/group"/>
+</component>
+<component name="restricted_audio_output_api" long-name="Restricted Audio Output API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/restricted_audio_output_api/group" filter="!test"/>
+</component>
+<component name="restricted_audio_output_msg_hdlr_api" long-name="Restricted Audio Output Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/restricted_audio_output_msg_hdlr_api/group"/>
+</component>
+<component name="restricted_audio_output_proxy_api" long-name="Restricted Audio Output Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/restricted_audio_output_proxy_api/group"/>
+</component>
+<component name="sbc_encoder_interface_api" long-name="SBC Encoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/sbc_encoder_interface_api/group" filter="!test"/>
+</component>
+<component name="sbc_encoder_interface_msg_hdlr_api" long-name="SBC Encoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/sbc_encoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="sbc_encoder_interface_proxy_api" long-name="SBC Encoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/sbc_encoder_interface_proxy_api/group"/>
+</component>
+<component name="secure_output_mdf_custom_interface" long-name="Secure Output MDF Custom Interface" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/secure_output_mdf_custom_interface/group"/>
+</component>
+<component name="speech_encoder_config_api" long-name="Speech Encoder Config API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/speech_encoder_config_api/group" filter="!test"/>
+</component>
+<component name="speech_encoder_config_msg_hdlr_api" long-name="Speech Encoder Config Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/speech_encoder_config_msg_hdlr_api/group"/>
+</component>
+<component name="speech_encoder_config_proxy_api" long-name="Speech Encoder Config Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/speech_encoder_config_proxy_api/group"/>
+</component>
+<component name="telephony_audio_routing_client_api" long-name="Telephony Audio Routing Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/telephony_audio_routing_client_api/group"/>
+</component>
+<component name="telephony_audio_routing_manager_api" long-name="Telephony Audio Routing Manager API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/telephony_audio_routing_manager_api/group"/>
+</component>
+<component name="video_buffer_management_mdf_custom_interface" long-name="Video Buffer Management MDF Custom Interface" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/video_buffer_management_mdf_custom_interface/group"/>
+</component>
+<component name="video_decoder_rotation_mdf_custom_interface" long-name="Video Decoder Rotation MDF Custom Interface" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/video_decoder_rotation_mdf_custom_interface/group"/>
+</component>
+<component name="video_decoder_scaling_mdf_custom_interface" long-name="Video Decoder Scaling MDF Custom Interface" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/video_decoder_scaling_mdf_custom_interface/group"/>
+</component>
+<component name="video_reclaim_extbuffers_ci" long-name="Video Reclaim Extbuffers Custom Interface" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/video_reclaim_extbuffers_ci/group"/>
+</component>
+<component name="video_window_control_custom_interface" long-name="Video Window Control Custom Interface" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/video_window_control_custom_interface/group"/>
+</component>
+<component name="wma_decoder_interface_api" long-name="WMA Decoder Interface API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/wma_decoder_interface_api/group" filter="!test"/>
+</component>
+<component name="wma_decoder_interface_msg_hdlr_api" long-name="WMA Decoder Interface Message Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/wma_decoder_interface_msg_hdlr_api/group"/>
+</component>
+<component name="wma_decoder_interface_proxy_api" long-name="WMA Decoder Interface Proxy API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/wma_decoder_interface_proxy_api/group"/>
+</component>
+<component name="eaacplusutil_api" long-name="EAac Plus Util API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/eaacplusutil_api/group"/>
+</component>
+<component name="frametable_api" long-name="Frametable API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/mm/mm_plat/frametable_api/group"/>
+</component>
+</collection>
+<collection name="devsoundextensions" long-name="Devsound Extensions" level="device-fw">
+<component name="drmaudioplayer" long-name="DRM Audio Player" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/drmaudioplayer/group"/>
+</component>
+<component name="mmextfw" long-name="Multimedia Extension Framework" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/mmextfw/group"/>
+</component>
+<component name="audiorouting" long-name="Audio Routing" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/audiorouting/group"/>
+</component>
+<component name="effects" long-name="Effects" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/effects/group"/>
+</component>
+<component name="effectspresets" long-name="Effects Presets" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/effectspresets/group"/>
+</component>
+<component name="effectspresets_utils" long-name="Effects Presets Utils" filter="s60" purpose="optional">
+<!-- need to #include the lot from a single bld.inf
+      		Also move to a standard component location, not under effectspresets -->
+<unit bldFile="/sf/os/mm/devsoundextensions/effectspresets/AudioEqualizerUtility/group" filter="!dfs_build"/>
+<unit bldFile="/sf/os/mm/devsoundextensions/effectspresets/EnvironmentalReverbUtility/group" filter="!dfs_build"/>
+</component>
+<component name="telephonyaudiorouting" long-name="Telephony Audio Routing" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/telephonyaudiorouting/group"/>
+</component>
+<component name="mmfcustominterfaces" long-name="MMF Custom Interfaces" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/mmfcustominterfaces/group"/>
+</component>
+<component name="addeddevsoundcontrol" long-name="Added DevSound Control" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/addeddevsoundcontrol/group"/>
+</component>
+<component name="globalaudiosettings" long-name="Global Audio Settings" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/globalaudiosettings/group"/>
+</component>
+<component name="restrictedaudiooutput" long-name="Restricted Audio Output" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/devsoundextensions/restrictedaudiooutput/group"/>
+</component>
+<component name="ciextnfactoryplugins" long-name="Custom Interface Extension Factory Plugins" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/mm/devsoundextensions/ciextnfactoryplugins/group"/>
+</component>
+</collection>
+<collection name="mdfdevvideoextensions" long-name="MDF Dev Video Extensions" level="device-fw">
+<component name="nga_mdf_postprocessor" long-name="NGA MDF Postprocessor" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/mdfdevvideoextensions/nga_mdf_postprocessor/group"/>
+</component>
+</collection>
+<collection name="frametable_stub" long-name="Frametable Stub" level="device-fw">
+<!-- collection is really a component. Needs to move down a directory -->
+<component name="frametable_stub_build" long-name="Frametable Stub Build" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/frametable_stub/group"/>
+</component>
+</collection>
+<collection name="eaacplusutil_stub" long-name="eAAC Plus Utils Stub" level="hw-if">
+<!-- collection is really a component. Needs to move down a directory -->
+<component name="eaacplusutil_stub_build" long-name="eAAC Plus Utils Stub Build" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/mm/eaacplusutil_stub/group"/>
+</component>
+</collection>
+<collection name="imagingandcamerafws" long-name="Imaging and Camera Frameworks" level="app-if">
+<component name="camerafw" long-name="Camera Framework" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/mm/imagingandcamerafws/camerafw/group" mrp="/sf/os/mm/imagingandcamerafws/camerafw/group/multimedia_ecam_framework.mrp"/>
+</component>
+</collection>
+<collection name="mmlibs" long-name="Multimedia Libraries" level="middleware">
+<component name="mmutilitylib" long-name="Multimedia Utility Library" introduced="8.1" purpose="mandatory">
+<unit bldFile="/sf/os/mm/mmlibs/mmutilitylib/group" mrp="/sf/os/mm/mmlibs/mmutilitylib/group/multimedia_common.mrp"/>
+</component>
+<component name="mmfw" long-name="Multimedia Framework" introduced="7.0s" purpose="mandatory">
+<unit bldFile="/sf/os/mm/mmlibs/mmfw/group" mrp="/sf/os/mm/mmlibs/mmfw/group/multimedia_mmf.mrp"/>
+</component>
+</collection>
+<collection name="mmplugins" long-name="Multimedia Plugins" level="middleware">
+<component name="cameraplugins" long-name="Camera Plugins" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/mm/mmplugins/cameraplugins/group" mrp="/sf/os/mm/mmplugins/cameraplugins/group/multimedia_ecam_plugins.mrp"/>
+</component>
+<component name="lib3gp" long-name="3GP Library" introduced="^2" purpose="optional">
+<unit bldFile="/sf/os/mm/mmplugins/lib3gp/group" mrp="/sf/os/mm/mmplugins/lib3gp/group/multimedia_3gplibrary.mrp"/>
+</component>
+<component name="mmfwplugins" long-name="Multimedia Framework Plugins" introduced="7.0s" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/mm/mmplugins/mmfwplugins/group" mrp="/sf/os/mm/mmplugins/mmfwplugins/group/multimedia_mmf_plugin.mrp"/>
+</component>
+</collection>
+<collection name="mm_info" long-name="Multimedia Info" level="app-if">
+<component name="mmdocs" long-name="Multimedia Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/mm/mm_info/mmdocs/multimedia_documentation.mrp"/>
+</component>
+<component name="mm_metadata" long-name="Multimedia Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/mm/mm_info/mm_metadata/mm_metadata.mrp"/>
+</component>
+</collection>
+<collection name="mmresourcemgmt" long-name="Multimedia Resource Management" level="middleware">
+<component name="mmresctrl" long-name="Multimedia Resource Controller" introduced="^2" purpose="development">
+<unit bldFile="/sf/os/mm/mmresourcemgmt/mmresctrl/group" mrp="/sf/os/mm/mmresourcemgmt/mmresctrl/group/multimedia_a3f_refmmrc.mrp"/>
+</component>
+</collection>
+<collection name="mmdevicefw" long-name="Multimedia Device Framework" level="device-fw">
+<component name="mdf" long-name="Media Device Framework" introduced="9.2" purpose="mandatory">
+<unit bldFile="/sf/os/mm/mmdevicefw/mdf/group" mrp="/sf/os/mm/mmdevicefw/mdf/group/multimedia_mdf.mrp"/>
+</component>
+<component name="speechrecogsupport" long-name="Speech Recognition Support" introduced="7.0s" purpose="mandatory">
+<unit bldFile="/sf/os/mm/mmdevicefw/speechrecogsupport/group" mrp="/sf/os/mm/mmdevicefw/speechrecogsupport/group/multimedia_mmf_ASR.mrp"/>
+</component>
+</collection>
+<collection name="mmswadaptation" long-name="Multimedia Software Adaptation" level="adaptation">
+<component name="videorenderer" long-name="Video Renderer" introduced="^3" purpose="optional">
+<unit bldFile="/sf/os/mm/mmswadaptation/videorenderer/group" mrp="/sf/os/mm/mmswadaptation/videorenderer/group/multimedia_videorenderer.mrp"/>
+</component>
+</collection>
+<collection name="mmtestenv" long-name="Multimedia Test Environment" level="device-fw"/>
+<collection name="devsound" long-name="Sound Device" level="devices">
+<component name="devsoundapi" long-name="DevSound API" introduced="7.0s" purpose="mandatory">
+<unit bldFile="/sf/os/mm/devsound/devsoundapi/group" mrp="/sf/os/mm/devsound/devsoundapi/group/multimedia_mdf_devsound_api.mrp"/>
+</component>
+<component name="a3fdevsound" long-name="A3F DevSound" introduced="^2" purpose="optional">
+<unit bldFile="/sf/os/mm/devsound/a3fdevsound/group" mrp="/sf/os/mm/devsound/a3fdevsound/group/multimedia_a3f_devsound.mrp"/>
+</component>
+<component name="a3facf" long-name="A3F Audio Component Framework" introduced="^2" purpose="optional">
+<unit bldFile="/sf/os/mm/devsound/a3facf/group" mrp="/sf/os/mm/devsound/a3facf/group/multimedia_a3f_acf.mrp"/>
+</component>
+<component name="devsoundpluginsupport" long-name="DevSound Plugin Support" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/mm/devsound/devsoundpluginsupport/group" mrp="/sf/os/mm/devsound/devsoundpluginsupport/group/multimedia_mdf_devsound_pluginsupport.mrp"/>
+</component>
+<component name="refdevsound" long-name="Reference DevSound Plugins" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/mm/devsound/devsoundrefplugin/group" mrp="/sf/os/mm/devsound/devsoundrefplugin/group/multimedia_mdf_devsound_refplugin.mrp"/>
+</component>
+<component name="btdevsound" long-name="Bluetooth DevSound Plugin" introduced="7.0s" deprecated="^4" purpose="development" plugin="Y">
+<unit bldFile="/sf/os/mm/devsound/sounddevbt/group" mrp="/sf/os/mm/devsound/sounddevbt/group/multimedia_mdf_devsound_refbtplugin.mrp"/>
+</component>
+<component name="a3ftrace" long-name="A3F Trace Utility" introduced="^2" purpose="development">
+<unit bldFile="/sf/os/mm/devsound/a3ftrace/group" mrp="/sf/os/mm/devsound/a3ftrace/group/multimedia_a3f_traces.mrp"/>
+</component>
+<component name="a3fsrvstart" long-name="A3F Server Start" introduced="^2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/mm/devsound/a3fsrvstart/group" mrp="/sf/os/mm/devsound/a3fsrvstart/group/multimedia_a3f_serverstart.mrp"/>
+</component>
+</collection>
+<collection name="mmhais" long-name="Multimedia Hardware Adaptation Interfaces" level="adaptation">
+<component name="devsoundhwdeviceapi" long-name="DevSound Hardware Device API" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/mm/devsound/hwdevapi/group" mrp="/sf/os/mm/devsound/hwdevapi/group/multimedia_mdf_devsound_hwdev.mrp"/>
+</component>
+<component name="a3facl" long-name="A3F Audio Component Library" introduced="^2" purpose="development">
+<unit bldFile="/sf/os/mm/mmhais/a3facl/group" mrp="/sf/os/mm/mmhais/a3facl/group/multimedia_a3f_acl.mrp"/>
+</component>
+<component name="a3fdevsoundcustomisation" long-name="A3F DevSound Customisation" introduced="^2" purpose="optional">
+<unit bldFile="/sf/os/mm/mmhais/a3fdevsoundcustomisation/group" mrp="/sf/os/mm/mmhais/a3fdevsoundcustomisation/group/multimedia_a3f_devsoundadaptationinfo.mrp"/>
+</component>
+<component name="refacladapt" long-name="Reference ACL Adaptation" introduced="^2" purpose="optional">
+<unit bldFile="/sf/os/mm/mmhais/refacladapt/group" mrp="/sf/os/mm/mmhais/refacladapt/group/multimedia_a3f_refacladaptation.mrp"/>
+</component>
+<component name="videohai" long-name="Video HAI" introduced="7.0s" purpose="mandatory">
+<unit bldFile="/sf/os/mm/mmhais/videohai/group" mrp="/sf/os/mm/mmhais/videohai/group/multimedia_videohai.mrp"/>
+</component>
+<component name="dvbhreceiverhai" long-name="Mobile TV DVB-H Receiver HAI" introduced="^2" purpose="optional">
+<unit bldFile="/sf/os/mm/mmhais/dvbhreceiverhai/hai/dvbh/group" mrp="/sf/os/mm/mmhais/dvbhreceiverhai/hai/dvbh/group/multimedia_mobiletv_dvbh_hai.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

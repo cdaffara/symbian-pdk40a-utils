@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<build xmlns="http://symbian.com/xml/build"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://symbian.com/xml/build ../../schema/build/2_0.xsd">
+
+  <!-- Extension interfaces : replacements for Template Extension Makefiles -->
+    
+	<interface name="s60.removegtfiles" extends="Symbian.UserFLM" flm="removegtfiles.flm">
+	</interface>
+	<interface name="s60.akniconinterfaces" extends="Symbian.UserFLM" flm="akniconinterfaces.flm">
+		<param name='CDLCOMPILER' default='$(EPOCROOT)/epoc32/tools/CdlCompiler$(DOTEXE)'/>
+		<param name='FILENAME' default=''/>
+		<param name='ICONINTERFACEEBUG' default='0'/>		
+	</interface>
+
+</build>

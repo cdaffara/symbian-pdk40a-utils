@@ -1,0 +1,1063 @@
+/epoc32/data/z/private/10003a3f/reccaf/reccafmimetypes.txt	export	
+/epoc32/data/z/private/101f72a6/cacerts.dat	export	
+/epoc32/data/z/private/101f72a6/certclients.dat	export	
+/epoc32/data/z/private/10202be9/2002b28b.txt	export	
+/epoc32/data/z/private/10283558/backup_registration.xml	export	
+/epoc32/data/z/resource/cryptospi/h4-plug-ins.txt	export	
+/epoc32/data/z/resource/cryptospi/plug-ins.txt	export	
+/epoc32/data/z/resource/fstokenserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/fstokenserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/f32agent.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/f32agent.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/filecertstore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/filecertstore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/filekeystore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/filekeystore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pkcs12recog.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pkcs12recog.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/pkcs8recog.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/pkcs8recog.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/reccaf.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/reccaf.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/reccert.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/reccert.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/reftestagent.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/reftestagent.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sraplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sraplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/swicertstoreplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/swicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/swicertstore.dat	export	
+/epoc32/data/z/rta/settings.ini	export	
+/epoc32/data/z/system/install/upsserver.sis	build	armv5_urel
+/epoc32/include/asn1cons.h	export	
+/epoc32/include/asn1dec.h	export	
+/epoc32/include/asn1enc.h	export	
+/epoc32/include/asymmetric.h	export	
+/epoc32/include/asymmetric.inl	export	
+/epoc32/include/asymmetrickeys.h	export	
+/epoc32/include/bigint.h	export	
+/epoc32/include/caf/agent.h	export	
+/epoc32/include/caf/attributeset.h	export	
+/epoc32/include/caf/caf.h	export	
+/epoc32/include/caf/caferr.h	export	
+/epoc32/include/caf/cafpanic.h	export	
+/epoc32/include/caf/caftypes.h	export	
+/epoc32/include/caf/content.h	export	
+/epoc32/include/caf/content.inl	export	
+/epoc32/include/caf/data.h	export	
+/epoc32/include/caf/dirstreamable.h	export	
+/epoc32/include/caf/embeddedobject.h	export	
+/epoc32/include/caf/metadata.h	export	
+/epoc32/include/caf/metadataarray.h	export	
+/epoc32/include/caf/streamableptrarray.h	export	
+/epoc32/include/caf/streamableptrarray.inl	export	
+/epoc32/include/caf/stringattributeset.h	export	
+/epoc32/include/caf/virtualpath.h	export	
+/epoc32/include/caf/virtualpathptr.h	export	
+/epoc32/include/ccertattributefilter.h	export	
+/epoc32/include/cctcertinfo.h	export	
+/epoc32/include/certificateapps.h	export	
+/epoc32/include/cryptopanic.h	export	
+/epoc32/include/cryptospi/cryptobaseapi.h	export	
+/epoc32/include/cryptospi/cryptocharacteristics.h	export	
+/epoc32/include/cryptospi/cryptohashapi.h	export	
+/epoc32/include/cryptospi/cryptomacapi.h	export	
+/epoc32/include/cryptospi/cryptoparams.h	export	
+/epoc32/include/cryptospi/cryptorandomapi.h	export	
+/epoc32/include/cryptospi/cryptospi_errs.h	export	
+/epoc32/include/cryptospi/cryptospistateapi.h	export	
+/epoc32/include/cryptospi/extendedcharacteristics.h	export	
+/epoc32/include/cryptospi/keys.h	export	
+/epoc32/include/cryptospi/plugincharacteristics.h	export	
+/epoc32/include/cryptospi/pluginselectorbase.h	export	
+/epoc32/include/cryptospi/ruleselector.h	export	
+/epoc32/include/cryptotokenregistryinfo.rh	export	
+/epoc32/include/ct.h	export	
+/epoc32/include/ct/ccttokentype.h	export	
+/epoc32/include/ct/ccttokentypeinfo.h	export	
+/epoc32/include/ct/interfaceuid.hrh	export	
+/epoc32/include/ct/mcttoken.h	export	
+/epoc32/include/ct/mcttokeninterface.h	export	
+/epoc32/include/ct/mcttokenobject.h	export	
+/epoc32/include/ct/mcttokentype.h	export	
+/epoc32/include/ct/mcttokentypefilter.h	export	
+/epoc32/include/ct/rcpointerarray.h	export	
+/epoc32/include/ct/rmpointerarray.h	export	
+/epoc32/include/ct/tctalltokentypes.h	export	
+/epoc32/include/ct/tctfindtokentypesbyinterface.h	export	
+/epoc32/include/ct/tctfindtokentypesbyinterfaceandattribute.h	export	
+/epoc32/include/ct/tcttokenhandle.h	export	
+/epoc32/include/ct/tcttokenobjecthandle.h	export	
+/epoc32/include/ct/tcttokentypeattribute.h	export	
+/epoc32/include/fstokenserver.rsg	resource	armv5_urel
+/epoc32/include/fstokenserver.rsg	resource	winscw_udeb
+/epoc32/include/hash.h	export	
+/epoc32/include/localsdpcodecstringconstants.h	stringtable	armv5_urel
+/epoc32/include/localsdpcodecstringconstants.h	stringtable	winscw_udeb
+/epoc32/include/mcertstore.h	export	
+/epoc32/include/mctcertapps.h	export	
+/epoc32/include/padding.h	export	
+/epoc32/include/pkixcertchain.h	export	
+/epoc32/include/pkixvalidationresult.h	export	
+/epoc32/include/platform/3des.h	export	
+/epoc32/include/platform/arc4.h	export	
+/epoc32/include/platform/asnpkcs.h	export	
+/epoc32/include/platform/blocktransformation.h	export	
+/epoc32/include/platform/bufferedtransformation.h	export	
+/epoc32/include/platform/caf/agentfactory.h	export	
+/epoc32/include/platform/caf/agentinterface.h	export	
+/epoc32/include/platform/caf/attribute.h	export	
+/epoc32/include/platform/caf/bitset.h	export	
+/epoc32/include/platform/caf/cafmimeheader.h	export	
+/epoc32/include/platform/caf/cafplatform.h	export	
+/epoc32/include/platform/caf/f32agentui.h	export	
+/epoc32/include/platform/caf/importfile.h	export	
+/epoc32/include/platform/caf/manager.h	export	
+/epoc32/include/platform/caf/patchdata.h	export	
+/epoc32/include/platform/caf/rightsinfo.h	export	
+/epoc32/include/platform/caf/rightsmanager.h	export	
+/epoc32/include/platform/caf/streaming/keyassociation.h	export	
+/epoc32/include/platform/caf/streaming/keystreamdecoder.h	export	
+/epoc32/include/platform/caf/streaming/keystreamsink.h	export	
+/epoc32/include/platform/caf/streaming/protectedstreamdesc.h	export	
+/epoc32/include/platform/caf/streaming/streamagentfactory.h	export	
+/epoc32/include/platform/caf/streaming/streamagentinterface.h	export	
+/epoc32/include/platform/caf/streaming/streamcaftypes.h	export	
+/epoc32/include/platform/caf/supplier.h	export	
+/epoc32/include/platform/caf/supplieroutputfile.h	export	
+/epoc32/include/platform/callbacktimer.h	export	
+/epoc32/include/platform/cbcmode.h	export	
+/epoc32/include/platform/certstorepatchdata.h	export	
+/epoc32/include/platform/cfstokentypeclient.h	export	
+/epoc32/include/platform/cmscertchoice.h	export	
+/epoc32/include/platform/cmscontentinfo.h	export	
+/epoc32/include/platform/cmsdefs.h	export	
+/epoc32/include/platform/cmssignedobject.h	export	
+/epoc32/include/platform/cmssigneridentifier.h	export	
+/epoc32/include/platform/cmssignerinfo.h	export	
+/epoc32/include/platform/cryptospi/asymmetriccipherplugin.h	export	
+/epoc32/include/platform/cryptospi/cryptoasymmetriccipherapi.h	export	
+/epoc32/include/platform/cryptospi/cryptokeyagreementapi.h	export	
+/epoc32/include/platform/cryptospi/cryptokeypairgeneratorapi.h	export	
+/epoc32/include/platform/cryptospi/cryptoplugin.h	export	
+/epoc32/include/platform/cryptospi/cryptosignatureapi.h	export	
+/epoc32/include/platform/cryptospi/cryptospidef.h	export	
+/epoc32/include/platform/cryptospi/cryptosymmetriccipherapi.h	export	
+/epoc32/include/platform/cryptospi/hashplugin.h	export	
+/epoc32/include/platform/cryptospi/keyagreementplugin.h	export	
+/epoc32/include/platform/cryptospi/keypair.h	export	
+/epoc32/include/platform/cryptospi/keypairgeneratorplugin.h	export	
+/epoc32/include/platform/cryptospi/macplugin.h	export	
+/epoc32/include/platform/cryptospi/pluginentrydef.h	export	
+/epoc32/include/platform/cryptospi/randomplugin.h	export	
+/epoc32/include/platform/cryptospi/romlit.h	export	
+/epoc32/include/platform/cryptospi/signerplugin.h	export	
+/epoc32/include/platform/cryptospi/symmetriccipherplugin.h	export	
+/epoc32/include/platform/cryptospi/verifierplugin.h	export	
+/epoc32/include/platform/cryptostrength.h	export	
+/epoc32/include/platform/des.h	export	
+/epoc32/include/platform/euserext.h	export	
+/epoc32/include/platform/keyidentifierutil.h	export	
+/epoc32/include/platform/keystore_errs.h	export	
+/epoc32/include/platform/mctauthobject.h	export	
+/epoc32/include/platform/mctcertstore.h	export	
+/epoc32/include/platform/mctkeystore.h	export	
+/epoc32/include/platform/mctkeystore.inl	export	
+/epoc32/include/platform/mctkeystoremanager.h	export	
+/epoc32/include/platform/mctkeystoreuids.h	export	
+/epoc32/include/platform/mctwritablecertstore.h	export	
+/epoc32/include/platform/mctwritablecertstore.inl	export	
+/epoc32/include/platform/miscutil.h	export	
+/epoc32/include/platform/mkeystore.h	export	
+/epoc32/include/platform/mode.h	export	
+/epoc32/include/platform/msymmetriccipher.h	export	
+/epoc32/include/platform/nullcipher.h	export	
+/epoc32/include/platform/pbe.h	export	
+/epoc32/include/platform/pbebase.h	export	
+/epoc32/include/platform/pbedata.h	export	
+/epoc32/include/platform/pbencryptor.h	export	
+/epoc32/include/platform/pkcs10.h	export	
+/epoc32/include/platform/pkcs10attr.h	export	
+/epoc32/include/platform/pkcs12.h	export	
+/epoc32/include/platform/pkcs12attribute.h	export	
+/epoc32/include/platform/pkcs12bags.h	export	
+/epoc32/include/platform/pkcs12kdf.h	export	
+/epoc32/include/platform/pkcs12macdata.h	export	
+/epoc32/include/platform/pkcs12safebag.h	export	
+/epoc32/include/platform/pkcs5kdf.h	export	
+/epoc32/include/platform/pkcs7contentinfo_v2.h	export	
+/epoc32/include/platform/pkcs7digestinfo.h	export	
+/epoc32/include/platform/pkcs7encrypteddataobject.h	export	
+/epoc32/include/platform/pkcs7excert.h	export	
+/epoc32/include/platform/pkcs7issuerserial.h	export	
+/epoc32/include/platform/pkcs9attr.h	export	
+/epoc32/include/platform/rc2.h	export	
+/epoc32/include/platform/rijndael.h	export	
+/epoc32/include/platform/scs/cleanuputils.h	export	
+/epoc32/include/platform/scs/cleanuputils.inl	export	
+/epoc32/include/platform/scs/ipcbuf.h	export	
+/epoc32/include/platform/scs/ipcstream.h	export	
+/epoc32/include/platform/scs/ipcstream.inl	export	
+/epoc32/include/platform/scs/nullbuf.h	export	
+/epoc32/include/platform/scs/nullstream.h	export	
+/epoc32/include/platform/scs/scscommon.h	export	
+/epoc32/include/platform/scs/scscommon.inl	export	
+/epoc32/include/platform/scs/scsserver.h	export	
+/epoc32/include/platform/scs/securitylog.h	export	
+/epoc32/include/platform/scs/securityutils.h	export	
+/epoc32/include/platform/scs/streamingarray.h	export	
+/epoc32/include/platform/scs/streamingarray.inl	export	
+/epoc32/include/platform/secdlg.h	export	
+/epoc32/include/platform/secdlgimpldefs.h	export	
+/epoc32/include/platform/secsettings/secsettingsclient.h	export	
+/epoc32/include/platform/securitydefsconst.h	export	
+/epoc32/include/platform/streamcipher.h	export	
+/epoc32/include/platform/swicertstore.h	export	
+/epoc32/include/platform/symmetric.h	export	
+/epoc32/include/platform/unifiedkeystore.h	export	
+/epoc32/include/platform/ups/cliententity.h	export	
+/epoc32/include/platform/ups/dialogcreator.h	export	
+/epoc32/include/platform/ups/fingerprint.h	export	
+/epoc32/include/platform/ups/policies.rh	export	
+/epoc32/include/platform/ups/policy.h	export	
+/epoc32/include/platform/ups/policyevaluator.h	export	
+/epoc32/include/platform/ups/promptrequest.h	export	
+/epoc32/include/platform/ups/upsdb.h	export	
+/epoc32/include/platform/ups/upsdbw.h	export	
+/epoc32/include/platform/ups/upsnotifierutil.h	export	
+/epoc32/include/platform/x509constraintext.h	export	
+/epoc32/include/platform/x509keyencoder.h	export	
+/epoc32/include/random.h	export	
+/epoc32/include/scs/scsclient.h	export	
+/epoc32/include/securitydefs.h	export	
+/epoc32/include/securitydefs.inl	export	
+/epoc32/include/securityerr.h	export	
+/epoc32/include/signed.h	export	
+/epoc32/include/tools/certapp-api.h	export	
+/epoc32/include/unifiedcertstore.h	export	
+/epoc32/include/ups/ups.hrh	export	
+/epoc32/include/ups/upsclient.h	export	
+/epoc32/include/ups/upsconst.h	export	
+/epoc32/include/ups/upserr.h	export	
+/epoc32/include/ups/upstypes.h	export	
+/epoc32/include/wtlscert.h	export	
+/epoc32/include/wtlscertchain.h	export	
+/epoc32/include/wtlskeys.h	export	
+/epoc32/include/wtlsnames.h	export	
+/epoc32/include/x500dn.h	export	
+/epoc32/include/x509cert.h	export	
+/epoc32/include/x509certchain.h	export	
+/epoc32/include/x509certext.h	export	
+/epoc32/include/x509gn.h	export	
+/epoc32/include/x509keys.h	export	
+/epoc32/include/x520ava.h	export	
+/epoc32/release/armv5/lib/asn1.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/asn1.dso	build	armv5_urel
+/epoc32/release/armv5/lib/asn1{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/asn1{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/asnpkcs.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/asnpkcs.dso	build	armv5_urel
+/epoc32/release/armv5/lib/asnpkcs{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/asnpkcs{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cafutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cafutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cafutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cafutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/caf{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/caf{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/certstore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/certstore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/certstore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/certstore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/crypto.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/crypto.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cryptography.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cryptography.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cryptography.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/cryptography.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/cryptography{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cryptography{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cryptography{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/cryptography{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/cryptospi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cryptospi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cryptospi.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/cryptospi.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/cryptospi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cryptospi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cryptospi{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/cryptospi{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/crypto{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/crypto{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ctfinder.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ctfinder.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ctfinder{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ctfinder{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ctframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ctframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ctframework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ctframework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/f32agentui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/f32agentui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/f32agentui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/f32agentui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fstokencli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fstokencli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fstokencli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fstokencli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fstokenserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fstokenserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fstokenserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fstokenserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fstokenshared.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fstokenshared.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fstokenshared{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fstokenshared{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hash.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hash.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hash.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/hash.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/hash{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/hash{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/hash{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/hash{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/ipcstream.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipcstream.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ipcstream{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ipcstream{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/localsdpcodec.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/localsdpcodec.dso	build	armv5_urel
+/epoc32/release/armv5/lib/localsdpcodec{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/localsdpcodec{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pbe.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pbe.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pbe.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/pbe.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/pbe{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pbe{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pbe{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/pbe{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/pkcs10.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkcs10.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkcs10{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkcs10{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkcs12.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkcs12.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkcs12{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkcs12{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkcs7.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkcs7.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkcs7{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkcs7{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkixcert.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkixcert.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkixcertbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkixcertbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkixcertbase{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkixcertbase{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pkixcert{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pkixcert{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/random.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/random.dso	build	armv5_urel
+/epoc32/release/armv5/lib/random.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/random.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/random{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/random{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/random{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/random{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/rtaarchive.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtaarchive.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtaarchive{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtaarchive{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtaclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtaclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtaclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtaclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtaparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtaparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtaparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtaparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtavirtualfile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtavirtualfile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtavirtualfile{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtavirtualfile{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scsclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scsclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scsclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scsclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scsserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scsserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scsserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scsserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secsettingsclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secsettingsclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secsettingsclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secsettingsclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sectcbutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sectcbutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sectcbutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sectcbutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securityutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securityutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/securityutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/securityutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/secutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/secutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/softwarecrypto.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/softwarecrypto.dso	build	armv5_urel
+/epoc32/release/armv5/lib/softwarecrypto{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/softwarecrypto{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sraclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sraclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sraclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sraclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/srautils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/srautils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/srautils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/srautils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/streamingcaf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/streamingcaf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/streamingcaf{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/streamingcaf{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swicertstore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swicertstore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/swicertstore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/swicertstore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsdb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsdb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsdb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsdb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsmanagement.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsmanagement.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsmanagement{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsmanagement{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsnotifierutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsnotifierutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upsnotifierutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upsnotifierutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upspolicies.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upspolicies.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upspolicies{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upspolicies{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wtlscert.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wtlscert.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wtlscert{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wtlscert{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/x500.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/x500.dso	build	armv5_urel
+/epoc32/release/armv5/lib/x500{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/x500{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/x509.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/x509.dso	build	armv5_urel
+/epoc32/release/armv5/lib/x509{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/x509{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/asn1.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/asn1.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/asnpkcs.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/asnpkcs.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/caf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/caf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cafutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cafutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/certstore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/certstore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/crypto.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/crypto.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cryptospi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cryptospi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cryptospisetup.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cryptospisetup.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctfinder.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctfinder.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ctframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/f32agent.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/f32agent.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/f32agentui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/f32agentui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/filecertstore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/filecertstore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/filekeystore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/filekeystore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fstokencli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fstokencli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fstokenserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/fstokenserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fstokenshared.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fstokenshared.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hash.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hash.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipcstream.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ipcstream.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/localsdpcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/localsdpcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pbe.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pbe.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs10.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs10.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs12.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs12.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs12recog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs12recog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs7.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs7.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs8recog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkcs8recog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkixcert.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkixcert.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkixcertbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pkixcertbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/random.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/random.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/reccaf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/reccaf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/reccert.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/reccert.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/reftestagent.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/reftestagent.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaarchive.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaarchive.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtaserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtavirtualfile.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtavirtualfile.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scsclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/scsclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/scsserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/scsserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/secsettingsclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/secsettingsclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/secsettingsserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/secsettingsserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sectcbutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sectcbutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/securityutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/securityutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/secutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/secutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/softwarecrypto.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/softwarecrypto.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sraclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sraclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sraplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sraplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sraserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sraserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/srautils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/srautils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/streamingcaf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/streamingcaf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/strong_cryptography.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/strong_cryptography.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swicertstore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swicertstore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/swicertstoreplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/swicertstoreplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsdb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsdb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsmanagement.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsmanagement.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsnotifierutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsnotifierutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upspolicies.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upspolicies.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/upsserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/weak_cryptography.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/weak_cryptography.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wtlscert.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wtlscert.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/x500.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/x500.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/x509.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/x509.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/asn1.dll	build	armv5_urel
+/epoc32/release/armv5/urel/asn1.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/asnpkcs.dll	build	armv5_urel
+/epoc32/release/armv5/urel/asnpkcs.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/caf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/caf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cafutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cafutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/certstore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/certstore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/crypto.dll	build	armv5_urel
+/epoc32/release/armv5/urel/crypto.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cryptospi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cryptospi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cryptospisetup.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cryptospisetup.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ctfinder.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ctfinder.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ctframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ctframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/f32agent.dll	build	armv5_urel
+/epoc32/release/armv5/urel/f32agent.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/f32agentui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/f32agentui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/filecertstore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/filecertstore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/filekeystore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/filekeystore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fstokencli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fstokencli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fstokenserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/fstokenserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/fstokenshared.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fstokenshared.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hash.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hash.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ipcstream.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ipcstream.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/localsdpcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/localsdpcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pbe.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pbe.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs10.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs10.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs12.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs12.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs12recog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs12recog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs7.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs7.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs8recog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkcs8recog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkixcert.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkixcert.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pkixcertbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pkixcertbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/random.dll	build	armv5_urel
+/epoc32/release/armv5/urel/random.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/reccaf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/reccaf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/reccert.dll	build	armv5_urel
+/epoc32/release/armv5/urel/reccert.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/reftestagent.dll	build	armv5_urel
+/epoc32/release/armv5/urel/reftestagent.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtaarchive.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtaarchive.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtaclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtaclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtaparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtaparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtaserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/rtaserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtavirtualfile.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtavirtualfile.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/scsclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/scsclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/scsserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/scsserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/secsettingsclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/secsettingsclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/secsettingsserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/secsettingsserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sectcbutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sectcbutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/securityutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/securityutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/secutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/secutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/softwarecrypto.dll	build	armv5_urel
+/epoc32/release/armv5/urel/softwarecrypto.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sraclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sraclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sraplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sraplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sraserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sraserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/srautils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/srautils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/streamingcaf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/streamingcaf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/strong_cryptography.dll	build	armv5_urel
+/epoc32/release/armv5/urel/strong_cryptography.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swicertstore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swicertstore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/swicertstoreplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/swicertstoreplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upsclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upsclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upsdb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upsdb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upsmanagement.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upsmanagement.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upsnotifierutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upsnotifierutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upspolicies.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upspolicies.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upsserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/upsserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/weak_cryptography.dll	build	armv5_urel
+/epoc32/release/armv5/urel/weak_cryptography.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wtlscert.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wtlscert.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/x500.dll	build	armv5_urel
+/epoc32/release/armv5/urel/x500.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/x509.dll	build	armv5_urel
+/epoc32/release/armv5/urel/x509.dll.map	build	armv5_urel
+/epoc32/release/armv5smp/udeb/cryptospi.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/cryptospi.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/cryptospisetup.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/cryptospisetup.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/hash.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/hash.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/pbe.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/pbe.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/random.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/random.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/weak_cryptography.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/weak_cryptography.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/urel/cryptospi.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/cryptospi.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/cryptospisetup.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/cryptospisetup.exe.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/hash.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/hash.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/pbe.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/pbe.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/random.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/random.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/weak_cryptography.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/weak_cryptography.dll.map	build	armv5smp_urel
+/epoc32/release/tools2/rel/libcertapp-api.a	build	tools2_rel
+/epoc32/release/winscw/udeb/Z/resource/swicertstore.dat	export	
+/epoc32/release/winscw/udeb/asn1.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/asn1.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/asnpkcs.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/asnpkcs.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/caf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/caf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cafutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cafutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/certstore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/certstore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/crypto.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/crypto.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cryptography.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cryptography.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cryptospi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cryptospi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cryptospisetup.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ctfinder.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ctfinder.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ctframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ctframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/f32agent.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/f32agentui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/f32agentui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/filecertstore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/filekeystore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fstokencli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fstokencli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fstokenserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/fstokenserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fstokenshared.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fstokenshared.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hash.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hash.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipcstream.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ipcstream.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/localsdpcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/localsdpcodec.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pbe.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pbe.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs10.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs10.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs12.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs12.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs12recog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs7.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs7.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkcs8recog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkixcert.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkixcert.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkixcertbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pkixcertbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/random.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/random.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/reccaf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/reccert.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/reftestagent.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtaarchive.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtaarchive.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtaclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtaclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtaparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtaparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtaserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtavirtualfile.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtavirtualfile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/scsclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/scsclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/scsserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/scsserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/secsettingsclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/secsettingsclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/secsettingsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sectcbutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sectcbutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/securityutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/securityutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/secutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/secutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/softwarecrypto.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/softwarecrypto.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sraclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sraclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sraplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sraserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/srautils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/srautils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/streamingcaf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/streamingcaf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/strong_cryptography.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swicertstore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/swicertstore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/swicertstoreplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsdb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsdb.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsmanagement.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsmanagement.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsnotifierutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsnotifierutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upspolicies.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upspolicies.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/weak_cryptography.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wtlscert.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wtlscert.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/x500.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/x500.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/x509.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/x509.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/reccaf/reccafmimetypes.txt	export	
+/epoc32/release/winscw/udeb/z/private/101f72a6/cacerts.dat	export	
+/epoc32/release/winscw/udeb/z/private/101f72a6/certclients.dat	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/2002b28b.txt	export	
+/epoc32/release/winscw/udeb/z/private/10283558/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/cryptospi/h4-plug-ins.txt	export	
+/epoc32/release/winscw/udeb/z/resource/cryptospi/plug-ins.txt	export	
+/epoc32/release/winscw/udeb/z/resource/fstokenserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/f32agent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/filecertstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/filekeystore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pkcs12recog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/pkcs8recog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/reccaf.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/reccert.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/reftestagent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sraplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/swicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/rta/settings.ini	export	
+/epoc32/release/winscw/udeb/z/sys/bin/upsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/system/install/upsserver.sis	build	winscw_udeb
+/epoc32/release/winscw/urel/Z/resource/swicertstore.dat	export	
+/epoc32/release/winscw/urel/asn1.dll	build	winscw_urel
+/epoc32/release/winscw/urel/asn1.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/asnpkcs.dll	build	winscw_urel
+/epoc32/release/winscw/urel/asnpkcs.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/caf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/caf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cafutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cafutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/certstore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/certstore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/crypto.dll	build	winscw_urel
+/epoc32/release/winscw/urel/crypto.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cryptography.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cryptography.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cryptospi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cryptospi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cryptospisetup.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cryptospisetup.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ctfinder.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ctfinder.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ctframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ctframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/f32agent.dll	build	winscw_urel
+/epoc32/release/winscw/urel/f32agent.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/f32agentui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/f32agentui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/filecertstore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/filecertstore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/filekeystore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/filekeystore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fstokencli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fstokencli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fstokenserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/fstokenserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/fstokenshared.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fstokenshared.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hash.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hash.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ipcstream.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ipcstream.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/localsdpcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/localsdpcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pbe.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pbe.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs10.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs10.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs12.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs12.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs12recog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs12recog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs7.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs7.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs8recog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkcs8recog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkixcert.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkixcert.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pkixcertbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pkixcertbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/random.dll	build	winscw_urel
+/epoc32/release/winscw/urel/random.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/reccaf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/reccaf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/reccert.dll	build	winscw_urel
+/epoc32/release/winscw/urel/reccert.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/reftestagent.dll	build	winscw_urel
+/epoc32/release/winscw/urel/reftestagent.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtaarchive.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtaarchive.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtaclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtaclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtaparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtaparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtaserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/rtaserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtavirtualfile.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtavirtualfile.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/scsclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/scsclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/scsserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/scsserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/secsettingsclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/secsettingsclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/secsettingsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/secsettingsserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sectcbutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sectcbutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/securityutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/securityutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/secutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/secutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/softwarecrypto.dll	build	winscw_urel
+/epoc32/release/winscw/urel/softwarecrypto.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sraclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sraclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sraplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sraplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sraserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sraserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/srautils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/srautils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/streamingcaf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/streamingcaf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/strong_cryptography.dll	build	winscw_urel
+/epoc32/release/winscw/urel/strong_cryptography.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swicertstore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swicertstore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/swicertstoreplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/swicertstoreplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upsclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upsclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upsdb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upsdb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upsmanagement.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upsmanagement.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upsnotifierutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upsnotifierutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upspolicies.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upspolicies.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/upsserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/weak_cryptography.dll	build	winscw_urel
+/epoc32/release/winscw/urel/weak_cryptography.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wtlscert.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wtlscert.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/x500.dll	build	winscw_urel
+/epoc32/release/winscw/urel/x500.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/x509.dll	build	winscw_urel
+/epoc32/release/winscw/urel/x509.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/reccaf/reccafmimetypes.txt	export	
+/epoc32/release/winscw/urel/z/private/101f72a6/cacerts.dat	export	
+/epoc32/release/winscw/urel/z/private/101f72a6/certclients.dat	export	
+/epoc32/release/winscw/urel/z/private/10202be9/2002b28b.txt	export	
+/epoc32/release/winscw/urel/z/private/10283558/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/cryptospi/h4-plug-ins.txt	export	
+/epoc32/release/winscw/urel/z/resource/cryptospi/plug-ins.txt	export	
+/epoc32/release/winscw/urel/z/resource/fstokenserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/f32agent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/filecertstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/filekeystore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pkcs12recog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/pkcs8recog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/reccaf.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/reccert.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/reftestagent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sraplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/swicertstoreplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/rta/settings.ini	export	
+/epoc32/release/winscw/urel/z/sys/bin/upsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/z/system/install/upsserver.sis	build	winscw_urel
+/epoc32/rom/config/assets/symbianos/confml/ci_securityconfig.confml	export	
+/epoc32/rom/config/assets/symbianos/confml/securityconfig.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/securityconfig_2002b28b.crml	export	
+/epoc32/rom/include/asnpkcs.iby	export	
+/epoc32/rom/include/caf.iby	export	
+/epoc32/rom/include/certman.iby	export	
+/epoc32/rom/include/crypto.iby	export	
+/epoc32/rom/include/cryptospi_plugins.iby	export	
+/epoc32/rom/include/filetokens.iby	export	
+/epoc32/rom/include/filetokensconfig.iby	export	
+/epoc32/rom/include/hash.iby	export	
+/epoc32/rom/include/ocspcenrep.iby	export	
+/epoc32/rom/include/pbe.iby	export	
+/epoc32/rom/include/pkcs12.iby	export	
+/epoc32/rom/include/pkcs7.iby	export	
+/epoc32/rom/include/random.iby	export	
+/epoc32/rom/include/reccafconfig.iby	export	
+/epoc32/rom/include/rootcerts.iby	export	
+/epoc32/rom/include/rta.iby	export	
+/epoc32/rom/include/scs.iby	export	
+/epoc32/rom/include/secsettings.iby	export	
+/epoc32/rom/include/sectcbutil.iby	export	
+/epoc32/rom/include/security_ups_utils.iby	export	
+/epoc32/rom/include/securitycommonutils.iby	export	
+/epoc32/rom/include/secutil.iby	export	
+/epoc32/rom/include/streamingcaf.iby	export	
+/epoc32/rom/include/ups.iby	export	
+/epoc32/rom/include/ups_config.iby	export	
+/epoc32/tools/certapp.exe	build	tools2_rel
+/epoc32/tools/makefile_templates/security/upsromstubsis.flm	export	
+/epoc32/tools/makefile_templates/security/upsromstubsis.xml	export	
+/epoc32/tools/tcertapp.exe	build	tools2_rel
+/epoc32/winscw/c/security_tools/tcertapp/aggregatestorecontents1_3.txt	export	
+/epoc32/winscw/c/security_tools/tcertapp/aggregatestorecontents2_3.txt	export	
+/epoc32/winscw/c/security_tools/tcertapp/post_tcertapp.bat	export	
+/epoc32/winscw/c/security_tools/tcertapp/pre_tcertapp.bat	export	
+/epoc32/winscw/c/security_tools/tcertapp/run_tcertapp.pl	export	
+/epoc32/winscw/c/security_tools/tcertapp/ucs2-bigendian.txt	export	
+/epoc32/winscw/c/security_tools/tcertapp/ucs2-littleendian.txt	export	
+/epoc32/winscw/c/security_tools/tcertapp/utf8.txt	export	
+/epoc32/winscw/c/security_tools/tcertapp/utf8_without_bom.txt	export	

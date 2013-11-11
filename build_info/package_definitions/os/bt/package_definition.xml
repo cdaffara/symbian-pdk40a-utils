@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="bt" level="services" levels="adaptation hw-if plugin framework server app-if" long-name="Bluetooth">
+<collection name="bt_plat" long-name="Bluetooth Platform Interfaces" level="app-if">
+<component name="bluetooth_audio_adaptation_api" long-name="Bluetooth Audio Adaptation API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/bt/bt_plat/bluetooth_audio_adaptation_api/group"/>
+</component>
+<component name="bluetooth_power_management_api" long-name="Bluetooth Power Management API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/bt/bt_plat/bluetooth_power_management_api/group"/>
+</component>
+<component name="at_command_handler_plugin_api" long-name="AT Command Handler Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/bt/bt_plat/at_command_handler_plugin_api/group"/>
+</component>
+</collection>
+<collection name="bluetooth" long-name="Bluetooth Core" level="framework">
+<component name="btstack" long-name="Bluetooth Stack" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetooth/btstack" mrp="/sf/os/bt/bluetooth/btstack/bluetooth_stack.mrp"/>
+</component>
+<component name="btcomm" long-name="Bluetooth CSY" introduced="6.0" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/bt/bluetooth/btcomm" mrp="/sf/os/bt/bluetooth/btcomm/bluetooth_btcomm.mrp"/>
+</component>
+<component name="btsdp" long-name="Bluetooth SDP" introduced="6.1" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetooth/btsdp" mrp="/sf/os/bt/bluetooth/btsdp/bluetooth_sdp.mrp"/>
+</component>
+<component name="btextnotifiers" long-name="Bluetooth Notifiers Support" introduced="6.1" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetooth/btextnotifiers" mrp="/sf/os/bt/bluetooth/btextnotifiers/bluetooth_btextnotifiers.mrp"/>
+</component>
+<component name="gavdp" long-name="Bluetooth GAVDP" introduced="8.1" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetooth/gavdp/group" mrp="/sf/os/bt/bluetooth/gavdp/group/bluetooth_gavdp.mrp"/>
+</component>
+<component name="btlogger" long-name="Bluetooth Logging Engine" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetooth/btlogger/group" mrp="/sf/os/bt/bluetooth/btlogger/group/bluetooth_logger.mrp"/>
+</component>
+<component name="btdocs" long-name="Bluetooth Documentation" purpose="development" class="doc">
+<unit mrp="/sf/os/bt/bluetooth/btdocs/bluetooth_documentation.mrp"/>
+</component>
+</collection>
+<collection name="bluetoothmgmt" long-name="Bluetooth Management" level="plugin">
+<component name="btmgr" long-name="Bluetooth Manager" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetoothmgmt/btmgr" mrp="/sf/os/bt/bluetoothmgmt/btmgr/bluetooth_manager.mrp"/>
+</component>
+<component name="btconfig" long-name="Bluetooth Config" purpose="optional" class="config">
+<unit bldFile="/sf/os/bt/bluetoothmgmt/btconfig" mrp="/sf/os/bt/bluetoothmgmt/btconfig/bluetooth_config.mrp"/>
+</component>
+<component name="btrom" long-name="Bluetooth ROM" introduced="9.1" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetoothmgmt/btrom" mrp="/sf/os/bt/bluetoothmgmt/btrom/bluetooth_rom.mrp"/>
+</component>
+<component name="bluetoothclientlib" long-name="Bluetooth Client Library" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/os/bt/bluetoothmgmt/bluetoothclientlib" mrp="/sf/os/bt/bluetoothmgmt/bluetoothclientlib/bluetooth_user.mrp"/>
+</component>
+</collection>
+<collection name="bluetoothcommsprofiles" long-name="Bluetooth Comms Profiles" level="app-if">
+<component name="btpan" long-name="Bluetooth PAN Profile" introduced="8.1" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/bt/bluetoothcommsprofiles/btpan/group" mrp="/sf/os/bt/bluetoothcommsprofiles/btpan/group/bluetooth_pan.mrp"/>
+</component>
+</collection>
+<collection name="bthci" long-name="Host Controller Interface" level="server">
+<component name="bthci2" long-name="Bluetooth HCI Framework 2" introduced="9.2" purpose="optional">
+<unit bldFile="/sf/os/bt/bthci/bthci2/group" mrp="/sf/os/bt/bthci/bthci2/group/bluetooth_hci_v2_framework.mrp"/>
+</component>
+<component name="hciextensioninterface" long-name="Bluetooth HCI Extension Interface" introduced="6.1" purpose="optional">
+<unit bldFile="/sf/os/bt/bthci/hciextensioninterface" mrp="/sf/os/bt/bthci/hciextensioninterface/bluetooth_hciproxy.mrp"/>
+</component>
+<component name="hci2implementations" long-name="Bluetooth HCI 2 Reference Implementations" introduced="9.2" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/bt/bthci/hci2implementations/group" mrp="/sf/os/bt/bthci/hci2implementations/group/bluetooth_hci_v2_implementations.mrp"/>
+</component>
+</collection>
+<collection name="irda" long-name="IrDA" level="plugin">
+<component name="irdastack" long-name="IrDA Stack" purpose="optional">
+<unit bldFile="/sf/os/bt/irda/irdastack/group" mrp="/sf/os/bt/irda/irdastack/group/infra-red_irda.mrp"/>
+</component>
+</collection>
+<collection name="bluetoothapitest" long-name="Bluetooth API Tests" level="app-if"/>
+<collection name="atext" long-name="AT Extensions" level="server">
+<!-- collection is really a component. Need to move down a directory -->
+<component name="atext_build" long-name="AT Extension Build" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/bt/atext/group"/>
+</component>
+</collection>
+<collection name="bt_info" long-name="Bluetooth Info" level="app-if">
+<component name="bt_metadata" long-name="Bluetooth Metadata" introduced="^3" purpose="development" class="config PC">
+<unit mrp="/sf/os/bt/bt_info/bt_metadata/bt_metadata.mrp"/>
+</component>
+</collection>
+<collection name="btsimulator" long-name="Bluetooth Simulator" level="internal-utils">
+<component name="btaudioadaptation_stub" long-name="Bluetooth Audio Adaption Stub" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/bt/btsimulator/btaudioadaptation_stub/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

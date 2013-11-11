@@ -1,0 +1,555 @@
+/epoc32/data/c/resource/xml/expatcopyright.txt	export	
+/epoc32/data/z/resource/errors/xmlframeworkerr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/xmlframeworkerr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/emn1_0stringdict00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/emn1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/si1_0stringdict00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/si1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/syncml1_1opaquestringdictionary00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/syncml1_1opaquestringdictionary00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/syncml1_1stringdictionary00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/syncml1_1stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/syncml1_1stringdictionary01.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/syncml1_1stringdictionary01.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/syncml1_2opaquestringdictionary00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/syncml1_2opaquestringdictionary00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/syncml1_2stringdictionary00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/syncml1_2stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/syncml1_2stringdictionary01.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/syncml1_2stringdictionary01.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wbxmlparser.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wbxmlparser.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wml1_1stringdictionary00.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wml1_1stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/xmlcustomresolver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/xmlcustomresolver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/xmlenginesaxplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/xmlenginesaxplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/xmlparserplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/xmlparserplugin.rsc	resource	winscw_udeb
+/epoc32/include/gmxmlconstants.h	export	
+/epoc32/include/gmxmldomconstants.h	export	
+/epoc32/include/gmxmlparser.h	export	
+/epoc32/include/platform/gmxmlcdatasection.h	export	
+/epoc32/include/platform/gmxmlcharacterdata.h	export	
+/epoc32/include/platform/gmxmlcomment.h	export	
+/epoc32/include/platform/gmxmlcomposer.h	export	
+/epoc32/include/platform/gmxmldocument.h	export	
+/epoc32/include/platform/gmxmldocumentelement.h	export	
+/epoc32/include/platform/gmxmlelement.h	export	
+/epoc32/include/platform/gmxmlentityconverter.h	export	
+/epoc32/include/platform/gmxmlnode.h	export	
+/epoc32/include/platform/gmxmlprocessinginstruction.h	export	
+/epoc32/include/platform/gmxmltext.h	export	
+/epoc32/include/platform/xml/MWBXMLContentHandler.h	export	
+/epoc32/include/platform/xml/MXMLAttributes.h	export	
+/epoc32/include/platform/xml/MXMLContentHandler.h	export	
+/epoc32/include/platform/xml/RXMLReader.h	export	
+/epoc32/include/platform/xml/XMLUtils.h	export	
+/epoc32/include/platform/xml/contentprocessor.h	export	
+/epoc32/include/platform/xml/contentsource.h	export	
+/epoc32/include/platform/xml/cxml/cxml_file_if.h	export	
+/epoc32/include/platform/xml/cxml/cxml_nw2cxmltypes.h	export	
+/epoc32/include/platform/xml/cxml/cxml_proj.h	export	
+/epoc32/include/platform/xml/cxml/cxml_str.h	export	
+/epoc32/include/platform/xml/cxml/cxml_type_def.h	export	
+/epoc32/include/platform/xml/cxml/nw_cXML_Parser.h	export	
+/epoc32/include/platform/xml/cxml/nw_dom.h	export	
+/epoc32/include/platform/xml/cxml/nw_dom_attribute.h	export	
+/epoc32/include/platform/xml/cxml/nw_dom_document.h	export	
+/epoc32/include/platform/xml/cxml/nw_dom_element.h	export	
+/epoc32/include/platform/xml/cxml/nw_dom_node.h	export	
+/epoc32/include/platform/xml/cxml/nw_dom_text.h	export	
+/epoc32/include/platform/xml/cxml/nw_encoder_domencoder.h	export	
+/epoc32/include/platform/xml/cxml/nw_encoder_stringtable.h	export	
+/epoc32/include/platform/xml/cxml/nw_encoder_wbxmlwriter.h	export	
+/epoc32/include/platform/xml/cxml/nw_string_char.h	export	
+/epoc32/include/platform/xml/cxml/nw_string_string.h	export	
+/epoc32/include/platform/xml/cxml/nw_tinydom.h	export	
+/epoc32/include/platform/xml/cxml/nw_tinydom_utils.h	export	
+/epoc32/include/platform/xml/cxml/nw_tinytree.h	export	
+/epoc32/include/platform/xml/cxml/nw_tinytree_ebuffer.h	export	
+/epoc32/include/platform/xml/cxml/nw_tinytree_treevector.h	export	
+/epoc32/include/platform/xml/cxml/nw_wbxml_dictionary.h	export	
+/epoc32/include/platform/xml/cxml/nw_wbxml_document.h	export	
+/epoc32/include/platform/xml/cxml/nw_wbxml_event.h	export	
+/epoc32/include/platform/xml/cxml/nw_wbxml_opaque.h	export	
+/epoc32/include/platform/xml/cxml/nw_wbxml_parse.h	export	
+/epoc32/include/platform/xml/cxml/nw_wbxml_reader.h	export	
+/epoc32/include/platform/xml/cxml/nw_wbxml_token.h	export	
+/epoc32/include/platform/xml/cxml/nw_xmlp_xmlp2wbxml.h	export	
+/epoc32/include/platform/xml/cxml/nw_xmlp_xmlparser.h	export	
+/epoc32/include/platform/xml/cxml/nw_xmlp_xmlreader.h	export	
+/epoc32/include/platform/xml/cxml/nwx_status.h	export	
+/epoc32/include/platform/xml/documentparameters.h	export	
+/epoc32/include/platform/xml/extension.h	export	
+/epoc32/include/platform/xml/plugins/charsetconverter.h	export	
+/epoc32/include/platform/xml/plugins/contentprocessorinitparams.h	export	
+/epoc32/include/platform/xml/plugins/dictionarycodepage.h	export	
+/epoc32/include/platform/xml/plugins/elementstack.h	export	
+/epoc32/include/platform/xml/plugins/parserinitparams.h	export	
+/epoc32/include/platform/xml/plugins/parserinterface.h	export	
+/epoc32/include/platform/xml/plugins/stringdictionary.h	export	
+/epoc32/include/platform/xml/wbxmlparsererrors.h	export	
+/epoc32/include/platform/xml/xmlframeworkconstants.h	export	
+/epoc32/include/platform/xml/xmlparsererrors.h	export	
+/epoc32/include/platform/xmlsecwencrypt.h	export	
+/epoc32/include/platform/xmlsecwerrors.h	export	
+/epoc32/include/platform/xmlsecwinit.h	export	
+/epoc32/include/platform/xmlsecwsign.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_c14n.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_chvalid.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_dict.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_encoding.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_entities.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_globals.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_hash.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_htmlparser.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_htmltree.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_list.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_modules.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_parser.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_parserinternals.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_sax.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_sax2.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_schemasinternals.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_threads.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_tree.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_uri.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_valid.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xinclude.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xlink.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlerror.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlexports.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlio.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlmemory.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlreader.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlsave.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlschemas.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlschemasglobals.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlschemastypes.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlstring.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlversion.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xmlwriter.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xpath.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xpathinternals.h	export	
+/epoc32/include/stdapis/libxml2/libxml2_xpointer.h	export	
+/epoc32/include/stdapis/libxml2/xmlengconfig.h	export	
+/epoc32/include/stdapis/libxml2/xmlengtriodef.h	export	
+/epoc32/include/stdapis/libxml2/xmlengtrionan.h	export	
+/epoc32/include/stdapis/libxml2/xmlengxeconfig.h	export	
+/epoc32/include/xml/attribute.h	export	
+/epoc32/include/xml/contenthandler.h	export	
+/epoc32/include/xml/contentprocessoruids.h	export	
+/epoc32/include/xml/dom/xmlengattr.h	export	
+/epoc32/include/xml/dom/xmlengattr.inl	export	
+/epoc32/include/xml/dom/xmlengbinarycontainer.h	export	
+/epoc32/include/xml/dom/xmlengbinarycontainer.inl	export	
+/epoc32/include/xml/dom/xmlengcdatasection.h	export	
+/epoc32/include/xml/dom/xmlengcdatasection.inl	export	
+/epoc32/include/xml/dom/xmlengcharacterdata.h	export	
+/epoc32/include/xml/dom/xmlengcharacterdata.inl	export	
+/epoc32/include/xml/dom/xmlengchunkcontainer.h	export	
+/epoc32/include/xml/dom/xmlengchunkcontainer.inl	export	
+/epoc32/include/xml/dom/xmlengcomment.h	export	
+/epoc32/include/xml/dom/xmlengcomment.inl	export	
+/epoc32/include/xml/dom/xmlengdatacontainer.h	export	
+/epoc32/include/xml/dom/xmlengdatacontainer.inl	export	
+/epoc32/include/xml/dom/xmlengdataserializer.h	export	
+/epoc32/include/xml/dom/xmlengdeserializer.h	export	
+/epoc32/include/xml/dom/xmlengdeserializerdom.h	export	
+/epoc32/include/xml/dom/xmlengdocument.h	export	
+/epoc32/include/xml/dom/xmlengdocument.inl	export	
+/epoc32/include/xml/dom/xmlengdocumentfragment.h	export	
+/epoc32/include/xml/dom/xmlengdocumentfragment.inl	export	
+/epoc32/include/xml/dom/xmlengdom.h	export	
+/epoc32/include/xml/dom/xmlengdomimplementation.h	export	
+/epoc32/include/xml/dom/xmlengdomparser.h	export	
+/epoc32/include/xml/dom/xmlengdomutils.h	export	
+/epoc32/include/xml/dom/xmlengelement.h	export	
+/epoc32/include/xml/dom/xmlengelement.inl	export	
+/epoc32/include/xml/dom/xmlengentityreference.h	export	
+/epoc32/include/xml/dom/xmlengentityreference.inl	export	
+/epoc32/include/xml/dom/xmlengerrors.h	export	
+/epoc32/include/xml/dom/xmlengextendedcontenthandler.h	export	
+/epoc32/include/xml/dom/xmlengfilecontainer.h	export	
+/epoc32/include/xml/dom/xmlengfilecontainer.inl	export	
+/epoc32/include/xml/dom/xmlengnamespace.h	export	
+/epoc32/include/xml/dom/xmlengnamespace.inl	export	
+/epoc32/include/xml/dom/xmlengnamespaceresolver.h	export	
+/epoc32/include/xml/dom/xmlengnode.h	export	
+/epoc32/include/xml/dom/xmlengnode.inl	export	
+/epoc32/include/xml/dom/xmlengnodefilter.h	export	
+/epoc32/include/xml/dom/xmlengnodelist.h	export	
+/epoc32/include/xml/dom/xmlengnodelist.inl	export	
+/epoc32/include/xml/dom/xmlengnodelist_impl.h	export	
+/epoc32/include/xml/dom/xmlengnodeset.h	export	
+/epoc32/include/xml/dom/xmlengnodeset.inl	export	
+/epoc32/include/xml/dom/xmlengoutputstream.h	export	
+/epoc32/include/xml/dom/xmlengparsingoptions.h	export	
+/epoc32/include/xml/dom/xmlengprocessinginstruction.h	export	
+/epoc32/include/xml/dom/xmlengprocessinginstruction.inl	export	
+/epoc32/include/xml/dom/xmlengserializationoptions.h	export	
+/epoc32/include/xml/dom/xmlengserializeerrors.h	export	
+/epoc32/include/xml/dom/xmlengserializer.h	export	
+/epoc32/include/xml/dom/xmlengtext.h	export	
+/epoc32/include/xml/dom/xmlengtext.inl	export	
+/epoc32/include/xml/dom/xmlenguserdata.h	export	
+/epoc32/include/xml/dom/xmlengxformsinstancemap.h	export	
+/epoc32/include/xml/dom/xmlengxpath.h	export	
+/epoc32/include/xml/dom/xmlengxpathconfiguration.h	export	
+/epoc32/include/xml/dom/xmlengxpatherrors.h	export	
+/epoc32/include/xml/dom/xmlengxpathevaluationcontext.h	export	
+/epoc32/include/xml/dom/xmlengxpathevaluator.h	export	
+/epoc32/include/xml/dom/xmlengxpathevaluator.inl	export	
+/epoc32/include/xml/dom/xmlengxpathexpression.h	export	
+/epoc32/include/xml/dom/xmlengxpathexpression.inl	export	
+/epoc32/include/xml/dom/xmlengxpathextensionfunction.h	export	
+/epoc32/include/xml/dom/xmlengxpathresult.h	export	
+/epoc32/include/xml/dom/xmlengxpathresult.inl	export	
+/epoc32/include/xml/dom/xmlengxpathutils.h	export	
+/epoc32/include/xml/dom/xmlengxpathutils.inl	export	
+/epoc32/include/xml/matchdata.h	export	
+/epoc32/include/xml/parser.h	export	
+/epoc32/include/xml/parserfeature.h	export	
+/epoc32/include/xml/stringdictionarycollection.h	export	
+/epoc32/include/xml/taginfo.h	export	
+/epoc32/include/xml/utils/xmlengmem.h	export	
+/epoc32/include/xml/utils/xmlengutils.h	export	
+/epoc32/include/xml/utils/xmlengxestd.h	export	
+/epoc32/include/xml/utils/xmlengxestrings.h	export	
+/epoc32/include/xml/utils/xmlengxestrings.inl	export	
+/epoc32/include/xml/wbxmlextensionhandler.h	export	
+/epoc32/include/xml/xmlframeworkerrors.h	export	
+/epoc32/include/xmlentityreferences.h	stringtable	armv5_urel
+/epoc32/include/xmlentityreferences.h	stringtable	winscw_udeb
+/epoc32/include/xmlframeworkerr.rsg	resource	armv5_urel
+/epoc32/include/xmlframeworkerr.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/XMLInterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/XMLInterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/XMLInterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/XMLInterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cXmlParser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cXmlParser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cXmlParser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cXmlParser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmldom.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmldom.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmldom{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmldom{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlenginedom.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlenginedom.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlenginedom{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlenginedom{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlengineserializer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlengineserializer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlengineserializer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlengineserializer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlengineutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlengineutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlengineutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlengineutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlframework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlframework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlparser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlparser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlparser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlparser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlsec.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlsec.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlseccertman.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlseccertman.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlseccertman{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlseccertman{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlseccrypto.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlseccrypto.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlseccrypto{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlseccrypto{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlsecwrapper.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlsecwrapper.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlsecwrapper{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlsecwrapper{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlsec{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlsec{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/XMLInterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/XMLInterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cXmlParser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cXmlParser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/emn1_0stringdict00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/emn1_0stringdict00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/si1_0stringdict00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/si1_0stringdict00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_1opaquestringdictionary00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_1opaquestringdictionary00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_1stringdictionary00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_1stringdictionary00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_1stringdictionary01.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_1stringdictionary01.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_2opaquestringdictionary00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_2opaquestringdictionary00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_2stringdictionary00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_2stringdictionary00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_2stringdictionary01.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/syncml1_2stringdictionary01.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wbxmlparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wbxmlparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wml1_1stringdictionary00.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wml1_1stringdictionary00.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlcustomresolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlcustomresolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmldom.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmldom.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlenginedom.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlenginedom.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlenginesaxplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlenginesaxplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlengineserializer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlengineserializer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlengineutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlengineutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlparser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlparser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlparserplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlparserplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlsec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlsec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlseccertman.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlseccertman.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlseccrypto.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlseccrypto.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlsecwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlsecwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/XMLInterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/XMLInterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cXmlParser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cXmlParser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/emn1_0stringdict00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/emn1_0stringdict00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/si1_0stringdict00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/si1_0stringdict00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_1opaquestringdictionary00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_1opaquestringdictionary00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_1stringdictionary00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_1stringdictionary00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_1stringdictionary01.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_1stringdictionary01.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_2opaquestringdictionary00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_2opaquestringdictionary00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_2stringdictionary00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_2stringdictionary00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_2stringdictionary01.dll	build	armv5_urel
+/epoc32/release/armv5/urel/syncml1_2stringdictionary01.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wbxmlparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wbxmlparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wml1_1stringdictionary00.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wml1_1stringdictionary00.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlcustomresolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlcustomresolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmldom.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmldom.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlenginedom.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlenginedom.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlenginesaxplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlenginesaxplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlengineserializer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlengineserializer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlengineutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlengineutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlparser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlparser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlparserplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlparserplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlsec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlsec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlseccertman.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlseccertman.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlseccrypto.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlseccrypto.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlsecwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlsecwrapper.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/XMLInterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/XMLInterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cXmlParser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cXmlParser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/emn1_0stringdict00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/si1_0stringdict00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syncml1_1opaquestringdictionary00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syncml1_1stringdictionary00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syncml1_1stringdictionary01.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syncml1_2opaquestringdictionary00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syncml1_2stringdictionary00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/syncml1_2stringdictionary01.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wbxmlparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wml1_1stringdictionary00.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlcustomresolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmldom.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmldom.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlenginedom.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlenginedom.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlenginesaxplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlengineserializer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlengineserializer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlengineutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlengineutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlparser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlparser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlparserplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlsec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlsec.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlseccertman.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlseccertman.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlseccrypto.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlseccrypto.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlsecwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlsecwrapper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/xmlframeworkerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/emn1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/si1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/syncml1_1opaquestringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/syncml1_1stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/syncml1_1stringdictionary01.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/syncml1_2opaquestringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/syncml1_2stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/syncml1_2stringdictionary01.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wbxmlparser.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wml1_1stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/xmlcustomresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/xmlenginesaxplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/xmlparserplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/XMLInterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/XMLInterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cXmlParser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cXmlParser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/emn1_0stringdict00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/emn1_0stringdict00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/si1_0stringdict00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/si1_0stringdict00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_1opaquestringdictionary00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_1opaquestringdictionary00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_1stringdictionary00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_1stringdictionary00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_1stringdictionary01.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_1stringdictionary01.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_2opaquestringdictionary00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_2opaquestringdictionary00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_2stringdictionary00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_2stringdictionary00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_2stringdictionary01.dll	build	winscw_urel
+/epoc32/release/winscw/urel/syncml1_2stringdictionary01.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wbxmlparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wbxmlparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wml1_1stringdictionary00.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wml1_1stringdictionary00.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlcustomresolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlcustomresolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmldom.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmldom.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlenginedom.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlenginedom.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlenginesaxplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlenginesaxplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlengineserializer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlengineserializer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlengineutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlengineutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlparser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlparser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlparserplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlparserplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlsec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlsec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlseccertman.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlseccertman.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlseccrypto.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlseccrypto.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlsecwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlsecwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/errors/xmlframeworkerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/emn1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/si1_0stringdict00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/syncml1_1opaquestringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/syncml1_1stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/syncml1_1stringdictionary01.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/syncml1_2opaquestringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/syncml1_2stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/syncml1_2stringdictionary01.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wbxmlparser.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wml1_1stringdictionary00.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/xmlcustomresolver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/xmlenginesaxplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/xmlparserplugin.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/os/cXmlParser.iby	export	
+/epoc32/rom/include/core/os/xmlinterface.iby	export	
+/epoc32/rom/include/core/os/xmlsec.iby	export	
+/epoc32/rom/include/core/os/xmlseccertman.iby	export	
+/epoc32/rom/include/core/os/xmlseccrypto.iby	export	
+/epoc32/rom/include/core/os/xmlsecwrapper.iby	export	
+/epoc32/rom/include/legacyminidomparser.iby	export	
+/epoc32/rom/include/wbxmlparser.iby	export	
+/epoc32/rom/include/xml.iby	export	
+/epoc32/rom/include/xmlcustomresolver.iby	export	
+/epoc32/rom/include/xmlengine.iby	export	
+/epoc32/rom/include/xmlenginedom.iby	export	
+/epoc32/rom/include/xmlenginesaxplugin.iby	export	
+/epoc32/rom/include/xmlengineserializer.iby	export	
+/epoc32/rom/include/xmlengineutils.iby	export	
+/epoc32/rom/include/xmlframework.iby	export	
+/epoc32/rom/include/xmlparserplugin.iby	export	
+/epoc32/winscw/c/resource/xml/expatcopyright.txt	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_base64.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_buffer.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_config.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_crypto.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_dl.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_error_flag.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_errors.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_exports.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_keyinfo.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_keys.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_keysdata.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_keysmngr.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_list.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_nodeset.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_private.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_strings.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_templates.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_transforms.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_version.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_x509.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_xmldsig.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_xmlenc.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_xmlsec.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsec_xmltree.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_app.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_bio.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_config.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_crypto.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_evpwrapper.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_symbols.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_x509.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecc_x509wrapper.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecmsymbiancertchain.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecmsymbiancertstore.h	export	
+/sf/os/xmlsrv/xmlsecurityengine/inc/xmlsecmsymbiankeystore.h	export	

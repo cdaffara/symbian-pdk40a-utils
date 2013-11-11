@@ -1,0 +1,218 @@
+/epoc32/RELEASE/THUMB/udeb/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/RELEASE/THUMB/udeb/Z/resource/No_Sound.wav	export	
+/epoc32/RELEASE/THUMB/urel/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/RELEASE/THUMB/urel/Z/resource/No_Sound.wav	export	
+/epoc32/RELEASE/WINS/udeb/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/RELEASE/WINS/urel/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/RELEASE/WINSCW/udeb/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/RELEASE/WINSCW/udeb/Z/resource/No_Sound.wav	export	
+/epoc32/RELEASE/WINSCW/urel/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/RELEASE/WINSCW/urel/Z/resource/No_Sound.wav	export	
+/epoc32/data/z/private/100058F8/backup_registration.xml	export	
+/epoc32/data/z/resource/proengwrapper.r01	resource	armv5_urel
+/epoc32/data/z/resource/proengwrapper.r01	resource	winscw_udeb
+/epoc32/data/z/resource/proengwrapper.rsc	resource	armv5_urel
+/epoc32/data/z/resource/proengwrapper.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/profileeng.r01	resource	armv5_urel
+/epoc32/data/z/resource/profileeng.r01	resource	winscw_udeb
+/epoc32/data/z/resource/profileeng.rsc	resource	armv5_urel
+/epoc32/data/z/resource/profileeng.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/profilescheduleevent.r01	resource	armv5_urel
+/epoc32/data/z/resource/profilescheduleevent.r01	resource	winscw_udeb
+/epoc32/data/z/resource/profilescheduleevent.rsc	resource	armv5_urel
+/epoc32/data/z/resource/profilescheduleevent.rsc	resource	winscw_udeb
+/epoc32/include/mw/MProEngActiveProfileObserver.h	export	
+/epoc32/include/mw/MProEngAlertToneSeeker.h	export	
+/epoc32/include/mw/MProEngAlertToneSeekerObserver.h	export	
+/epoc32/include/mw/MProEngEngine.h	export	
+/epoc32/include/mw/MProEngNotifyHandler.h	export	
+/epoc32/include/mw/MProEngProfile.h	export	
+/epoc32/include/mw/MProEngProfileActivationObserver.h	export	
+/epoc32/include/mw/MProEngProfileName.h	export	
+/epoc32/include/mw/MProEngProfileNameArray.h	export	
+/epoc32/include/mw/MProEngProfileNameArrayObserver.h	export	
+/epoc32/include/mw/MProEngProfileObserver.h	export	
+/epoc32/include/mw/MProEngToneSettings.h	export	
+/epoc32/include/mw/MProEngTones.h	export	
+/epoc32/include/mw/ProEngFactory.h	export	
+/epoc32/include/mw/Profile.hrh	export	
+/epoc32/include/mw/ProfileEngineSDKCRKeys.h	export	
+/epoc32/include/platform/mw/CProfileChangeNotifyHandler.h	export	
+/epoc32/include/platform/mw/MProfile.h	export	
+/epoc32/include/platform/mw/MProfile3DToneSettings.h	export	
+/epoc32/include/platform/mw/MProfileChangeObserver.h	export	
+/epoc32/include/platform/mw/MProfileEngine.h	export	
+/epoc32/include/platform/mw/MProfileEngineExtended.h	export	
+/epoc32/include/platform/mw/MProfileEngineExtended2.h	export	
+/epoc32/include/platform/mw/MProfileExtended.h	export	
+/epoc32/include/platform/mw/MProfileExtended2.h	export	
+/epoc32/include/platform/mw/MProfileExtraSettings.h	export	
+/epoc32/include/platform/mw/MProfileExtraTones.h	export	
+/epoc32/include/platform/mw/MProfileExtraTones2.h	export	
+/epoc32/include/platform/mw/MProfileFeedbackSettings.h	export	
+/epoc32/include/platform/mw/MProfileName.h	export	
+/epoc32/include/platform/mw/MProfilePresence.h	export	
+/epoc32/include/platform/mw/MProfilePttSettings.h	export	
+/epoc32/include/platform/mw/MProfileSet3DToneSettings.h	export	
+/epoc32/include/platform/mw/MProfileSetExtraSettings.h	export	
+/epoc32/include/platform/mw/MProfileSetExtraTones.h	export	
+/epoc32/include/platform/mw/MProfileSetExtraTones2.h	export	
+/epoc32/include/platform/mw/MProfileSetFeedbackSettings.h	export	
+/epoc32/include/platform/mw/MProfileSetName.h	export	
+/epoc32/include/platform/mw/MProfileSetPresence.h	export	
+/epoc32/include/platform/mw/MProfileSetPttSettings.h	export	
+/epoc32/include/platform/mw/MProfileSetTones.h	export	
+/epoc32/include/platform/mw/MProfileSetVibraSettings.h	export	
+/epoc32/include/platform/mw/MProfileTones.h	export	
+/epoc32/include/platform/mw/MProfileUtilitySingleton.h	export	
+/epoc32/include/platform/mw/MProfileVibraSettings.h	export	
+/epoc32/include/platform/mw/MProfilesLocalFeatures.h	export	
+/epoc32/include/platform/mw/MProfilesNamesArray.h	export	
+/epoc32/include/platform/mw/ProfileEng.hrh	export	
+/epoc32/include/platform/mw/ProfileEng.rh	export	
+/epoc32/include/platform/mw/ProfileEngineConstants.h	export	
+/epoc32/include/platform/mw/ProfileEngineDomainCRKeys.h	export	
+/epoc32/include/platform/mw/ProfileEngineDomainConstants.h	export	
+/epoc32/include/platform/mw/ProfileEngineInternalCRKeys.h	export	
+/epoc32/include/platform/mw/ProfileEngineInternalPSKeys.h	export	
+/epoc32/include/platform/mw/ProfileEnginePrivatePSKeys.h	export	
+/epoc32/include/platform/mw/ProfileInternal.hrh	export	
+/epoc32/include/platform/mw/ProfilesVariant.hrh	export	
+/epoc32/include/platform/mw/TProfileToneSettings.h	export	
+/epoc32/include/platform/mw/cpbasepath.h	export	
+/epoc32/include/platform/mw/cpbasesettingview.h	export	
+/epoc32/include/platform/mw/cpglobal.h	export	
+/epoc32/include/platform/mw/cpitemdatahelper.h	export	
+/epoc32/include/platform/mw/cplauncherinterface.h	export	
+/epoc32/include/platform/mw/cplogger/cplogger.h	export	
+/epoc32/include/platform/mw/cplogger/logger.h	export	
+/epoc32/include/platform/mw/cplogger/loggerglobal.h	export	
+/epoc32/include/platform/mw/cplogger/logoutput.h	export	
+/epoc32/include/platform/mw/cplogger/logoutputfactory.h	export	
+/epoc32/include/platform/mw/cpplugininterface.h	export	
+/epoc32/include/platform/mw/cppluginlauncher.h	export	
+/epoc32/include/platform/mw/cppluginloader.h	export	
+/epoc32/include/platform/mw/cppluginutility.h	export	
+/epoc32/include/platform/mw/cpsettingformentryitemdata.h	export	
+/epoc32/include/platform/mw/cpsettingformentryitemdataimpl.h	export	
+/epoc32/include/platform/mw/cpsettingformitemdata.h	export	
+/epoc32/include/platform/mw/ftuwizard.h	export	
+/epoc32/include/platform/mw/ftuwizardfactory.h	export	
+/epoc32/include/platform/mw/ftuwizardmodellib.h	export	
+/epoc32/include/platform/mw/loc/sc/Profile.loc	export	
+/epoc32/include/platform/mw/secondarydisplay/SecondaryDisplayProfilesAPI.h	export	
+/epoc32/include/platform/mw/settingsinternalcrkeys.h	export	
+/epoc32/include/proengwrapper.rsg	resource	armv5_urel
+/epoc32/include/proengwrapper.rsg	resource	winscw_udeb
+/epoc32/include/profileeng.rsg	resource	armv5_urel
+/epoc32/include/profileeng.rsg	resource	winscw_udeb
+/epoc32/include/profilescheduleevent.rsg	resource	armv5_urel
+/epoc32/include/profilescheduleevent.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/ProfileEng.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ProfileEng.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ProfileEngine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ProfileEngine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ProfileEngine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ProfileEngine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ProfileEng{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ProfileEng{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cpframework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cpframework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cplogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cplogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cplogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cplogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftuwizardmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftuwizardmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftuwizardmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftuwizardmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/ProfileEng.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProfileEng.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProfileEngine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProfileEngine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProfileScheduleEvent.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ProfileScheduleEvent.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/release/armv5/udeb/Z/resource/No_Sound.wav	export	
+/epoc32/release/armv5/udeb/cpframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cpframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cplogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cplogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftuwizardmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftuwizardmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/ProfileEng.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ProfileEng.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ProfileEngine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ProfileEngine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ProfileScheduleEvent.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ProfileScheduleEvent.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/Z/System/Sounds/Digital/No_Sound.wav	export	
+/epoc32/release/armv5/urel/Z/resource/No_Sound.wav	export	
+/epoc32/release/armv5/urel/cpframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cpframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cplogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cplogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftuwizardmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ftuwizardmodel.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/ProfileEng.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ProfileEng.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ProfileEngine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ProfileEngine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ProfileScheduleEvent.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cpframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cplogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cplogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftuwizardmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftuwizardmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100058F8/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/proengwrapper.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/proengwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/profileeng.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/profileeng.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/profilescheduleevent.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/profilescheduleevent.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/ProfileEng.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ProfileEng.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ProfileEngine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ProfileEngine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ProfileScheduleEvent.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ProfileScheduleEvent.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/cpframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cpframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cplogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cplogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftuwizardmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ftuwizardmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/100058F8/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/proengwrapper.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/proengwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/profileeng.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/profileeng.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/profilescheduleevent.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/profilescheduleevent.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/profilesengine.confml	export	
+/epoc32/rom/config/assets/s60/confml/s60settingsuis.confml	export	
+/epoc32/rom/config/assets/s60/implml/profilesengine_101F8798.crml	export	
+/epoc32/rom/config/assets/s60/implml/profilesengine_101F8799.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_1000a82b.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f8751.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f877a.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f877b.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f877c.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f877e.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f877f.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f8780.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f8781.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f8782.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f8831.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_101f883b.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_1020720a.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_1028239d.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60settingsuis_2002120b.crml	export	
+/epoc32/rom/include/core/mw/Profileengine.iby	export	
+/epoc32/rom/include/core/mw/controlpanel.iby	export	
+/epoc32/rom/include/core/mw/ftuwizardmodel.iby	export	
+/epoc32/rom/include/language/mw/ProfileEngineResources.iby	export	

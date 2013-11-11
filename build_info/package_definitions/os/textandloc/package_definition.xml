@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="textandloc" level="services" levels="encoding util fonts tools text" long-name="Text and Localisation Services">
+<collection name="charconvfw" long-name="Character Conversion" level="encoding">
+<component name="charconv_fw" long-name="Character Encoding and Conversion Framework" filter="api_test" purpose="optional">
+<!-- both production and api_test-->
+<unit bldFile="/sf/os/textandloc/charconvfw/charconv_fw/group" mrp="/sf/os/textandloc/charconvfw/charconv_fw/group/syslibs_charconv.mrp"/>
+</component>
+<component name="charconvplugins" long-name="Character Encoding and Conversion Plugins" filter="apit_test" purpose="optional" plugin="Y">
+<!-- both production and api_test-->
+<unit bldFile="/sf/os/textandloc/charconvfw/charconvplugins/group" mrp="/sf/os/textandloc/charconvfw/charconvplugins/group/syslibs_charconv_plugins.mrp"/>
+</component>
+<component name="fatfilenameconversionplugins" long-name="FAT Filename Conversion Plugins" introduced="9.1" filter="api_test" purpose="optional" plugin="Y">
+<!-- both production and api_test-->
+<unit bldFile="/sf/os/textandloc/charconvfw/fatfilenameconversionplugins/group" mrp="/sf/os/textandloc/charconvfw/fatfilenameconversionplugins/group/syslibs_FATCharsetConv.mrp"/>
+</component>
+</collection>
+<collection name="fontandtxtsrv" long-name="Font and Text Services" level="fonts">
+<component name="iculayoutengine" long-name="ICU Layout Engine" introduced="9.2" deprecated="^4" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/textandloc/fontservices/textshaperplugin/group" mrp="/sf/os/textandloc/fontservices/textshaperplugin/group/graphics_iculayoutengine.mrp"/>
+</component>
+<component name="fontstore" long-name="Font Store" filter="api_test" purpose="mandatory">
+<!-- both production and api_test-->
+<unit bldFile="/sf/os/textandloc/fontservices/fontstore/group" mrp="/sf/os/textandloc/fontservices/fontstore/group/graphics_fntstore.mrp"/>
+</component>
+<component name="textbase" long-name="Text Base" purpose="mandatory" class="placeholder">
+<!-- placeholder for text code from GDI -->
+</component>
+<component name="freetypefontrasteriser" long-name="FreeType Font Rasteriser" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/textandloc/fontservices/freetypefontrasteriser/group" mrp="/sf/os/textandloc/fontservices/freetypefontrasteriser/group/graphics_freetype.mrp"/>
+</component>
+<component name="referencefonts" long-name="Reference Fonts" introduced="6.0" purpose="optional">
+<unit bldFile="/sf/os/textandloc/fontservices/referencefonts/group" mrp="/sf/os/textandloc/fontservices/referencefonts/group/graphics_fonts.mrp"/>
+</component>
+</collection>
+<collection name="textlayout" long-name="Text Layout" level="text">
+<component name="texthandling" long-name="Text Handling" purpose="optional">
+<unit bldFile="/sf/os/textandloc/textrendering/texthandling/group" mrp="/sf/os/textandloc/textrendering/texthandling/group/app-framework_etext.mrp"/>
+</component>
+<component name="textformatting" long-name="Text Formatting" purpose="optional">
+<unit bldFile="/sf/os/textandloc/textrendering/textformatting/group" mrp="/sf/os/textandloc/textrendering/textformatting/group/app-framework_form.mrp"/>
+</component>
+</collection>
+<collection name="textandlocutils" long-name="Text and Localisation Utils" level="util">
+<component name="numbergrouping" long-name="Number Grouping" purpose="optional">
+<unit bldFile="/sf/os/textandloc/textandlocutils/numbergrouping/group" mrp="/sf/os/textandloc/textandlocutils/numbergrouping/group/tls_numbergrouping.mrp"/>
+</component>
+<component name="jplangutil" long-name="Japanese Language Utilities" purpose="optional">
+<unit bldFile="/sf/os/textandloc/textandlocutils/jplangutil/group" mrp="/sf/os/textandloc/textandlocutils/jplangutil/group/tls_jplangutil.mrp"/>
+</component>
+<component name="sortutil" long-name="Sorting Utility" purpose="optional">
+<unit bldFile="/sf/os/textandloc/textandlocutils/sortutil/group" mrp="/sf/os/textandloc/textandlocutils/sortutil/group/tls_sortutil.mrp"/>
+</component>
+<component name="inlinetext" long-name="Inline Text" purpose="optional">
+<unit bldFile="/sf/os/textandloc/textandlocutils/inlinetext/group" mrp="/sf/os/textandloc/textandlocutils/inlinetext/group/tls_inlinetext.mrp"/>
+</component>
+<component name="numberformatting" long-name="Number Formatting" introduced="7.0s" purpose="optional">
+<unit bldFile="/sf/os/textandloc/textrendering/numberformatting/group" mrp="/sf/os/textandloc/textrendering/numberformatting/group/app-framework_numberconversion.mrp"/>
+</component>
+</collection>
+<collection name="localesupport" long-name="Locale Support" level="util">
+<component name="reflocales" long-name="Reference Locales" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/textandloc/localisation/localesupport" mrp="/sf/os/textandloc/localisation/localesupport/mmpfiles/base_loce32.mrp"/>
+</component>
+<component name="initlocale" long-name="Initialise Locale" introduced="^2" purpose="mandatory" class="placeholder">
+<!-- placeholder for split from bafl -->
+</component>
+</collection>
+<collection name="textandloctools" long-name="Text and Localisation Tools" level="tools">
+<component name="fontcompiler" long-name="Font Compiler" purpose="development" class="placeholder PC">
+<!-- placeholder for split from GDI Tools -->
+</component>
+<component name="bitmapfonttools" long-name="Bitmap Font Tools" purpose="development" class="PC">
+<unit bldFile="/sf/os/graphics/graphicstools/bitmapfonttools/group" mrp="/sf/os/graphics/graphicstools/bitmapfonttools/group/graphics_gdtran.mrp"/>
+</component>
+</collection>
+<collection name="textandloc_info" long-name="Text and Localisation Info" level="text">
+<component name="textandloc_metadata" long-name="Text and Localisation Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/textandloc/textandloc_info/textandloc_metadata/textandloc_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

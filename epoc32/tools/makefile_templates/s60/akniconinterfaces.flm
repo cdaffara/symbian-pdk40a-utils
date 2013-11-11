@@ -1,0 +1,52 @@
+# akniconinterfaces.flm
+#
+# Copyright (c) 2007-2008 Nokia Ltd. All rights reserved.
+#
+# Header file exporting Function Like Makefile (FLM)
+# The file destinations  relative to EPOCROOT
+
+# Please note the CDLCOMPILER doesn't seems to accept the forward slashes below; 
+# so just left without changing \ to /.
+
+# Check for inputs
+$(if $(FILENAME),,$(error Must define FILENAME))
+
+CREATABLEPATHS:=
+CLEANTARGETS:=
+RELEASEABLES:=
+
+TARGETDIR:=$(EPOCROOT)/epoc32/include/platform/mw
+CREATABLEPATHS:=$(CREATABLEPATHS) $(TARGETDIR)
+FILES:=$(FILENAME).cdl.h $(FILENAME).cdl.common.h
+TARGETS:=$(addprefix $(TARGETDIR)/,$(FILES))
+
+ifeq ($(ICONINTERFACEEBUG),1)
+$(info <TARGETS targets=$(TARGETS)/>)
+endif
+
+define generatecdlheaders
+MIFHEADERGUARD_$(FILENAME):=1
+
+MAKEFILE:: $(TARGETS)
+
+$(TARGETS) : $(CDLCOMPILER) $(TARGETDIR)/$(FILENAME).cdl
+	$(call startrule,generatecdlheaders,FORCESUCCESS) \
+	$(CDLCOMPILER) client -p$(TARGETDIR) $(TARGETDIR)/$(FILENAME).cdl \
+	$(call endrule,generatecdlheaders)
+
+CLEANTARGETS:=$(TARGETS)
+RELEASEABLES:=$(TARGETS)
+endef
+
+ifeq ($(MIFHEADERGUARD_$(FILENAME)),)
+$(eval $(call generatecdlheaders))
+endif
+
+# Create dirs
+$(call makepath,$(CREATABLEPATHS))
+
+# Clean up
+$(eval $(call GenerateStandardCleanTarget,$(CLEANTARGETS)))
+
+# For the abld -what target
+$(eval $(call whatmacro,$(RELEASEABLES),WHATBITMAP))

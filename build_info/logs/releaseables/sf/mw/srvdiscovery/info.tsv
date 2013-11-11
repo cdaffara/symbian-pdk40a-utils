@@ -1,0 +1,240 @@
+/epoc32/data/z/private/10204162/backup_registration.xml	export	
+/epoc32/data/z/system/install/homemedia.sis	export	
+/epoc32/data/z/system/install/upnpstack.sis	export	
+/epoc32/include/platform/mw/httpdownloader.h	export	
+/epoc32/include/platform/mw/httptransferbase.h	export	
+/epoc32/include/platform/mw/httptransferobserver.h	export	
+/epoc32/include/platform/mw/httpuploader.h	export	
+/epoc32/include/platform/mw/httpworkerobserver.h	export	
+/epoc32/include/platform/mw/pnp/ccontrolchannelbase.h	export	
+/epoc32/include/platform/mw/pnp/cpnpservicediscoverybase.h	export	
+/epoc32/include/platform/mw/pnp/cpnpservicepublisherbase.h	export	
+/epoc32/include/platform/mw/pnp/mpnpobserver.h	export	
+/epoc32/include/platform/mw/pnp/pnp.h	export	
+/epoc32/include/platform/mw/pnp/pnpconstants.h	export	
+/epoc32/include/platform/mw/pnp/pnpparameterbundle.h	export	
+/epoc32/include/platform/mw/pnp/rcontrolchannel.h	export	
+/epoc32/include/platform/mw/pnp/rpnpservicediscovery.h	export	
+/epoc32/include/platform/mw/pnp/rpnpservicepublisher.h	export	
+/epoc32/include/platform/mw/terminalmodeconsts.h	export	
+/epoc32/include/platform/mw/upnpaction.h	export	
+/epoc32/include/platform/mw/upnpargument.h	export	
+/epoc32/include/platform/mw/upnpcommonstructs.h	export	
+/epoc32/include/platform/mw/upnpcommonupnplits.h	export	
+/epoc32/include/platform/mw/upnpcompvariant.hrh	export	
+/epoc32/include/platform/mw/upnpconnectionmanagernetworkevent.h	export	
+/epoc32/include/platform/mw/upnpconnectionmanagernetworkeventprovider.h	export	
+/epoc32/include/platform/mw/upnpconnmanagereventtypes.h	export	
+/epoc32/include/platform/mw/upnpcons.h	export	
+/epoc32/include/platform/mw/upnpcontrolpoint.h	export	
+/epoc32/include/platform/mw/upnpdescriptionproperty.h	export	
+/epoc32/include/platform/mw/upnpdevice.h	export	
+/epoc32/include/platform/mw/upnpdevicedescription.h	export	
+/epoc32/include/platform/mw/upnpdevicedescriptionprovider.h	export	
+/epoc32/include/platform/mw/upnpdevicedescriptionrequest.h	export	
+/epoc32/include/platform/mw/upnpdevicedescriptionstore.h	export	
+/epoc32/include/platform/mw/upnpdeviceimplementation.h	export	
+/epoc32/include/platform/mw/upnpdeviceimplementationbase.h	export	
+/epoc32/include/platform/mw/upnpdiscoveryobserver.h	export	
+/epoc32/include/platform/mw/upnpdispatcher.h	export	
+/epoc32/include/platform/mw/upnpdispatchercustomer.h	export	
+/epoc32/include/platform/mw/upnpdispatcherengineobserver.h	export	
+/epoc32/include/platform/mw/upnpdominterface.h	export	
+/epoc32/include/platform/mw/upnperrors.h	export	
+/epoc32/include/platform/mw/upnpfileutils.h	export	
+/epoc32/include/platform/mw/upnphttpheader.h	export	
+/epoc32/include/platform/mw/upnphttpmessage.h	export	
+/epoc32/include/platform/mw/upnphttpmessagefactory.h	export	
+/epoc32/include/platform/mw/upnphttpserverobserver.h	export	
+/epoc32/include/platform/mw/upnphttpserverruntime.h	export	
+/epoc32/include/platform/mw/upnphttpserversession.h	export	
+/epoc32/include/platform/mw/upnphttpservertransaction.h	export	
+/epoc32/include/platform/mw/upnphttpservertransactioncreator.h	export	
+/epoc32/include/platform/mw/upnpicon.h	export	
+/epoc32/include/platform/mw/upnpnetworkeventaddresschange.h	export	
+/epoc32/include/platform/mw/upnpnetworkeventbase.h	export	
+/epoc32/include/platform/mw/upnpnetworkeventobserver.h	export	
+/epoc32/include/platform/mw/upnpnotifytimer.h	export	
+/epoc32/include/platform/mw/upnpremotableapp.h	export	
+/epoc32/include/platform/mw/upnpremotableapp.inl	export	
+/epoc32/include/platform/mw/upnpservice.h	export	
+/epoc32/include/platform/mw/upnpserviceimplementation.h	export	
+/epoc32/include/platform/mw/upnpsessionbase.h	export	
+/epoc32/include/platform/mw/upnpsettings.h	export	
+/epoc32/include/platform/mw/upnpstatevariable.h	export	
+/epoc32/include/platform/mw/upnpstring.h	export	
+/epoc32/include/platform/mw/upnpsubscriberlibraryobserver.h	export	
+/epoc32/include/platform/mw/upnpsymbianserverbase.h	export	
+/epoc32/include/platform/mw/upnpterminalmodeicon.h	export	
+/epoc32/include/platform/mw/upnpterminalmodeicon.inl	export	
+/epoc32/include/platform/mw/upnptmclienticonpref.h	export	
+/epoc32/include/platform/mw/upnptmclienticonpref.inl	export	
+/epoc32/include/platform/mw/upnptminfoelement.h	export	
+/epoc32/include/platform/mw/upnptminfoelement.inl	export	
+/epoc32/include/platform/mw/upnptmserver.h	export	
+/epoc32/include/platform/mw/upnptmserverdeviceinfo.h	export	
+/epoc32/include/platform/mw/upnptmserverdeviceinfo.inl	export	
+/epoc32/include/platform/mw/upnptmserverobserver.h	export	
+/epoc32/release/armv5/lib/dlnawebserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dlnawebserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dlnawebserver{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dlnawebserver{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httptransfer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httptransfer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httptransfer{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httptransfer{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rpnp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rpnp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rpnp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rpnp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ssdpserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ssdpserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ssdpserver{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ssdpserver{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/terminalmodeservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/terminalmodeservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/terminalmodeservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/terminalmodeservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpconnectionmanagersession.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpconnectionmanagersession.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpconnectionmanagersession{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpconnectionmanagersession{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpcontrolpointbase.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpcontrolpointbase.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpcontrolpointbase{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpcontrolpointbase{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpipserversutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpipserversutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpipserversutils{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpipserversutils{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpserviceframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpserviceframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/upnpserviceframework{000a0001}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/upnpserviceframework{000a0001}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/dlnawebserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlnawebserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httptransfer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httptransfer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/messagehandler.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/messagehandler.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rpnp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rpnp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ssdpserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ssdpserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/terminalmodeservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/terminalmodeservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpconnectionmanagersession.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpconnectionmanagersession.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpconnmanager.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpconnmanager.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcontrolpointbase.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpcontrolpointbase.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpipserversutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpipserversutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpserviceframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/upnpserviceframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/dlnawebserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dlnawebserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httptransfer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httptransfer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/messagehandler.exe	build	armv5_urel
+/epoc32/release/armv5/urel/messagehandler.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/rpnp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rpnp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ssdpserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ssdpserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/terminalmodeservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/terminalmodeservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpconnectionmanagersession.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpconnectionmanagersession.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpconnmanager.exe	build	armv5_urel
+/epoc32/release/armv5/urel/upnpconnmanager.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcontrolpointbase.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpcontrolpointbase.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpipserversutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpipserversutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/upnpserviceframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/upnpserviceframework.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/dlnawebserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlnawebserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/httptransfer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httptransfer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/messagehandler.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/rpnp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rpnp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ssdpserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ssdpserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/terminalmodeservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/terminalmodeservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpconnectionmanagersession.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpconnectionmanagersession.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpconnmanager.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpcontrolpointbase.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpcontrolpointbase.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpipserversutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpipserversutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpserviceframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/upnpserviceframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10204162/backup_registration.xml	export	
+/epoc32/release/winscw/urel/dlnawebserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dlnawebserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httptransfer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httptransfer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/messagehandler.exe	build	winscw_urel
+/epoc32/release/winscw/urel/messagehandler.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/rpnp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rpnp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ssdpserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ssdpserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/terminalmodeservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/terminalmodeservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpconnectionmanagersession.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpconnectionmanagersession.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpconnmanager.exe	build	winscw_urel
+/epoc32/release/winscw/urel/upnpconnmanager.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcontrolpointbase.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpcontrolpointbase.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpipserversutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpipserversutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/upnpserviceframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/upnpserviceframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10204162/backup_registration.xml	export	
+/epoc32/rom/config/assets/s60/confml/upnpstack.confml	export	
+/epoc32/rom/config/assets/s60/implml/upnpstack_101f9784.crml	export	
+/epoc32/rom/include/core/mw/terminalmodeservice.iby	export	
+/epoc32/rom/include/core/mw/upnpstack.iby	export	
+/epoc32/rom/include/core/mw/upnpstack_stub.iby	export	
+/epoc32/rom/include/rpnp.iby	export	
+/sf/mw/srvdiscovery/upnp/inc/upnpcompvariant.hrh	export	
+/sf/mw/srvdiscovery/upnp/inc/upnpconnectionmanagerproxy.h	export	
+/sf/mw/srvdiscovery/upnp/inc/upnpconnectionmanagersession.h	export	
+/sf/mw/srvdiscovery/upnp/inc/upnpcustomlog.h	export	
+/sf/mw/srvdiscovery/upnp/inc/upnpsoapmessagefactory.h	export	
+/sf/mw/srvdiscovery/upnp/inc/upnpuheapmark.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpconnmanagercommon.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpcontenthandlerscontroller.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpdevicecontenthandler.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpdevicelibrary.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpdevicelibraryelement.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpgenamessage.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpgenamessagefactory.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnphttpclientengine.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnphttpfileaccess.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnphttpmessagesenderowner.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnphttpserver.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnphttptransaction.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpipaddressutils.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnplist.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpmessageobserver.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpmhcommon.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpmsearchtimer.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpsilentdeviceimplementation.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpsoapmessage.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpsoapparser.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpssdpmessage.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpssdpmessagefactory.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpssdpserver.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpssdpserverobserver.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnptcpserver.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnptimeoutelement.h	export	
+/sf/mw/srvdiscovery/upnp/upnpstack/inc/upnpudpserver.h	export	

@@ -1,0 +1,24 @@
+/epoc32/data/z/RESOURCE/ERRORS/vpnerr.r01	resource	armv5_urel
+/epoc32/data/z/RESOURCE/ERRORS/vpnerr.r01	resource	winscw_udeb
+/epoc32/data/z/RESOURCE/ERRORS/vpnerr.rsc	resource	armv5_urel
+/epoc32/data/z/RESOURCE/ERRORS/vpnerr.rsc	resource	winscw_udeb
+/epoc32/include/platform/mw/vpnapi.h	export	
+/epoc32/include/platform/mw/vpnapidefs.h	export	
+/epoc32/include/platform/mw/vpnsipobserverpskeys.h	export	
+/epoc32/release/armv5/lib/vpnapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vpnapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/vpnapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/vpnapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/vpnapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/vpnapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/vpnapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/vpnapi.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/vpnapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/vpnapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/RESOURCE/ERRORS/vpnerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/RESOURCE/ERRORS/vpnerr.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/vpnapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/vpnapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/RESOURCE/ERRORS/vpnerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/RESOURCE/ERRORS/vpnerr.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/mw/vpnapi.iby	export	

@@ -1,0 +1,503 @@
+/epoc32/data/z/private/10202BE9/200009F3.txt	export	
+/epoc32/data/z/private/10202BE9/200009FE.txt	export	
+/epoc32/data/z/private/10202BE9/20007182.txt	export	
+/epoc32/data/z/private/10202BE9/20007183.txt	export	
+/epoc32/data/z/private/10202BE9/200071BE.txt	export	
+/epoc32/data/z/private/200009F3/backup_registration.xml	export	
+/epoc32/data/z/private/200009F3/defaultimportfile.mde	export	
+/epoc32/data/z/private/200009F3/schema.mde	export	
+/epoc32/data/z/private/200009F5/backup_registration.xml	export	
+/epoc32/data/z/private/200009F5/mappings.db	export	
+/epoc32/data/z/resource/plugins/calendarcontextplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/calendarcontextplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/composerimageplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/composerimageplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/filemonitorplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/filemonitorplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/harvesteraudioplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/harvesteraudioplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/harvesterimageplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/harvesterimageplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/harvestermessageplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/harvestermessageplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/harvesteromadrmplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/harvesteromadrmplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/harvesterrtpplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/harvesterrtpplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/harvestervideoplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/harvestervideoplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/harvesterwmvplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/harvesterwmvplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/locationcontextplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/locationcontextplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mdsoomplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mdsoomplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/messagemonitorplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/messagemonitorplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmcmonitorplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmcmonitorplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/blacklistserver_stub.sis	export	
+/epoc32/data/z/system/install/composerplugins_stub.sis	export	
+/epoc32/data/z/system/install/contentlistingframework_stub.sis	export	
+/epoc32/data/z/system/install/contextengine_stub.sis	export	
+/epoc32/data/z/system/install/harvester_stub.sis	export	
+/epoc32/data/z/system/install/harvesterplugins_stub.sis	export	
+/epoc32/data/z/system/install/locationmanager_stub.sis	export	
+/epoc32/data/z/system/install/mds_stub.sis	export	
+/epoc32/data/z/system/install/mdswatchdog_stub.sis	export	
+/epoc32/data/z/system/install/metadataengine_stub.sis	export	
+/epoc32/data/z/system/install/monitorplugins_stub.sis	export	
+/epoc32/include/mw/CLFContentListing.h	export	
+/epoc32/include/mw/CLFContentListing.hrh	export	
+/epoc32/include/mw/CLFContentListing.rh	export	
+/epoc32/include/mw/ContentListingFactory.h	export	
+/epoc32/include/mw/MCLFChangedItemObserver.h	export	
+/epoc32/include/mw/MCLFContentListingEngine.h	export	
+/epoc32/include/mw/MCLFCustomGrouper.h	export	
+/epoc32/include/mw/MCLFCustomSorter.h	export	
+/epoc32/include/mw/MCLFItem.h	export	
+/epoc32/include/mw/MCLFItemListModel.h	export	
+/epoc32/include/mw/MCLFModifiableItem.h	export	
+/epoc32/include/mw/MCLFOperationObserver.h	export	
+/epoc32/include/mw/MCLFPostFilter.h	export	
+/epoc32/include/mw/MCLFProcessObserver.h	export	
+/epoc32/include/mw/MCLFSortingStyle.h	export	
+/epoc32/include/platform/mw/CLFContentListingExtended.hrh	export	
+/epoc32/include/platform/mw/composerplugin.h	export	
+/epoc32/include/platform/mw/contextengine.h	export	
+/epoc32/include/platform/mw/contextplugin.h	export	
+/epoc32/include/platform/mw/geotagger.h	export	
+/epoc32/include/platform/mw/geotagobserver.h	export	
+/epoc32/include/platform/mw/harvesterclient.h	export	
+/epoc32/include/platform/mw/harvesterclientdata.h	export	
+/epoc32/include/platform/mw/harvesterdata.h	export	
+/epoc32/include/platform/mw/harvestereventenum.h	export	
+/epoc32/include/platform/mw/harvesterpauseps.h	export	
+/epoc32/include/platform/mw/harvesterplugin.h	export	
+/epoc32/include/platform/mw/locationdatatype.h	export	
+/epoc32/include/platform/mw/locationeventdef.h	export	
+/epoc32/include/platform/mw/locationtrailpskeys.h	export	
+/epoc32/include/platform/mw/mdccommon.h	export	
+/epoc32/include/platform/mw/mdeboolpropertycondition.h	export	
+/epoc32/include/platform/mw/mdecondition.h	export	
+/epoc32/include/platform/mw/mdeconstants.h	export	
+/epoc32/include/platform/mw/mdedatabuffer.h	export	
+/epoc32/include/platform/mw/mdeerror.h	export	
+/epoc32/include/platform/mw/mdeevent.h	export	
+/epoc32/include/platform/mw/mdeeventcondition.h	export	
+/epoc32/include/platform/mw/mdeeventdef.h	export	
+/epoc32/include/platform/mw/mdeeventquery.h	export	
+/epoc32/include/platform/mw/mdeinstanceitem.h	export	
+/epoc32/include/platform/mw/mdeinternalerror.h	export	
+/epoc32/include/platform/mw/mdeitem.h	export	
+/epoc32/include/platform/mw/mdelogiccondition.h	export	
+/epoc32/include/platform/mw/mdenamespacedef.h	export	
+/epoc32/include/platform/mw/mdenumberproperty.h	export	
+/epoc32/include/platform/mw/mdenumberproperty.inl	export	
+/epoc32/include/platform/mw/mdeobject.h	export	
+/epoc32/include/platform/mw/mdeobjectcondition.h	export	
+/epoc32/include/platform/mw/mdeobjectdef.h	export	
+/epoc32/include/platform/mw/mdeobjectquery.h	export	
+/epoc32/include/platform/mw/mdeorderrule.h	export	
+/epoc32/include/platform/mw/mdeproperty.h	export	
+/epoc32/include/platform/mw/mdepropertycondition.h	export	
+/epoc32/include/platform/mw/mdepropertydef.h	export	
+/epoc32/include/platform/mw/mdequery.h	export	
+/epoc32/include/platform/mw/mderange.h	export	
+/epoc32/include/platform/mw/mderange.inl	export	
+/epoc32/include/platform/mw/mderangepropertycondition.h	export	
+/epoc32/include/platform/mw/mderelation.h	export	
+/epoc32/include/platform/mw/mderelationcondition.h	export	
+/epoc32/include/platform/mw/mderelationdef.h	export	
+/epoc32/include/platform/mw/mderelationquery.h	export	
+/epoc32/include/platform/mw/mdesession.h	export	
+/epoc32/include/platform/mw/mdetextproperty.h	export	
+/epoc32/include/platform/mw/mdetextproperty.inl	export	
+/epoc32/include/platform/mw/mdetextpropertycondition.h	export	
+/epoc32/include/platform/mw/mdeversioncenrepkey.h	export	
+/epoc32/include/platform/mw/mediacollectionmanager.h	export	
+/epoc32/include/platform/mw/monitorplugin.h	export	
+/epoc32/include/platform/mw/placeholderdata.h	export	
+/epoc32/include/platform/mw/reversegeocoderplugin.h	export	
+/epoc32/include/platform/mw/reversegeocoderplugin.inl	export	
+/epoc32/include/platform/mw/rlocationgeotagger.h	export	
+/epoc32/include/platform/mw/rlocationmanager.h	export	
+/epoc32/include/platform/mw/rlocationobjectmanipulator.h	export	
+/epoc32/include/platform/mw/rlocationtrail.h	export	
+/epoc32/include/platform/mw/rtracklog.h	export	
+/epoc32/release/armv5/lib/ContentListingFramework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ContentListingFramework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ContentListingFramework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ContentListingFramework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/LocationTrail.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/LocationTrail.dso	build	armv5_urel
+/epoc32/release/armv5/lib/LocationTrail{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/LocationTrail{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MediaCollectionManager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MediaCollectionManager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/MediaCollectionManager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/MediaCollectionManager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/blacklistclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/blacklistclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/blacklistclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/blacklistclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/composerplugininterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/composerplugininterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/composerplugininterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/composerplugininterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contextengine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contextengine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contextengine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contextengine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contextplugininterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contextplugininterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/contextplugininterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/contextplugininterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/geotagger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/geotagger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/geotagger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/geotagger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvesterclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvesterclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvesterclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvesterclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvestercommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvestercommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvestercommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvestercommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvesterdata.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvesterdata.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvesterdata{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvesterdata{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvesterplugininterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvesterplugininterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/harvesterplugininterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/harvesterplugininterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locationmanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locationmanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/locationmanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/locationmanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mdccommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mdccommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mdccommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mdccommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mdeclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mdeclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/mdeclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/mdeclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/monitorplugininterface.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/monitorplugininterface.dso	build	armv5_urel
+/epoc32/release/armv5/lib/monitorplugininterface{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/monitorplugininterface{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/!blacklistserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/!blacklistserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/!mdsserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/!mdsserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ContentListingFramework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ContentListingFramework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HarvesterMessagePlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HarvesterMessagePlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/LocationTrail.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/LocationTrail.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MediaCollectionManager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MediaCollectionManager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageMonitorPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/MessageMonitorPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/blacklistclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/blacklistclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/calendarcontextplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/calendarcontextplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/composerimageplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/composerimageplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/composerplugininterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/composerplugininterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/contextengine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/contextengine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/contextplugininterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/contextplugininterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/filemonitorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/filemonitorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/geotagger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/geotagger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesteraudioplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesteraudioplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvestercommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvestercommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterdata.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterdata.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterimageplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterimageplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesteromadrmplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesteromadrmplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterplugininterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterplugininterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterrtpplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterrtpplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvestervideoplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvestervideoplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterwmvplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/harvesterwmvplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationcontextplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationcontextplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationmanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationmanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationmanagerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/locationmanagerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdccommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdccommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdeclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdeclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdsfileserverplugin.pxt	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdsfileserverplugin.pxt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdsoomplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdsoomplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdswatchdog.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/mdswatchdog.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmcmonitorplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmcmonitorplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/monitorplugininterface.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/monitorplugininterface.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/!blacklistserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/!blacklistserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/!mdsserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/!mdsserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ContentListingFramework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ContentListingFramework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HarvesterMessagePlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HarvesterMessagePlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/LocationTrail.dll	build	armv5_urel
+/epoc32/release/armv5/urel/LocationTrail.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MediaCollectionManager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MediaCollectionManager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/MessageMonitorPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/MessageMonitorPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/blacklistclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/blacklistclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/calendarcontextplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/calendarcontextplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/composerimageplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/composerimageplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/composerplugininterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/composerplugininterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/contextengine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/contextengine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/contextplugininterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/contextplugininterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/filemonitorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/filemonitorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/geotagger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/geotagger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesteraudioplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesteraudioplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvestercommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvestercommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterdata.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterdata.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterimageplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterimageplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesteromadrmplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesteromadrmplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterplugininterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterplugininterface.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterrtpplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterrtpplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvestervideoplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvestervideoplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterwmvplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/harvesterwmvplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locationcontextplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/locationcontextplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locationmanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/locationmanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/locationmanagerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/locationmanagerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mdccommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mdccommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mdeclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mdeclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mdsfileserverplugin.pxt	build	armv5_urel
+/epoc32/release/armv5/urel/mdsfileserverplugin.pxt.map	build	armv5_urel
+/epoc32/release/armv5/urel/mdsoomplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mdsoomplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mdswatchdog.exe	build	armv5_urel
+/epoc32/release/armv5/urel/mdswatchdog.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmcmonitorplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmcmonitorplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/monitorplugininterface.dll	build	armv5_urel
+/epoc32/release/armv5/urel/monitorplugininterface.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/!blacklistserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/!mdsserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ContentListingFramework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ContentListingFramework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/HarvesterMessagePlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/LocationTrail.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/LocationTrail.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MediaCollectionManager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/MediaCollectionManager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/MessageMonitorPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/blacklistclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/blacklistclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/calendarcontextplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/composerimageplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/composerplugininterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/composerplugininterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/contextengine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/contextengine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/contextplugininterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/contextplugininterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/filemonitorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/geotagger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/geotagger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesteraudioplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvestercommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvestercommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterdata.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterdata.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterimageplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesteromadrmplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterplugininterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterplugininterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterrtpplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvestervideoplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/harvesterwmvplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/locationcontextplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/locationmanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/locationmanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/locationmanagerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mdccommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mdccommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mdeclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mdeclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/mdsfileserverplugin.pxt	build	winscw_udeb
+/epoc32/release/winscw/udeb/mdsoomplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mdswatchdog.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmcmonitorplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/monitorplugininterface.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/monitorplugininterface.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/calendarcontextplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/composerimageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/filemonitorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/harvesteraudioplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/harvesterimageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/harvestermessageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/harvesteromadrmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/harvesterrtpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/harvestervideoplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/harvesterwmvplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/locationcontextplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mdsoomplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/messagemonitorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmcmonitorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/!blacklistserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/!blacklistserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/!mdsserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/!mdsserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ContentListingFramework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ContentListingFramework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HarvesterMessagePlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HarvesterMessagePlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/LocationTrail.dll	build	winscw_urel
+/epoc32/release/winscw/urel/LocationTrail.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MediaCollectionManager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MediaCollectionManager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/MessageMonitorPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/MessageMonitorPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/blacklistclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/blacklistclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/calendarcontextplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/calendarcontextplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/composerimageplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/composerimageplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/composerplugininterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/composerplugininterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/contextengine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/contextengine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/contextplugininterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/contextplugininterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/filemonitorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/filemonitorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/geotagger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/geotagger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesteraudioplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesteraudioplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvestercommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvestercommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterdata.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterdata.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterimageplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterimageplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesteromadrmplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesteromadrmplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterplugininterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterplugininterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterrtpplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterrtpplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvestervideoplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvestervideoplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterwmvplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/harvesterwmvplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locationcontextplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/locationcontextplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locationmanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/locationmanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/locationmanagerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/locationmanagerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mdccommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mdccommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mdeclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mdeclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mdsfileserverplugin.pxt	build	winscw_urel
+/epoc32/release/winscw/urel/mdsfileserverplugin.pxt.map	build	winscw_urel
+/epoc32/release/winscw/urel/mdsoomplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mdsoomplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mdswatchdog.exe	build	winscw_urel
+/epoc32/release/winscw/urel/mdswatchdog.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmcmonitorplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmcmonitorplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/monitorplugininterface.dll	build	winscw_urel
+/epoc32/release/winscw/urel/monitorplugininterface.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/calendarcontextplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/composerimageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/filemonitorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/harvesteraudioplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/harvesterimageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/harvestermessageplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/harvesteromadrmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/harvesterrtpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/harvestervideoplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/harvesterwmvplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/locationcontextplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mdsoomplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/messagemonitorplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmcmonitorplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/harvester.confml	export	
+/epoc32/rom/config/assets/s60/confml/s60contentlistingframework.confml	export	
+/epoc32/rom/config/assets/s60/implml/harvester_200009FE.crml	export	
+/epoc32/rom/config/assets/s60/implml/s60contentlistingframework_102828AC.crml	export	
+/epoc32/rom/include/core/mw/ContentListingFramework.iby	export	
+/epoc32/rom/include/core/mw/mds.iby	export	
+/epoc32/winscw/c/private/10202BE9/200009F3.txt	export	
+/epoc32/winscw/c/private/10202BE9/200009FE.txt	export	
+/epoc32/winscw/c/private/10202BE9/20007182.txt	export	
+/epoc32/winscw/c/private/10202BE9/20007183.txt	export	
+/epoc32/winscw/c/private/10202BE9/200071BE.txt	export	
+/epoc32/winscw/c/private/200009F3/backup_registration.xml	export	
+/epoc32/winscw/c/private/200009F3/defaultimportfile.mde	export	
+/epoc32/winscw/c/private/200009F3/schema.mde	export	
+/epoc32/winscw/c/private/200009F5/backup_registration.xml	export	
+/epoc32/winscw/c/private/200009F5/mappings.db	export	

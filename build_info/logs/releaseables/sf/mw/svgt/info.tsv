@@ -1,0 +1,113 @@
+/epoc32/data/z/resource/plugins/svgrecog.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/svgrecog.rsc	resource	winscw_udeb
+/epoc32/include/platform/mw/MVGImageBinder.h	export	
+/epoc32/include/platform/mw/NVGIcon.h	export	
+/epoc32/include/platform/mw/SVGAnimationListener.h	export	
+/epoc32/include/platform/mw/SVGEngineInterfaceImpl.h	export	
+/epoc32/include/platform/mw/SVGErrorImpl.h	export	
+/epoc32/include/platform/mw/SVGHyperlinkListener.h	export	
+/epoc32/include/platform/mw/SVGImageLoadingObserver.h	export	
+/epoc32/include/platform/mw/SVGListener.h	export	
+/epoc32/include/platform/mw/SVGRendererId.h	export	
+/epoc32/include/platform/mw/SVGRequestObserver.h	export	
+/epoc32/include/platform/mw/SvgJavaInterfaceImpl.h	export	
+/epoc32/include/platform/mw/nvg.h	export	
+/epoc32/include/platform/mw/svgtbitmap.h	export	
+/epoc32/include/platform/mw/svgtbitmap.inl	export	
+/epoc32/release/armv5/lib/NVGDecoder.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/NVGDecoder.dso	build	armv5_urel
+/epoc32/release/armv5/lib/NVGDecoder_SW.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/NVGDecoder_SW.dso	build	armv5_urel
+/epoc32/release/armv5/lib/NVGDecoder_SW{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/NVGDecoder_SW{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/NVGDecoder{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/NVGDecoder{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/PseudoVG.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/PseudoVG.dso	build	armv5_urel
+/epoc32/release/armv5/lib/PseudoVG{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/PseudoVG{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SVGEngine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SVGEngine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SVGEngineJI.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SVGEngineJI.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SVGEngineJI{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SVGEngineJI{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SVGEngine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SVGEngine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SWVG.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWVG.dso	build	armv5_urel
+/epoc32/release/armv5/lib/SWVG{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/SWVG{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/VGRenderer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/VGRenderer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/VGRenderer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/VGRenderer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/NVGDecoder.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/NVGDecoder.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/NVGDecoder_SW.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/NVGDecoder_SW.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/PseudoVG.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/PseudoVG.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SVGEngine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SVGEngine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SVGEngineJI.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SVGEngineJI.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWVG.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SWVG.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/SvgRecog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/SvgRecog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/VGRenderer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/VGRenderer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/NVGDecoder.dll	build	armv5_urel
+/epoc32/release/armv5/urel/NVGDecoder.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/NVGDecoder_SW.dll	build	armv5_urel
+/epoc32/release/armv5/urel/NVGDecoder_SW.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/PseudoVG.dll	build	armv5_urel
+/epoc32/release/armv5/urel/PseudoVG.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SVGEngine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SVGEngine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SVGEngineJI.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SVGEngineJI.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SWVG.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SWVG.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/SvgRecog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/SvgRecog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/VGRenderer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/VGRenderer.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/NVGDecoder.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/NVGDecoder.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/NVGDecoder_SW.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/NVGDecoder_SW.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/PseudoVG.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/PseudoVG.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SVGEngine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SVGEngine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SVGEngineJI.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SVGEngineJI.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWVG.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/SWVG.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/SvgRecog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/VGRenderer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/VGRenderer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/svgrecog.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/NVGDecoder.dll	build	winscw_urel
+/epoc32/release/winscw/urel/NVGDecoder.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/NVGDecoder_SW.dll	build	winscw_urel
+/epoc32/release/winscw/urel/NVGDecoder_SW.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/PseudoVG.dll	build	winscw_urel
+/epoc32/release/winscw/urel/PseudoVG.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SVGEngine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SVGEngine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SVGEngineJI.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SVGEngineJI.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SWVG.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SWVG.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/SvgRecog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/SvgRecog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/VGRenderer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/VGRenderer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/svgrecog.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/mw/NVGDecoder.iby	export	
+/epoc32/rom/include/core/mw/NVGDecoder_SW.iby	export	
+/epoc32/rom/include/core/mw/SVGEngine.iby	export	
+/epoc32/rom/include/core/mw/VGRenderer.iby	export	

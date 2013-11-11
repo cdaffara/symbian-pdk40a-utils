@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="adaptation" long-name="Adaptation" levels="low mw high">
+   <block name="openmaxil.nokia" level="mw" levels="adaptation hw-if device-fw" long-name="Nokia OpenMAX IL Adaptation">
+<collection name="omxilcomp" long-name="OpenMAX IL Components" level="adaptation">
+<component name="omxilgeneric" long-name="Generic OpenMAX IL Components" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/openmaxil.nokia/omxilcomp/omxilgeneric/group" version="1"/>
+</component>
+<component name="omxilaudioemulator" long-name="OpenMAX IL Audio Emulator" introduced="^3" purpose="optional" plugin="Y">
+<unit bldFile="/sf/adaptation/openmaxil.nokia/omxilcomp/omxilaudioemulator/group" version="1"/>
+</component>
+<component name="omxiltestcomp" long-name="OpenMAX IL Test Components" introduced="^3" purpose="development" plugin="Y">
+<unit bldFile="/sf/adaptation/openmaxil.nokia/omxilcomp/omxiltestcomp/group" version="1"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

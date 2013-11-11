@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="imagingext" level="services" levels="adaptation hw-if plugin framework server app-if" long-name="Imaging Extensions">
+<collection name="imagingext_pub" long-name="Imaging Extensions Public Interfaces" level="app-if">
+<component name="exif_api" long-name="Exif API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_pub/exif_api/group" filter="!test"/>
+</component>
+</collection>
+<collection name="imagingext_plat" long-name="Imaging Extensions Platform Interfaces" level="app-if">
+<component name="jpeg2000_icl_plugin_api" long-name="JPEG2000 ICL plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_plat/jpeg2000_icl_plugin_api/group"/>
+</component>
+<component name="extended_icl_jpeg_api" long-name="Extended ICL Jpeg API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_plat/extended_icl_jpeg_api/group" filter="!test"/>
+</component>
+<component name="h324_annex_k_custom_api" long-name="H324 Annex K Custom API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_plat/h324_annex_k_custom_api/group"/>
+</component>
+<component name="ecam_orientation_custom_api" long-name="ECam Orientation Custom API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_plat/ecam_orientation_custom_api/group"/>
+</component>
+<component name="ecam_ui_orientation_override_custom_api" long-name="ECam UI Orientation Override Custom API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_plat/ecam_ui_orientation_override_custom_api/group"/>
+</component>
+<component name="ecam_face_tracking_custom_api" long-name="ECam Face Tracking Custom API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_plat/ecam_face_tracking_custom_api/group"/>
+</component>
+<component name="ecam_use_case_hint_custom_api" long-name="ECam Use Case Hint Custom API" introduced="^3" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/os/imagingext/imagingext_plat/ecam_use_case_hint_custom_api/group"/>
+</component>
+</collection>
+<collection name="imageadaptationextensions" long-name="Image Adaptation Extensions" level="app-if">
+<component name="iclextjpegapi" long-name="ICL Extension JPEG API" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/imagingext/imageadaptationextensions/iclextjpegapi/group"/>
+</component>
+<component name="imageadaptationextensions_build" long-name="Image Adaptation Extensions Build" filter="s60" purpose="optional">
+<!--  Move the export from this bld.inf into the above one and remove this component, or make this a ROM component -->
+<unit bldFile="/sf/os/imagingext/imageadaptationextensions/group"/>
+</component>
+</collection>
+<collection name="imagingmodules" long-name="Imaging Modules" level="hw-if">
+<component name="exiflib" long-name="Exif Library" filter="s60" purpose="optional">
+<unit bldFile="/sf/os/imagingext/imagingmodules/exiflib/group"/>
+</component>
+<component name="jp2kcodec" long-name="JPEG2000 Decoder Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/os/imagingext/imagingmodules/jp2kcodec/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

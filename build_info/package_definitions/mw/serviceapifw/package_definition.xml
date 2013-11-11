@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="serviceapifw" level="specific" levels="plugin framework server generic specific" long-name="Service API Framework">
+<collection name="serviceapifw_pub" long-name="Service API Framework Public Interfaces" level="specific"/>
+<collection name="serviceapifw_plat" long-name="Service API Framework Platform Interfaces" level="specific">
+<component name="rtsecuritymanager_common_api" long-name="Runtime Security Manager Common API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/rtsecuritymanager_common_api/group"/>
+</component>
+<component name="rtsecuritymanager_utility_api" long-name="Runtime Security Manager Utility API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/rtsecuritymanager_utility_api/group"/>
+</component>
+<component name="rtsecuritymanager_client_api" long-name="Runtime Security Manager Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/rtsecuritymanager_client_api/group"/>
+</component>
+<component name="liw_provider_utility_api" long-name="LIW Provider Utility API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/liw_provider_utility_api/group"/>
+</component>
+<component name="liw_service_interface_base_api" long-name="LIW Service Interface Base API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/liw_service_interface_base_api/group"/>
+</component>
+<component name="liw_service_interface_menu_api" long-name="LIW Service Interface Menu API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/liw_service_interface_menu_api/group"/>
+</component>
+<component name="liw_criteria_api" long-name="LIW Criteria API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/liw_criteria_api/group"/>
+</component>
+<component name="liw_generic_parameter_api" long-name="LIW Generic Parameter API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/liw_generic_parameter_api/group"/>
+</component>
+<component name="liw_service_handler_api" long-name="LIW Service Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/serviceapifw/serviceapifw_plat/liw_service_handler_api/group"/>
+</component>
+</collection>
+<collection name="rtsecuritymanager" long-name="Runtime Security Manager" level="server">
+<component name="rtsecuritymanagerutil" long-name="Runtime Security Manager Util" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/serviceapifw/rtsecuritymanager/rtsecuritymanagerutil/group"/>
+</component>
+<component name="rtsecuritymanagerserver" long-name="Runtime Security Manager Server" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/serviceapifw/rtsecuritymanager/rtsecuritymanagerserver/group"/>
+</component>
+<component name="rtsecuritymanagerclient" long-name="Runtime Security Manager Client" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/serviceapifw/rtsecuritymanager/rtsecuritymanagerclient/group"/>
+</component>
+<component name="rtsecuritymanager_build" long-name="Runtime Security Manager Build" filter="s60" purpose="optional">
+<!-- Move the export to the appropriate components, or make this a ROM component by removing the #includes -->
+<unit bldFile="/sf/mw/serviceapifw/rtsecuritymanager/group"/>
+</component>
+</collection>
+<collection name="languageinterworkingfw" long-name="Language Interworking Framework" level="framework">
+<component name="lifwservicehandler" long-name="Service Handler" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/serviceapifw/languageinterworkingfw/servicehandler/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

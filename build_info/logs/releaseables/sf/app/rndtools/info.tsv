@@ -1,0 +1,274 @@
+/epoc32/data/Z/private/101FB751/backup_registration.xml	export	
+/epoc32/data/Z/private/101fb74f/backup_registration.xml	export	
+/epoc32/data/Z/private/102828D6/backup_registration.xml	export	
+/epoc32/data/Z/private/20011383/3GPP-70kB.3gpp	export	
+/epoc32/data/Z/private/20011383/AAC-100kB.aac	export	
+/epoc32/data/Z/private/20011383/AMR-20kB.amr	export	
+/epoc32/data/Z/private/20011383/BMP-25kB.bmp	export	
+/epoc32/data/Z/private/20011383/DOC-20kB.doc	export	
+/epoc32/data/Z/private/20011383/Deck-1kB.saveddeck	export	
+/epoc32/data/Z/private/20011383/GIF-2kB.gif	export	
+/epoc32/data/Z/private/20011383/HTML-20kB.html	export	
+/epoc32/data/Z/private/20011383/JAD-1kB.jad	export	
+/epoc32/data/Z/private/20011383/JAR-10kB.jar	export	
+/epoc32/data/Z/private/20011383/JP2-65kB.jp2	export	
+/epoc32/data/Z/private/20011383/JPEG-200kB.jpg	export	
+/epoc32/data/Z/private/20011383/JPEG-25kB.jpg	export	
+/epoc32/data/Z/private/20011383/JPEG-500kB.jpg	export	
+/epoc32/data/Z/private/20011383/MIDI-10kB.mid	export	
+/epoc32/data/Z/private/20011383/MP3-250kB.mp3	export	
+/epoc32/data/Z/private/20011383/MP4-200kB.mp4	export	
+/epoc32/data/Z/private/20011383/MXMF-40kB.mxmf	export	
+/epoc32/data/Z/private/20011383/PNG-15kB.png	export	
+/epoc32/data/Z/private/20011383/PPT-40kB.ppt	export	
+/epoc32/data/Z/private/20011383/RAM-1kB.ram	export	
+/epoc32/data/Z/private/20011383/RM-95kB.rm	export	
+/epoc32/data/Z/private/20011383/RNG-1kB.rng	export	
+/epoc32/data/Z/private/20011383/SISX-10kB.sisx	export	
+/epoc32/data/Z/private/20011383/SVG-15kB.svg	export	
+/epoc32/data/Z/private/20011383/SWF-15kB.swf	export	
+/epoc32/data/Z/private/20011383/TIF-25kB.tif	export	
+/epoc32/data/Z/private/20011383/TXT-10kB.txt	export	
+/epoc32/data/Z/private/20011383/TXT-70kB.txt	export	
+/epoc32/data/Z/private/20011383/VCF-1kB.vcf	export	
+/epoc32/data/Z/private/20011383/VCS-1kB.vcs	export	
+/epoc32/data/Z/private/20011383/WAV-20kB.wav	export	
+/epoc32/data/Z/private/20011383/WMA-50kB.wma	export	
+/epoc32/data/Z/private/20011383/WMV-200kB.wmv	export	
+/epoc32/data/Z/private/20011383/XLS-15kB.xls	export	
+/epoc32/data/Z/private/20011383/backup_registration.xml	export	
+/epoc32/data/Z/private/20011384/backup_registration.xml	export	
+/epoc32/data/z/private/10003a3f/import/apps/creator_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/creator_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/filebrowser_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/filebrowser_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/launcher_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/launcher_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/loadgen_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/loadgen_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/screengrabber_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/screengrabber_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/Creator.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/FileBrowser.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/Launcher.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/LoadGen.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/ScreenGrabber.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/creator.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/creator.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/datacreator.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/datacreator.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/filebrowser.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/filebrowser.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/launcher.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/launcher.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/loadgen.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/loadgen.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/loadgen_aif.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/loadgen_extraicons.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/screengrabber.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/screengrabber.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/FileBrowser_stub.sis	build	armv5_urel
+/epoc32/data/z/system/install/Launcher_stub.sis	build	armv5_urel
+/epoc32/data/z/system/install/LoadGen_stub.sis	build	armv5_urel
+/epoc32/data/z/system/install/creator_stub.sis	build	armv5_urel
+/epoc32/data/z/system/install/screengrabber_stub.sis	build	armv5_urel
+/epoc32/include/creator.rsg	resource	armv5_urel
+/epoc32/include/creator.rsg	resource	winscw_udeb
+/epoc32/include/datacreator.rsg	resource	armv5_urel
+/epoc32/include/datacreator.rsg	resource	winscw_udeb
+/epoc32/include/filebrowser.rsg	resource	armv5_urel
+/epoc32/include/filebrowser.rsg	resource	winscw_udeb
+/epoc32/include/launcher.rsg	resource	armv5_urel
+/epoc32/include/launcher.rsg	resource	winscw_udeb
+/epoc32/include/loadgen.rsg	resource	armv5_urel
+/epoc32/include/loadgen.rsg	resource	winscw_udeb
+/epoc32/include/loadgen_extraicons.mbg	bitmap	armv5_urel
+/epoc32/include/loadgen_extraicons.mbg	bitmap	winscw_udeb
+/epoc32/include/screengrabber.rsg	resource	armv5_urel
+/epoc32/include/screengrabber.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/FileBrowserFileOpClient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FileBrowserFileOpClient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/FileBrowserFileOpClient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/FileBrowserFileOpClient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/Creator.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/Creator.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileBrowser.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileBrowser.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileBrowserFileOpClient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileBrowserFileOpClient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileBrowserFileOpServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/FileBrowserFileOpServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/Launcher.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/Launcher.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/LoadGen.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/LoadGen.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ScreenGrabber.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ScreenGrabber.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/Creator.exe	build	armv5_urel
+/epoc32/release/armv5/urel/Creator.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/FileBrowser.exe	build	armv5_urel
+/epoc32/release/armv5/urel/FileBrowser.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/FileBrowserFileOpClient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/FileBrowserFileOpClient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/FileBrowserFileOpServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/FileBrowserFileOpServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/Launcher.exe	build	armv5_urel
+/epoc32/release/armv5/urel/Launcher.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/LoadGen.exe	build	armv5_urel
+/epoc32/release/armv5/urel/LoadGen.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ScreenGrabber.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ScreenGrabber.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/Creator.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileBrowser.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileBrowserFileOpClient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileBrowserFileOpClient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/FileBrowserFileOpServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/Launcher.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/LoadGen.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ScreenGrabber.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/Z/private/101FB751/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/Z/private/101fb74f/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/Z/private/102828D6/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/3GPP-70kB.3gpp	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/AAC-100kB.aac	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/AMR-20kB.amr	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/BMP-25kB.bmp	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/DOC-20kB.doc	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/Deck-1kB.saveddeck	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/GIF-2kB.gif	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/HTML-20kB.html	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/JAD-1kB.jad	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/JAR-10kB.jar	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/JP2-65kB.jp2	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/JPEG-200kB.jpg	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/JPEG-25kB.jpg	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/JPEG-500kB.jpg	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/MIDI-10kB.mid	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/MP3-250kB.mp3	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/MP4-200kB.mp4	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/MXMF-40kB.mxmf	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/PNG-15kB.png	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/PPT-40kB.ppt	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/RAM-1kB.ram	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/RM-95kB.rm	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/RNG-1kB.rng	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/SISX-10kB.sisx	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/SVG-15kB.svg	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/SWF-15kB.swf	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/TIF-25kB.tif	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/TXT-10kB.txt	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/TXT-70kB.txt	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/VCF-1kB.vcf	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/VCS-1kB.vcs	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/WAV-20kB.wav	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/WMA-50kB.wma	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/WMV-200kB.wmv	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/XLS-15kB.xls	export	
+/epoc32/release/winscw/udeb/Z/private/20011383/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/Z/private/20011384/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/creator_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/filebrowser_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/launcher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/loadgen_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/screengrabber_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/Creator.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/FileBrowser.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/Launcher.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/LoadGen.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/ScreenGrabber.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/creator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/datacreator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/filebrowser.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/launcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/loadgen.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/loadgen_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/loadgen_extraicons.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/screengrabber.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/Creator.exe	build	winscw_urel
+/epoc32/release/winscw/urel/Creator.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/FileBrowser.exe	build	winscw_urel
+/epoc32/release/winscw/urel/FileBrowser.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/FileBrowserFileOpClient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/FileBrowserFileOpClient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/FileBrowserFileOpServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/FileBrowserFileOpServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/Launcher.exe	build	winscw_urel
+/epoc32/release/winscw/urel/Launcher.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/LoadGen.exe	build	winscw_urel
+/epoc32/release/winscw/urel/LoadGen.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ScreenGrabber.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ScreenGrabber.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/Z/private/101FB751/backup_registration.xml	export	
+/epoc32/release/winscw/urel/Z/private/101fb74f/backup_registration.xml	export	
+/epoc32/release/winscw/urel/Z/private/102828D6/backup_registration.xml	export	
+/epoc32/release/winscw/urel/Z/private/20011383/3GPP-70kB.3gpp	export	
+/epoc32/release/winscw/urel/Z/private/20011383/AAC-100kB.aac	export	
+/epoc32/release/winscw/urel/Z/private/20011383/AMR-20kB.amr	export	
+/epoc32/release/winscw/urel/Z/private/20011383/BMP-25kB.bmp	export	
+/epoc32/release/winscw/urel/Z/private/20011383/DOC-20kB.doc	export	
+/epoc32/release/winscw/urel/Z/private/20011383/Deck-1kB.saveddeck	export	
+/epoc32/release/winscw/urel/Z/private/20011383/GIF-2kB.gif	export	
+/epoc32/release/winscw/urel/Z/private/20011383/HTML-20kB.html	export	
+/epoc32/release/winscw/urel/Z/private/20011383/JAD-1kB.jad	export	
+/epoc32/release/winscw/urel/Z/private/20011383/JAR-10kB.jar	export	
+/epoc32/release/winscw/urel/Z/private/20011383/JP2-65kB.jp2	export	
+/epoc32/release/winscw/urel/Z/private/20011383/JPEG-200kB.jpg	export	
+/epoc32/release/winscw/urel/Z/private/20011383/JPEG-25kB.jpg	export	
+/epoc32/release/winscw/urel/Z/private/20011383/JPEG-500kB.jpg	export	
+/epoc32/release/winscw/urel/Z/private/20011383/MIDI-10kB.mid	export	
+/epoc32/release/winscw/urel/Z/private/20011383/MP3-250kB.mp3	export	
+/epoc32/release/winscw/urel/Z/private/20011383/MP4-200kB.mp4	export	
+/epoc32/release/winscw/urel/Z/private/20011383/MXMF-40kB.mxmf	export	
+/epoc32/release/winscw/urel/Z/private/20011383/PNG-15kB.png	export	
+/epoc32/release/winscw/urel/Z/private/20011383/PPT-40kB.ppt	export	
+/epoc32/release/winscw/urel/Z/private/20011383/RAM-1kB.ram	export	
+/epoc32/release/winscw/urel/Z/private/20011383/RM-95kB.rm	export	
+/epoc32/release/winscw/urel/Z/private/20011383/RNG-1kB.rng	export	
+/epoc32/release/winscw/urel/Z/private/20011383/SISX-10kB.sisx	export	
+/epoc32/release/winscw/urel/Z/private/20011383/SVG-15kB.svg	export	
+/epoc32/release/winscw/urel/Z/private/20011383/SWF-15kB.swf	export	
+/epoc32/release/winscw/urel/Z/private/20011383/TIF-25kB.tif	export	
+/epoc32/release/winscw/urel/Z/private/20011383/TXT-10kB.txt	export	
+/epoc32/release/winscw/urel/Z/private/20011383/TXT-70kB.txt	export	
+/epoc32/release/winscw/urel/Z/private/20011383/VCF-1kB.vcf	export	
+/epoc32/release/winscw/urel/Z/private/20011383/VCS-1kB.vcs	export	
+/epoc32/release/winscw/urel/Z/private/20011383/WAV-20kB.wav	export	
+/epoc32/release/winscw/urel/Z/private/20011383/WMA-50kB.wma	export	
+/epoc32/release/winscw/urel/Z/private/20011383/WMV-200kB.wmv	export	
+/epoc32/release/winscw/urel/Z/private/20011383/XLS-15kB.xls	export	
+/epoc32/release/winscw/urel/Z/private/20011383/backup_registration.xml	export	
+/epoc32/release/winscw/urel/Z/private/20011384/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/creator_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/filebrowser_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/launcher_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/loadgen_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/screengrabber_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/Creator.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/FileBrowser.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/Launcher.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/LoadGen.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/ScreenGrabber.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/creator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/datacreator.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/filebrowser.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/launcher.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/loadgen.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/loadgen_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/loadgen_extraicons.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/screengrabber.rsc	resource	winscw_udeb
+/epoc32/rom/include/core/tools/Launcher.iby	export	
+/epoc32/rom/include/core/tools/creator.iby	export	
+/epoc32/rom/include/core/tools/filebrowser.iby	export	
+/epoc32/rom/include/core/tools/loadgen.iby	export	
+/epoc32/rom/include/core/tools/screengrabber.iby	export	
+/epoc32/tools/s60rndtools/creator/browserEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/calendarEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/connectionmethodEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/contactEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/creator.xsd	export	
+/epoc32/tools/s60rndtools/creator/filesEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/landmarkEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/logEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/mailboxEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/messagesEx.creatorxml	export	
+/epoc32/tools/s60rndtools/creator/notepadEx.creatorxml	export	

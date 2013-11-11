@@ -1,0 +1,512 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/deviceupdatesplugin.qtplugin	export	
+/epoc32/data/z/private/100012a5/policy/20021335.spd	export	
+/epoc32/data/z/private/100012a5/policy/200267FB.SPD	export	
+/epoc32/data/z/private/10003a3f/import/apps/applicationmanagementserver_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/applicationmanagementserver_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/cpqtsp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/cpqtsp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/deviceupdates_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/deviceupdates_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/deviceupdatesqtsp_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/deviceupdatesqtsp_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202be9/200267FB.txt	export	
+/epoc32/data/z/resource/apps/applicationmanagementserver.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/applicationmanagementserver.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/cpqtsp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/cpqtsp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/deviceupdates.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/deviceupdates.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/deviceupdatesqtsp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/deviceupdatesqtsp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/amadapter2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/amadapter2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/connmoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/connmoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/dcmodmadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/dcmodmadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/dcmodmadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/dcmodmadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/extmemctrldcmoadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/extmemctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/extmemctrldcmoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/extmemctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/globalwlanadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/globalwlanadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmalwaysonadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmalwaysonadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmbmadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmbmadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmdevdetailadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmdevdetailadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmdevdetailadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmdevdetailadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmdevinfoadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmdevinfoadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmdevinfoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmdevinfoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmemailadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmemailadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmemailadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmemailadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmfotaadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmfotaadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmfotaadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmfotaadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmmmsadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmmmsadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmmmsadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmmmsadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmsettingsadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmsettingsadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmsettingsadapter12.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmsettingsadapter12.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmstreamingadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmstreamingadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmstreamingadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmstreamingadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldssettingsadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldssettingsadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldssettingsadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldssettingsadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmlinternetadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmlinternetadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/omascomoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/omascomoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wlanctrldcmoadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wlanctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wlanctrldcmoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wlanctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wpapadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wpapadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wpmbxnbradapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wpmbxnbradapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wpstreamingadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wpstreamingadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wpwapadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wpwapadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wpapadapterresource.r01	resource	armv5_urel
+/epoc32/data/z/resource/wpapadapterresource.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wpapadapterresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wpapadapterresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wpmbxnbradapterresource.r01	resource	armv5_urel
+/epoc32/data/z/resource/wpmbxnbradapterresource.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wpmbxnbradapterresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wpmbxnbradapterresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wpstreamingadapterresource.r01	resource	armv5_urel
+/epoc32/data/z/resource/wpstreamingadapterresource.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wpstreamingadapterresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wpstreamingadapterresource.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wpwapadapterresource.r01	resource	armv5_urel
+/epoc32/data/z/resource/wpwapadapterresource.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wpwapadapterresource.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wpwapadapterresource.rsc	resource	winscw_udeb
+/epoc32/include/applicationmanagementserver.rsg	resource	armv5_urel
+/epoc32/include/applicationmanagementserver.rsg	resource	winscw_udeb
+/epoc32/include/cpqtsp.rsg	resource	armv5_urel
+/epoc32/include/cpqtsp.rsg	resource	winscw_udeb
+/epoc32/include/deviceupdates.rsg	resource	armv5_urel
+/epoc32/include/deviceupdates.rsg	resource	winscw_udeb
+/epoc32/include/deviceupdatesqtsp.rsg	resource	armv5_urel
+/epoc32/include/deviceupdatesqtsp.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/loc/sc/WPAPAdapter.loc	export	
+/epoc32/include/platform/mw/loc/sc/mailboxadapter.loc	export	
+/epoc32/include/platform/mw/loc/sc/streamingadapter.loc	export	
+/epoc32/include/platform/mw/loc/sc/wpapadapter.loc	export	
+/epoc32/include/wpapadapterresource.rsg	resource	armv5_urel
+/epoc32/include/wpapadapterresource.rsg	resource	winscw_udeb
+/epoc32/include/wpmbxnbradapterresource.rsg	resource	armv5_urel
+/epoc32/include/wpmbxnbradapterresource.rsg	resource	winscw_udeb
+/epoc32/include/wpstreamingadapterresource.rsg	resource	armv5_urel
+/epoc32/include/wpstreamingadapterresource.rsg	resource	winscw_udeb
+/epoc32/include/wpwapadapterresource.rsg	resource	armv5_urel
+/epoc32/include/wpwapadapterresource.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/aminstalloptions.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aminstalloptions.dso	build	armv5_urel
+/epoc32/release/armv5/lib/aminstalloptions{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/aminstalloptions{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/applicationmanagementclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/applicationmanagementclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/applicationmanagementclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/applicationmanagementclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devicemanagementnotifiersplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devicemanagementnotifiersplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/devicemanagementnotifiersplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/devicemanagementnotifiersplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/deviceupdatesplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/deviceupdatesplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/deviceupdatesplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/deviceupdatesplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dmindicatorsplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dmindicatorsplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dmindicatorsplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dmindicatorsplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/Cpqtsp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/Cpqtsp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/WPAPAdapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/WPAPAdapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/amadapter2.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/amadapter2.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/aminstalloptions.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/aminstalloptions.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/applicationmanagementclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/applicationmanagementclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/applicationmanagementserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/applicationmanagementserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/connmoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/connmoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dcmodmadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dcmodmadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/devicemanagementnotifiersplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/devicemanagementnotifiersplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/deviceupdates.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/deviceupdates.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/deviceupdatesplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/deviceupdatesplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/deviceupdatesqtsp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/deviceupdatesqtsp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dmindicatorsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dmindicatorsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/extmemctrldcmoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/extmemctrldcmoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/globalwlanadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/globalwlanadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmalwaysonadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmalwaysonadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmbmadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmbmadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmdevdetailadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmdevdetailadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmdevinfoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmdevinfoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmemailadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmemailadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmfotaadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmfotaadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmmmsadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmmmsadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmsettingsadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmsettingsadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmsettingsadapter12.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmsettingsadapter12.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmstreamingadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmstreamingadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldssettingsadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldssettingsadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlinternetadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlinternetadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/omascomoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/omascomoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanctrldcmoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wlanctrldcmoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpmbxnbradapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpmbxnbradapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpstreamingadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpstreamingadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpwapadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpwapadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/z/private/100012a5/policy/101f9a02.spd	export	
+/epoc32/release/armv5/udeb/z/private/100012a5/policy/20021335.spd	export	
+/epoc32/release/armv5/udeb/z/private/100012a5/policy/200267FB.SPD	export	
+/epoc32/release/armv5/urel/Cpqtsp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/Cpqtsp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/WPAPAdapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/WPAPAdapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/amadapter2.dll	build	armv5_urel
+/epoc32/release/armv5/urel/amadapter2.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/aminstalloptions.dll	build	armv5_urel
+/epoc32/release/armv5/urel/aminstalloptions.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/applicationmanagementclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/applicationmanagementclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/applicationmanagementserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/applicationmanagementserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/connmoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/connmoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dcmodmadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dcmodmadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/devicemanagementnotifiersplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/devicemanagementnotifiersplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/deviceupdates.exe	build	armv5_urel
+/epoc32/release/armv5/urel/deviceupdates.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/deviceupdatesplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/deviceupdatesplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/deviceupdatesqtsp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/deviceupdatesqtsp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/dmindicatorsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dmindicatorsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/extmemctrldcmoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/extmemctrldcmoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/globalwlanadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/globalwlanadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmalwaysonadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmalwaysonadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmbmadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmbmadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmdevdetailadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmdevdetailadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmdevinfoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmdevinfoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmemailadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmemailadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmfotaadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmfotaadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmmmsadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmmmsadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmsettingsadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmsettingsadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmsettingsadapter12.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmsettingsadapter12.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmstreamingadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmstreamingadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldssettingsadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldssettingsadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlinternetadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlinternetadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/omascomoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/omascomoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wlanctrldcmoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wlanctrldcmoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wpmbxnbradapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wpmbxnbradapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wpstreamingadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wpstreamingadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wpwapadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wpwapadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/z/private/100012a5/policy/101f9a02.spd	export	
+/epoc32/release/armv5/urel/z/private/100012a5/policy/20021335.spd	export	
+/epoc32/release/armv5/urel/z/private/100012a5/policy/200267FB.SPD	export	
+/epoc32/release/winscw/udeb/Cpqtsp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/WPAPAdapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/amadapter2.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aminstalloptions.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/aminstalloptions.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/applicationmanagementclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/applicationmanagementclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/applicationmanagementserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/connmoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dcmodmadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/devicemanagementnotifiersplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/devicemanagementnotifiersplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/deviceupdates.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/deviceupdatesplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/deviceupdatesplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/deviceupdatesqtsp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/dmindicatorsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dmindicatorsplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/extmemctrldcmoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/globalwlanadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmalwaysonadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmbmadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmdevdetailadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmdevinfoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmemailadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmfotaadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmmmsadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmsettingsadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmsettingsadapter12.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmstreamingadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldssettingsadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlinternetadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/omascomoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wlanctrldcmoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wpmbxnbradapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wpstreamingadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wpwapadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/101f9a02.spd	export	
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/20021335.spd	export	
+/epoc32/release/winscw/udeb/z/private/100012a5/policy/200267FB.SPD	export	
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/applicationmanagementserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/cpqtsp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/deviceupdates_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/deviceupdatesqtsp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/applicationmanagementserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/cpqtsp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/deviceupdates.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/deviceupdatesqtsp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/devman/devdetail_hwv.txt	export	
+/epoc32/release/winscw/udeb/z/resource/devman/devdetail_swv.txt	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/amadapter2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/connmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/dcmodmadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/dcmodmadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/extmemctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/extmemctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/globalwlanadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmalwaysonadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmbmadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmdevdetailadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmdevdetailadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmdevinfoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmdevinfoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmemailadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmemailadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmfotaadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmfotaadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmmmsadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmmmsadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmsettingsadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmsettingsadapter12.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmstreamingadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmstreamingadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldssettingsadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldssettingsadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmlinternetadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/omascomoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wlanctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wlanctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wpapadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wpmbxnbradapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wpstreamingadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wpwapadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpapadapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpapadapterresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpmbxnbradapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpmbxnbradapterresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpstreamingadapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpstreamingadapterresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpwapadapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpwapadapterresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/Cpqtsp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/Cpqtsp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/WPAPAdapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/WPAPAdapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/amadapter2.dll	build	winscw_urel
+/epoc32/release/winscw/urel/amadapter2.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/aminstalloptions.dll	build	winscw_urel
+/epoc32/release/winscw/urel/aminstalloptions.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/applicationmanagementclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/applicationmanagementclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/applicationmanagementserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/applicationmanagementserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/connmoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/connmoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dcmodmadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dcmodmadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/devicemanagementnotifiersplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/devicemanagementnotifiersplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/deviceupdates.exe	build	winscw_urel
+/epoc32/release/winscw/urel/deviceupdates.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/deviceupdatesplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/deviceupdatesplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/deviceupdatesqtsp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/deviceupdatesqtsp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/dmindicatorsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dmindicatorsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/extmemctrldcmoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/extmemctrldcmoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/globalwlanadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/globalwlanadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmalwaysonadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmalwaysonadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmbmadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmbmadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmdevdetailadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmdevdetailadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmdevinfoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmdevinfoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmemailadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmemailadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmfotaadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmfotaadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmmmsadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmmmsadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmsettingsadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmsettingsadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmsettingsadapter12.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmsettingsadapter12.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmstreamingadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmstreamingadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldssettingsadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldssettingsadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlinternetadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlinternetadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/omascomoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/omascomoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wlanctrldcmoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wlanctrldcmoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wpmbxnbradapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wpmbxnbradapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wpstreamingadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wpstreamingadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wpwapadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wpwapadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/100012a5/policy/101f9a02.spd	export	
+/epoc32/release/winscw/urel/z/private/100012a5/policy/20021335.spd	export	
+/epoc32/release/winscw/urel/z/private/100012a5/policy/200267FB.SPD	export	
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/applicationmanagementserver_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/cpqtsp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/deviceupdates_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/deviceupdatesqtsp_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/applicationmanagementserver.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/cpqtsp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/deviceupdates.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/deviceupdatesqtsp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/devman/devdetail_hwv.txt	export	
+/epoc32/release/winscw/urel/z/resource/devman/devdetail_swv.txt	export	
+/epoc32/release/winscw/urel/z/resource/plugins/amadapter2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/connmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/dcmodmadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/dcmodmadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/extmemctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/extmemctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/globalwlanadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmalwaysonadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmbmadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmdevdetailadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmdevdetailadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmdevinfoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmdevinfoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmemailadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmemailadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmfotaadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmfotaadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmmmsadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmmmsadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmsettingsadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmsettingsadapter12.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmstreamingadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmstreamingadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldssettingsadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldssettingsadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmlinternetadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/omascomoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wlanctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wlanctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wpapadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wpmbxnbradapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wpstreamingadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wpwapadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpapadapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpapadapterresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpmbxnbradapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpmbxnbradapterresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpstreamingadapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpstreamingadapterresource.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpwapadapterresource.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpwapadapterresource.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/application_management.confml	export	
+/epoc32/rom/config/assets/s60/confml/deviceupdates.confml	export	
+/epoc32/rom/config/assets/s60/confml/fotaadapter.confml	export	
+/epoc32/rom/config/assets/s60/confml/streamingadapter.confml	export	
+/epoc32/rom/config/assets/s60/implml/application_management_200267FB.crml	export	
+/epoc32/rom/config/assets/s60/implml/deviceupdates_101F6DE5.crml	export	
+/epoc32/rom/config/assets/s60/implml/fotaadapter_101F9A08.crml	export	
+/epoc32/rom/config/assets/s60/implml/streamingadapter_20024310.crml	export	
+/epoc32/rom/include/core/app/amadapter.iby	export	
+/epoc32/rom/include/core/app/aminstalloptions.iby	export	
+/epoc32/rom/include/core/app/appmgmt.iby	export	
+/epoc32/rom/include/core/app/cpqtsp.iby	export	
+/epoc32/rom/include/core/app/devicemgmtdialogsplugin.iby	export	
+/epoc32/rom/include/core/app/deviceupdates.iby	export	
+/epoc32/rom/include/core/app/deviceupdatesqtsp.iby	export	
+/epoc32/rom/include/core/app/dmindicatorsplugin.iby	export	
+/epoc32/rom/include/core/app/omadcmoadapters.iby	export	
+/epoc32/rom/include/core/app/omadmadapters.iby	export	
+/epoc32/rom/include/core/app/provisioningAdapter.iby	export	
+/epoc32/rom/include/language/app/cpsqtsp_resources.iby	export	
+/epoc32/rom/include/language/app/deviceupdates_resources.iby	export	
+/epoc32/rom/include/language/app/deviceupdatesqtsp_resources.iby	export	
+/epoc32/rom/include/language/app/provisioningAdapterresources.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/deviceupdatesplugin.qtplugin	export	
+/epoc32/winscw/c/resource/devicemanagement/message1.svg	export	
+/epoc32/winscw/c/resource/devicemanagement/qtg_small_smiley_kissing.svg	export	
+/sf/app/devicecontrol/inc/aminstalloptions.h	export	

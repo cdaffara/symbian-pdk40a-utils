@@ -1,0 +1,644 @@
+/epoc32/data/c/private/101f5d36/sipsdp.dic	export	
+/epoc32/data/z/private/101f413c/backup_registration.xml	export	
+/epoc32/data/z/private/101f7988/esock_sip.cmi	export	
+/epoc32/data/z/private/101f7989/esock/ip.rtp.esk	export	
+/epoc32/data/z/private/101f7989/esock/sip.providers.esk	export	
+/epoc32/data/z/private/10202be9/101f413c.txt	export	
+/epoc32/data/z/private/10202be9/101fed88.txt	export	
+/epoc32/data/z/private/10202be9/10282ee7.txt	export	
+/epoc32/data/z/private/10202be9/2001f889.txt	export	
+/epoc32/data/z/resource/plugins/cfrtp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cfrtp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/deflatecomp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/deflatecomp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldmsipadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldmsipadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipdigest.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipdigest.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipgprsmon.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipgprsmon.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/siph2lanbearermonitor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipietfagnt.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipietfagnt.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipimsagnt.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipimsagnt.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipipsec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipipsec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipproviders.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipproviders.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipreqhand.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipreqhand.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipsigcomp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipsigcomp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipsystemstatemonitor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipsystemstatemonitor.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/siptls.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/siptls.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sipwlanmon.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sipwlanmon.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/wpsipadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/wpsipadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/wpsipadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/wpsipadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/wpsipadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/wpsipadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/rtpstack_stub.sis	export	
+/epoc32/data/z/system/install/sip_wlanplugin_stub.sis	export	
+/epoc32/data/z/system/install/srtpstack_stub.sis	export	
+/epoc32/include/mw/rtcp.h	export	
+/epoc32/include/mw/rtp.h	export	
+/epoc32/include/mw/sdpattributefield.h	export	
+/epoc32/include/mw/sdpbandwidthfield.h	export	
+/epoc32/include/mw/sdpcodecconstants.h	export	
+/epoc32/include/mw/sdpcodecerr.h	export	
+/epoc32/include/mw/sdpcodecstringpool.h	export	
+/epoc32/include/mw/sdpconnectionfield.h	export	
+/epoc32/include/mw/sdpdocument.h	export	
+/epoc32/include/mw/sdpfmtattributefield.h	export	
+/epoc32/include/mw/sdpkeyfield.h	export	
+/epoc32/include/mw/sdpmediafield.h	export	
+/epoc32/include/mw/sdporiginfield.h	export	
+/epoc32/include/mw/sdprepeatfield.h	export	
+/epoc32/include/mw/sdprtpmapvalue.h	export	
+/epoc32/include/mw/sdptimefield.h	export	
+/epoc32/include/mw/sdptypedtime.h	export	
+/epoc32/include/mw/sip.h	export	
+/epoc32/include/mw/sip_subconevents.h	export	
+/epoc32/include/mw/sip_subconevents.inl	export	
+/epoc32/include/mw/sip_subconparams.h	export	
+/epoc32/include/mw/sip_subconparams.inl	export	
+/epoc32/include/mw/sipacceptcontactheader.h	export	
+/epoc32/include/mw/sipacceptencodingheader.h	export	
+/epoc32/include/mw/sipacceptheader.h	export	
+/epoc32/include/mw/sipacceptlanguageheader.h	export	
+/epoc32/include/mw/sipaddress.h	export	
+/epoc32/include/mw/sipaddressheaderbase.h	export	
+/epoc32/include/mw/sipalloweventsheader.h	export	
+/epoc32/include/mw/sipallowheader.h	export	
+/epoc32/include/mw/sipauthenticateheaderbase.h	export	
+/epoc32/include/mw/sipauthheaderbase.h	export	
+/epoc32/include/mw/sipauthorizationheader.h	export	
+/epoc32/include/mw/sipauthorizationheaderbase.h	export	
+/epoc32/include/mw/sipcallidheader.h	export	
+/epoc32/include/mw/sipclientresolverconfigcrkeys.h	export	
+/epoc32/include/mw/sipclienttransaction.h	export	
+/epoc32/include/mw/sipcodecerr.h	export	
+/epoc32/include/mw/sipconcreteprofileobserver.h	export	
+/epoc32/include/mw/sipconnection.h	export	
+/epoc32/include/mw/sipconnectionobserver.h	export	
+/epoc32/include/mw/sipconnpref.h	export	
+/epoc32/include/mw/sipconnpref.inl	export	
+/epoc32/include/mw/sipcontactheader.h	export	
+/epoc32/include/mw/sipcontentdispositionheader.h	export	
+/epoc32/include/mw/sipcontentencodingheader.h	export	
+/epoc32/include/mw/sipcontenttypeheader.h	export	
+/epoc32/include/mw/sipcseqheader.h	export	
+/epoc32/include/mw/sipdefs.h	export	
+/epoc32/include/mw/sipdialog.h	export	
+/epoc32/include/mw/sipdialogassocbase.h	export	
+/epoc32/include/mw/siperr.h	export	
+/epoc32/include/mw/sipeventheader.h	export	
+/epoc32/include/mw/sipexpiresheader.h	export	
+/epoc32/include/mw/sipextensionheader.h	export	
+/epoc32/include/mw/sipfromheader.h	export	
+/epoc32/include/mw/sipfromtoheaderbase.h	export	
+/epoc32/include/mw/sipheaderbase.h	export	
+/epoc32/include/mw/siphlerr.h	export	
+/epoc32/include/mw/siphttpdigest.h	export	
+/epoc32/include/mw/siphttpdigestchallengeobserver.h	export	
+/epoc32/include/mw/siphttpdigestchallengeobserver2.h	export	
+/epoc32/include/mw/sipinvitedialogassoc.h	export	
+/epoc32/include/mw/sipmanagedprofile.h	export	
+/epoc32/include/mw/sipmanagedprofileregistry.h	export	
+/epoc32/include/mw/sipmessageelements.h	export	
+/epoc32/include/mw/sipnotifydialogassoc.h	export	
+/epoc32/include/mw/sipobserver.h	export	
+/epoc32/include/mw/sipparameterheaderbase.h	export	
+/epoc32/include/mw/sippassociateduriheader.h	export	
+/epoc32/include/mw/sipprofile.h	export	
+/epoc32/include/mw/sipprofilealrcontroller.h	export	
+/epoc32/include/mw/sipprofilealrobserver.h	export	
+/epoc32/include/mw/sipprofileregistry.h	export	
+/epoc32/include/mw/sipprofileregistrybase.h	export	
+/epoc32/include/mw/sipprofileregistryobserver.h	export	
+/epoc32/include/mw/sipprofileservercrkeys.h	export	
+/epoc32/include/mw/sipprofiletypeinfo.h	export	
+/epoc32/include/mw/sipproxyauthenticateheader.h	export	
+/epoc32/include/mw/sipproxyauthorizationheader.h	export	
+/epoc32/include/mw/sipproxyrequireheader.h	export	
+/epoc32/include/mw/siprackheader.h	export	
+/epoc32/include/mw/sipreferdialogassoc.h	export	
+/epoc32/include/mw/siprefertoheader.h	export	
+/epoc32/include/mw/siprefresh.h	export	
+/epoc32/include/mw/sipregistrationbinding.h	export	
+/epoc32/include/mw/sipregistrationcontext.h	export	
+/epoc32/include/mw/sipreplytoheader.h	export	
+/epoc32/include/mw/siprequestelements.h	export	
+/epoc32/include/mw/siprequireheader.h	export	
+/epoc32/include/mw/sipresolvedclient.h	export	
+/epoc32/include/mw/sipresolvedclient2.h	export	
+/epoc32/include/mw/sipresponseelements.h	export	
+/epoc32/include/mw/sipretryafterheader.h	export	
+/epoc32/include/mw/siprouteheader.h	export	
+/epoc32/include/mw/siprouteheaderbase.h	export	
+/epoc32/include/mw/siprseqheader.h	export	
+/epoc32/include/mw/sipsdkcrkeys.h	export	
+/epoc32/include/mw/sipsecurityclientheader.h	export	
+/epoc32/include/mw/sipsecurityheaderbase.h	export	
+/epoc32/include/mw/sipservertransaction.h	export	
+/epoc32/include/mw/sipstrings.h	export	
+/epoc32/include/mw/sipsubscribedialogassoc.h	export	
+/epoc32/include/mw/sipsubscriptionstateheader.h	export	
+/epoc32/include/mw/sipsupportedheader.h	export	
+/epoc32/include/mw/siptimestampheader.h	export	
+/epoc32/include/mw/siptoheader.h	export	
+/epoc32/include/mw/siptokenheaderbase.h	export	
+/epoc32/include/mw/siptransactionbase.h	export	
+/epoc32/include/mw/sipunsignedintheaderbase.h	export	
+/epoc32/include/mw/sipunsupportedheader.h	export	
+/epoc32/include/mw/sipwwwauthenticateheader.h	export	
+/epoc32/include/platform/mw/_sdpdefs.h	export	
+/epoc32/include/platform/mw/_sipcodecdefs.h	export	
+/epoc32/include/platform/mw/loc/sc/sipadapter.loc	export	
+/epoc32/include/platform/mw/msrtprekeyingobserver.h	export	
+/epoc32/include/platform/mw/msrtpstreamincontext.h	export	
+/epoc32/include/platform/mw/msrtpstreamoutcontext.h	export	
+/epoc32/include/platform/mw/rtp.inl	export	
+/epoc32/include/platform/mw/rtp_proto_id.h	export	
+/epoc32/include/platform/mw/rtp_subconparams.h	export	
+/epoc32/include/platform/mw/rtp_uid.h	export	
+/epoc32/include/platform/mw/rtpapi.h	export	
+/epoc32/include/platform/mw/rtpdef.h	export	
+/epoc32/include/platform/mw/rtpheader.h	export	
+/epoc32/include/platform/mw/rtpprepostprocessingcallback.h	export	
+/epoc32/include/platform/mw/rtpsession_internal.h	export	
+/epoc32/include/platform/mw/rtpstpheader.h	export	
+/epoc32/include/platform/mw/sigcomp.h	export	
+/epoc32/include/platform/mw/sigcompcompartment.h	export	
+/epoc32/include/platform/mw/sigcompcompartmentcontext.h	export	
+/epoc32/include/platform/mw/sigcompstateitem.h	export	
+/epoc32/include/platform/mw/sipaccessnetworkinfo.h	export	
+/epoc32/include/platform/mw/sipaccessnetworkinfo.inl	export	
+/epoc32/include/platform/mw/sipbearermonitor.h	export	
+/epoc32/include/platform/mw/sipbearermonitor.inl	export	
+/epoc32/include/platform/mw/sipbearermonitorobserver.h	export	
+/epoc32/include/platform/mw/sipbearerowner.h	export	
+/epoc32/include/platform/mw/sipclientdiscovery.h	export	
+/epoc32/include/platform/mw/sipclientdiscoveryobserver.h	export	
+/epoc32/include/platform/mw/sipconcreteprofile.h	export	
+/epoc32/include/platform/mw/sipnatbindingobserver.h	export	
+/epoc32/include/platform/mw/sipnattraversalcontroller.h	export	
+/epoc32/include/platform/mw/sipnattraversalcontroller.inl	export	
+/epoc32/include/platform/mw/sipnattraversalcontrollerinitparams.h	export	
+/epoc32/include/platform/mw/sipnattraversalcontrollerinitparams.inl	export	
+/epoc32/include/platform/mw/sipnattraversalrequestobserver.h	export	
+/epoc32/include/platform/mw/sipnetworkinfoobserver.h	export	
+/epoc32/include/platform/mw/sipnetworkobserver.h	export	
+/epoc32/include/platform/mw/sipprofileagent.h	export	
+/epoc32/include/platform/mw/sipprofileagent.inl	export	
+/epoc32/include/platform/mw/sipprofileagentextensionparams.h	export	
+/epoc32/include/platform/mw/sipprofileagentinitparams.h	export	
+/epoc32/include/platform/mw/sipprofileagentinitparams.inl	export	
+/epoc32/include/platform/mw/sipprofileagentobserver.h	export	
+/epoc32/include/platform/mw/sipresolvedclient.inl	export	
+/epoc32/include/platform/mw/sipresolvedclient2.inl	export	
+/epoc32/include/platform/mw/sipsystemstatemonitor.h	export	
+/epoc32/include/platform/mw/sipsystemstatemonitor.inl	export	
+/epoc32/include/platform/mw/sipsystemstateobserver.h	export	
+/epoc32/include/platform/mw/srtpcryptocontext.h	export	
+/epoc32/include/platform/mw/srtpcryptoparams.h	export	
+/epoc32/include/platform/mw/srtpdef.h	export	
+/epoc32/include/platform/mw/srtpmasterkey.h	export	
+/epoc32/include/platform/mw/srtpmastersalt.h	export	
+/epoc32/include/platform/mw/srtpsession.h	export	
+/epoc32/include/platform/mw/srtpstream.h	export	
+/epoc32/include/platform/mw/srtpstreamin.h	export	
+/epoc32/include/platform/mw/srtpstreamout.h	export	
+/epoc32/include/sdpcodecstringconstants.h	stringtable	armv5_urel
+/epoc32/include/sdpcodecstringconstants.h	stringtable	winscw_udeb
+/epoc32/include/sipstrconsts.h	stringtable	armv5_urel
+/epoc32/include/sipstrconsts.h	stringtable	winscw_udeb
+/epoc32/include/wpsipadapter.rsg	resource	armv5_urel
+/epoc32/include/wpsipadapter.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/rtp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpcore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpcore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpcore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpcore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpremoved.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpremoved.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpremoved{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpremoved{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpstppacket.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpstppacket.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtpstppacket{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtpstppacket{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rtp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rtp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sdpcodec.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sdpcodec.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sdpcodec{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sdpcodec{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sigcomp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sigcomp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sigcomp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sigcomp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipcodec.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipcodec.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipcodec{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipcodec{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipdummyprt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipdummyprt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipdummyprt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipdummyprt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipprofile.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipprofile.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipprofilecli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipprofilecli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipprofilecli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipprofilecli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipprofilefsm.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipprofilefsm.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipprofilefsm{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipprofilefsm{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipprofile{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipprofile{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipproviders.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipproviders.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipproviders{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipproviders{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipproxyrsv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipproxyrsv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipproxyrsv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipproxyrsv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipresolver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipresolver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipresolver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipresolver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/siprsvclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/siprsvclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/siprsvclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/siprsvclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipstatemachine.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipstatemachine.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sipstatemachine{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sipstatemachine{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/srtp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/srtp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/srtp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/srtp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/cfrtp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cfrtp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/deflatecomp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/deflatecomp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmsipadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldmsipadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpcore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpcore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpremoved.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpremoved.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpstppacket.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rtpstppacket.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sdpcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sigcomp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sigcomp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipdigest.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipdigest.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipdummyprt.prt	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipdummyprt.prt.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipgprsmon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipgprsmon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siph2lanbearermonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/siph2lanbearermonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipietfagnt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipietfagnt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipimsagnt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipimsagnt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipipsec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipipsec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofile.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofile.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofilecli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofilecli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofilefsm.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofilefsm.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofilesrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipprofilesrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipproviders.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipproviders.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipproxyrsv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipproxyrsv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipreqhand.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipreqhand.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipresolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipresolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siprsvclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/siprsvclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siprsvsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/siprsvsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipsigcomp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipsigcomp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipstatemachine.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipstatemachine.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipsystemstatemonitor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipsystemstatemonitor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/siptls.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/siptls.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipwlanmon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sipwlanmon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/srtp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/srtp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpsipadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wpsipadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/cfrtp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cfrtp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/deflatecomp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/deflatecomp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmsipadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldmsipadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtpcore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtpcore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtpremoved.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtpremoved.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtpservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtpservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rtpstppacket.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rtpstppacket.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sdpcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sdpcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sigcomp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sigcomp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipdigest.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipdigest.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipdummyprt.prt	build	armv5_urel
+/epoc32/release/armv5/urel/sipdummyprt.prt.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipgprsmon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipgprsmon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/siph2lanbearermonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/siph2lanbearermonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipietfagnt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipietfagnt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipimsagnt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipimsagnt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipipsec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipipsec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofile.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofile.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofilecli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofilecli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofilefsm.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofilefsm.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofilesrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sipprofilesrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipproviders.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipproviders.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipproxyrsv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipproxyrsv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipreqhand.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipreqhand.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipresolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipresolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/siprsvclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/siprsvclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/siprsvsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/siprsvsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sipserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipsigcomp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipsigcomp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipstatemachine.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipstatemachine.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipsystemstatemonitor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipsystemstatemonitor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/siptls.dll	build	armv5_urel
+/epoc32/release/armv5/urel/siptls.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sipwlanmon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sipwlanmon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/srtp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/srtp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wpsipadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wpsipadapter.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/cfrtp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/deflatecomp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldmsipadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpcore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpcore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpremoved.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpremoved.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpstppacket.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rtpstppacket.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sdpcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sdpcodec.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sigcomp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sigcomp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipcodec.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipdigest.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipdummyprt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipdummyprt.prt	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipgprsmon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipietfagnt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipimsagnt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipipsec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipprofile.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipprofile.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipprofilecli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipprofilecli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipprofilefsm.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipprofilefsm.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipprofilesrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipproviders.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipproviders.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipproxyrsv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipproxyrsv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipreqhand.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipresolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipresolver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/siprsvclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/siprsvclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/siprsvsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipsigcomp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipstatemachine.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipstatemachine.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipsystemstatemonitor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/siptls.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sipwlanmon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/srtp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/srtp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wpsipadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f413c/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f7988/esock_sip.cmi	export	
+/epoc32/release/winscw/udeb/z/private/101f7989/esock/sip.providers.esk	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/101f413c.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/101fed88.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10282ee7.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/2001f889.txt	export	
+/epoc32/release/winscw/udeb/z/resource/plugins/cfrtp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/deflatecomp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldmsipadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipdigest.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipgprsmon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipietfagnt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipimsagnt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipipsec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipproviders.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipreqhand.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipsigcomp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipsystemstatemonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/siptls.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sipwlanmon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/wpsipadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpsipadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/wpsipadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/cfrtp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cfrtp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/deflatecomp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/deflatecomp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmsipadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldmsipadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtpcore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtpcore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtpremoved.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtpremoved.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtpservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtpservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rtpstppacket.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rtpstppacket.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sdpcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sdpcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sigcomp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sigcomp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipdigest.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipdigest.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipdummyprt.prt	build	winscw_urel
+/epoc32/release/winscw/urel/sipdummyprt.prt.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipgprsmon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipgprsmon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipietfagnt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipietfagnt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipimsagnt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipimsagnt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipipsec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipipsec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofile.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofile.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofilecli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofilecli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofilefsm.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofilefsm.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofilesrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sipprofilesrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipproviders.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipproviders.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipproxyrsv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipproxyrsv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipreqhand.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipreqhand.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipresolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipresolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/siprsvclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/siprsvclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/siprsvsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/siprsvsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sipserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipsigcomp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipsigcomp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipstatemachine.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipstatemachine.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipsystemstatemonitor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipsystemstatemonitor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/siptls.dll	build	winscw_urel
+/epoc32/release/winscw/urel/siptls.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sipwlanmon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sipwlanmon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/srtp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/srtp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wpsipadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wpsipadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101f413c/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101f7988/esock_sip.cmi	export	
+/epoc32/release/winscw/urel/z/private/101f7989/esock/sip.providers.esk	export	
+/epoc32/release/winscw/urel/z/private/10202be9/101f413c.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/101fed88.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10282ee7.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/2001f889.txt	export	
+/epoc32/release/winscw/urel/z/resource/plugins/cfrtp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/deflatecomp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldmsipadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipdigest.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipgprsmon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipietfagnt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipimsagnt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipipsec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipproviders.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipreqhand.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipsigcomp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipsystemstatemonitor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/siptls.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sipwlanmon.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/wpsipadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpsipadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/wpsipadapter.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/symbianos/confml/sipframework.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/sipframework_101f413c.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/sipframework_101fed88.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/sipframework_10282ee7.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/sipframework_2001f889.crml	export	
+/epoc32/rom/include/core/mw/cfrtp.iby	export	
+/epoc32/rom/include/core/mw/dmsipadapter.iby	export	
+/epoc32/rom/include/core/mw/rtp.iby	export	
+/epoc32/rom/include/core/mw/rtpcore.iby	export	
+/epoc32/rom/include/core/mw/rtpservice.iby	export	
+/epoc32/rom/include/core/mw/shimrtp.iby	export	
+/epoc32/rom/include/core/mw/sipadapter.iby	export	
+/epoc32/rom/include/core/mw/sipdummyprt.iby	export	
+/epoc32/rom/include/core/mw/siph2lanbearermonitor.iby	export	
+/epoc32/rom/include/core/mw/sipproviders.iby	export	
+/epoc32/rom/include/core/mw/sipstatemachine.iby	export	
+/epoc32/rom/include/core/mw/sipsw.iby	export	
+/epoc32/rom/include/core/mw/sipsystemstatemonitor.iby	export	
+/epoc32/rom/include/core/mw/sipwlanplugin.iby	export	
+/epoc32/rom/include/core/mw/srtp.iby	export	
+/epoc32/rom/include/language/mw/sipadapter_resources.iby	export	
+/epoc32/winscw/c/private/101f5d36/sipsdp.dic	export	
+/epoc32/winscw/c/private/101f7989/esock/ip.rtp.esk	export	

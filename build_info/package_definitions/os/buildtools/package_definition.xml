@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="os" long-name="OS" levels="hw services">
+   <block name="buildtools" level="hw" levels="bld mw fw ui" long-name="Build Tools">
+<collection name="bldsystemtools" long-name="Build System Tools" level="bld">
+<component name="sysdeftools" long-name="System Definition Tools" introduced="^2" purpose="development">
+<unit mrp="/sf/os/buildtools/bldsystemtools/sysdeftools/group/sysdeftools.mrp"/>
+</component>
+<component name="commonbldutils" long-name="Common Utils" purpose="development">
+<unit mrp="/sf/os/buildtools/bldsystemtools/commonbldutils/tools_utils_common.mrp"/>
+</component>
+</collection>
+<collection name="toolsandutils" long-name="Tools and Utils" level="mw">
+<component name="productionbldtools" long-name="Production Build Tools" filter="gt" purpose="development">
+<unit mrp="/sf/os/buildtools/toolsandutils/productionbldtools/product_tools.mrp"/>
+</component>
+<component name="e32tools" long-name="E32 Tools" deprecated="^2" purpose="development" class="PC">
+<unit bldFile="/sf/os/buildtools/toolsandutils/e32tools/group" mrp="/sf/os/buildtools/toolsandutils/e32tools/group/tools_e32tools.mrp"/>
+</component>
+<component name="autotest" long-name="Autotest" purpose="development">
+<unit bldFile="/sf/os/buildtools/toolsandutils/autotest/group" mrp="/sf/os/buildtools/toolsandutils/autotest/group/tools_autotest.mrp"/>
+</component>
+</collection>
+<collection name="sbsv1_os" long-name="Symbian Build System v1" level="fw">
+<component name="e32toolp" long-name="E32 Perl Tools" filter="sf_build" purpose="development" class="PC">
+<unit bldFile="/sf/os/buildtools/sbsv1_os/e32toolp/group" mrp="/sf/os/buildtools/sbsv1_os/e32toolp/group/tools_e32toolp.mrp"/>
+</component>
+</collection>
+<collection name="imgtools_os" long-name="Image Tools" level="fw">
+<component name="romkiteka2" long-name="ROMKIT EKA2" deprecated="^2" purpose="development">
+<unit bldFile="/sf/os/buildtools/imgtools_os/romkiteka2/group" mrp="/sf/os/buildtools/imgtools_os/romkiteka2/group/tools_romkit.mrp"/>
+</component>
+</collection>
+<collection name="misccomponents" long-name="Misc Components" level="mw">
+<component name="emulatorlauncher" long-name="Emulator Launcher" filter="gt" purpose="development">
+<unit bldFile="/sf/os/buildtools/misccomponents/emulatorlauncher/group" mrp="/sf/os/buildtools/misccomponents/emulatorlauncher/group/tools_sdk_eng_emulator_launcher.mrp"/>
+</component>
+</collection>
+<collection name="buildtools_info" long-name="Build Tools Info" level="ui">
+<component name="buildtools_metadata" long-name="Build Tools Metadata" introduced="^2" purpose="development" class="config PC">
+<unit mrp="/sf/os/buildtools/buildtools_info/buildtools_metadata/buildtools_metadata.mrp"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

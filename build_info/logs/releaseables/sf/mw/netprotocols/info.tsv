@@ -1,0 +1,532 @@
+/epoc32/data/z/private/101F8530/CookieGroup.xml	export	
+/epoc32/data/z/private/10202be9/10205af8.txt	export	
+/epoc32/data/z/private/10202be9/10205af9.txt	export	
+/epoc32/data/z/private/10202be9/10205afa.txt	export	
+/epoc32/data/z/private/10202be9/10205afb.txt	export	
+/epoc32/data/z/private/102078cb/backup_registration.xml	export	
+/epoc32/data/z/private/20009d70/backup_registration.xml	export	
+/epoc32/data/z/private/20009d70/ineturilist.xml	export	
+/epoc32/data/z/private/20009d70/tldpolicy.xml	export	
+/epoc32/data/z/resource/errors/httpclienterr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/httpclienterr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/errors/wapbaseerr.r01	resource	armv5_urel
+/epoc32/data/z/resource/errors/wapbaseerr.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/cookiefilter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/cookiefilter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/deflatefilter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/deflatefilter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpclient.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpclient.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpclientcodec.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpclientcodec.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpfilterauthentication.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpfilterauthentication.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpfilteriop.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpfilteriop.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httpsecuresocket.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httpsecuresocket.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/httptransporthandler.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/httptransporthandler.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tfcorefilters.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tfcorefilters.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/ineturilist_stub.sis	build	armv5_urel
+/epoc32/engdoc/application-protocols/httpclientinternaldocumentation.chm	export	
+/epoc32/engdoc/application-protocols/httpclientpublicapi.chm	export	
+/epoc32/include/httpstringconstants.h	stringtable	armv5_urel
+/epoc32/include/httpstringconstants.h	stringtable	winscw_udeb
+/epoc32/include/mw/ansicomp.h	export	
+/epoc32/include/mw/attrlut.h	export	
+/epoc32/include/mw/cbnfnode.h	export	
+/epoc32/include/mw/cbnfparser.h	export	
+/epoc32/include/mw/cdtdmodel.h	export	
+/epoc32/include/mw/cfragmentedstring.h	export	
+/epoc32/include/mw/chttpclienttransaction.h	export	
+/epoc32/include/mw/chttpformencoder.h	export	
+/epoc32/include/mw/chttpnetworkconnectioninfo.h	export	
+/epoc32/include/mw/chttpresponse.h	export	
+/epoc32/include/mw/chttpservice.h	export	
+/epoc32/include/mw/cmarkedstack.h	export	
+/epoc32/include/mw/cnode.h	export	
+/epoc32/include/mw/cnodeleteattribute.h	export	
+/epoc32/include/mw/crulemarkedstack.h	export	
+/epoc32/include/mw/cstack.h	export	
+/epoc32/include/mw/dtdnode.h	export	
+/epoc32/include/mw/estatus.h	export	
+/epoc32/include/mw/http.h	export	
+/epoc32/include/mw/http/cauthenticationfilterinterface.h	export	
+/epoc32/include/mw/http/cecomfilter.h	export	
+/epoc32/include/mw/http/framework/cheadercodec.h	export	
+/epoc32/include/mw/http/framework/cprotocolhandler.h	export	
+/epoc32/include/mw/http/framework/cprottransaction.h	export	
+/epoc32/include/mw/http/framework/crxdata.h	export	
+/epoc32/include/mw/http/framework/csecuritypolicy.h	export	
+/epoc32/include/mw/http/framework/csecuritypolicy.inl	export	
+/epoc32/include/mw/http/framework/ctxdata.h	export	
+/epoc32/include/mw/http/framework/httplogger.h	export	
+/epoc32/include/mw/http/framework/mrxdataobserver.h	export	
+/epoc32/include/mw/http/framework/rheaderfield.h	export	
+/epoc32/include/mw/http/mhttpauthenticationcallback.h	export	
+/epoc32/include/mw/http/mhttpdataoptimiser.h	export	
+/epoc32/include/mw/http/mhttpdatasupplier.h	export	
+/epoc32/include/mw/http/mhttpfilter.h	export	
+/epoc32/include/mw/http/mhttpfilterbase.h	export	
+/epoc32/include/mw/http/mhttpfiltercreationcallback.h	export	
+/epoc32/include/mw/http/mhttpsessioneventcallback.h	export	
+/epoc32/include/mw/http/mhttptransactioncallback.h	export	
+/epoc32/include/mw/http/rhttpconnectioninfo.h	export	
+/epoc32/include/mw/http/rhttpfiltercollection.h	export	
+/epoc32/include/mw/http/rhttpheaders.h	export	
+/epoc32/include/mw/http/rhttpmessage.h	export	
+/epoc32/include/mw/http/rhttppropertyset.h	export	
+/epoc32/include/mw/http/rhttprequest.h	export	
+/epoc32/include/mw/http/rhttpresponse.h	export	
+/epoc32/include/mw/http/rhttpsession.h	export	
+/epoc32/include/mw/http/rhttptransaction.h	export	
+/epoc32/include/mw/http/rhttptransactionpropertyset.h	export	
+/epoc32/include/mw/http/tfilterconfigurationiter.h	export	
+/epoc32/include/mw/http/tfilterinformation.h	export	
+/epoc32/include/mw/http/thttpevent.h	export	
+/epoc32/include/mw/http/thttpevent.inl	export	
+/epoc32/include/mw/http/thttpfilterhandle.h	export	
+/epoc32/include/mw/http/thttpfilteriterator.h	export	
+/epoc32/include/mw/http/thttpfilterregistration.h	export	
+/epoc32/include/mw/http/thttphdrfielditer.h	export	
+/epoc32/include/mw/http/thttphdrval.h	export	
+/epoc32/include/mw/httperr.h	export	
+/epoc32/include/mw/httpheaderiter.h	export	
+/epoc32/include/mw/httpservice.h	export	
+/epoc32/include/mw/httpstd.h	export	
+/epoc32/include/mw/ineturi.h	export	
+/epoc32/include/mw/ineturilist.h	export	
+/epoc32/include/mw/ineturilistdef.h	export	
+/epoc32/include/mw/logdef.h	export	
+/epoc32/include/mw/mdataproviderobserver.h	export	
+/epoc32/include/mw/mdptx.h	export	
+/epoc32/include/mw/mframeworksp.h	export	
+/epoc32/include/mw/mhttpcontentsink.h	export	
+/epoc32/include/mw/mhttpcontentsource.h	export	
+/epoc32/include/mw/mhttpserviceauthentication.h	export	
+/epoc32/include/mw/mwappluginsp.h	export	
+/epoc32/include/mw/mwbxmlconverterobserver.h	export	
+/epoc32/include/mw/pragmamessage.h	export	
+/epoc32/include/mw/telsess.h	export	
+/epoc32/include/mw/thttpheadervaluevariant.h	export	
+/epoc32/include/mw/tldlistdef.h	export	
+/epoc32/include/mw/wapattrdf.h	export	
+/epoc32/include/mw/wapengstd.h	export	
+/epoc32/include/mw/waplog.h	export	
+/epoc32/include/mw/waptestutils.h	export	
+/epoc32/include/mw/wbconverter.h	export	
+/epoc32/include/mw/wsp/wsptypes.h	export	
+/epoc32/include/mw/xmlelemt.h	export	
+/epoc32/include/platform/mw/bookmark.h	export	
+/epoc32/include/platform/mw/bookmarkdatabase.h	export	
+/epoc32/include/platform/mw/bookmarkdef.h	export	
+/epoc32/include/platform/mw/cmarkedstack.inl	export	
+/epoc32/include/platform/mw/cnode.inl	export	
+/epoc32/include/platform/mw/cookie.h	export	
+/epoc32/include/platform/mw/cookie.inl	export	
+/epoc32/include/platform/mw/cookiefilterinterface.h	export	
+/epoc32/include/platform/mw/cookieipc.h	export	
+/epoc32/include/platform/mw/cookiemanagerclient.h	export	
+/epoc32/include/platform/mw/crulemarkedstack.inl	export	
+/epoc32/include/platform/mw/cstack.inl	export	
+/epoc32/include/platform/mw/deflatefilterinterface.h	export	
+/epoc32/include/platform/mw/dtdnode.inl	export	
+/epoc32/include/platform/mw/ftpprot.h	export	
+/epoc32/include/platform/mw/ftpsess.h	export	
+/epoc32/include/platform/mw/http/framework/cheadercodecplugin.h	export	
+/epoc32/include/platform/mw/http/framework/logging.h	export	
+/epoc32/include/platform/mw/http/rexplicithttpsession.h	export	
+/epoc32/include/platform/mw/http/thttptable.h	export	
+/epoc32/include/platform/mw/httpcachemanager.h	export	
+/epoc32/include/platform/mw/httpcachemanagerinternalcrkeys.h	export	
+/epoc32/include/platform/mw/httpfilteracceptheaderinterface.h	export	
+/epoc32/include/platform/mw/httpfilterauthenticationinterface.h	export	
+/epoc32/include/platform/mw/httpfiltercommonstringsaddition.h	export	
+/epoc32/include/platform/mw/httpfiltercommonstringsext.h	export	
+/epoc32/include/platform/mw/httpfilterconnhandlerinterface.h	export	
+/epoc32/include/platform/mw/httpfilteriopinterface.h	export	
+/epoc32/include/platform/mw/httpfilterproxyinterface.h	export	
+/epoc32/include/platform/mw/httpsocketconstants.h	export	
+/epoc32/include/platform/mw/mconnectioncallback.h	export	
+/epoc32/include/platform/mw/uaproffilter_interface.h	export	
+/epoc32/include/platform/mw/uaproffilter_interface.inl	export	
+/epoc32/include/platform/mw/waptestutils.inl	export	
+/epoc32/release/armv5/lib/HttpFilterCommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HttpFilterCommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/HttpFilterCommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/HttpFilterCommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bnf.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bnf.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bnf{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bnf{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bookmarkdb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bookmarkdb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bookmarkdb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bookmarkdb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cookiemanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cookiemanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cookiemanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cookiemanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dtdmdl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dtdmdl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dtdmdl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dtdmdl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftpprot.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftpprot.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftpprot{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftpprot{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftpsess.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftpsess.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ftpsess{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ftpsess{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/http.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/http.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httpmessage.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httpmessage.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httpmessage{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httpmessage{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httpresponse.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httpresponse.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httpresponse{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httpresponse{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httpservice.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httpservice.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httpservice{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httpservice{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httputils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httputils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/httputils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/httputils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/http{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/http{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ineturilist.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ineturilist.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ineturilist{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ineturilist{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telsess.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telsess.dso	build	armv5_urel
+/epoc32/release/armv5/lib/telsess{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/telsess{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wbxmllib.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wbxmllib.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wbxmllib{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wbxmllib{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wnode.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wnode.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wnode{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wnode{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlelemt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlelemt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/xmlelemt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/xmlelemt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/CookieServer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/CookieServer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/DeflateFilter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/DeflateFilter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HttpFilterAuthentication.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HttpFilterAuthentication.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/HttpFilterCommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/HttpFilterCommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bnf.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bnf.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bookmarkdb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bookmarkdb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cookiefilter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cookiefilter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cookiemanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cookiemanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dtdmdl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dtdmdl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftp.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftp.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftpprot.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftpprot.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftpsess.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ftpsess.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/http.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/http.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpclientcodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpclientcodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpexampleclient.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpexampleclient.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpfilterIop.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpfilterIop.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpmessage.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpmessage.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpresponse.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpresponse.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpsecuresocket.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpsecuresocket.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpservice.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httpservice.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httptransporthandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httptransporthandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/httputils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/httputils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ineturilist.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ineturilist.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ineturilistserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/ineturilistserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/telsess.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/telsess.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/testwebbrowser.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/testwebbrowser.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tfcorefilters.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tfcorefilters.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wbxmllib.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wbxmllib.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wnode.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wnode.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlelemt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/xmlelemt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/CookieServer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/CookieServer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/DeflateFilter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/DeflateFilter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HttpFilterAuthentication.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HttpFilterAuthentication.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/HttpFilterCommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/HttpFilterCommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bnf.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bnf.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bookmarkdb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bookmarkdb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cookiefilter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cookiefilter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cookiemanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cookiemanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dtdmdl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dtdmdl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftp.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ftp.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftpprot.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ftpprot.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ftpsess.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ftpsess.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/http.dll	build	armv5_urel
+/epoc32/release/armv5/urel/http.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpclientcodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpclientcodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpexampleclient.exe	build	armv5_urel
+/epoc32/release/armv5/urel/httpexampleclient.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpfilterIop.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpfilterIop.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpmessage.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpmessage.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpresponse.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpresponse.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpsecuresocket.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpsecuresocket.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httpservice.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httpservice.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httptransporthandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httptransporthandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/httputils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/httputils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ineturilist.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ineturilist.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ineturilistserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/ineturilistserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/telsess.dll	build	armv5_urel
+/epoc32/release/armv5/urel/telsess.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/testwebbrowser.exe	build	armv5_urel
+/epoc32/release/armv5/urel/testwebbrowser.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/tfcorefilters.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tfcorefilters.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wbxmllib.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wbxmllib.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wnode.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wnode.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/xmlelemt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/xmlelemt.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/CookieServer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/DeflateFilter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HttpFilterAuthentication.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HttpFilterCommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/HttpFilterCommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bnf.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bnf.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bookmarkdb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bookmarkdb.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cookiefilter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cookiemanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cookiemanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dtdmdl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dtdmdl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftp.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftpprot.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftpprot.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftpsess.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ftpsess.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/http.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/http.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpclientcodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpexampleclient.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpfilterIop.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpmessage.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpmessage.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpresponse.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpresponse.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpsecuresocket.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpservice.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httpservice.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/httptransporthandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httputils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/httputils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ineturilist.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ineturilist.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ineturilistserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/telsess.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/telsess.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/testwebbrowser.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/tfcorefilters.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wbxmllib.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wbxmllib.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wnode.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wnode.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlelemt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/xmlelemt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202be9/10205af8.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10205af9.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10205afa.txt	export	
+/epoc32/release/winscw/udeb/z/private/10202be9/10205afb.txt	export	
+/epoc32/release/winscw/udeb/z/private/102078cb/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/20009d70/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/20009d70/ineturilist.xml	export	
+/epoc32/release/winscw/udeb/z/private/20009d70/tldpolicy.xml	export	
+/epoc32/release/winscw/udeb/z/resource/errors/httpclienterr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/errors/wapbaseerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/cookiefilter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/deflatefilter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpclient.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpclientcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpfilterauthentication.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpfilteriop.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httpsecuresocket.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/httptransporthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tfcorefilters.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/system/install/ineturilist_stub.sis	build	winscw_udeb
+/epoc32/release/winscw/urel/CookieServer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/CookieServer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/DeflateFilter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/DeflateFilter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HttpFilterAuthentication.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HttpFilterAuthentication.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/HttpFilterCommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/HttpFilterCommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bnf.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bnf.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bookmarkdb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bookmarkdb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cookiefilter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cookiefilter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cookiemanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cookiemanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dtdmdl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dtdmdl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftp.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ftp.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftpprot.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ftpprot.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ftpsess.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ftpsess.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/http.dll	build	winscw_urel
+/epoc32/release/winscw/urel/http.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpclientcodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpclientcodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpexampleclient.exe	build	winscw_urel
+/epoc32/release/winscw/urel/httpexampleclient.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpfilterIop.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpfilterIop.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpmessage.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpmessage.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpresponse.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpresponse.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpsecuresocket.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpsecuresocket.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httpservice.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httpservice.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httptransporthandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httptransporthandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/httputils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/httputils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ineturilist.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ineturilist.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ineturilistserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/ineturilistserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/telsess.dll	build	winscw_urel
+/epoc32/release/winscw/urel/telsess.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/testwebbrowser.exe	build	winscw_urel
+/epoc32/release/winscw/urel/testwebbrowser.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/tfcorefilters.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tfcorefilters.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wbxmllib.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wbxmllib.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wnode.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wnode.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/xmlelemt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/xmlelemt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10202be9/10205af8.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10205af9.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10205afa.txt	export	
+/epoc32/release/winscw/urel/z/private/10202be9/10205afb.txt	export	
+/epoc32/release/winscw/urel/z/private/102078cb/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/20009d70/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/20009d70/ineturilist.xml	export	
+/epoc32/release/winscw/urel/z/private/20009d70/tldpolicy.xml	export	
+/epoc32/release/winscw/urel/z/resource/errors/httpclienterr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/errors/wapbaseerr.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/cookiefilter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/deflatefilter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpclient.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpclientcodec.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpfilterauthentication.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpfilteriop.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httpsecuresocket.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/httptransporthandler.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tfcorefilters.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/system/install/ineturilist_stub.sis	build	winscw_urel
+/epoc32/rom/config/assets/symbianos/confml/bookmarksupport.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/bookmarksupport_10205af8.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/bookmarksupport_10205af9.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/bookmarksupport_10205afa.crml	export	
+/epoc32/rom/config/assets/symbianos/implml/bookmarksupport_10205afb.crml	export	
+/epoc32/rom/include/bookmarkdb.iby	export	
+/epoc32/rom/include/core/mw/CookieFilter.iby	export	
+/epoc32/rom/include/core/mw/CookieManager.iby	export	
+/epoc32/rom/include/core/mw/HttpFilterAuthentication.iby	export	
+/epoc32/rom/include/core/mw/HttpFilterCommon.iby	export	
+/epoc32/rom/include/core/mw/HttpFilterIop.iby	export	
+/epoc32/rom/include/core/mw/deflatefilter.iby	export	
+/epoc32/rom/include/ftp_e.iby	export	
+/epoc32/rom/include/http.iby	export	
+/epoc32/rom/include/httpcore.iby	export	
+/epoc32/rom/include/httpservice.iby	export	
+/epoc32/rom/include/httpservicetest.iby	export	
+/epoc32/rom/include/ineturilist.iby	export	
+/epoc32/rom/include/telnet_e.iby	export	
+/epoc32/rom/include/transporthandler.iby	export	
+/epoc32/rom/include/wappushsupport.iby	export	
+/epoc32/wins/c/system/data/plugins/si10.tok	export	
+/epoc32/wins/c/system/data/plugins/sl10.tok	export	

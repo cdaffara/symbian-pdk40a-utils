@@ -1,0 +1,1236 @@
+/epoc32/data/z/private/10003a3f/apps/tiger_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/tiger_reg.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/tiger.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/tiger.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/tiger_icon.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/plugins/10281922.rsc	resource	armv5smp_udeb
+/epoc32/data/z/resource/plugins/10281922.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/10286378.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/10286378.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/2001b70b.rsc	resource	armv5smp_udeb
+/epoc32/data/z/resource/plugins/2001b70b.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/printers/CANON.pdr	build	armv5_udeb
+/epoc32/data/z/resource/printers/CANON.pdr	build	armv5_urel
+/epoc32/data/z/resource/printers/EPSON.pdr	build	armv5_udeb
+/epoc32/data/z/resource/printers/EPSON.pdr	build	armv5_urel
+/epoc32/data/z/resource/printers/GENERAL.pdr	build	armv5_udeb
+/epoc32/data/z/resource/printers/GENERAL.pdr	build	armv5_urel
+/epoc32/data/z/resource/printers/PCL5.pdr	build	armv5_udeb
+/epoc32/data/z/resource/printers/PCL5.pdr	build	armv5_urel
+/epoc32/data/z/resource/printers/canon.r01	resource	armv5_urel
+/epoc32/data/z/resource/printers/canon.r01	resource	winscw_udeb
+/epoc32/data/z/resource/printers/canon.r10	resource	armv5_urel
+/epoc32/data/z/resource/printers/canon.r10	resource	winscw_udeb
+/epoc32/data/z/resource/printers/epson.r01	resource	armv5_urel
+/epoc32/data/z/resource/printers/epson.r01	resource	winscw_udeb
+/epoc32/data/z/resource/printers/epson.r10	resource	armv5_urel
+/epoc32/data/z/resource/printers/epson.r10	resource	winscw_udeb
+/epoc32/data/z/resource/printers/general.r01	resource	armv5_urel
+/epoc32/data/z/resource/printers/general.r01	resource	winscw_udeb
+/epoc32/data/z/resource/printers/general.r10	resource	armv5_urel
+/epoc32/data/z/resource/printers/general.r10	resource	winscw_udeb
+/epoc32/data/z/resource/printers/pcl5.r01	resource	armv5_urel
+/epoc32/data/z/resource/printers/pcl5.r01	resource	winscw_udeb
+/epoc32/data/z/resource/printers/pcl5.r10	resource	armv5_urel
+/epoc32/data/z/resource/printers/pcl5.r10	resource	winscw_udeb
+/epoc32/data/z/wsini_minigui-stripped.ini	export	
+/epoc32/data/z/wsini_minigui.ini	export	
+/epoc32/engdoc/tools/bmconv.ipr	export	
+/epoc32/engdoc/tools/fnttran.ipr	export	
+/epoc32/engdoc/tools/fontcomp.ipr	export	
+/epoc32/engdoc/tools/pdrtran.ipr	export	
+/epoc32/include/10281922.rsg	resource	armv5smp_udeb
+/epoc32/include/10281922.rsg	resource	winscw_udeb
+/epoc32/include/10286378.rsg	resource	armv5_urel
+/epoc32/include/10286378.rsg	resource	winscw_udeb
+/epoc32/include/2001b70b.rsg	resource	armv5smp_udeb
+/epoc32/include/2001b70b.rsg	resource	winscw_udeb
+/epoc32/include/EGL/egl.h	export	
+/epoc32/include/EGL/eglext.h	export	
+/epoc32/include/EGL/egltypes.h	export	
+/epoc32/include/EGL/egluids.hrh	export	
+/epoc32/include/GLES/egl.h	export	
+/epoc32/include/GLES/egltypes.h	export	
+/epoc32/include/GLES/gl.h	export	
+/epoc32/include/GLES/glext.h	export	
+/epoc32/include/GLES/glextplatform.h	export	
+/epoc32/include/GLES/glplatform.h	export	
+/epoc32/include/GLES/legacy_egl_1_1/egl.h	export	
+/epoc32/include/GLES/legacy_egl_1_1/egltypes.h	export	
+/epoc32/include/GLES/openglesuids.hrh	export	
+/epoc32/include/GLES2/gl2.h	export	
+/epoc32/include/GLES2/gl2ext.h	export	
+/epoc32/include/GLES2/gl2extplatform.h	export	
+/epoc32/include/GLES2/gl2platform.h	export	
+/epoc32/include/GLES2/openglesuids.hrh	export	
+/epoc32/include/KHR/khrplatform.h	export	
+/epoc32/include/VG/1.0/openvg.h	export	
+/epoc32/include/VG/1.0/vgu.h	export	
+/epoc32/include/VG/1.1/openvg.h	export	
+/epoc32/include/VG/1.1/vgu.h	export	
+/epoc32/include/VG/openvg.h	export	
+/epoc32/include/VG/openvguids.hrh	export	
+/epoc32/include/VG/vgu.h	export	
+/epoc32/include/WF/openwfc_ri_display.h	export	
+/epoc32/include/WF/openwfc_ri_display_update.h	export	
+/epoc32/include/WF/openwfcuids.hrh	export	
+/epoc32/include/WF/wfc.h	export	
+/epoc32/include/WF/wfcext.h	export	
+/epoc32/include/WF/wfcplatform.h	export	
+/epoc32/include/advancedpointerevent.h	export	
+/epoc32/include/advancedpointerevent.inl	export	
+/epoc32/include/banddev.h	export	
+/epoc32/include/bidi.h	export	
+/epoc32/include/biditext.h	export	
+/epoc32/include/bidivisual.h	export	
+/epoc32/include/bitbase.h	export	
+/epoc32/include/bitdev.h	export	
+/epoc32/include/bitdev.inl	export	
+/epoc32/include/bitmap.h	export	
+/epoc32/include/bitstd.h	export	
+/epoc32/include/canon.rsg	resource	armv5_urel
+/epoc32/include/canon.rsg	resource	winscw_udeb
+/epoc32/include/def/eabi/libegl12u.def	export	
+/epoc32/include/def/eabi/libegl13u.def	export	
+/epoc32/include/def/eabi/libegl14u.def	export	
+/epoc32/include/def/eabi/libglesv1_cm11u.def	export	
+/epoc32/include/def/eabi/libglesv2u.def	export	
+/epoc32/include/def/eabi/libopenvg10u.def	export	
+/epoc32/include/def/eabi/libopenvg11u.def	export	
+/epoc32/include/def/eabi/libopenvgu10u.def	export	
+/epoc32/include/def/eabi/libopenvgu11u.def	export	
+/epoc32/include/def/eabi/opengles11u.def	export	
+/epoc32/include/def/eabi/openglesu.def	export	
+/epoc32/include/def/eabi/wsclicku.def	export	
+/epoc32/include/def/win32/libegl12u.def	export	
+/epoc32/include/def/win32/libegl13u.def	export	
+/epoc32/include/def/win32/libegl14u.def	export	
+/epoc32/include/def/win32/libglesv1_cm11u.def	export	
+/epoc32/include/def/win32/libglesv2u.def	export	
+/epoc32/include/def/win32/libopenvg10u.def	export	
+/epoc32/include/def/win32/libopenvg11u.def	export	
+/epoc32/include/def/win32/libopenvgu10u.def	export	
+/epoc32/include/def/win32/libopenvgu11u.def	export	
+/epoc32/include/def/win32/opengles11u.def	export	
+/epoc32/include/def/win32/openglesu.def	export	
+/epoc32/include/displaymode.h	export	
+/epoc32/include/eglosnativewindowtype.h	export	
+/epoc32/include/epson.rsg	resource	armv5_urel
+/epoc32/include/epson.rsg	resource	winscw_udeb
+/epoc32/include/fbs.h	export	
+/epoc32/include/gdi.h	export	
+/epoc32/include/gdi.inl	export	
+/epoc32/include/general.rsg	resource	armv5_urel
+/epoc32/include/general.rsg	resource	winscw_udeb
+/epoc32/include/graphics/def/bwins/directgdiadapteru.def	export	
+/epoc32/include/graphics/def/bwins/fbsrasterizeru.def	export	
+/epoc32/include/graphics/def/bwins/graphicsresourceadapteru.def	export	
+/epoc32/include/graphics/def/eabi/directgdiadapteru.def	export	
+/epoc32/include/graphics/def/eabi/fbsrasterizeru.def	export	
+/epoc32/include/graphics/def/eabi/graphicsresourceadapteru.def	export	
+/epoc32/include/graphics/eglsynchelper.h	export	
+/epoc32/include/graphics/fbsdefs.h	export	
+/epoc32/include/graphics/streammap.h	export	
+/epoc32/include/graphics/symbianstream.h	export	
+/epoc32/include/graphicsaccelerator.h	export	
+/epoc32/include/khronos_types.h	export	
+/epoc32/include/linebreak.h	export	
+/epoc32/include/palette.h	export	
+/epoc32/include/pcl5.rsg	resource	armv5_urel
+/epoc32/include/pcl5.rsg	resource	winscw_udeb
+/epoc32/include/pdrport.h	export	
+/epoc32/include/pdrstore.h	export	
+/epoc32/include/platform/M3G/m3g_core.h	export	
+/epoc32/include/platform/bitdraw.h	export	
+/epoc32/include/platform/bitdrawinterfaceid.h	export	
+/epoc32/include/platform/bitdraworigin.h	export	
+/epoc32/include/platform/bitdrawscaling.h	export	
+/epoc32/include/platform/bitdrawsurface.h	export	
+/epoc32/include/platform/bmalphablend.h	export	
+/epoc32/include/platform/cdsb.h	export	
+/epoc32/include/platform/def/eabi/libWFCu.def	export	
+/epoc32/include/platform/def/eabi/openwfc_ri_displayu.def	export	
+/epoc32/include/platform/def/eabi/sgresourceu.def	export	
+/epoc32/include/platform/def/win32/libWFCu.def	export	
+/epoc32/include/platform/def/win32/openwfc_ri_displayu.def	export	
+/epoc32/include/platform/def/win32/sgresourceu.def	export	
+/epoc32/include/platform/graphics/bitmap.inl	export	
+/epoc32/include/platform/graphics/bitmapuid.h	export	
+/epoc32/include/platform/graphics/blendingalgorithms.h	export	
+/epoc32/include/platform/graphics/blendingalgorithms.inl	export	
+/epoc32/include/platform/graphics/commandbuffer.h	export	
+/epoc32/include/platform/graphics/compositionsurfaceupdate.h	export	
+/epoc32/include/platform/graphics/contentreadyforcomposition.h	export	
+/epoc32/include/platform/graphics/def/bwins/keyrouteru.def	export	
+/epoc32/include/platform/graphics/def/eabi/keyrouteru.def	export	
+/epoc32/include/platform/graphics/directgdicontext.h	export	
+/epoc32/include/platform/graphics/directgdidrawablesource.h	export	
+/epoc32/include/platform/graphics/directgdidrawablesource.inl	export	
+/epoc32/include/platform/graphics/directgdidriver.h	export	
+/epoc32/include/platform/graphics/directgdidriverinternal.h	export	
+/epoc32/include/platform/graphics/directgdidriverinternal.inl	export	
+/epoc32/include/platform/graphics/directgdiengine.h	export	
+/epoc32/include/platform/graphics/directgdiextensioninterfaces.h	export	
+/epoc32/include/platform/graphics/directgdifont.h	export	
+/epoc32/include/platform/graphics/directgdiimagetarget.h	export	
+/epoc32/include/platform/graphics/directgdiimagetarget.inl	export	
+/epoc32/include/platform/graphics/directgdipanics.h	export	
+/epoc32/include/platform/graphics/directgdipanics.inl	export	
+/epoc32/include/platform/graphics/directgditypes.h	export	
+/epoc32/include/platform/graphics/displayconfiguration.h	export	
+/epoc32/include/platform/graphics/displayconfiguration.inl	export	
+/epoc32/include/platform/graphics/displaycontrol.h	export	
+/epoc32/include/platform/graphics/displaycontrolbase.h	export	
+/epoc32/include/platform/graphics/displaymapping.h	export	
+/epoc32/include/platform/graphics/extensioncontainer.h	export	
+/epoc32/include/platform/graphics/fbsglyphdataiterator.h	export	
+/epoc32/include/platform/graphics/fbsglyphmetricsarray.h	export	
+/epoc32/include/platform/graphics/fbsoogmmessage.h	export	
+/epoc32/include/platform/graphics/fbsoogmmessage.inl	export	
+/epoc32/include/platform/graphics/fbsrasterizer.h	export	
+/epoc32/include/platform/graphics/fbsrasterizerclearcache.h	export	
+/epoc32/include/platform/graphics/gdi/gdiconsts.h	export	
+/epoc32/include/platform/graphics/gdi/gdiinline.inl	export	
+/epoc32/include/platform/graphics/gdi/gdiplatapi.h	export	
+/epoc32/include/platform/graphics/gdi/gdistructs.h	export	
+/epoc32/include/platform/graphics/gdi/glyphsample.h	export	
+/epoc32/include/platform/graphics/lookuptable.h	export	
+/epoc32/include/platform/graphics/pointereventdata.h	export	
+/epoc32/include/platform/graphics/remotegc.h	export	
+/epoc32/include/platform/graphics/remotegcutils.h	export	
+/epoc32/include/platform/graphics/sgconst.h	export	
+/epoc32/include/platform/graphics/sgerror.h	export	
+/epoc32/include/platform/graphics/sgimage.h	export	
+/epoc32/include/platform/graphics/sgimage_chunk.h	export	
+/epoc32/include/platform/graphics/sgimage_sw.h	export	
+/epoc32/include/platform/graphics/sgimageadapter.h	export	
+/epoc32/include/platform/graphics/sgimagecollection.h	export	
+/epoc32/include/platform/graphics/sgimagecollectionadapter.h	export	
+/epoc32/include/platform/graphics/sgresource.h	export	
+/epoc32/include/platform/graphics/sgresource.inl	export	
+/epoc32/include/platform/graphics/sgresourceadapter.h	export	
+/epoc32/include/platform/graphics/sgresourceadapter.inl	export	
+/epoc32/include/platform/graphics/sgresourceinternal.h	export	
+/epoc32/include/platform/graphics/sgutils.h	export	
+/epoc32/include/platform/graphics/shapeimpl.h	export	
+/epoc32/include/platform/graphics/suerror.h	export	
+/epoc32/include/platform/graphics/surface.h	export	
+/epoc32/include/platform/graphics/surface_hints.h	export	
+/epoc32/include/platform/graphics/surfaceconfiguration.h	export	
+/epoc32/include/platform/graphics/surfaceconfiguration.inl	export	
+/epoc32/include/platform/graphics/surfacemanager.h	export	
+/epoc32/include/platform/graphics/surfacetypes.h	export	
+/epoc32/include/platform/graphics/surfaceupdateclient.h	export	
+/epoc32/include/platform/graphics/testscreencapture.h	export	
+/epoc32/include/platform/graphics/updateserverprovider.h	export	
+/epoc32/include/platform/graphics/w32stdgraphictest.h	export	
+/epoc32/include/platform/graphics/wscontentreadyforcomposition.h	export	
+/epoc32/include/platform/graphics/wscursor.h	export	
+/epoc32/include/platform/graphics/wsdisplaycontrol.h	export	
+/epoc32/include/platform/graphics/wsdisplaymapping.h	export	
+/epoc32/include/platform/graphics/wsdisplaypolicy.h	export	
+/epoc32/include/platform/graphics/wsdrawablesourceprovider.h	export	
+/epoc32/include/platform/graphics/wsdrawresource.h	export	
+/epoc32/include/platform/graphics/wselement.h	export	
+/epoc32/include/platform/graphics/wsgraphicdrawer.h	export	
+/epoc32/include/platform/graphics/wsgraphicdrawerinterface.h	export	
+/epoc32/include/platform/graphics/wsgraphicmsgbuf.h	export	
+/epoc32/include/platform/graphics/wsgraphicscontext.h	export	
+/epoc32/include/platform/graphics/wskeyrouter.h	export	
+/epoc32/include/platform/graphics/wsplugin.h	export	
+/epoc32/include/platform/graphics/wsrenderstage.h	export	
+/epoc32/include/platform/graphics/wsrenderstagefactory.h	export	
+/epoc32/include/platform/graphics/wsscene.h	export	
+/epoc32/include/platform/graphics/wsscreendevice.h	export	
+/epoc32/include/platform/graphics/wsscreendeviceutils.h	export	
+/epoc32/include/platform/graphics/wstestscreencapture.h	export	
+/epoc32/include/platform/graphics/wstfxconst.h	export	
+/epoc32/include/platform/graphics/wsuibuffer.h	export	
+/epoc32/include/platform/hextree.h	export	
+/epoc32/include/platform/hextree.inl	export	
+/epoc32/include/platform/metafile.h	export	
+/epoc32/include/platform/printerdriversupport/pdrtext.h	export	
+/epoc32/include/platform/printerdriversupport/printerport.h	export	
+/epoc32/include/platform/sgresource/sgcommon.h	export	
+/epoc32/include/platform/sgresource/sgconst.h	export	
+/epoc32/include/platform/sgresource/sgdevice.h	export	
+/epoc32/include/platform/sgresource/sgdevice.inl	export	
+/epoc32/include/platform/sgresource/sgdriver_profiling.h	export	
+/epoc32/include/platform/sgresource/sgdriver_test.h	export	
+/epoc32/include/platform/sgresource/sgerror.h	export	
+/epoc32/include/platform/sgresource/sgextension.h	export	
+/epoc32/include/platform/sgresource/sgextension.inl	export	
+/epoc32/include/platform/sgresource/sgimage.h	export	
+/epoc32/include/platform/sgresource/sgimage.inl	export	
+/epoc32/include/platform/sgresource/sgimage_sw.h	export	
+/epoc32/include/platform/sgresource/sgresource.h	export	
+/epoc32/include/platform/sgresource/sgresource.inl	export	
+/epoc32/include/platform/sgresource/sgresource.mmh	export	
+/epoc32/include/platform/vg/vgcontext.h	export	
+/epoc32/include/platform/vg/vgcontext_symbian.h	export	
+/epoc32/include/platform/w32debug.h	export	
+/epoc32/include/pointerevent.h	export	
+/epoc32/include/shapeinfo.h	export	
+/epoc32/include/sizemode.h	export	
+/epoc32/include/textcursor.h	export	
+/epoc32/include/tiger.rsg	resource	armv5_urel
+/epoc32/include/tiger.rsg	resource	winscw_udeb
+/epoc32/include/w32adll.h	export	
+/epoc32/include/w32click.h	export	
+/epoc32/include/w32std.h	export	
+/epoc32/include/w32stdgraphic.h	export	
+/epoc32/include/wspublishandsubscribedata.h	export	
+/epoc32/release/armv5/lib/bitgdi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bitgdi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bitgdi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bitgdi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/directgdi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/directgdi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/directgdiadapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/directgdiadapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/directgdiadapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/directgdiadapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/directgdi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/directgdi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dlog.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dlog.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dlog.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dlog.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/dlog{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/dlog{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/dlog{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/dlog{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/econswserv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/econswserv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/econswserv.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/econswserv.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/econswserv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/econswserv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/econswserv{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/econswserv{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/fbscli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fbscli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fbscli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fbscli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fbserv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fbserv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fbserv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fbserv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fbsrasterizer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fbsrasterizer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/fbsrasterizer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/fbsrasterizer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gdi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gdi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/gdi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/gdi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/graphicsresource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/graphicsresource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/graphicsresourceadapter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/graphicsresourceadapter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/graphicsresourceadapter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/graphicsresourceadapter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/graphicsresource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/graphicsresource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/keyrouter.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/keyrouter.dso	build	armv5_urel
+/epoc32/release/armv5/lib/keyrouter{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/keyrouter{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libEGL.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libEGL.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libEGL_sw.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libEGL_sw.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libEGL_sw{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libEGL_sw{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libEGL{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libEGL{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLES_CM.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLES_CM.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLES_CM10.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLES_CM10.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLES_CM10{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLES_CM10{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLES_CM{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLES_CM{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLESv1_CM.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLESv1_CM.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLESv1_CM{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLESv1_CM{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLESv2.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLESv2.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libGLESv2{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libGLESv2{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libOpenVG.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libOpenVG.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libOpenVGU.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libOpenVGU.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libOpenVGU{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libOpenVGU{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libOpenVG{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libOpenVG{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libWFC.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libWFC.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libWFC{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libWFC{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libopenvg_sw.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libopenvg_sw.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libopenvg_sw{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libopenvg_sw{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libopenvgu_sw.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libopenvgu_sw.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libopenvgu_sw{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libopenvgu_sw{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libvgi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libvgi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/libvgi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/libvgi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/linebreak.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/linebreak.dso	build	armv5_urel
+/epoc32/release/armv5/lib/linebreak{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/linebreak{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lookuptable.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lookuptable.dso	build	armv5_urel
+/epoc32/release/armv5/lib/lookuptable{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/lookuptable{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/m3gcore.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/m3gcore.dso	build	armv5_urel
+/epoc32/release/armv5/lib/m3gcore{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/m3gcore{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/openwfc_ri_display.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/openwfc_ri_display.dso	build	armv5_urel
+/epoc32/release/armv5/lib/openwfc_ri_display{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/openwfc_ri_display{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/palette.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/palette.dso	build	armv5_urel
+/epoc32/release/armv5/lib/palette{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/palette{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pdrprt.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pdrprt.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pdrprt{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pdrprt{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pdrstr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pdrstr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/pdrstr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/pdrstr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/profilerkeys.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/profilerkeys.dso	build	armv5_urel
+/epoc32/release/armv5/lib/profilerkeys.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/profilerkeys.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/profilerkeys{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/profilerkeys{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/profilerkeys{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/profilerkeys{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/remotegc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remotegc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remotegc.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/remotegc.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/remotegc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remotegc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remotegc{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/remotegc{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/scdv.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scdv.dso	build	armv5_urel
+/epoc32/release/armv5/lib/scdv{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/scdv{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sflibopenvgrefimpl.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sflibopenvgrefimpl.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sflibopenvgrefimpl{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sflibopenvgrefimpl{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sgextension.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sgextension.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sgextension{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sgextension{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sgresource.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sgresource.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sgresource{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sgresource{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/surfacemanager.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/surfacemanager.dso	build	armv5_urel
+/epoc32/release/armv5/lib/surfacemanager.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/surfacemanager.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/surfacemanager{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/surfacemanager{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/surfacemanager{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/surfacemanager{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/surfaceupdateclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/surfaceupdateclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/surfaceupdateclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/surfaceupdateclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/surfaceupdateserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/surfaceupdateserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/surfaceupdateserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/surfaceupdateserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/w32stdgraphic.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/w32stdgraphic.dso	build	armv5_urel
+/epoc32/release/armv5/lib/w32stdgraphic.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/w32stdgraphic.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/w32stdgraphic{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/w32stdgraphic{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/w32stdgraphic{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/w32stdgraphic{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/wfcinterop.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wfcinterop.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wfcinterop{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wfcinterop{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ws32.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ws32.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ws32.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ws32.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/ws32{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ws32{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ws32{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/ws32{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/wsgraphicdrawer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wsgraphicdrawer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wsgraphicdrawer.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/wsgraphicdrawer.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/wsgraphicdrawer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/wsgraphicdrawer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/wsgraphicdrawer{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/wsgraphicdrawer{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/udeb/10281922.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/10281922.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/10286378.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/10286378.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/2001b70b.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/2001b70b.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_generic_scdv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_generic_scdv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_integrator_scdv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_integrator_scdv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_lubbock_scdv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_lubbock_scdv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omapqvga_scdv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/_omapqvga_scdv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bitgdi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bitgdi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bitgdi_gce.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bitgdi_gce.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/canon.pdl	build	armv5_udeb
+/epoc32/release/armv5/udeb/canon.pdl.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdiadapter_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdiadapter_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdiadapter_sw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdiadapter_sw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdiadapter_vg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/directgdiadapter_vg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlog.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlog.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlogfl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlogfl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlogrd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlogrd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlogsr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/dlogsr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/econswserv.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/econswserv.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/eglsynchelper.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/epson.pdl	build	armv5_udeb
+/epoc32/release/armv5/udeb/epson.pdl.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fbscli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fbscli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fbserv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/fbserv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/fbsrasterizer_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/fbsrasterizer_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/gdi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/gdi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/general.pdl	build	armv5_udeb
+/epoc32/release/armv5/udeb/general.pdl.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresource.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresource.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_mbx.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_mbx.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_sgx.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_sgx.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_sw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourceadapter_sw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourcewrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourcewrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourcewrapper_stub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/graphicsresourcewrapper_stub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/keyrouter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/keyrouter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libEGL_sw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libEGL_sw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libGLESv1_CM.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libGLESv1_CM.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libOpenVG.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libOpenVG.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libOpenVGU.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libOpenVGU.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libWFC.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libWFC.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libegl_ref.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libegl_ref.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libopenvg_sw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libopenvg_sw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libopenvgu_sw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libopenvgu_sw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/libvgi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/libvgi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/linebreak.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/linebreak.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lookuptable.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lookuptable.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/m3gcore.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/m3gcore.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/openwfc_ri_displaychannel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/openwfc_ri_displaychannel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/palette.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/palette.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pcl5.pdl	build	armv5_udeb
+/epoc32/release/armv5/udeb/pcl5.pdl.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdrprt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdrprt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdrstr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/pdrstr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/profilerkeys.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/profilerkeys.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remotegc_nga.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remotegc_nga.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remotegc_nonnga.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remotegc_nonnga.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sflibopenvgrefimpl.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sflibopenvgrefimpl.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgdevice.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgdevice.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgextension.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgextension.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgresource_mbx.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgresource_mbx.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgresource_sgx.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgresource_sgx.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgresource_sw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sgresource_sw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfacemanager.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfacemanager.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfacemanagerdriver.ldd	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfacemanagerdriver.ldd.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfaceupdateclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfaceupdateclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfaceupdateserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/surfaceupdateserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tiger.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tiger.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/w32stdgraphic.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/w32stdgraphic.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wfcinterop.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wfcinterop.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ws32_nga.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ws32_nga.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/ws32_nonnga.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ws32_nonnga.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wserv_nga.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/wserv_nga.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wserv_nonnga.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/wserv_nonnga.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsgraphicdrawer_nga.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsgraphicdrawer_nga.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsgraphicdrawer_nonnga.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/wsgraphicdrawer_nonnga.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/10281922.dll	build	armv5_urel
+/epoc32/release/armv5/urel/10281922.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/10286378.dll	build	armv5_urel
+/epoc32/release/armv5/urel/10286378.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/2001b70b.dll	build	armv5_urel
+/epoc32/release/armv5/urel/2001b70b.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_generic_scdv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_generic_scdv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_integrator_scdv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_integrator_scdv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_lubbock_scdv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_lubbock_scdv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/_omapqvga_scdv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/_omapqvga_scdv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bitgdi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bitgdi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bitgdi_gce.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bitgdi_gce.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/canon.pdl	build	armv5_urel
+/epoc32/release/armv5/urel/canon.pdl.map	build	armv5_urel
+/epoc32/release/armv5/urel/directgdi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/directgdi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/directgdiadapter_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/directgdiadapter_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/directgdiadapter_sw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/directgdiadapter_sw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/directgdiadapter_vg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/directgdiadapter_vg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dlog.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dlog.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dlogfl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dlogfl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dlogrd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dlogrd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/dlogsr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/dlogsr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/econswserv.dll	build	armv5_urel
+/epoc32/release/armv5/urel/econswserv.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/eglsynchelper.lib	build	armv5_urel
+/epoc32/release/armv5/urel/epson.pdl	build	armv5_urel
+/epoc32/release/armv5/urel/epson.pdl.map	build	armv5_urel
+/epoc32/release/armv5/urel/fbscli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fbscli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/fbserv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/fbserv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/fbsrasterizer_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/fbsrasterizer_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/gdi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/gdi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/general.pdl	build	armv5_urel
+/epoc32/release/armv5/urel/general.pdl.map	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresource.dll	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresource.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_mbx.dll	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_mbx.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_sgx.dll	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_sgx.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_sw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourceadapter_sw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourcewrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourcewrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourcewrapper_stub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/graphicsresourcewrapper_stub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/keyrouter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/keyrouter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libEGL_sw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libEGL_sw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libGLESv1_CM.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libGLESv1_CM.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libOpenVG.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libOpenVG.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libOpenVGU.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libOpenVGU.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libWFC.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libWFC.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libegl_ref.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libegl_ref.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libopenvg_sw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libopenvg_sw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libopenvgu_sw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libopenvgu_sw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/libvgi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/libvgi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/linebreak.dll	build	armv5_urel
+/epoc32/release/armv5/urel/linebreak.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/lookuptable.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lookuptable.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/m3gcore.dll	build	armv5_urel
+/epoc32/release/armv5/urel/m3gcore.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/openwfc_ri_displaychannel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/openwfc_ri_displaychannel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/palette.dll	build	armv5_urel
+/epoc32/release/armv5/urel/palette.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pcl5.pdl	build	armv5_urel
+/epoc32/release/armv5/urel/pcl5.pdl.map	build	armv5_urel
+/epoc32/release/armv5/urel/pdrprt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pdrprt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/pdrstr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/pdrstr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/profilerkeys.dll	build	armv5_urel
+/epoc32/release/armv5/urel/profilerkeys.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remotegc_nga.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remotegc_nga.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remotegc_nonnga.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remotegc_nonnga.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sflibopenvgrefimpl.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sflibopenvgrefimpl.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sgdevice.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/sgdevice.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/sgextension.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sgextension.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sgresource_mbx.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sgresource_mbx.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sgresource_sgx.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sgresource_sgx.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sgresource_sw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sgresource_sw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/surfacemanager.dll	build	armv5_urel
+/epoc32/release/armv5/urel/surfacemanager.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/surfacemanagerdriver.ldd	build	armv5_urel
+/epoc32/release/armv5/urel/surfacemanagerdriver.ldd.map	build	armv5_urel
+/epoc32/release/armv5/urel/surfaceupdateclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/surfaceupdateclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/surfaceupdateserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/surfaceupdateserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tiger.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tiger.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/w32stdgraphic.dll	build	armv5_urel
+/epoc32/release/armv5/urel/w32stdgraphic.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wfcinterop.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wfcinterop.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ws32_nga.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ws32_nga.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/ws32_nonnga.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ws32_nonnga.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wserv_nga.exe	build	armv5_urel
+/epoc32/release/armv5/urel/wserv_nga.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/wserv_nonnga.exe	build	armv5_urel
+/epoc32/release/armv5/urel/wserv_nonnga.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/wsgraphicdrawer_nga.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wsgraphicdrawer_nga.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/wsgraphicdrawer_nonnga.dll	build	armv5_urel
+/epoc32/release/armv5/urel/wsgraphicdrawer_nonnga.dll.map	build	armv5_urel
+/epoc32/release/armv5smp/udeb/10281922.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/10281922.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/2001b70b.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/2001b70b.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlog.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlog.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlogfl.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlogfl.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlogrd.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlogrd.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlogsr.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/dlogsr.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/econswserv.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/econswserv.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/graphicsresourcewrapper.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/graphicsresourcewrapper.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/graphicsresourcewrapper_stub.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/graphicsresourcewrapper_stub.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/profilerkeys.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/profilerkeys.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/remotegc_nga.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/remotegc_nga.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/remotegc_nonnga.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/remotegc_nonnga.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgdevice.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgdevice.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgextension.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgextension.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgresource_mbx.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgresource_mbx.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgresource_sgx.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgresource_sgx.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgresource_sw.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/sgresource_sw.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/surfacemanager.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/surfacemanager.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/surfacemanagerdriver.ldd	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/surfacemanagerdriver.ldd.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/w32stdgraphic.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/w32stdgraphic.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ws32_nga.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ws32_nga.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ws32_nonnga.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/ws32_nonnga.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wserv_nga.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wserv_nga.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wserv_nonnga.exe	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wserv_nonnga.exe.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wsgraphicdrawer_nga.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wsgraphicdrawer_nga.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wsgraphicdrawer_nonnga.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/wsgraphicdrawer_nonnga.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/urel/10281922.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/10281922.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/2001b70b.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/2001b70b.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlog.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlog.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlogfl.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlogfl.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlogrd.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlogrd.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlogsr.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/dlogsr.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/econswserv.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/econswserv.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/graphicsresourcewrapper.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/graphicsresourcewrapper.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/graphicsresourcewrapper_stub.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/graphicsresourcewrapper_stub.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/profilerkeys.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/profilerkeys.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/remotegc_nga.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/remotegc_nga.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/remotegc_nonnga.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/remotegc_nonnga.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgdevice.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgdevice.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgextension.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgextension.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgresource_mbx.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgresource_mbx.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgresource_sgx.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgresource_sgx.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgresource_sw.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/sgresource_sw.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/surfacemanager.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/surfacemanager.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/surfacemanagerdriver.ldd	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/surfacemanagerdriver.ldd.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/w32stdgraphic.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/w32stdgraphic.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ws32_nga.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ws32_nga.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ws32_nonnga.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/ws32_nonnga.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wserv_nga.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wserv_nga.exe.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wserv_nonnga.exe	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wserv_nonnga.exe.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wsgraphicdrawer_nga.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wsgraphicdrawer_nga.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wsgraphicdrawer_nonnga.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/wsgraphicdrawer_nonnga.dll.map	build	armv5smp_urel
+/epoc32/release/wins/wsanimu.def	export	
+/epoc32/release/wins/wsclicku.def	export	
+/epoc32/release/winscw/udeb/10281922.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/10286378.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/2001b70b.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/_generic_scdv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/_wins_scdv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bitgdi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bitgdi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bitgdi_gce.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bitgdi_nongce.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/canon.pdl	build	winscw_udeb
+/epoc32/release/winscw/udeb/directgdi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/directgdi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/directgdiadapter_sw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/directgdiadapter_vg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlog.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlog.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlogfl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlogrd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlogsr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/dlogwn.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/econswserv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/econswserv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/eglsynchelper.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/epson.pdl	build	winscw_udeb
+/epoc32/release/winscw/udeb/fbscli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/fbscli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fbserv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/fbserv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fbsrasterizer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/fbsrasterizer_stub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gdi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/gdi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/general.pdl	build	winscw_udeb
+/epoc32/release/winscw/udeb/graphicsresource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/graphicsresource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/graphicsresourceadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/graphicsresourcewrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/keyrouter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/keyrouter.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libEGL.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libEGL.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libEGL_sw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libEGL_sw.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libGLES_CM.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libGLES_CM10.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libGLESv1_CM.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libGLESv1_CM.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libGLESv2.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libOpenVG.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libOpenVG.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libOpenVGU.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libOpenVGU.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libWFC.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libWFC.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libegl_ref.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libopenvg_sw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libopenvg_sw.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libopenvgu_sw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libopenvgu_sw.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/libvgi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/libvgi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/linebreak.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/linebreak.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/lookuptable.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/lookuptable.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/m3gcore.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/m3gcore.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/openwfc_ri_display.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/openwfc_ri_display.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/osbwin32.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/osbwin32.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/palette.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/palette.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pcl5.pdl	build	winscw_udeb
+/epoc32/release/winscw/udeb/pdrprt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pdrprt.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/pdrstr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/pdrstr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remotegc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remotegc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remotegc_nga.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remotegc_nonnga.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/scdv.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/scdv.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sflibopenvgrefimpl.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sflibopenvgrefimpl.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sgdevice.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/sgextension.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sgextension.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sgresource.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sgresource.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/surfacemanager.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/surfacemanager.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/surfacemanagerdriver.ldd	build	winscw_udeb
+/epoc32/release/winscw/udeb/surfaceupdateclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/surfaceupdateclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/surfaceupdateserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/surfaceupdateserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tiger.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/w32stdgraphic.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/w32stdgraphic.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wfcinterop.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wfcinterop.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ws32.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ws32.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/ws32_nga.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ws32_nonnga.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wserv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wserv_nga.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wserv_nonnga.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/wsgraphicdrawer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wsgraphicdrawer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/wsgraphicdrawer_nga.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/wsgraphicdrawer_nonnga.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/tiger_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/tiger.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/tiger_icon.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/10281922.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/10286378.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/2001b70b.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/CANON.pdr	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/EPSON.pdr	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/GENERAL.pdr	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/PCL5.pdr	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/canon.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/canon.r10	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/epson.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/epson.r10	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/general.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/general.r10	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/pcl5.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/printers/pcl5.r10	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/wsini_minigui-stripped.ini	export	
+/epoc32/release/winscw/udeb/z/wsini_minigui.ini	export	
+/epoc32/release/winscw/urel/10281922.dll	build	winscw_urel
+/epoc32/release/winscw/urel/10281922.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/10286378.dll	build	winscw_urel
+/epoc32/release/winscw/urel/10286378.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/2001b70b.dll	build	winscw_urel
+/epoc32/release/winscw/urel/2001b70b.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/_generic_scdv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/_generic_scdv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/_wins_scdv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/_wins_scdv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bitgdi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bitgdi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bitgdi_gce.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bitgdi_gce.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bitgdi_nongce.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bitgdi_nongce.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/canon.pdl	build	winscw_urel
+/epoc32/release/winscw/urel/canon.pdl.map	build	winscw_urel
+/epoc32/release/winscw/urel/directgdi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/directgdi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/directgdiadapter_sw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/directgdiadapter_sw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/directgdiadapter_vg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/directgdiadapter_vg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dlog.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dlog.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dlogfl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dlogfl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dlogrd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dlogrd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dlogsr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dlogsr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/dlogwn.dll	build	winscw_urel
+/epoc32/release/winscw/urel/dlogwn.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/econswserv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/econswserv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/eglsynchelper.lib	build	winscw_urel
+/epoc32/release/winscw/urel/epson.pdl	build	winscw_urel
+/epoc32/release/winscw/urel/epson.pdl.map	build	winscw_urel
+/epoc32/release/winscw/urel/fbscli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fbscli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/fbserv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/fbserv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/fbsrasterizer_stub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/fbsrasterizer_stub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/gdi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/gdi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/general.pdl	build	winscw_urel
+/epoc32/release/winscw/urel/general.pdl.map	build	winscw_urel
+/epoc32/release/winscw/urel/graphicsresource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/graphicsresource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/graphicsresourceadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/graphicsresourceadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/graphicsresourcewrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/graphicsresourcewrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/keyrouter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/keyrouter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libEGL.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libEGL.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libEGL_sw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libEGL_sw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libGLESv1_CM.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libGLESv1_CM.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libOpenVG.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libOpenVG.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libOpenVGU.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libOpenVGU.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libWFC.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libWFC.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libegl_ref.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libegl_ref.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libopenvg_sw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libopenvg_sw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libopenvgu_sw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libopenvgu_sw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/libvgi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/libvgi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/linebreak.dll	build	winscw_urel
+/epoc32/release/winscw/urel/linebreak.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/lookuptable.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lookuptable.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/m3gcore.dll	build	winscw_urel
+/epoc32/release/winscw/urel/m3gcore.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/openwfc_ri_display.dll	build	winscw_urel
+/epoc32/release/winscw/urel/openwfc_ri_display.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/osbwin32.dll	build	winscw_urel
+/epoc32/release/winscw/urel/osbwin32.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/palette.dll	build	winscw_urel
+/epoc32/release/winscw/urel/palette.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pcl5.pdl	build	winscw_urel
+/epoc32/release/winscw/urel/pcl5.pdl.map	build	winscw_urel
+/epoc32/release/winscw/urel/pdrprt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pdrprt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/pdrstr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/pdrstr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remotegc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remotegc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remotegc_nga.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remotegc_nga.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remotegc_nonnga.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remotegc_nonnga.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/scdv.dll	build	winscw_urel
+/epoc32/release/winscw/urel/scdv.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sflibopenvgrefimpl.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sflibopenvgrefimpl.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sgdevice.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/sgdevice.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/sgextension.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sgextension.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sgresource.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sgresource.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/surfacemanager.dll	build	winscw_urel
+/epoc32/release/winscw/urel/surfacemanager.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/surfacemanagerdriver.ldd	build	winscw_urel
+/epoc32/release/winscw/urel/surfacemanagerdriver.ldd.map	build	winscw_urel
+/epoc32/release/winscw/urel/surfaceupdateclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/surfaceupdateclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/surfaceupdateserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/surfaceupdateserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tiger.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tiger.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/w32stdgraphic.dll	build	winscw_urel
+/epoc32/release/winscw/urel/w32stdgraphic.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wfcinterop.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wfcinterop.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ws32.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ws32.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ws32_nga.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ws32_nga.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/ws32_nonnga.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ws32_nonnga.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wserv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wserv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wserv_nga.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wserv_nga.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wserv_nonnga.exe	build	winscw_urel
+/epoc32/release/winscw/urel/wserv_nonnga.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/wsgraphicdrawer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wsgraphicdrawer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wsgraphicdrawer_nga.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wsgraphicdrawer_nga.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/wsgraphicdrawer_nonnga.dll	build	winscw_urel
+/epoc32/release/winscw/urel/wsgraphicdrawer_nonnga.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/tiger_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/tiger.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/tiger_icon.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/10281922.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/10286378.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/2001b70b.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/CANON.pdr	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/printers/EPSON.pdr	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/printers/GENERAL.pdr	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/printers/PCL5.pdr	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/printers/canon.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/canon.r10	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/epson.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/epson.r10	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/general.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/general.r10	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/pcl5.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/printers/pcl5.r10	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/wsini_minigui-stripped.ini	export	
+/epoc32/release/winscw/urel/z/wsini_minigui.ini	export	
+/epoc32/rom/include/bitgdi.iby	export	
+/epoc32/rom/include/core/os/libvgi.iby	export	
+/epoc32/rom/include/core/os/m3gcore.iby	export	
+/epoc32/rom/include/csc_plugin.iby	export	
+/epoc32/rom/include/directgdi.iby	export	
+/epoc32/rom/include/directgdiadapter.iby	export	
+/epoc32/rom/include/directgdiadapter_sw.iby	export	
+/epoc32/rom/include/directgdiadapter_vg.iby	export	
+/epoc32/rom/include/econs_wserv.iby	export	
+/epoc32/rom/include/egl.iby	export	
+/epoc32/rom/include/egl_ref.iby	export	
+/epoc32/rom/include/fbserv.iby	export	
+/epoc32/rom/include/fbsoogmplugin.iby	export	
+/epoc32/rom/include/fbsrasterizer_stub.iby	export	
+/epoc32/rom/include/gdi.iby	export	
+/epoc32/rom/include/graphics_adaptation.hby	export	
+/epoc32/rom/include/graphicsresource.iby	export	
+/epoc32/rom/include/graphicsresourceadapter.iby	export	
+/epoc32/rom/include/graphicsresourceadapter_mbx.iby	export	
+/epoc32/rom/include/graphicsresourceadapter_sgx.iby	export	
+/epoc32/rom/include/graphicsresourceadapter_sw.iby	export	
+/epoc32/rom/include/keyeventrouting.iby	export	
+/epoc32/rom/include/minigui-stripped.oby	export	
+/epoc32/rom/include/minigui.oby	export	
+/epoc32/rom/include/minigui_syborg.oby	export	
+/epoc32/rom/include/opengles.iby	export	
+/epoc32/rom/include/openvg.iby	export	
+/epoc32/rom/include/openwfc.iby	export	
+/epoc32/rom/include/openwfc_ref.iby	export	
+/epoc32/rom/include/openwfc_ri_displaychannel.iby	export	
+/epoc32/rom/include/openwfc_support.iby	export	
+/epoc32/rom/include/palette.iby	export	
+/epoc32/rom/include/pdrstore.iby	export	
+/epoc32/rom/include/printers.iby	export	
+/epoc32/rom/include/sfopenvg.iby	export	
+/epoc32/rom/include/sgresource.iby	export	
+/epoc32/rom/include/sgresource_mbx.iby	export	
+/epoc32/rom/include/sgresource_sgx.iby	export	
+/epoc32/rom/include/sgresource_sw.iby	export	
+/epoc32/rom/include/surfacemanager.iby	export	
+/epoc32/rom/include/surfacemanager_ref.iby	export	
+/epoc32/rom/include/surfaceupdate.iby	export	
+/epoc32/rom/include/surfaceupdate_ref.iby	export	
+/epoc32/rom/include/tiger.iby	export	
+/epoc32/rom/include/wfcinterop_tests.iby	export	
+/epoc32/rom/include/wserv.iby	export	
+/epoc32/rom/include/wserv_std_plugins.iby	export	
+/epoc32/rom/include/wslog.iby	export	
+/epoc32/tools/bmconv.exe	build	tools2_rel
+/epoc32/tools/fnttran.exe	build	tools_rel
+/epoc32/tools/fontcomp.exe	build	tools_rel
+/epoc32/tools/pdrtran.exe	build	tools2_rel
+/epoc32/tools/pdrtran.exe	build	tools_rel

@@ -1,0 +1,1062 @@
+/epoc32/data/C/resource/qt/plugins/controlpanel/btcpplugin.qtplugin	export	
+/epoc32/data/z/bluetooth/avrcp/avrcp-settings.rsc	resource	armv5_urel
+/epoc32/data/z/bluetooth/avrcp/avrcp-settings.rsc	resource	winscw_udeb
+/epoc32/data/z/pluginstub/btdevicedialogplugin.qtplugin	export	
+/epoc32/data/z/pluginstub/btindicator.qtplugin	export	
+/epoc32/data/z/private/10003a3f/apps/bttoggle_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/bttoggle_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/apps/paintcursor_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/apps/paintcursor_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/btmsgviewer_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/btmsgviewer_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/obexhighway_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/obexhighway_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10003a3f/import/apps/tsrc_reg.rsc	resource	armv5_urel
+/epoc32/data/z/private/10003a3f/import/apps/tsrc_reg.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10005950/backup_registration.xml	export	
+/epoc32/data/z/private/101f7c87/backup_registration.xml	export	
+/epoc32/data/z/private/10201d2a/backup_registration.xml	export	
+/epoc32/data/z/private/2000B187/10204DA9.xml	export	
+/epoc32/data/z/resource/apps/BTMouseBitMaps.mbm	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/BTMouseBitMaps.mbm	bitmap	winscw_udeb
+/epoc32/data/z/resource/apps/btmsgviewer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/btmsgviewer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/obexhighway.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/obexhighway.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/paintcursor.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/paintcursor.r01	resource	armv5_urel
+/epoc32/data/z/resource/apps/paintcursor.r01	resource	winscw_udeb
+/epoc32/data/z/resource/apps/paintcursor.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/paintcursor.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/apps/paintcursor_aif.mif	bitmap	armv5_urel
+/epoc32/data/z/resource/apps/tsrc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/apps/tsrc.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/btengsdp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/btengsdp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/btrfs.txt	export	
+/epoc32/data/z/resource/messaging/mtm/btmtmui.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/btmtmui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/btmtmui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/btmtmui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/irmtmui.r01	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/irmtmui.r01	resource	winscw_udeb
+/epoc32/data/z/resource/messaging/mtm/irmtmui.rsc	resource	armv5_urel
+/epoc32/data/z/resource/messaging/mtm/irmtmui.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/atmisccmdplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/atmisccmdplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/atmisccmdplugin_td.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/atmisccmdplugin_td.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btaudiomanclient.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btaudiomanclient.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btbearer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btbearer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btctrldcmoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/bthidengplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/bthidengplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btmac.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btmac.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btmonobearer.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btmonobearer.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btnotifwrapper.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btnotifwrapper.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btpbap.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btpbap.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btpsmplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btpsmplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btrcc.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btrcc.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btrfsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btrfsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btsac.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btsac.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/btsap.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/btsap.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hidkeyboard.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hidkeyboard.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hidmouse.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hidmouse.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/kbdlayout.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/kbdlayout.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/lccustomplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/lccustomplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/modematplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/modematplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexservicebip.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexservicebip.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexserviceman.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexserviceman.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexservicemanbt.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexservicemanbt.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexservicemanir.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexservicemanir.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexservicemanusb.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexservicemanusb.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/obexserviceopp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/obexserviceopp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/remconavrcpstatusconverter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/remconavrcpstatusconverter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/remconbeareravrcp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/remconbeareravrcp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/qt/translations/btdialogs_en_GB.qm	export	
+/epoc32/include/BTMouseBitMaps.mbg	bitmap	armv5_urel
+/epoc32/include/BTMouseBitMaps.mbg	bitmap	winscw_udeb
+/epoc32/include/btbearer.rsg	resource	armv5_urel
+/epoc32/include/btbearer.rsg	resource	winscw_udeb
+/epoc32/include/btengsdp.rsg	resource	armv5_urel
+/epoc32/include/btengsdp.rsg	resource	winscw_udeb
+/epoc32/include/btmsgviewer.rsg	resource	armv5_urel
+/epoc32/include/btmsgviewer.rsg	resource	winscw_udeb
+/epoc32/include/btmtmui.rsg	resource	armv5_urel
+/epoc32/include/btmtmui.rsg	resource	winscw_udeb
+/epoc32/include/btnotifwrapper.rsg	resource	armv5_urel
+/epoc32/include/btnotifwrapper.rsg	resource	winscw_udeb
+/epoc32/include/irmtmui.rsg	resource	armv5_urel
+/epoc32/include/irmtmui.rsg	resource	winscw_udeb
+/epoc32/include/mw/absolutevolumeapi.h	export	
+/epoc32/include/mw/absolutevolumeapicontroller.h	export	
+/epoc32/include/mw/absolutevolumeapicontrollerobserver.h	export	
+/epoc32/include/mw/absolutevolumeapitarget.h	export	
+/epoc32/include/mw/absolutevolumeapitargetobserver.h	export	
+/epoc32/include/mw/btnotifierapi.h	export	
+/epoc32/include/mw/btserversdkcrkeys.h	export	
+/epoc32/include/mw/playerinformationtarget.h	export	
+/epoc32/include/mw/playerinformationtargetobserver.h	export	
+/epoc32/include/mw/remcon/avrcpspec.h	export	
+/epoc32/include/mw/remconbatterytarget.h	export	
+/epoc32/include/mw/remconbatterytargetobserver.h	export	
+/epoc32/include/mw/remconbeareravrcp.h	export	
+/epoc32/include/mw/remcondatabaseawaremediabrowsetarget.h	export	
+/epoc32/include/mw/remcondatabaseawaremedialibrarybrowse.h	export	
+/epoc32/include/mw/remcondatabaseawaremedialibrarybrowseobserver.h	export	
+/epoc32/include/mw/remcondatabaseawarenowplayingbrowse.h	export	
+/epoc32/include/mw/remcondatabaseawarenowplayingbrowseobserver.h	export	
+/epoc32/include/mw/remcondatabaseawarenowplayingtarget.h	export	
+/epoc32/include/mw/remcondatabaseawarenowplayingtargetobserver.h	export	
+/epoc32/include/mw/remcondatabaseunawaremediabrowsetarget.h	export	
+/epoc32/include/mw/remcondatabaseunawaremedialibrarybrowse.h	export	
+/epoc32/include/mw/remcondatabaseunawaremedialibrarybrowseobserver.h	export	
+/epoc32/include/mw/remcondatabaseunawarenowplayingbrowse.h	export	
+/epoc32/include/mw/remcondatabaseunawarenowplayingbrowseobserver.h	export	
+/epoc32/include/mw/remcondatabaseunawarenowplayingtarget.h	export	
+/epoc32/include/mw/remcondatabaseunawarenowplayingtargetobserver.h	export	
+/epoc32/include/mw/remcongroupnavigationtarget.h	export	
+/epoc32/include/mw/remcongroupnavigationtargetobserver.h	export	
+/epoc32/include/mw/remconmediaattributeid.h	export	
+/epoc32/include/mw/remconmediabrowsepanic.h	export	
+/epoc32/include/mw/remconmediabrowsetypes.h	export	
+/epoc32/include/mw/remconmediaerror.h	export	
+/epoc32/include/mw/remconmediainformationtarget.h	export	
+/epoc32/include/mw/remconmediainformationtargetobserver.h	export	
+/epoc32/include/mw/remconstatusapicontroller.h	export	
+/epoc32/include/mw/remconstatusapicontrollerobserver.h	export	
+/epoc32/include/obexhighway.rsg	resource	armv5_urel
+/epoc32/include/obexhighway.rsg	resource	winscw_udeb
+/epoc32/include/paintcursor.mbg	bitmap	armv5_urel
+/epoc32/include/paintcursor.mbg	bitmap	winscw_udeb
+/epoc32/include/paintcursor.rsg	resource	armv5_urel
+/epoc32/include/paintcursor.rsg	resource	winscw_udeb
+/epoc32/include/platform/mw/BTSapDomainPSKeys.h	export	
+/epoc32/include/platform/mw/BTSapInternalPSKeys.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/BTnotifSecondaryDisplayAPI.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/BtuiSecondaryDisplayAPI.h	export	
+/epoc32/include/platform/mw/SecondaryDisplay/obexutilssecondarydisplayapi.h	export	
+/epoc32/include/platform/mw/SrcsInterface.h	export	
+/epoc32/include/platform/mw/SrcsInterface.inl	export	
+/epoc32/include/platform/mw/absolutevolumeutils.h	export	
+/epoc32/include/platform/mw/avcframe.h	export	
+/epoc32/include/platform/mw/avcpanel.h	export	
+/epoc32/include/platform/mw/btabstractdevsetting.h	export	
+/epoc32/include/platform/mw/btaudio4dos.h	export	
+/epoc32/include/platform/mw/btaudio4dos.inl	export	
+/epoc32/include/platform/mw/btaudio4dosdomainpskeys.h	export	
+/epoc32/include/platform/mw/btdevsettingglobal.h	export	
+/epoc32/include/platform/mw/btdevsettinginterface.h	export	
+/epoc32/include/platform/mw/btdevsettingpluginloader.h	export	
+/epoc32/include/platform/mw/btengconnman.h	export	
+/epoc32/include/platform/mw/btengconstants.h	export	
+/epoc32/include/platform/mw/btengdevman.h	export	
+/epoc32/include/platform/mw/btengdiscovery.h	export	
+/epoc32/include/platform/mw/btengdomaincrkeys.h	export	
+/epoc32/include/platform/mw/btengdomainpskeys.h	export	
+/epoc32/include/platform/mw/btengplugin.h	export	
+/epoc32/include/platform/mw/btengsettings.h	export	
+/epoc32/include/platform/mw/btfeaturescfg.h	export	
+/epoc32/include/platform/mw/btnotif.h	export	
+/epoc32/include/platform/mw/btservices/advancedevdiscoverer.h	export	
+/epoc32/include/platform/mw/btservices/bluetoothdevicedialogs.h	export	
+/epoc32/include/platform/mw/btservices/btdevextension.h	export	
+/epoc32/include/platform/mw/btservices/btdevrepository.h	export	
+/epoc32/include/platform/mw/btservices/btsimpleactive.h	export	
+/epoc32/include/platform/mw/btservices/btuidevtypemap.h	export	
+/epoc32/include/platform/mw/btservices/btuiiconutil.h	export	
+/epoc32/include/platform/mw/btservices/devdiscoveryobserver.h	export	
+/epoc32/include/platform/mw/btxqserviceapi.h	export	
+/epoc32/include/platform/mw/loc/sc/btkeyboard.loc	export	
+/epoc32/include/platform/mw/obexservicemanprop.h	export	
+/epoc32/include/platform/mw/obexutilsmessagehandler.h	export	
+/epoc32/include/platform/mw/remcon/remconmediabrowsetargetbase.h	export	
+/epoc32/include/platform/mw/remcon/remconnowplayingtargetbase.h	export	
+/epoc32/include/platform/mw/usbobex.h	export	
+/epoc32/include/tsrc.rsg	resource	armv5_urel
+/epoc32/include/tsrc.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/ATCodec.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ATCodec.dso	build	armv5_urel
+/epoc32/release/armv5/lib/ATCodec{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/ATCodec{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BTMonoCmdHandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BTMonoCmdHandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BTMonoCmdHandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BTMonoCmdHandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BTMouse_Animation_client.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BTMouse_Animation_client.dso	build	armv5_urel
+/epoc32/release/armv5/lib/BTMouse_Animation_client{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/BTMouse_Animation_client{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avrcpipc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avrcpipc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/avrcpipc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/avrcpipc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btaudiostreamer.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btaudiostreamer.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btaudiostreamer{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btaudiostreamer{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btcpplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btcpplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btcpplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btcpplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btdevicedialogplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btdevicedialogplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btdevicedialogplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btdevicedialogplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btdevsettingframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btdevsettingframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btdevsettingframework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btdevsettingframework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengconnman.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengconnman.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengconnman{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengconnman{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengdevman.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengdevman.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengdevman{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengdevman{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengdiscovery.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengdiscovery.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengdiscovery{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengdiscovery{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengsettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengsettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btengsettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btengsettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btfeatures.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btfeatures.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btfeatures{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btfeatures{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bthidclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bthidclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bthidclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bthidclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bthidsettings.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bthidsettings.dso	build	armv5_urel
+/epoc32/release/armv5/lib/bthidsettings{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/bthidsettings{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btindicator.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btindicator.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btindicator{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btindicator{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btmtmui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btmtmui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btmtmui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btmtmui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btnotifclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btnotifclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btnotifclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btnotifclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btserviceutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btserviceutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btserviceutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btserviceutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btuidelegate.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btuidelegate.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btuidelegate{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btuidelegate{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btuimodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btuimodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/btuimodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/btuimodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irmtmui.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irmtmui.dso	build	armv5_urel
+/epoc32/release/armv5/lib/irmtmui{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/irmtmui{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/kbdclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/kbdclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/kbdclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/kbdclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexservicesendutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexservicesendutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexservicesendutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexservicesendutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexusbapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexusbapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexusbapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexusbapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexutils.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexutils.dso	build	armv5_urel
+/epoc32/release/armv5/lib/obexutils{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/obexutils{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconabsolutevolume.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconabsolutevolume.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconabsolutevolume{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconabsolutevolume{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconbatterystatusapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconbatterystatusapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconbatterystatusapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconbatterystatusapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remcongroupnavigationapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remcongroupnavigationapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remcongroupnavigationapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remcongroupnavigationapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconmediabrowseapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconmediabrowseapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconmediabrowseapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconmediabrowseapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconmediainformationapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconmediainformationapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconmediainformationapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconmediainformationapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconnowplayingapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconnowplayingapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconnowplayingapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconnowplayingapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconplayerinformation.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconplayerinformation.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconplayerinformation{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconplayerinformation{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconstatusapi.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconstatusapi.dso	build	armv5_urel
+/epoc32/release/armv5/lib/remconstatusapi{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/remconstatusapi{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/ATCodec.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/ATCodec.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTMonoCmdHandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTMonoCmdHandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTMouse_Animation_client.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTMouse_Animation_client.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTSap.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTSap.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTcursor_server.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/BTcursor_server.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/atmisccmdplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/atmisccmdplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/avrcpipc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/avrcpipc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudioman.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudioman.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudiomanclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudiomanclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudiostreamer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btaudiostreamer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btbearer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btbearer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btcpplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btcpplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btctrldcmoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btctrldcmoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btdevicedialogplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btdevicedialogplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btdevsettingframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btdevsettingframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengconnman.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengconnman.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengdevman.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengdevman.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengdiscovery.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengdiscovery.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengsettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengsettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/btengsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btfeatures.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btfeatures.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidengplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidengplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidsettings.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/bthidsettings.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btindicator.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btindicator.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmac.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmac.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmonobearer.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmonobearer.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmsgviewer.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmsgviewer.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmtmui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btmtmui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btnotifclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btnotifclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btnotifsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/btnotifsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btnotifwrapper.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btnotifwrapper.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btpbap.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btpbap.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btpsmplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btpsmplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btrcc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btrcc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btrfsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btrfsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btsac.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btsac.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btserviceutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btserviceutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/bttoggle.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/bttoggle.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btuidelegate.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btuidelegate.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/btuimodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/btuimodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidkeyboard.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidkeyboard.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidmouse.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hidmouse.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/irmtmui.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/irmtmui.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/kbdclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/kbdclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/kbdlayout.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/kbdlayout.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/layoutmgr.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/layoutmgr.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/lccustomplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/lccustomplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/modematplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/modematplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexhighway.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexhighway.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicebip.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicebip.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexserviceman.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexserviceman.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexserviceman.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexserviceman.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicemanbt.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicemanbt.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicemanir.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicemanir.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicemanusb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicemanusb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexserviceopp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexserviceopp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicesendutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexservicesendutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexusbapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexusbapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexutils.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/obexutils.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/paintcursor.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/paintcursor.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconabsolutevolume.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconabsolutevolume.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconavrcpstatusconverter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconavrcpstatusconverter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconbatterystatusapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconbatterystatusapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconbeareravrcp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconbeareravrcp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remcongroupnavigationapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remcongroupnavigationapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconmediabrowseapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconmediabrowseapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconmediainformationapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconmediainformationapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconnowplayingapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconnowplayingapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconplayerinformation.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconplayerinformation.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconstatusapi.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/remconstatusapi.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsrc.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tsrc.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/ATCodec.dll	build	armv5_urel
+/epoc32/release/armv5/urel/ATCodec.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BTMonoCmdHandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BTMonoCmdHandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BTMouse_Animation_client.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BTMouse_Animation_client.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BTSap.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BTSap.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/BTcursor_server.dll	build	armv5_urel
+/epoc32/release/armv5/urel/BTcursor_server.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/atmisccmdplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/atmisccmdplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/avrcpipc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/avrcpipc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btaudioman.exe	build	armv5_urel
+/epoc32/release/armv5/urel/btaudioman.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/btaudiomanclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btaudiomanclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btaudiostreamer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btaudiostreamer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btbearer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btbearer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btcpplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btcpplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btctrldcmoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btctrldcmoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btdevicedialogplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btdevicedialogplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btdevsettingframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btdevsettingframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btengconnman.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btengconnman.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btengdevman.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btengdevman.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btengdiscovery.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btengdiscovery.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btengsettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btengsettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btengsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/btengsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/btfeatures.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btfeatures.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bthidclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bthidclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bthidengplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bthidengplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bthidserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/bthidserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/bthidsettings.dll	build	armv5_urel
+/epoc32/release/armv5/urel/bthidsettings.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btindicator.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btindicator.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btmac.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btmac.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btmonobearer.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btmonobearer.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btmsgviewer.exe	build	armv5_urel
+/epoc32/release/armv5/urel/btmsgviewer.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/btmtmui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btmtmui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btnotifclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btnotifclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btnotifsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/btnotifsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/btnotifwrapper.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btnotifwrapper.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btpbap.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btpbap.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btpsmplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btpsmplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btrcc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btrcc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btrfsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btrfsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btsac.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btsac.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btserviceutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btserviceutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/bttoggle.exe	build	armv5_urel
+/epoc32/release/armv5/urel/bttoggle.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/btuidelegate.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btuidelegate.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/btuimodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/btuimodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hidkeyboard.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hidkeyboard.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hidmouse.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hidmouse.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/irmtmui.dll	build	armv5_urel
+/epoc32/release/armv5/urel/irmtmui.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/kbdclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/kbdclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/kbdlayout.dll	build	armv5_urel
+/epoc32/release/armv5/urel/kbdlayout.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/layoutmgr.exe	build	armv5_urel
+/epoc32/release/armv5/urel/layoutmgr.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/lccustomplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/lccustomplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/modematplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/modematplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexhighway.exe	build	armv5_urel
+/epoc32/release/armv5/urel/obexhighway.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicebip.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicebip.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexserviceman.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexserviceman.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexserviceman.exe	build	armv5_urel
+/epoc32/release/armv5/urel/obexserviceman.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicemanbt.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicemanbt.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicemanir.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicemanir.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicemanusb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicemanusb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexserviceopp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexserviceopp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicesendutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexservicesendutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexusbapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexusbapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/obexutils.dll	build	armv5_urel
+/epoc32/release/armv5/urel/obexutils.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/paintcursor.exe	build	armv5_urel
+/epoc32/release/armv5/urel/paintcursor.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconabsolutevolume.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconabsolutevolume.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconavrcpstatusconverter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconavrcpstatusconverter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconbatterystatusapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconbatterystatusapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconbeareravrcp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconbeareravrcp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remcongroupnavigationapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remcongroupnavigationapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconmediabrowseapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconmediabrowseapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconmediainformationapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconmediainformationapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconnowplayingapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconnowplayingapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconplayerinformation.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconplayerinformation.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/remconstatusapi.dll	build	armv5_urel
+/epoc32/release/armv5/urel/remconstatusapi.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tsrc.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tsrc.exe.map	build	armv5_urel
+/epoc32/release/winscw/udeb/ATCodec.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/ATCodec.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/BTMonoCmdHandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BTMonoCmdHandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/BTMouse_Animation_client.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BTMouse_Animation_client.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/BTSap.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/BTcursor_server.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/atmisccmdplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/avrcpipc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/avrcpipc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btaudioman.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/btaudiomanclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btaudiostreamer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btaudiostreamer.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btbearer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btcpplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btcpplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btctrldcmoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btdevicedialogplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btdevicedialogplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btdevsettingframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btdevsettingframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengconnman.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengconnman.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengdevman.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengdevman.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengdiscovery.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengdiscovery.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengsettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengsettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btengsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/btfeatures.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btfeatures.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bthidclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bthidclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bthidengplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bthidserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/bthidsettings.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/bthidsettings.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btindicator.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btindicator.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmac.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmonobearer.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmsgviewer.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmtmui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btmtmui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btnotifclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btnotifclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btnotifsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/btnotifwrapper.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btpbap.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btpsmplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btrcc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btrfsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btsac.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btserviceutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btserviceutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/bttoggle.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/btuidelegate.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btuidelegate.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/btuimodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/btuimodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hidkeyboard.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hidmouse.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/irmtmui.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/irmtmui.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/kbdclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/kbdclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/kbdlayout.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/layoutmgr.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/lccustomplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/modematplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexhighway.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexservicebip.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexserviceman.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexserviceman.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexservicemanbt.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexservicemanir.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexservicemanusb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexserviceopp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexservicesendutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexservicesendutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexusbapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexusbapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexutils.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/obexutils.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/paintcursor.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconabsolutevolume.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconabsolutevolume.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconavrcpstatusconverter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconbatterystatusapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconbatterystatusapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconbeareravrcp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remcongroupnavigationapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remcongroupnavigationapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconmediabrowseapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconmediabrowseapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconmediainformationapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconmediainformationapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconnowplayingapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconnowplayingapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconplayerinformation.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconplayerinformation.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconstatusapi.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/remconstatusapi.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tsrc.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/bluetooth/avrcp/avrcp-settings.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/bttoggle_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/apps/paintcursor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/btmsgviewer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/obexhighway_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10003a3f/import/apps/tsrc_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10005950/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f7c87/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/2000B187/10204DA9.xml	export	
+/epoc32/release/winscw/udeb/z/resource/apps/BTMouseBitMaps.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/btmsgviewer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/obexhighway.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/paintcursor.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/paintcursor.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/paintcursor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/paintcursor_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/apps/tsrc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/btengsdp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/btrfs.txt	export	
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/btmtmui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/btmtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/irmtmui.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/messaging/mtm/irmtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/atmisccmdplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/atmisccmdplugin_td.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btaudiomanclient.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btbearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/bthidengplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btmac.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btmonobearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btnotifwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btpbap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btpsmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btrcc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btsac.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/btsap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hidkeyboard.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hidmouse.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/kbdlayout.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/lccustomplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/modematplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexservicebip.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexserviceman.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexservicemanbt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexservicemanir.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexservicemanusb.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/obexserviceopp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/remconavrcpstatusconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/remconbeareravrcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/qt/translations/btdialogs_en_GB.qm	export	
+/epoc32/release/winscw/urel/ATCodec.dll	build	winscw_urel
+/epoc32/release/winscw/urel/ATCodec.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BTMonoCmdHandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BTMonoCmdHandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BTMouse_Animation_client.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BTMouse_Animation_client.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BTSap.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BTSap.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/BTcursor_server.dll	build	winscw_urel
+/epoc32/release/winscw/urel/BTcursor_server.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/atmisccmdplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/atmisccmdplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/avrcpipc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/avrcpipc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btaudioman.exe	build	winscw_urel
+/epoc32/release/winscw/urel/btaudioman.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/btaudiomanclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btaudiomanclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btaudiostreamer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btaudiostreamer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btbearer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btbearer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btcpplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btcpplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btctrldcmoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btctrldcmoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btdevicedialogplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btdevicedialogplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btdevsettingframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btdevsettingframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btengconnman.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btengconnman.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btengdevman.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btengdevman.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btengdiscovery.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btengdiscovery.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btengsettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btengsettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btengsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/btengsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/btfeatures.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btfeatures.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bthidclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bthidclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bthidengplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bthidengplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bthidserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/bthidserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/bthidsettings.dll	build	winscw_urel
+/epoc32/release/winscw/urel/bthidsettings.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btindicator.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btindicator.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btmac.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btmac.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btmonobearer.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btmonobearer.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btmsgviewer.exe	build	winscw_urel
+/epoc32/release/winscw/urel/btmsgviewer.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/btmtmui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btmtmui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btnotifclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btnotifclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btnotifsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/btnotifsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/btnotifwrapper.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btnotifwrapper.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btpbap.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btpbap.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btpsmplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btpsmplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btrcc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btrcc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btrfsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btrfsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btsac.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btsac.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btserviceutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btserviceutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/bttoggle.exe	build	winscw_urel
+/epoc32/release/winscw/urel/bttoggle.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/btuidelegate.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btuidelegate.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/btuimodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/btuimodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hidkeyboard.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hidkeyboard.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hidmouse.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hidmouse.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/irmtmui.dll	build	winscw_urel
+/epoc32/release/winscw/urel/irmtmui.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/kbdclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/kbdclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/kbdlayout.dll	build	winscw_urel
+/epoc32/release/winscw/urel/kbdlayout.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/layoutmgr.exe	build	winscw_urel
+/epoc32/release/winscw/urel/layoutmgr.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/lccustomplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/lccustomplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/modematplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/modematplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexhighway.exe	build	winscw_urel
+/epoc32/release/winscw/urel/obexhighway.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicebip.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicebip.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexserviceman.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexserviceman.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexserviceman.exe	build	winscw_urel
+/epoc32/release/winscw/urel/obexserviceman.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicemanbt.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicemanbt.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicemanir.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicemanir.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicemanusb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicemanusb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexserviceopp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexserviceopp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicesendutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexservicesendutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexusbapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexusbapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/obexutils.dll	build	winscw_urel
+/epoc32/release/winscw/urel/obexutils.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/paintcursor.exe	build	winscw_urel
+/epoc32/release/winscw/urel/paintcursor.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconabsolutevolume.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconabsolutevolume.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconavrcpstatusconverter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconavrcpstatusconverter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconbatterystatusapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconbatterystatusapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconbeareravrcp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconbeareravrcp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remcongroupnavigationapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remcongroupnavigationapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconmediabrowseapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconmediabrowseapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconmediainformationapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconmediainformationapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconnowplayingapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconnowplayingapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconplayerinformation.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconplayerinformation.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/remconstatusapi.dll	build	winscw_urel
+/epoc32/release/winscw/urel/remconstatusapi.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tsrc.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tsrc.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/bluetooth/avrcp/avrcp-settings.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/bttoggle_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/apps/paintcursor_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/btmsgviewer_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/obexhighway_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10003a3f/import/apps/tsrc_reg.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10005950/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101f7c87/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/2000B187/10204DA9.xml	export	
+/epoc32/release/winscw/urel/z/resource/apps/BTMouseBitMaps.mbm	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/btmsgviewer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/obexhighway.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/paintcursor.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/paintcursor.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/paintcursor.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/paintcursor_aif.mif	bitmap	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/apps/tsrc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/btengsdp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/btrfs.txt	export	
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/btmtmui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/btmtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/irmtmui.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/messaging/mtm/irmtmui.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/atmisccmdplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/atmisccmdplugin_td.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btaudiomanclient.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btbearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/bthidengplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btmac.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btmonobearer.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btnotifwrapper.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btpbap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btpsmplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btrcc.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btrfsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btsac.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/btsap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hidkeyboard.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hidmouse.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/kbdlayout.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/lccustomplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/modematplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexservicebip.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexserviceman.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexservicemanbt.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexservicemanir.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexservicemanusb.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/obexserviceopp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/remconavrcpstatusconverter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/remconbeareravrcp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/qt/translations/btdialogs_en_GB.qm	export	
+/epoc32/rom/config/assets/s60/confml/bteng.confml	export	
+/epoc32/rom/config/assets/s60/confml/obexserviceman.confml	export	
+/epoc32/rom/config/assets/s60/implml/bteng_10204DA9.crml	export	
+/epoc32/rom/config/assets/s60/implml/bteng_10204DAA.crml	export	
+/epoc32/rom/config/assets/s60/implml/bteng_10204DAB.crml	export	
+/epoc32/rom/config/assets/s60/implml/bteng_10204DAC.crml	export	
+/epoc32/rom/config/assets/s60/implml/obexserviceman_20016BC5.crml	export	
+/epoc32/rom/include/core/app/btmsgviewer.iby	export	
+/epoc32/rom/include/core/mw/ObexUtils.iby	export	
+/epoc32/rom/include/core/mw/atmisccmdplugin.iby	export	
+/epoc32/rom/include/core/mw/btaudioman.iby	export	
+/epoc32/rom/include/core/mw/btaudiostreamer.iby	export	
+/epoc32/rom/include/core/mw/btctrldcmoadapter.iby	export	
+/epoc32/rom/include/core/mw/btdevicedialogplugin.iby	export	
+/epoc32/rom/include/core/mw/btdevsettingframework.iby	export	
+/epoc32/rom/include/core/mw/bteng.iby	export	
+/epoc32/rom/include/core/mw/btindicator.iby	export	
+/epoc32/rom/include/core/mw/btkeyboard.iby	export	
+/epoc32/rom/include/core/mw/btmac.iby	export	
+/epoc32/rom/include/core/mw/btnotif.iby	export	
+/epoc32/rom/include/core/mw/btnotifclient.iby	export	
+/epoc32/rom/include/core/mw/btpbap.iby	export	
+/epoc32/rom/include/core/mw/btsac.iby	export	
+/epoc32/rom/include/core/mw/btsap.iby	export	
+/epoc32/rom/include/core/mw/btserviceutil.iby	export	
+/epoc32/rom/include/core/mw/btui.iby	export	
+/epoc32/rom/include/core/mw/lccustomplugin.iby	export	
+/epoc32/rom/include/core/mw/modematplugin.iby	export	
+/epoc32/rom/include/core/mw/mtmuibluetooth.iby	export	
+/epoc32/rom/include/core/mw/mtmuiinfrared.iby	export	
+/epoc32/rom/include/core/mw/obex.iby	export	
+/epoc32/rom/include/core/mw/obexhighway.iby	export	
+/epoc32/rom/include/core/mw/obexservicebip.iby	export	
+/epoc32/rom/include/core/mw/obexserviceman.iby	export	
+/epoc32/rom/include/core/mw/obexservicemanbt.iby	export	
+/epoc32/rom/include/core/mw/obexservicemanirda.iby	export	
+/epoc32/rom/include/core/mw/obexservicemanusb.iby	export	
+/epoc32/rom/include/core/mw/obexserviceopp.iby	export	
+/epoc32/rom/include/core/mw/obexservicesendutils.iby	export	
+/epoc32/rom/include/language/app/btui_resources.iby	export	
+/epoc32/rom/include/language/mw/btkeyboard_resources.iby	export	
+/epoc32/rom/include/language/mw/mtmuibluetoothresources.iby	export	
+/epoc32/rom/include/language/mw/mtmuiinfraredResources.iby	export	
+/epoc32/rom/include/obex.iby	export	
+/epoc32/winscw/C/resource/qt/plugins/controlpanel/btcpplugin.qtplugin	export	
+/sf/mw/btservices/bluetoothengine/btsac/btrcc/inc/prjconfig.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btaccObserver.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btaccParams.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btaccParams.inl	export	
+/sf/mw/btservices/bluetoothengine/inc/btaccPlugin.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btaccPlugin.inl	export	
+/sf/mw/btservices/bluetoothengine/inc/btaccPluginUid.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btaccTypes.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btaudioremconpskeys.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btaudiostreamer.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btengprivatecrkeys.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btengprivatepskeys.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btengutil.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btindicatorconstants.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btnotifclient.h	export	
+/sf/mw/btservices/bluetoothengine/inc/btsacpluginuid.h	export	
+/sf/mw/btservices/btobexprofiles/inc/obexutilsdialog.h	export	
+/sf/mw/btservices/btobexprofiles/inc/obexutilspropertynotifier.h	export	

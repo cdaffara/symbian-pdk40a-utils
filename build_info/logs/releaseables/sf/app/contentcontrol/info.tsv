@@ -1,0 +1,450 @@
+/epoc32/data/Z/private/101F99F6/capability/101f9698.xml	export	
+/epoc32/data/Z/private/101F99F6/capability/101f99f6.xml	export	
+/epoc32/data/Z/private/101F99F6/capability/101fb0e9.xml	export	
+/epoc32/data/Z/private/101F99F6/capability/10206b5c.xml	export	
+/epoc32/data/Z/private/101F99F6/capability/fwdcomp.xml	export	
+/epoc32/data/Z/private/101f99f6/capability/101ff972.xml	export	
+/epoc32/data/Z/private/101f99f6/capability/2001a9a1.xml	export	
+/epoc32/data/Z/private/10202d56/sbeconfig.xml	export	
+/epoc32/data/z/resource/contactsgrpdatastore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/contactsgrpdatastore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mediadsstore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mediadsstore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/mmsdatastore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/mmsdatastore.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlagendadatastore_1_1_2.r01	resource	armv5_urel
+/epoc32/data/z/resource/nsmlagendadatastore_1_1_2.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlagendadatastore_1_1_2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nsmlagendadatastore_1_1_2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlagendadatastore_1_2.r01	resource	armv5_urel
+/epoc32/data/z/resource/nsmlagendadatastore_1_2.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlagendadatastore_1_2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nsmlagendadatastore_1_2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_1_2.r01	resource	armv5_urel
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_1_2.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_1_2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_1_2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_2.r01	resource	armv5_urel
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_2.r01	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_2.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nsmlcontactsdatastoreformat_1_2.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/nsmlnotepaddatastoreformat.rsc	resource	armv5_urel
+/epoc32/data/z/resource/nsmlnotepaddatastoreformat.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/contactsgrpdataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/contactsgrpdataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/hapticsconnplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/hapticsconnplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mediadsprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mediadsprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/mmsdataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/mmsdataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmlagendadataprovider.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmlagendadataprovider.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmlagendadataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmlagendadataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmlcontactsdataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmlcontactsdataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldsctrldcmoadapter.r01	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldsctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmldsctrldcmoadapter.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmldsctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/nsmlnotepaddataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/nsmlnotepaddataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sconftpplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sconftpplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/sconpcconnplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/sconpcconnplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/smsdataprovider.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/smsdataprovider.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/sconftp.r01	resource	armv5_urel
+/epoc32/data/z/resource/sconftp.r01	resource	winscw_udeb
+/epoc32/data/z/resource/sconftp.rsc	resource	armv5_urel
+/epoc32/data/z/resource/sconftp.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/smsdatastore.rsc	resource	armv5_urel
+/epoc32/data/z/resource/smsdatastore.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/contactsgrpdsa_stub.sis	export	
+/epoc32/data/z/system/install/mediads_stub.sis	export	
+/epoc32/data/z/system/install/mmsdsa_stub.sis	export	
+/epoc32/data/z/system/install/omads_stub.sis	export	
+/epoc32/data/z/system/install/sconftpplugin_stub.sis	export	
+/epoc32/data/z/system/install/sconpcconnplugin_stub.sis	export	
+/epoc32/data/z/system/install/secon_stub.sis	export	
+/epoc32/data/z/system/install/smsdsa_stub.sis	export	
+/epoc32/include/contactsgrpdataprovider.rsg	resource	armv5_urel
+/epoc32/include/contactsgrpdataprovider.rsg	resource	winscw_udeb
+/epoc32/include/contactsgrpdatastore.rsg	resource	armv5_urel
+/epoc32/include/contactsgrpdatastore.rsg	resource	winscw_udeb
+/epoc32/include/mediadsprovider.rsg	resource	armv5_urel
+/epoc32/include/mediadsprovider.rsg	resource	winscw_udeb
+/epoc32/include/mediadsstore.rsg	resource	armv5_urel
+/epoc32/include/mediadsstore.rsg	resource	winscw_udeb
+/epoc32/include/mmsdataprovider.rsg	resource	armv5_urel
+/epoc32/include/mmsdataprovider.rsg	resource	winscw_udeb
+/epoc32/include/mmsdatastore.rsg	resource	armv5_urel
+/epoc32/include/mmsdatastore.rsg	resource	winscw_udeb
+/epoc32/include/nsmlagendadataprovider.rsg	resource	armv5_urel
+/epoc32/include/nsmlagendadataprovider.rsg	resource	winscw_udeb
+/epoc32/include/nsmlagendadatastore_1_1_2.rsg	resource	armv5_urel
+/epoc32/include/nsmlagendadatastore_1_1_2.rsg	resource	winscw_udeb
+/epoc32/include/nsmlagendadatastore_1_2.rsg	resource	armv5_urel
+/epoc32/include/nsmlagendadatastore_1_2.rsg	resource	winscw_udeb
+/epoc32/include/nsmlcontactsdataprovider.rsg	resource	armv5_urel
+/epoc32/include/nsmlcontactsdataprovider.rsg	resource	winscw_udeb
+/epoc32/include/nsmlcontactsdatastoreformat_1_1_2.rsg	resource	armv5_urel
+/epoc32/include/nsmlcontactsdatastoreformat_1_1_2.rsg	resource	winscw_udeb
+/epoc32/include/nsmlcontactsdatastoreformat_1_2.rsg	resource	armv5_urel
+/epoc32/include/nsmlcontactsdatastoreformat_1_2.rsg	resource	winscw_udeb
+/epoc32/include/nsmlnotepaddataprovider.rsg	resource	armv5_urel
+/epoc32/include/nsmlnotepaddataprovider.rsg	resource	winscw_udeb
+/epoc32/include/nsmlnotepaddatastoreformat.rsg	resource	armv5_urel
+/epoc32/include/nsmlnotepaddatastoreformat.rsg	resource	winscw_udeb
+/epoc32/include/platform/app/NSmlDataModBase.h	export	
+/epoc32/include/platform/app/loc/sc/101F6DD6.loc	export	
+/epoc32/include/platform/app/loc/sc/101F6DD7.loc	export	
+/epoc32/include/platform/app/loc/sc/101F85F8.loc	export	
+/epoc32/include/platform/app/loc/sc/sconftp.loc	export	
+/epoc32/include/platform/app/nsmlcontactsdataprovider.h	export	
+/epoc32/include/platform/app/nsmlcontactsdatastore.h	export	
+/epoc32/include/platform/app/nsmlcontactsdatastoreextension.h	export	
+/epoc32/include/sconftp.rsg	resource	armv5_urel
+/epoc32/include/sconftp.rsg	resource	winscw_udeb
+/epoc32/include/smsdataprovider.rsg	resource	armv5_urel
+/epoc32/include/smsdataprovider.rsg	resource	winscw_udeb
+/epoc32/include/smsdatastore.rsg	resource	armv5_urel
+/epoc32/include/smsdatastore.rsg	resource	winscw_udeb
+/epoc32/release/armv5/lib/catalogspcconnectivityplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/catalogspcconnectivityplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/catalogspcconnectivityplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/catalogspcconnectivityplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntparserserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntparserserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cntparserserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cntparserserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlCGIScriptParser.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlCGIScriptParser.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlCGIScriptParser{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlCGIScriptParser{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlagendadataprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlagendadataprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlagendadataprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlagendadataprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlcontactsdataprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlcontactsdataprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlcontactsdataprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlcontactsdataprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlcontactsdatastoreextension.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlcontactsdatastoreextension.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlcontactsdatastoreextension{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlcontactsdatastoreextension{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmldatamod.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmldatamod.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmldatamod{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmldatamod{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlnotepaddataprovider.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlnotepaddataprovider.dso	build	armv5_urel
+/epoc32/release/armv5/lib/nsmlnotepaddataprovider{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/nsmlnotepaddataprovider{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconconmlhandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconconmlhandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconconmlhandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconconmlhandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconcsc.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconcsc.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconcsc{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconcsc{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconftp.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconftp.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconftp{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconftp{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconpcconnclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconpcconnclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconpcconnclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconpcconnclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconpcd.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconpcd.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconpcd{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconpcd{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconsyncclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconsyncclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sconsyncclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sconsyncclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/catalogspcconnectivityplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/catalogspcconnectivityplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntparserserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntparserserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntparserserverexe.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/cntparserserverexe.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/contactsgrpdataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/contactsgrpdataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/hapticsconnplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/hapticsconnplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mediadsprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mediadsprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmsdataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/mmsdataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlCGIScriptParser.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlCGIScriptParser.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlagendadataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlagendadataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlcontactsdataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlcontactsdataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlcontactsdatastoreextension.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlcontactsdatastoreextension.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldatamod.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldatamod.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldsctrldcmoadapter.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmldsctrldcmoadapter.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlnotepaddataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/nsmlnotepaddataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconconmlhandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconconmlhandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconcsc.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconcsc.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconftp.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconftp.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconftpplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconftpplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcconnclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcconnclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcconnplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcconnplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcconnserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcconnserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcd.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconpcd.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconsyncclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconsyncclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconsyncserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sconsyncserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/smsdataprovider.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/smsdataprovider.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/catalogspcconnectivityplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/catalogspcconnectivityplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntparserserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cntparserserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/cntparserserverexe.exe	build	armv5_urel
+/epoc32/release/armv5/urel/cntparserserverexe.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/contactsgrpdataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/contactsgrpdataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/hapticsconnplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/hapticsconnplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mediadsprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mediadsprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/mmsdataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/mmsdataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlCGIScriptParser.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlCGIScriptParser.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlagendadataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlagendadataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlcontactsdataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlcontactsdataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlcontactsdatastoreextension.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlcontactsdatastoreextension.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldatamod.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldatamod.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldsctrldcmoadapter.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmldsctrldcmoadapter.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlnotepaddataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/nsmlnotepaddataprovider.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconconmlhandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconconmlhandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconcsc.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconcsc.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconftp.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconftp.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconftpplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconftpplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcconnclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcconnclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcconnplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcconnplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcconnserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcconnserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcd.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconpcd.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconsyncclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sconsyncclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sconsyncserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sconsyncserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/smsdataprovider.dll	build	armv5_urel
+/epoc32/release/armv5/urel/smsdataprovider.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/Z/private/101F99F6/capability/101f9698.xml	export	
+/epoc32/release/winscw/udeb/Z/private/101F99F6/capability/101f99f6.xml	export	
+/epoc32/release/winscw/udeb/Z/private/101F99F6/capability/101fb0e9.xml	export	
+/epoc32/release/winscw/udeb/Z/private/101F99F6/capability/10206b5c.xml	export	
+/epoc32/release/winscw/udeb/Z/private/101F99F6/capability/fwdcomp.xml	export	
+/epoc32/release/winscw/udeb/Z/private/101f99f6/capability/101ff972.xml	export	
+/epoc32/release/winscw/udeb/Z/private/101f99f6/capability/2001a9a1.xml	export	
+/epoc32/release/winscw/udeb/Z/private/10202d56/sbeconfig.xml	export	
+/epoc32/release/winscw/udeb/catalogspcconnectivityplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/catalogspcconnectivityplugin.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntparserserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntparserserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/cntparserserverexe.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/contactsgrpdataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/hapticsconnplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mediadsprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/mmsdataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlCGIScriptParser.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlCGIScriptParser.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlagendadataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlagendadataprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlcontactsdataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlcontactsdataprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlcontactsdatastoreextension.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlcontactsdatastoreextension.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldatamod.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldatamod.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmldsctrldcmoadapter.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlnotepaddataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/nsmlnotepaddataprovider.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconconmlhandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconconmlhandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconcsc.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconcsc.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconftp.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconftp.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconftpplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconpcconnclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconpcconnclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconpcconnplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconpcconnserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconpcd.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconpcd.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconsyncclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconsyncclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sconsyncserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/smsdataprovider.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/contactsgrpdatastore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mediadsstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/mmsdatastore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlagendadatastore_1_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlagendadatastore_1_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlagendadatastore_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlagendadatastore_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlcontactsdatastoreformat_1_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlcontactsdatastoreformat_1_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlcontactsdatastoreformat_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlcontactsdatastoreformat_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/nsmlnotepaddatastoreformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/contactsgrpdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/hapticsconnplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mediadsprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/mmsdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmlagendadataprovider.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmlagendadataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmlcontactsdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldsctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmldsctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/nsmlnotepaddataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sconftpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/sconpcconnplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/smsdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/sconftp.r01	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/sconftp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/smsdatastore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/Z/private/101F99F6/capability/101f9698.xml	export	
+/epoc32/release/winscw/urel/Z/private/101F99F6/capability/101f99f6.xml	export	
+/epoc32/release/winscw/urel/Z/private/101F99F6/capability/101fb0e9.xml	export	
+/epoc32/release/winscw/urel/Z/private/101F99F6/capability/10206b5c.xml	export	
+/epoc32/release/winscw/urel/Z/private/101F99F6/capability/fwdcomp.xml	export	
+/epoc32/release/winscw/urel/Z/private/101f99f6/capability/101ff972.xml	export	
+/epoc32/release/winscw/urel/Z/private/101f99f6/capability/2001a9a1.xml	export	
+/epoc32/release/winscw/urel/Z/private/10202d56/sbeconfig.xml	export	
+/epoc32/release/winscw/urel/catalogspcconnectivityplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/catalogspcconnectivityplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntparserserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cntparserserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/cntparserserverexe.exe	build	winscw_urel
+/epoc32/release/winscw/urel/cntparserserverexe.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/contactsgrpdataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/contactsgrpdataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/hapticsconnplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/hapticsconnplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mediadsprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mediadsprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/mmsdataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/mmsdataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlCGIScriptParser.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlCGIScriptParser.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlagendadataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlagendadataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlcontactsdataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlcontactsdataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlcontactsdatastoreextension.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlcontactsdatastoreextension.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldatamod.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldatamod.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldsctrldcmoadapter.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmldsctrldcmoadapter.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlnotepaddataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/nsmlnotepaddataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconconmlhandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconconmlhandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconcsc.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconcsc.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconftp.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconftp.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconftpplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconftpplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcconnclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcconnclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcconnplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcconnplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcconnserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcconnserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcd.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconpcd.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconsyncclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sconsyncclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sconsyncserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sconsyncserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/smsdataprovider.dll	build	winscw_urel
+/epoc32/release/winscw/urel/smsdataprovider.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/contactsgrpdatastore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mediadsstore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/mmsdatastore.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlagendadatastore_1_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlagendadatastore_1_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlagendadatastore_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlagendadatastore_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlcontactsdatastoreformat_1_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlcontactsdatastoreformat_1_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlcontactsdatastoreformat_1_2.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlcontactsdatastoreformat_1_2.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/nsmlnotepaddatastoreformat.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/contactsgrpdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/hapticsconnplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mediadsprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/mmsdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmlagendadataprovider.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmlagendadataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmlcontactsdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldsctrldcmoadapter.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmldsctrldcmoadapter.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/nsmlnotepaddataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sconftpplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/sconpcconnplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/smsdataprovider.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/sconftp.r01	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/sconftp.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/smsdatastore.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/dsdcmocontrol.confml	export	
+/epoc32/rom/config/assets/s60/implml/dsdcmocontrol_20022FC0.crml	export	
+/epoc32/rom/include/core/app/cntparser.iby	export	
+/epoc32/rom/include/core/app/contactsgrpdsa.iby	export	
+/epoc32/rom/include/core/app/dsdcmoadapter.iby	export	
+/epoc32/rom/include/core/app/mediads.iby	export	
+/epoc32/rom/include/core/app/mmsdsa.iby	export	
+/epoc32/rom/include/core/app/omads.iby	export	
+/epoc32/rom/include/core/app/sconcsc.iby	export	
+/epoc32/rom/include/core/app/sconftp.iby	export	
+/epoc32/rom/include/core/app/sconftpplugin.iby	export	
+/epoc32/rom/include/core/app/sconpcconnclientserver.iby	export	
+/epoc32/rom/include/core/app/sconpcconnplugin.iby	export	
+/epoc32/rom/include/core/app/sconpcd.iby	export	
+/epoc32/rom/include/core/app/sconsyncclient.iby	export	
+/epoc32/rom/include/core/app/sconsyncserver.iby	export	
+/epoc32/rom/include/core/app/smsdsa.iby	export	
+/epoc32/rom/include/core/mw/hapticsconnplugin.iby	export	
+/epoc32/rom/include/language/app/sconftpresources.iby	export	

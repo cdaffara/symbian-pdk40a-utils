@@ -1,0 +1,31 @@
+/epoc32/data/z/resource/plugins/rfshelixplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/rfshelixplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/libs/plugins/backup_registration_ROP.xml	export	
+/epoc32/include/mw/MMFROPCustomCommandConstants.h	export	
+/epoc32/include/platform/mw/CXPSPacket.h	export	
+/epoc32/include/platform/mw/CXPSPacketSink.h	export	
+/epoc32/include/platform/mw/CXPSPktSinkObserver.h	export	
+/epoc32/include/platform/mw/MMFMetadataEventConfigConstants.h	export	
+/epoc32/include/platform/mw/MMFScalingCustomCommandConstants.h	export	
+/epoc32/include/platform/mw/helix_features.h	export	
+/epoc32/include/platform/mw/hxmetadatakeys.h	export	
+/epoc32/include/platform/mw/hxmetadatautil.h	export	
+/epoc32/include/platform/mw/hxtnutil.h	export	
+/epoc32/include/platform/mw/hxtnutil_obs.h	export	
+/epoc32/release/armv5/udeb/RfsHelixPlugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/RfsHelixPlugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/XPSPacketSink.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/hxmetadatautil.lib	build	armv5_udeb
+/epoc32/release/armv5/urel/RfsHelixPlugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/RfsHelixPlugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/XPSPacketSink.lib	build	armv5_urel
+/epoc32/release/armv5/urel/hxmetadatautil.lib	build	armv5_urel
+/epoc32/release/winscw/udeb/RfsHelixPlugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/XPSPacketSink.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/hxmetadatautil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/rfshelixplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/RfsHelixPlugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/RfsHelixPlugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/XPSPacketSink.lib	build	winscw_urel
+/epoc32/release/winscw/urel/hxmetadatautil.lib	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/rfshelixplugin.rsc	resource	winscw_udeb

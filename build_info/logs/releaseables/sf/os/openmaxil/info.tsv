@@ -1,0 +1,143 @@
+/epoc32/data/z/resource/plugins/omxilsymbianloader.rsc	resource	armv5smp_udeb
+/epoc32/data/z/resource/plugins/omxilsymbianloader.rsc	resource	winscw_udeb
+/epoc32/include/omxilsymbianloader.rsg	resource	armv5smp_udeb
+/epoc32/include/omxilsymbianloader.rsg	resource	winscw_udeb
+/epoc32/include/platform/multimedia/mmfbuffershared.h	export	
+/epoc32/include/platform/openmax/il/common/omxilaudioport.h	export	
+/epoc32/include/platform/openmax/il/common/omxilcallbacknotificationif.h	export	
+/epoc32/include/platform/openmax/il/common/omxilclientclockport.h	export	
+/epoc32/include/platform/openmax/il/common/omxilclockcomponentcmdsif.h	export	
+/epoc32/include/platform/openmax/il/common/omxilcomponent.h	export	
+/epoc32/include/platform/openmax/il/common/omxilconfigmanager.h	export	
+/epoc32/include/platform/openmax/il/common/omxilimageport.h	export	
+/epoc32/include/platform/openmax/il/common/omxilotherport.h	export	
+/epoc32/include/platform/openmax/il/common/omxilport.h	export	
+/epoc32/include/platform/openmax/il/common/omxilport.inl	export	
+/epoc32/include/platform/openmax/il/common/omxilprocessingfunction.h	export	
+/epoc32/include/platform/openmax/il/common/omxilspecversion.h	export	
+/epoc32/include/platform/openmax/il/common/omxilstatedefs.h	export	
+/epoc32/include/platform/openmax/il/common/omxilutil.h	export	
+/epoc32/include/platform/openmax/il/common/omxilvideoport.h	export	
+/epoc32/include/platform/openmax/il/core/omxilcontentpipeif.h	export	
+/epoc32/include/platform/openmax/il/core/omxilcontentpipeif.hrh	export	
+/epoc32/include/platform/openmax/il/core/omxilloaderif.h	export	
+/epoc32/include/platform/openmax/il/core/omxilloaderif.hrh	export	
+/epoc32/include/platform/openmax/il/core/omxilloaderif.inl	export	
+/epoc32/include/platform/openmax/il/core/omxilsymbiancontentpipeif.h	export	
+/epoc32/include/platform/openmax/il/core/omxilsymbianloaderif.h	export	
+/epoc32/include/platform/openmax/il/extensions/omxilsymbianbuffersextensions.h	export	
+/epoc32/include/platform/openmax/il/extensions/omxilsymbiansharedchunkextensions.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Audio.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Component.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_ContentPipe.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Core.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_IVCommon.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Image.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Index.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Other.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Types.h	export	
+/epoc32/include/platform/openmax/il/khronos/v1_x/OMX_Video.h	export	
+/epoc32/include/platform/openmax/il/loader/OMX_Loader.h	export	
+/epoc32/include/platform/openmax/il/loader/omxilcomponentif.h	export	
+/epoc32/include/platform/openmax/il/loader/omxilcomponentif.hrh	export	
+/epoc32/include/platform/openmax/il/loader/omxilsymbiancomponentif.h	export	
+/epoc32/include/platform/openmax/il/shai/OMX_Symbian_AudioExt.h	export	
+/epoc32/include/platform/openmax/il/shai/OMX_Symbian_ComponentExt.h	export	
+/epoc32/include/platform/openmax/il/shai/OMX_Symbian_CoreExt.h	export	
+/epoc32/include/platform/openmax/il/shai/OMX_Symbian_ExtensionNames.h	export	
+/epoc32/include/platform/openmax/il/shai/OMX_Symbian_IVCommonExt.h	export	
+/epoc32/include/platform/openmax/il/shai/OMX_Symbian_OtherExt.h	export	
+/epoc32/release/armv5/lib/omxilcomponentcommon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/omxilcomponentcommon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/omxilcomponentcommon.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/omxilcomponentcommon.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/omxilcomponentcommon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/omxilcomponentcommon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/omxilcomponentcommon{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/omxilcomponentcommon{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/omxilcoreclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/omxilcoreclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/omxilcoreclient.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/omxilcoreclient.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/omxilcoreclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/omxilcoreclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/omxilcoreclient{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/omxilcoreclient{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/omxilcoreserver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/omxilcoreserver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/omxilcoreserver.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/omxilcoreserver.dso	build	armv5smp_urel
+/epoc32/release/armv5/lib/omxilcoreserver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/omxilcoreserver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/omxilcoreserver{000a0000}.dso	build	armv5smp_udeb
+/epoc32/release/armv5/lib/omxilcoreserver{000a0000}.dso	build	armv5smp_urel
+/epoc32/release/armv5/udeb/omxilcomponentcommon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilcomponentcommon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilcomponentif.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilcoreclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilcoreclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilcoreserver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilcoreserver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilsymbiancontentpipeif.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilsymbianloader.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilsymbianloader.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/omxilsymbianloaderif.lib	build	armv5_udeb
+/epoc32/release/armv5/urel/omxilcomponentcommon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/omxilcomponentcommon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/omxilcomponentif.lib	build	armv5_urel
+/epoc32/release/armv5/urel/omxilcoreclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/omxilcoreclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/omxilcoreserver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/omxilcoreserver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/omxilsymbiancontentpipeif.lib	build	armv5_urel
+/epoc32/release/armv5/urel/omxilsymbianloader.dll	build	armv5_urel
+/epoc32/release/armv5/urel/omxilsymbianloader.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/omxilsymbianloaderif.lib	build	armv5_urel
+/epoc32/release/armv5smp/udeb/omxilcomponentcommon.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilcomponentcommon.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilcomponentif.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilcoreclient.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilcoreclient.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilcoreserver.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilcoreserver.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilsymbiancontentpipeif.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilsymbianloader.dll	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilsymbianloader.dll.map	build	armv5smp_udeb
+/epoc32/release/armv5smp/udeb/omxilsymbianloaderif.lib	build	armv5smp_udeb
+/epoc32/release/armv5smp/urel/omxilcomponentcommon.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilcomponentcommon.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilcomponentif.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilcoreclient.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilcoreclient.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilcoreserver.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilcoreserver.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilsymbiancontentpipeif.lib	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilsymbianloader.dll	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilsymbianloader.dll.map	build	armv5smp_urel
+/epoc32/release/armv5smp/urel/omxilsymbianloaderif.lib	build	armv5smp_urel
+/epoc32/release/winscw/udeb/omxilcomponentcommon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilcomponentcommon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilcomponentif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilcoreclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilcoreclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilcoreserver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilcoreserver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilsymbiancontentpipeif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilsymbianloader.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/omxilsymbianloaderif.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/omxilsymbianloader.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/omxilcomponentcommon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/omxilcomponentcommon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/omxilcomponentif.lib	build	winscw_urel
+/epoc32/release/winscw/urel/omxilcoreclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/omxilcoreclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/omxilcoreserver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/omxilcoreserver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/omxilsymbiancontentpipeif.lib	build	winscw_urel
+/epoc32/release/winscw/urel/omxilsymbianloader.dll	build	winscw_urel
+/epoc32/release/winscw/urel/omxilsymbianloader.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/omxilsymbianloaderif.lib	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/omxilsymbianloader.rsc	resource	winscw_udeb
+/epoc32/rom/include/omxilcomp.iby	export	
+/epoc32/rom/include/omxilcore.iby	export	
+/epoc32/rom/include/omxilloader.iby	export	

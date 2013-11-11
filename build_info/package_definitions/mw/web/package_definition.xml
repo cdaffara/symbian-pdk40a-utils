@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="web" level="specific" levels="plugin utils server generic specific" long-name="Web">
+<collection name="web_pub" long-name="Web Public Interfaces" level="specific">
+<component name="browser_control_api" long-name="Browser Control API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_pub/browser_control_api/group"/>
+</component>
+<component name="download_mgr_client_api" long-name="Download Manager Client API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_pub/download_mgr_client_api/group"/>
+</component>
+<component name="download_mgr_ui_api" long-name="Download Manager UI Library API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_pub/download_mgr_ui_api/group"/>
+</component>
+<component name="favourites_engine_api" long-name="Favourites Engine API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_pub/favourites_engine_api/group"/>
+</component>
+<component name="browser_plugin_api" long-name="Browser Plug-in API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_pub/browser_plugin_api/group"/>
+</component>
+<component name="settings_api" long-name="Settings API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_pub/settings_api/group"/>
+</component>
+</collection>
+<collection name="web_plat" long-name="Web Platform Interfaces" level="specific">
+<component name="aiw_browser_provider_api" long-name="AIW Browser Provider API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/aiw_browser_provider_api/group"/>
+</component>
+<component name="browser_dialogs_provider_api" long-name="Browser Dialogs Provider API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/browser_dialogs_provider_api/group"/>
+</component>
+<component name="browser_platform_api" long-name="Browser Platform API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/browser_platform_api/group"/>
+</component>
+<component name="cod_handler_api" long-name="COD Handler API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/cod_handler_api/group"/>
+</component>
+<component name="connection_manager_api" long-name="Connection Manager API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/connection_manager_api/group"/>
+</component>
+<component name="download_mgr_client_api_extn" long-name="Download Manager Client API Extension" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/download_mgr_client_api_extn/group"/>
+</component>
+<component name="feeds_engine_api" long-name="Feeds Engine API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/feeds_engine_api/group"/>
+</component>
+<component name="launcher_api" long-name="Launcher API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/launcher_api/group"/>
+</component>
+<component name="recent_url_store_api" long-name="Recent URL Store API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/recent_url_store_api/group"/>
+</component>
+<component name="rt_gesturehelper_api" long-name="Runtime Gesture Helper API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/rt_gesturehelper_api/group"/>
+</component>
+<component name="scheme_handler_plugin_api" long-name="Scheme Handler Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/scheme_handler_plugin_api/group"/>
+</component>
+<component name="scriptable_plugin_api" long-name="Scriptable Plugin API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/scriptable_plugin_api/group"/>
+</component>
+<component name="webutils_api" long-name="Web Utils API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/webutils_api/group"/>
+</component>
+<component name="widget_registry_api" long-name="Widget Registry API" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/web/web_plat/widget_registry_api/group"/>
+</component>
+</collection>
+<collection name="browserutilities" long-name="Browser Utilities" level="utils">
+<component name="browserdialogsprovider" long-name="Browser Dialogs Provider" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/browserdialogsprovider/group"/>
+</component>
+<component name="recenturlstore" long-name="Recent URL Store" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/recenturlstore/group"/>
+</component>
+<component name="downloadmgr" long-name="Download Manager" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/downloadmgr/group"/>
+</component>
+<component name="connectionmanager" long-name="Connection Manager" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/connectionmanager/group"/>
+</component>
+<component name="browsertelservice" long-name="Browser Telephony Service" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/browsertelservice/group"/>
+</component>
+<component name="favouritesengine" long-name="Favourites Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/favouritesengine/group"/>
+</component>
+<component name="feedsengine" long-name="Feeds Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/feedsengine/group"/>
+</component>
+<component name="schemehandler" long-name="Scheme Handler" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/schemehandler/group"/>
+</component>
+<component name="webutils" long-name="Web Utils" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/browserutilities/webutils/group"/>
+</component>
+<component name="aiwbrowserprovider" long-name="AIW Browser Provider" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/browserutilities/aiwbrowserprovider/group"/>
+</component>
+</collection>
+<collection name="webengine" long-name="Web Engine" level="server">
+<component name="osswebengine" long-name="OSS Web Engine" filter="s60" purpose="optional">
+<!-- can only have one unit. Either split into multiple components or #include from a single main bld.inf -->
+<unit bldFile="/sf/mw/web/webengine/osswebengine/cache/group"/>
+<unit bldFile="/sf/mw/web/webengine/osswebengine/memorymanager/group"/>
+<unit bldFile="/sf/mw/web/webengine/osswebengine/npscript/group"/>
+<unit bldFile="/sf/mw/web/webengine/osswebengine/webkit/s60/group"/>
+<unit bldFile="/sf/mw/web/webengine/osswebengine/webkit/s60/group/javascriptcore"/>
+</component>
+<component name="webkitutils" long-name="WebKit Utils" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/webengine/webkitutils/group"/>
+</component>
+<component name="pagescaler" long-name="Page Scaler" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/webengine/pagescaler/group"/>
+</component>
+<component name="webwidgetinstaller" long-name="Widget Installer" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/webengine/widgetinstaller/group"/>
+</component>
+<component name="widgetregistry" long-name="Widget Registry" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/webengine/widgetregistry/group"/>
+</component>
+<component name="device" long-name="Device" filter="s60" purpose="optional">
+<!-- this needs a more meaningful name -->
+<unit bldFile="/sf/mw/web/webengine/device/group"/>
+</component>
+<component name="widgetengine" long-name="Widget Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/webengine/widgetengine/group"/>
+</component>
+<component name="web_memoryplugin" long-name="Memory Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/webengine/memoryplugin/group"/>
+</component>
+<component name="widgetmemoryplugin" long-name="Widget Memory Plugin" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/webengine/widgetmemoryplugin/group"/>
+</component>
+<component name="widgetbackuprestore" long-name="Widget Backup and Restore" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/webengine/widgetbackuprestore/group"/>
+</component>
+<component name="browserrecognizers" long-name="Browser Recognizers" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/webengine/browserrecognizers/group"/>
+</component>
+<component name="wrtharvester" long-name="Web Runtime Harvester" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/webengine/wrtharvester/group"/>
+</component>
+</collection>
+<collection name="codhandler" long-name="Content Object Descriptor Handler" level="specific">
+<component name="codeng" long-name="COD Engine" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/codhandler/codeng/group"/>
+</component>
+<component name="codui" long-name="COD UI" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/codhandler/codui/group"/>
+</component>
+<component name="codrecog" long-name="COD Recogniser" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/codhandler/codrecog/group"/>
+</component>
+<component name="codviewer" long-name="COD Viewer" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/codhandler/codviewer/group"/>
+</component>
+<component name="ddrecog" long-name="Download Descriptor Recogniser" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/codhandler/ddrecog/group"/>
+</component>
+<component name="ddviewer" long-name="Download Descriptor Viewer" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/codhandler/ddviewer/group"/>
+</component>
+<component name="coddownload" long-name="COD Download" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/codhandler/coddownload/group"/>
+</component>
+<component name="roapapp" long-name="ROAP Application" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/codhandler/roapapp/group"/>
+</component>
+<component name="codhandler_build" long-name="COD Handler Build" filter="s60" purpose="optional">
+<!-- Exports need to go into another component or make this self-contained.
+      		#included .hrh file needs to be #included in each of the other components -->
+<unit bldFile="/sf/mw/web/codhandler/group"/>
+</component>
+</collection>
+<collection name="widgets" long-name="Web Widget Framework" level="generic">
+<component name="widgetrecognizer" long-name="Widget Recognizer" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/widgets/widgetrecognizer/group"/>
+</component>
+<component name="widgetinstaller" long-name="Widget Installer UI" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/mw/web/widgets/widgetinstaller/group"/>
+</component>
+<component name="widgetlauncher" long-name="Widget Launcher" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/widgets/widgetlauncher/group"/>
+</component>
+<component name="widgetapp" long-name="Widget UI" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/web/widgets/widgetapp/group"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

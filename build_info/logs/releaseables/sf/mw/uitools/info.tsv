@@ -1,0 +1,26 @@
+/epoc32/include/mw/ThirdPartyBitmap.pal	export	
+/epoc32/include/platform/mw/AknLayoutByteCodes.h	export	
+/epoc32/include/platform/mw/AknLayoutConsts.h	export	
+/epoc32/include/platform/mw/CdlCompilerToolkit/CdlCompat.h	export	
+/epoc32/include/platform/mw/CdlCompilerToolkit/CdlTkInstance.h	export	
+/epoc32/include/platform/mw/CdlCompilerToolkit/CdlTkInterface.h	export	
+/epoc32/include/platform/mw/CdlCompilerToolkit/CdlTkProcess.h	export	
+/epoc32/include/platform/mw/CdlCompilerToolkit/CdlTkUtil.h	export	
+/epoc32/include/platform/mw/CdlDef.h	export	
+/epoc32/release/armv5/udeb/reszip.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/reszip.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/reszip.exe	build	armv5_urel
+/epoc32/release/armv5/urel/reszip.exe.map	build	armv5_urel
+/epoc32/release/tools2/rel/libCdlCompilerToolkit.a	build	tools2_rel
+/epoc32/release/winscw/udeb/reszip.exe	build	winscw_udeb
+/epoc32/release/winscw/urel/reszip.exe	build	winscw_urel
+/epoc32/release/winscw/urel/reszip.exe.map	build	winscw_urel
+/epoc32/tools/AknLayoutCompiler.exe	export	
+/epoc32/tools/CdlCompiler.exe	build	tools2_rel
+/epoc32/tools/CdlCompilerToolkit.lib	build	tools_rel
+/epoc32/tools/reszip.bat	export	
+/epoc32/tools/series60color.exe	build	tools2_rel
+/epoc32/tools/series60color.exe	build	tools_rel
+/epoc32/tools/svgtbinencode	export	
+/epoc32/tools/svgtbinencode.exe	export	
+/epoc32/tools/xerces-c_2_6.dll	export	

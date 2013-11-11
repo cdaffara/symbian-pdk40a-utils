@@ -1,0 +1,69 @@
+symbian {
+
+CONFIG -= def_files
+CONFIG -= def_files_disabled
+
+INCLUDEPATH += /epoc32/include/ecom
+
+LIBS *= -lecom
+LIBS *= -lcharconv
+LIBS *= -lxqplugins
+
+TARGET.UID2 = 0x10009d8d
+#generated files needs TARGET.UID3 to be set
+isEmpty(TARGET.UID3):error(Plugin has to has TARGET.UID3 assigned explicitly!)
+
+
+#Generate additional files
+XQECOMAPP = "python $${EPOCROOT}epoc32/tools/xqecom.py"
+#XQECOMAPP = $$[QT_INSTALL_BINS]$${DIR_SEPARATOR}xqecom.exe
+
+XQ_FILE_RSS_TAIL=.rss
+RSSFILE = $$TARGET$$XQ_FILE_RSS_TAIL
+
+XQ_FILE_PKG_TAIL=.pkg
+PKGFILE = $$TARGET$$XQ_FILE_PKG_TAIL
+XQ_FILE_IBY_TAIL=.iby
+IBYFILE = $$TARGET$$XQ_FILE_IBY_TAIL
+XQ_FILE_STUBSOURCE_TAIL=.cpp
+SRCFILE = ecomstub_$$TARGET.UID3$$XQ_FILE_STUBSOURCE_TAIL
+XQ_FILE_STUBHEADER_TAIL=.hrh
+HDRFILE = ecomstub_$$TARGET.UID3$$XQ_FILE_STUBHEADER_TAIL
+	
+	
+symbian-sbsv2{
+	
+ myextension = \
+    "START EXTENSION qt/qtextensions_pre_targetdep.export" \
+    "OPTION PREDEP_TARGET $$RSSFILE" \
+    "OPTION COMMAND $$XQECOMAPP $$TARGET $${TARGET.UID3} \"$${SERVICE.INTERFACE_NAME}\" \"$${SERVICE.CONFIGURATION}\" \"$${SERVICE.CONFIGURATION.FILE}\" " \
+	"END"
+ BLD_INF_RULES.prj_extensions += myextension
+}
+
+	
+symbian-abld{
+
+xqecom.output = "$$RSSFILE"
+XQECOM_INPUT = .   # Need to give some bogus input
+xqecom.input = XQECOM_INPUT
+xqecom.CONFIG = no_link combine explicit_dependencies
+xqecom.variable_out = SOURCES
+xqecom.name = xqecom
+xqecom.commands = $$XQECOMAPP $$TARGET $${TARGET.UID3} \"$${SERVICE.INTERFACE_NAME}\" \"$${SERVICE.CONFIGURATION}\" \"$${SERVICE.CONFIGURATION.FILE}\"
+QMAKE_EXTRA_COMPILERS += xqecom
+}
+
+
+
+
+myResourceInclude = \
+"SOURCEPATH . "\
+"START RESOURCE  $$RSSFILE "\
+"END"
+
+MMP_RULES += myResourceInclude
+MMP_RULES += "SOURCE ecomstub_$${TARGET.UID3}.cpp"
+MMP_RULES += "TARGETTYPE PLUGIN"
+
+}

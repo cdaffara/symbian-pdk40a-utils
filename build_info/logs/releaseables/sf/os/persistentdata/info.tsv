@@ -1,0 +1,519 @@
+/epoc32/data/c/private/10273881/uloggerconfig.ini	export	
+/epoc32/data/z/private/101f401d/backup_registration.xml	export	
+/epoc32/data/z/private/101f401d/logserv.rsc	resource	armv5_urel
+/epoc32/data/z/private/101f401d/logserv.rsc	resource	winscw_udeb
+/epoc32/data/z/private/10202be9/backup_registration.xml	export	
+/epoc32/data/z/private/10205054/backup_registration.xml	export	
+/epoc32/data/z/private/10273881/uloggerconfig.ini	export	
+/epoc32/data/z/private/10281e17/backup_registration.xml	export	
+/epoc32/data/z/resource/commsdbg.ini	export	
+/epoc32/data/z/resource/logeng/logwrap.rsc	resource	armv5_urel
+/epoc32/data/z/resource/logeng/logwrap.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/uloggerfileplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/uloggerfileplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/uloggerserialplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/uloggerserialplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/install/sqlite3_stub.sis	export	
+/epoc32/include/cenrepnotifyhandler.h	export	
+/epoc32/include/centralrepository.h	export	
+/epoc32/include/comms-infras/commsdebugutility.h	export	
+/epoc32/include/comms-infras/commsdebugutility.mmh	export	
+/epoc32/include/d32dbms.h	export	
+/epoc32/include/d32dbms.inl	export	
+/epoc32/include/d32dbmsconstants.h	export	
+/epoc32/include/featdiscovery.h	export	
+/epoc32/include/flogger.h	export	
+/epoc32/include/flogger.inl	export	
+/epoc32/include/logcli.h	export	
+/epoc32/include/logcli.inl	export	
+/epoc32/include/logclientchangeobserver.h	export	
+/epoc32/include/logeng.h	export	
+/epoc32/include/logfilterandeventconstants.hrh	export	
+/epoc32/include/logserv.rsg	resource	armv5_urel
+/epoc32/include/logserv.rsg	resource	winscw_udeb
+/epoc32/include/logsmspdudata.h	export	
+/epoc32/include/logview.h	export	
+/epoc32/include/logview.inl	export	
+/epoc32/include/logviewchangeobserver.h	export	
+/epoc32/include/logwrap.h	export	
+/epoc32/include/logwrap.hrh	export	
+/epoc32/include/logwrap.inl	export	
+/epoc32/include/logwrap.rsg	resource	armv5_urel
+/epoc32/include/logwrap.rsg	resource	winscw_udeb
+/epoc32/include/logwrapconst.h	export	
+/epoc32/include/logwraplimits.h	export	
+/epoc32/include/pcstore/checkeduid.h	export	
+/epoc32/include/pcstore/descriptors.h	export	
+/epoc32/include/pcstore/directfilestore.h	export	
+/epoc32/include/pcstore/pcstore.h	export	
+/epoc32/include/pcstore/pcstoredef.h	export	
+/epoc32/include/pcstore/storeexception.h	export	
+/epoc32/include/pcstore/storereadstream.h	export	
+/epoc32/include/pcstore/storewritestream.h	export	
+/epoc32/include/pcstore/streamid.h	export	
+/epoc32/include/pcstore/uid.h	export	
+/epoc32/include/platform/e32utrace.h	export	
+/epoc32/include/platform/featmgr/featmgr.h	export	
+/epoc32/include/platform/featmgr/featurecmn.h	export	
+/epoc32/include/platform/featmgr/featurecontrol.h	export	
+/epoc32/include/platform/featmgr/featureinfoplugin.h	export	
+/epoc32/include/platform/featmgr/featureinfoplugin.inl	export	
+/epoc32/include/platform/featmgr/featurenotifier.h	export	
+/epoc32/include/platform/featreg.h	export	
+/epoc32/include/platform/featreg.inl	export	
+/epoc32/include/platform/featregpan.h	export	
+/epoc32/include/platform/logcntdef.h	export	
+/epoc32/include/platform/logcntmodel.h	export	
+/epoc32/include/platform/logengdurations.h	export	
+/epoc32/include/platform/logengevents.h	export	
+/epoc32/include/platform/s32crypt.h	export	
+/epoc32/include/platform/s32crypt.inl	export	
+/epoc32/include/platform/s32fileiter.h	export	
+/epoc32/include/platform/s32fileiter.inl	export	
+/epoc32/include/platform/test/rfilelogger.h	export	
+/epoc32/include/platform/test/rfileloggermacro.h	export	
+/epoc32/include/platform/uloggerclient.h	export	
+/epoc32/include/platform/uloggercommands.h	export	
+/epoc32/include/platform/uloggerdatatypes.h	export	
+/epoc32/include/platform/uloggerinputplugin.h	export	
+/epoc32/include/platform/uloggeroutputplugin.h	export	
+/epoc32/include/platform/uloggerplugin.h	export	
+/epoc32/include/platform/uloggerplugin.inl	export	
+/epoc32/include/platform/uloggershared.h	export	
+/epoc32/include/s32btree.h	export	
+/epoc32/include/s32btree.inl	export	
+/epoc32/include/s32buf.h	export	
+/epoc32/include/s32buf.inl	export	
+/epoc32/include/s32cont.h	export	
+/epoc32/include/s32cont.inl	export	
+/epoc32/include/s32file.h	export	
+/epoc32/include/s32file.inl	export	
+/epoc32/include/s32mem.h	export	
+/epoc32/include/s32mem.inl	export	
+/epoc32/include/s32page.h	export	
+/epoc32/include/s32page.inl	export	
+/epoc32/include/s32share.h	export	
+/epoc32/include/s32share.inl	export	
+/epoc32/include/s32std.h	export	
+/epoc32/include/s32std.inl	export	
+/epoc32/include/s32stor.h	export	
+/epoc32/include/s32stor.inl	export	
+/epoc32/include/s32strm.h	export	
+/epoc32/include/s32strm.inl	export	
+/epoc32/include/s32ucmp.h	export	
+/epoc32/include/sqldb.h	export	
+/epoc32/include/stdapis/sqlite3.h	export	
+/epoc32/release/armv5/lib/cenrepnotifhandler.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cenrepnotifhandler.dso	build	armv5_urel
+/epoc32/release/armv5/lib/cenrepnotifhandler{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/cenrepnotifhandler{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/centralrepository.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/centralrepository.dso	build	armv5_urel
+/epoc32/release/armv5/lib/centralrepository{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/centralrepository{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/comsdbgsvr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/comsdbgsvr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/comsdbgsvr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/comsdbgsvr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/comsdbgutil.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/comsdbgutil.dso	build	armv5_urel
+/epoc32/release/armv5/lib/comsdbgutil{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/comsdbgutil{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/edbms.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/edbms.dso	build	armv5_urel
+/epoc32/release/armv5/lib/edbms{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/edbms{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/estor.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/estor.dso	build	armv5_urel
+/epoc32/release/armv5/lib/estor{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/estor{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/featdiscovery.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/featdiscovery.dso	build	armv5_urel
+/epoc32/release/armv5/lib/featdiscovery{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/featdiscovery{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/featmgr.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/featmgr.dso	build	armv5_urel
+/epoc32/release/armv5/lib/featmgr{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/featmgr{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/featreg.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/featreg.dso	build	armv5_urel
+/epoc32/release/armv5/lib/featreg{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/featreg{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flogger.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flogger.dso	build	armv5_urel
+/epoc32/release/armv5/lib/flogger{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/flogger{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logcli.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logcli.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logcli{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logcli{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logcntmodel.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logcntmodel.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logcntmodel{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logcntmodel{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logwrap.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logwrap.dso	build	armv5_urel
+/epoc32/release/armv5/lib/logwrap{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/logwrap{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rfileloggerclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rfileloggerclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/rfileloggerclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/rfileloggerclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sqldb.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sqldb.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sqldb{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sqldb{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sqlite3.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sqlite3.dso	build	armv5_urel
+/epoc32/release/armv5/lib/sqlite3{00060003}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/sqlite3{00060003}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggerclient.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggerclient.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggerclient{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggerclient{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggercommand.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggercommand.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggercommand{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggercommand{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggerpluginframework.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggerpluginframework.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggerpluginframework{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggerpluginframework{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggersysconfig.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggersysconfig.dso	build	armv5_urel
+/epoc32/release/armv5/lib/uloggersysconfig{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/uloggersysconfig{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/cenrepnotifhandler.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/cenrepnotifhandler.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/centralrepository.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/centralrepository.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/centralrepositorysrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/centralrepositorysrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgstub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgstub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgsvr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgsvr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgsvr.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgsvr.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgutil.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/comsdbgutil.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/edbms.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/edbms.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/edbsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/edbsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/estor.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/estor.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/featdiscovery.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/featdiscovery.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/featmgr.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/featmgr.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/featmgrserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/featmgrserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/featreg.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/featreg.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/featureinstaller.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/featureinstaller.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/featureuninstaller.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/featureuninstaller.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/flogger.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/flogger.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/flogsvr.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/flogsvr.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logcli.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/logcli.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logcntmodel.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/logcntmodel.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logserv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/logserv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logstub.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/logstub.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/logwrap.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/logwrap.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfileloggerclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfileloggerclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfileloggerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/rfileloggerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqldb.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqldb.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlite.lib	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlite3.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlite3.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlsrv.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/sqlsrv.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerclient.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerclient.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggercommand.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggercommand.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerfileplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerfileplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerpluginframework.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerpluginframework.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerserialplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerserialplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggerserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggersysconfig.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggersysconfig.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggersysstart.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/uloggersysstart.exe.map	build	armv5_udeb
+/epoc32/release/armv5/urel/cenrepnotifhandler.dll	build	armv5_urel
+/epoc32/release/armv5/urel/cenrepnotifhandler.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/centralrepository.dll	build	armv5_urel
+/epoc32/release/armv5/urel/centralrepository.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/centralrepositorysrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/centralrepositorysrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgstub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgstub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgsvr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgsvr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgsvr.exe	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgsvr.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgutil.dll	build	armv5_urel
+/epoc32/release/armv5/urel/comsdbgutil.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/edbms.dll	build	armv5_urel
+/epoc32/release/armv5/urel/edbms.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/edbsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/edbsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/estor.dll	build	armv5_urel
+/epoc32/release/armv5/urel/estor.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/featdiscovery.dll	build	armv5_urel
+/epoc32/release/armv5/urel/featdiscovery.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/featmgr.dll	build	armv5_urel
+/epoc32/release/armv5/urel/featmgr.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/featmgrserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/featmgrserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/featreg.dll	build	armv5_urel
+/epoc32/release/armv5/urel/featreg.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/featureinstaller.exe	build	armv5_urel
+/epoc32/release/armv5/urel/featureinstaller.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/featureuninstaller.exe	build	armv5_urel
+/epoc32/release/armv5/urel/featureuninstaller.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/flogger.dll	build	armv5_urel
+/epoc32/release/armv5/urel/flogger.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/flogsvr.exe	build	armv5_urel
+/epoc32/release/armv5/urel/flogsvr.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/logcli.dll	build	armv5_urel
+/epoc32/release/armv5/urel/logcli.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/logcntmodel.dll	build	armv5_urel
+/epoc32/release/armv5/urel/logcntmodel.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/logserv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/logserv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/logstub.dll	build	armv5_urel
+/epoc32/release/armv5/urel/logstub.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/logwrap.dll	build	armv5_urel
+/epoc32/release/armv5/urel/logwrap.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rfileloggerclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/rfileloggerclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/rfileloggerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/rfileloggerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/sqldb.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sqldb.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sqlite.lib	build	armv5_urel
+/epoc32/release/armv5/urel/sqlite3.dll	build	armv5_urel
+/epoc32/release/armv5/urel/sqlite3.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/sqlsrv.exe	build	armv5_urel
+/epoc32/release/armv5/urel/sqlsrv.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerclient.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerclient.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggercommand.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uloggercommand.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerfileplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerfileplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerpluginframework.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerpluginframework.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerserialplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerserialplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/uloggerserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggersysconfig.dll	build	armv5_urel
+/epoc32/release/armv5/urel/uloggersysconfig.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/uloggersysstart.exe	build	armv5_urel
+/epoc32/release/armv5/urel/uloggersysstart.exe.map	build	armv5_urel
+/epoc32/release/tools2/rel/libpcstore.a	build	tools2_rel
+/epoc32/release/wins/udeb/z/resource/commsdbg.ini	export	
+/epoc32/release/wins/urel/z/resource/commsdbg.ini	export	
+/epoc32/release/winscw/udeb/cenrepnotifhandler.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/cenrepnotifhandler.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/centralrepository.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/centralrepository.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/centralrepositorysrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/centrepconv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/comsdbgstub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/comsdbgsvr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/comsdbgsvr.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/comsdbgsvr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/comsdbgutil.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/comsdbgutil.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/edbms.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/edbms.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/edbspconv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/edbsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/estor.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/estor.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/featdiscovery.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/featdiscovery.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/featmgr.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/featmgr.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/featmgrserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/featreg.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/featreg.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/featureinstaller.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/featureuninstaller.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/flogger.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/flogger.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/flogsvr.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/logcli.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/logcli.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/logcntmodel.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/logcntmodel.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/logserv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/logstub.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/logwrap.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/logwrap.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfileloggerclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfileloggerclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/rfileloggerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqldb.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqldb.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqlite.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqlite3.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqlite3.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/sqlsrv.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggerclient.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggerclient.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggercommand.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggercommand.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggerfileplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggerpluginframework.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggerpluginframework.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggerserialplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggerserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggersysconfig.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggersysconfig.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/uloggersysstart.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/101f401d/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/101f401d/logserv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/private/10202be9/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10205054/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/private/10273881/uloggerconfig.ini	export	
+/epoc32/release/winscw/udeb/z/private/10281e17/backup_registration.xml	export	
+/epoc32/release/winscw/udeb/z/resource/commsdbg.ini	export	
+/epoc32/release/winscw/udeb/z/resource/logeng/logwrap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/uloggerfileplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/uloggerserialplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/cenrepnotifhandler.dll	build	winscw_urel
+/epoc32/release/winscw/urel/cenrepnotifhandler.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/centralrepository.dll	build	winscw_urel
+/epoc32/release/winscw/urel/centralrepository.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/centralrepositorysrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/centralrepositorysrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/centrepconv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/centrepconv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgstub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgstub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgsvr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgsvr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgsvr.exe	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgsvr.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgutil.dll	build	winscw_urel
+/epoc32/release/winscw/urel/comsdbgutil.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/edbms.dll	build	winscw_urel
+/epoc32/release/winscw/urel/edbms.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/edbspconv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/edbspconv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/edbsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/edbsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/estor.dll	build	winscw_urel
+/epoc32/release/winscw/urel/estor.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/featdiscovery.dll	build	winscw_urel
+/epoc32/release/winscw/urel/featdiscovery.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/featmgr.dll	build	winscw_urel
+/epoc32/release/winscw/urel/featmgr.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/featmgrserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/featmgrserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/featreg.dll	build	winscw_urel
+/epoc32/release/winscw/urel/featreg.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/featureinstaller.exe	build	winscw_urel
+/epoc32/release/winscw/urel/featureinstaller.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/featureuninstaller.exe	build	winscw_urel
+/epoc32/release/winscw/urel/featureuninstaller.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/flogger.dll	build	winscw_urel
+/epoc32/release/winscw/urel/flogger.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/flogsvr.exe	build	winscw_urel
+/epoc32/release/winscw/urel/flogsvr.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/logcli.dll	build	winscw_urel
+/epoc32/release/winscw/urel/logcli.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/logcntmodel.dll	build	winscw_urel
+/epoc32/release/winscw/urel/logcntmodel.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/logserv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/logserv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/logstub.dll	build	winscw_urel
+/epoc32/release/winscw/urel/logstub.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/logwrap.dll	build	winscw_urel
+/epoc32/release/winscw/urel/logwrap.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rfileloggerclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/rfileloggerclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/rfileloggerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/rfileloggerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/sqldb.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sqldb.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sqlite.lib	build	winscw_urel
+/epoc32/release/winscw/urel/sqlite3.dll	build	winscw_urel
+/epoc32/release/winscw/urel/sqlite3.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/sqlsrv.exe	build	winscw_urel
+/epoc32/release/winscw/urel/sqlsrv.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerclient.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerclient.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggercommand.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uloggercommand.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerfileplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerfileplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerpluginframework.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerpluginframework.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerserialplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerserialplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/uloggerserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggersysconfig.dll	build	winscw_urel
+/epoc32/release/winscw/urel/uloggersysconfig.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/uloggersysstart.exe	build	winscw_urel
+/epoc32/release/winscw/urel/uloggersysstart.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/private/101f401d/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/101f401d/logserv.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/private/10202be9/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10205054/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/private/10273881/uloggerconfig.ini	export	
+/epoc32/release/winscw/urel/z/private/10281e17/backup_registration.xml	export	
+/epoc32/release/winscw/urel/z/resource/commsdbg.ini	export	
+/epoc32/release/winscw/urel/z/resource/logeng/logwrap.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/uloggerfileplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/uloggerserialplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/symbianos/confml/eventlogger.confml	export	
+/epoc32/rom/config/assets/symbianos/implml/eventlogger_101f401d.crml	export	
+/epoc32/rom/include/cenrepnotifierhandler.iby	export	
+/epoc32/rom/include/centralrepository.iby	export	
+/epoc32/rom/include/commsdebugutility.iby	export	
+/epoc32/rom/include/commslog.iby	export	
+/epoc32/rom/include/dbms.iby	export	
+/epoc32/rom/include/featmgr.iby	export	
+/epoc32/rom/include/featreg.iby	export	
+/epoc32/rom/include/flogger.iby	export	
+/epoc32/rom/include/logeng.hby	export	
+/epoc32/rom/include/logeng.iby	export	
+/epoc32/rom/include/rfilelogger.iby	export	
+/epoc32/rom/include/sql.iby	export	
+/epoc32/rom/include/sqlite3.iby	export	
+/epoc32/rom/include/store.iby	export	
+/epoc32/rom/include/ulogger.iby	export	
+/epoc32/tools/extractlog.pl	export	
+/epoc32/tools/featmgr/createfeatexample.pl	export	
+/epoc32/tools/featmgr/featuredsr.pm	export	
+/epoc32/tools/featmgr/featureflag.pm	export	
+/epoc32/tools/featmgr/fmcreate.pm	export	
+/epoc32/tools/featmgr/modifyfeatcontent.pl	export	
+/epoc32/tools/featmgr/showfeatcontent.pl	export	
+/epoc32/tools/fmcopydat.cmd	export	
+/epoc32/tools/fmlistdat.cmd	export	
+/epoc32/tools/pfsdump.exe	build	tools_rel
+/epoc32/tools/splitlog.bat	export	
+/epoc32/winscw/c/private/10273881/uloggerconfig.ini	export	

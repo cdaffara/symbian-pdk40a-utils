@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="commonemail" level="apps" span="2" levels="service support ui app" long-name="Email Apps">
+<!-- need to resolve the qt parts into proper components, then uncomment the units -->
+<collection name="email_plat" long-name="Email Apps Platform Interfaces" level="app">
+<component name="nmail_client_api" long-name="NMail Client API" introduced="^4" filter="s60" purpose="optional" class="api placeholder">
+<!--<unit bldFile="email_plat/nmail_client_api" qt:proFile="nmail_client_api.pro"/> -->
+</component>
+<component name="email_services_api" long-name="Email Services API" introduced="^4" filter="s60" purpose="optional" class="api placeholder">
+<!--<unit bldFile="email_plat/email_services_api" qt:proFile="email_services_api.pro"/> -->
+</component>
+<component name="nmail_settings_api" long-name="NMail Settings API" introduced="^4" filter="s60" purpose="optional" class="api placeholder">
+<!--<unit bldFile="email_plat/nmail_settings_api" qt:proFile="nmail_settings_api.pro"/> -->
+</component>
+<component name="email_client_api" long-name="EMail Client API" introduced="^4" filter="s60" purpose="optional" class="api placeholder">
+<!--<unit bldFile="email_plat/email_client_api" qt:proFile="email_client_api.pro"/> -->
+</component>
+</collection>
+<collection name="emailservices" long-name="Email Services" level="service">
+<component name="nmailbase" long-name="NMail Base" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailservices/nmailbase" qt:proFile="nmailbase.pro"/> -->
+</component>
+<component name="emailcommon" long-name="Email Common" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailservices/emailcommon" qt:proFile="emailcommon.pro"/>-->
+</component>
+<component name="emailframework" long-name="Email Framework" introduced="^2" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailservices/emailframework" qt:proFile="emailframework.pro"/>-->
+</component>
+<component name="emailstore" long-name="Email Store" introduced="^2" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailservices/emailstore" qt:proFile="emailstore.pro"/>-->
+</component>
+<component name="nmclientapi" long-name="Nmail Client API" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailservices/nmclientapi" qt:proFile="nmclientapi.pro"/>-->
+</component>
+<component name="nmailagent" long-name="Nmail Agent" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailservices/nmailagent" qt:proFile="nmailagent.pro"/>-->
+</component>
+<component name="nmutilities" long-name="Nmail Utilities" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailservices/nmutilities" qt:proFile="nmutilities.pro"/> -->
+</component>
+</collection>
+<collection name="ipsservices" long-name="IMAP/POP/SMTP Services" level="service">
+<component name="ipssosplugin" long-name="IPS SOS Plugin" introduced="^2" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- SOS? Consider spelling it out since the abbreviation is ambiguous -->
+<!--<unit bldFile="ipsservices/ipssosplugin" qt:proFile="ipssosplugin.pro" />-->
+</component>
+<component name="nmimapclientplugin" long-name="NM IMAP Client Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!--<unit bldFile="ipsservices/nmimapclientplugin" qt:proFile="nmimapclientplugin.pro"/>-->
+</component>
+<component name="nmipsmtms" long-name="NM IPS Client Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="ipsservices/nmipsmtms" qt:proFile="nmipsmtms.pro"/>-->
+</component>
+<component name="nmipssettings" long-name="NM IPS Settings" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="ipsservices/nmipssettings" qt:proFile="nmipssettings.pro"/>-->
+</component>
+<component name="ipsservices_build" long-name="IPS Services Build" introduced="^2" filter="s60" purpose="optional" class="placeholder">
+<!--<unit bldFile="ipsservices" qt:proFile="ipsservices.pro"/> -->
+<!-- can the exports be broken up into the other components or made a config component?-->
+</component>
+</collection>
+<collection name="emailuis" long-name="Email UIs" level="app">
+<component name="nmailuiengine" long-name="Nmail UI Engine" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailuis/nmailuiengine" qt:proFile="nmailuiengine.pro"/> -->
+</component>
+<component name="nmailuiwidgets" long-name="Nmail UI Widgets" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailuis/nmailuiwidgets" qt:proFile="nmailuiwidgets.pro"/> -->
+</component>
+<component name="nmailuiwidgetsplugin" long-name="Nmail UI Widgets Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="emailuis/nmailuiwidgetsplugin" qt:proFile="nmailuiwidgetsplugin.pro"/> -->
+</component>
+<component name="nmsettingui" long-name="Nmail Setting UI" introduced="^4" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="emailuis/nmsettingui" qt:proFile="nmsettingui.pro"/> -->
+</component>
+<component name="nmailcpplugin" long-name="Nmail CP Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="emailuis/nmailcpplugin" qt:proFile="nmailcpplugin.pro"/> -->
+</component>
+<component name="nmailui" long-name="Nmail UI" introduced="^4" filter="s60" purpose="optional" class="placeholder">
+<!-- <unit bldFile="emailuis/nmailui" qt:proFile="nmailui.pro"/> -->
+</component>
+<component name="nmindicatorplugin" long-name="Nmail Indicator Plugin" introduced="^4" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="emailuis/nmindicatorplugin" qt:proFile="nmindicatorplugin.pro"/> -->
+</component>
+<component name="nmframeworkadapter" long-name="Nmail Framework Adapter" introduced="^4" filter="s60" purpose="optional" plugin="Y" class="placeholder">
+<!-- <unit bldFile="emailuis/nmframeworkadapter" qt:proFile="nmframeworkadapter.pro"/> -->
+</component>
+</collection>
+<collection name="commonemail_info" long-name="Email Apps Info" level="app">
+<component name="commonemail_build" long-name="Email Apps Build" introduced="^4" purpose="optional">
+<!-- split into actual components -->
+<unit bldFile="/sf/app/commonemail/." proFile="nmail.pro" qmakeArgs="-r"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

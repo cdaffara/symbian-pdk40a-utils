@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="app" long-name="Applications" levels="services apps">
+   <block name="contentcontrol" level="services" levels="plugin framework app" long-name="Content Control Daemons">
+<collection name="contentctrl_plat" long-name="Content Control Daemons Platforn Interfaces" level="app">
+<component name="ds_contactsdatastoreextension_api" long-name="DS Contacts Data Store Extension API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/contentcontrol/contentctrl_plat/ds_contactsdatastoreextension_api/group"/>
+</component>
+<component name="ds_data_modification_api" long-name="DS Data Modification API" introduced="^3" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/contentcontrol/contentctrl_plat/ds_data_modification_api/group"/>
+</component>
+<component name="ds_contact_adapter_customization_api" long-name="DS Contact Adapter Customization API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/app/contentcontrol/contentctrl_plat/ds_contact_adapter_customization_api/group"/>
+</component>
+</collection>
+<collection name="connectivitymodules" long-name="Connectivity Modules" level="framework">
+<component name="secon" long-name="Service Controllers" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/contentcontrol/connectivitymodules/secon/group"/>
+</component>
+</collection>
+<collection name="dsdcmoadapter" long-name="Data Sync DCMO Adapter" level="plugin">
+<!-- Component at wrong rank, should move down a directory -->
+<component name="dsdcmoadapter_build" long-name="Data Sync Control DCMO Adapter" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/contentcontrol/dsdcmoadapter/group"/>
+</component>
+</collection>
+<collection name="omads" long-name="OMA Data Sync" level="app">
+<component name="omads_build" long-name="OMA DS Build" filter="s60" purpose="optional">
+<unit bldFile="/sf/app/contentcontrol/omads/group"/>
+<!-- need to remove #include and rename and OMA DS ROM -->
+</component>
+<component name="omadsextensions" long-name="OMA DS Extensions" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/contentcontrol/omads/omadsextensions/group"/>
+</component>
+<component name="omadsextensions_qt" long-name="OMA DS Qt Extensions" filter="s60" purpose="optional" plugin="Y">
+<unit bldFile="/sf/app/contentcontrol/omads/omadsextensions" proFile="omadsextensions.pro"/>
+</component>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

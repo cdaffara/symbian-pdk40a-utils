@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE SystemDefinition [
+ <!ELEMENT SystemDefinition (systemModel)>
+ <!ATTLIST SystemDefinition
+  name CDATA #REQUIRED
+  schema CDATA #REQUIRED>
+ <!ELEMENT systemModel (layer+)>
+ <!ELEMENT layer (block*|collection*)*>
+ <!ATTLIST layer
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED>
+ <!ELEMENT block (subblock*|collection*)*>
+ <!ATTLIST block
+  levels NMTOKENS #IMPLIED
+  span CDATA #IMPLIED
+  level NMTOKEN #IMPLIED
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT subblock (collection)*>
+ <!ATTLIST subblock
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED>
+ <!ELEMENT collection (component)*>
+ <!ATTLIST collection
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  level NMTOKEN #IMPLIED>
+ <!ELEMENT component (unit)*>
+ <!ATTLIST component
+  name CDATA #REQUIRED
+  long-name CDATA #IMPLIED
+  deprecated CDATA #IMPLIED
+  introduced CDATA #IMPLIED
+  contract CDATA #IMPLIED
+  plugin (Y|N) 'N'
+  filter CDATA #IMPLIED
+  class NMTOKENS #IMPLIED
+  supports CDATA #IMPLIED
+  purpose (optional|mandatory|development) 'optional'>
+ <!ELEMENT unit EMPTY>
+ <!ATTLIST unit
+  mrp CDATA #IMPLIED
+  filter CDATA #IMPLIED
+  bldFile CDATA #IMPLIED
+  root CDATA #IMPLIED
+  version NMTOKEN #IMPLIED
+  prebuilt NMTOKEN #IMPLIED
+  late (Y|N) #IMPLIED
+  priority CDATA #IMPLIED>
+]>
+<SystemDefinition name="Symbian^4" schema="2.0.1">
+ <systemModel>
+  <layer name="mw" long-name="Middleware" levels="generic specific">
+   <block name="mmappfw" level="specific" levels="fw utils if" long-name="Multimedia App Framework">
+<collection name="mmappfw_plat" long-name="Multimedia App Framework Platform Interfaces" level="if">
+<component name="collection_helper_api" long-name="Collection Helper API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/collection_helper_api/group"/>
+</component>
+<component name="harvester_collection_mediator_api" long-name="Harvester Collection Mediator API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/harvester_collection_mediator_api/group"/>
+</component>
+<component name="harvester_metadata_extractor_api" long-name="Harvester Metadata Extractor API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/harvester_metadata_extractor_api/group"/>
+</component>
+<component name="harvester_server_api" long-name="Harvester Server API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/harvester_server_api/group"/>
+</component>
+<component name="harvester_utility_api" long-name="Harvester Utility API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/harvester_utility_api/group"/>
+</component>
+<component name="playlist_engine_api" long-name="Playlist Engine API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/playlist_engine_api/group"/>
+</component>
+<component name="mtp_keys_api" long-name="MTP Keys API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mtp_keys_api/group"/>
+</component>
+<component name="mpx_collection_common_definition_api" long-name="MPX Collection Common Definition API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_collection_common_definition_api/group"/>
+</component>
+<component name="mpx_collection_utility_api" long-name="MPX Collection Utility API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_collection_utility_api/group"/>
+</component>
+<component name="mpx_common_api" long-name="MPX Common API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_common_api/group"/>
+</component>
+<component name="mpx_common_definition_api" long-name="MPX Common Definition API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_common_definition_api/group"/>
+</component>
+<component name="mpx_playback_common_definition_api" long-name="MPX Playback Common Definition API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_playback_common_definition_api/group"/>
+</component>
+<component name="mpx_playback_utility_api" long-name="MPX Playback Utility API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_playback_utility_api/group"/>
+</component>
+<component name="mpx_base_view_plugins_api" long-name="MPX Base View Plugins API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_base_view_plugins_api/group"/>
+</component>
+<component name="mpx_view_utility_api" long-name="MPX View Utility API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_view_utility_api/group"/>
+</component>
+<component name="mpx_albumart_utility_api" long-name="MPX Album Art Utility API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/mpx_albumart_utility_api/group"/>
+</component>
+<component name="media_player_settings_engine_api" long-name="Media Player Settings Engine API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/media_player_settings_engine_api/group"/>
+</component>
+<component name="asx_parser_api" long-name="ASX Parser API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/asx_parser_api/group"/>
+</component>
+<component name="playback_helper_api" long-name="Playback Helper API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/playback_helper_api/group"/>
+</component>
+<component name="videoplaylist_utility_api" long-name="Video Playlist Utility API" introduced="^1" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/videoplaylist_utility_api/group"/>
+</component>
+<component name="qt_telephony_multimedia_service_api" long-name="Qt Telephony Multimedia Service API" introduced="^4" filter="s60" purpose="optional" class="api">
+<unit bldFile="/sf/mw/mmappfw/mmappfw_plat/qt_telephony_multimedia_service_api/group"/>
+</component>
+</collection>
+<collection name="mpx" long-name="Multimedia Player" level="fw">
+<component name="commonframework" long-name="MPX Common Framework" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mpx/commonframework/group"/>
+</component>
+<component name="playbackframework" long-name="MPX Playback Framework" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mpx/playbackframework/group"/>
+</component>
+<component name="mpxcollectionfw" long-name="MPX Collection Framework" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mpx/collectionframework/group"/>
+</component>
+<component name="mpxviewfw" long-name="MPX View Framework" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mpx/viewframework/group"/>
+</component>
+<component name="mpxviewframeworkqt" long-name="MPX View Framework Qt" introduced="^4" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mpx/mpxviewframeworkqt" proFile="mpxviewframeworkqt.pro" qmakeArgs="-r -config rom"/>
+</component>
+<component name="mpx_build" long-name="MPX Build" introduced="^1" filter="s60" purpose="optional">
+<!--  Move the export to another component or remove the #includes from this one -->
+<unit bldFile="/sf/mw/mmappfw/mpx/group"/>
+</component>
+</collection>
+<collection name="mmappcomponents" long-name="Multimedia App Components" level="utils">
+<component name="mmappcomponents_build" long-name="Multimedia App Components Build" introduced="^1" filter="s60" purpose="optional">
+<!-- needed for  #ifdefs and hrh include. Need to #include the .hrh file in each bld.inf
+      		Can remove this once configuration is in place-->
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/group"/>
+</component>
+<component name="collectionhelper" long-name="Media Player Collection Helper" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/collectionhelper/group"/>
+</component>
+<component name="playlistengine" long-name="Playlist Engine" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/playlistengine/group"/>
+</component>
+<component name="mpxharvester" long-name="Media Player Harvester" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/harvester/group"/>
+</component>
+<component name="mmappcommonui" long-name="Multimedia App Common UI" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/mmappcommonui/group"/>
+</component>
+<component name="mediaplayersettingsengine" long-name="Media Player Settings Engine" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/mediaplayersettingsengine/group"/>
+</component>
+<component name="asxparser" long-name="ASX Parser" introduced="^1" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/asxparser/group"/>
+</component>
+<component name="playbackhelper" long-name="Playback Helper" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/playbackhelper/group"/>
+</component>
+<component name="videoplaylistutility" long-name="Video Playlist Utility" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/videoplaylistutility/group"/>
+</component>
+<component name="mmmtpdataprovider" long-name="Multimedia MTP Data Provider" introduced="^3" filter="s60" purpose="optional">
+<unit bldFile="/sf/mw/mmappfw/mmappcomponents/mmmtpdataprovider/group"/>
+</component>
+</collection>
+<collection name="qtms" long-name="Qt Telephony Multimedia Services" level="fw">
+<component name="qtms_build" long-name="Qt Telephony Multimedia Services Build" introduced="^4" filter="s60" purpose="optional">
+<!--  Collection is really a component. Move down a dir -->
+<unit bldFile="/sf/mw/mmappfw/qtms" proFile="qtmsapi.pro" qmakeArgs="-r -config rom"/>
+</component>
+</collection>
+<collection name="mmappfw_info" long-name="Multimedia App Framework Info" level="if">
+<component name="mmappfw_build" long-name="Multimedia App Framework Build" introduced="^1" filter="s60" purpose="optional">
+<!--  Move the export to another component or remove the #includes from this one -->
+<unit bldFile="/sf/mw/mmappfw/group"/>
+</component>
+<component name="mmappfw_test" long-name="Multimedia App Framework Test" introduced="^1" filter="s60,test,api_test,pref_test" purpose="development"/>
+</collection>
+</block>
+  </layer>
+ </systemModel>
+</SystemDefinition>

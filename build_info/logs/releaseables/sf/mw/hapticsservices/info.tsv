@@ -1,0 +1,205 @@
+/epoc32/RELEASE/winscw/UDEB/Z/private/10282BC4/Rules/tacticon.rul	export	
+/epoc32/RELEASE/winscw/UDEB/Z/private/10282BC4/Rules/tactile.rul	export	
+/epoc32/data/Z/private/10282BC4/Rules/tacticon.rul	export	
+/epoc32/data/Z/private/10282BC4/Rules/tactile.rul	export	
+/epoc32/data/z/private/10003B20/10.1_TactileFeedbackLevel1_A.ivt	export	
+/epoc32/data/z/private/10003B20/10.1_TactileFeedbackLevel2_A.ivt	export	
+/epoc32/data/z/private/10003B20/10.1_TactileFeedbackLevel3_A.ivt	export	
+/epoc32/data/z/private/10003B20/10.1_TactileFeedbackLevel4_A.ivt	export	
+/epoc32/data/z/private/10003B20/10.1_TactileFeedbackLevel5_A.ivt	export	
+/epoc32/data/z/resource/plugins/tacticonactionplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tacticonactionplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tacticonhapticsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tacticonhapticsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tactileactionplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tactileactionplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tactileaudioplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tactileaudioplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tactilehapticsplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tactilehapticsplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tactiletoneplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tactiletoneplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/resource/plugins/tactilevibraplugin.rsc	resource	armv5_urel
+/epoc32/data/z/resource/plugins/tactilevibraplugin.rsc	resource	winscw_udeb
+/epoc32/data/z/system/Sounds/Digital/tacticons.ivt	export	
+/epoc32/include/mw/touchfeedback.h	export	
+/epoc32/include/mw/touchfeedbackspec.h	export	
+/epoc32/include/mw/touchlogicalfeedback.h	export	
+/epoc32/include/platform/mw/tacticon.h	export	
+/epoc32/include/platform/mw/tacticon.hrh	export	
+/epoc32/include/platform/mw/tacticondomaincrkeys.h	export	
+/epoc32/include/platform/mw/tactilefeedback.h	export	
+/epoc32/include/platform/mw/tactilefeedbackserver.h	export	
+/epoc32/include/platform/mw/touchfeedbackadaptation.h	export	
+/epoc32/release/armv5/lib/tacticon.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tacticon.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tacticonpluginfw.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tacticonpluginfw.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tacticonpluginfw{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tacticonpluginfw{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tacticon{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tacticon{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactilearearegistry.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactilearearegistry.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactilearearegistry{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactilearearegistry{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactileclickplugin.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactileclickplugin.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactileclickplugin{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactileclickplugin{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactilefeedbackresolver.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactilefeedbackresolver.dso	build	armv5_urel
+/epoc32/release/armv5/lib/tactilefeedbackresolver{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/tactilefeedbackresolver{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/lib/touchfeedback.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/touchfeedback.dso	build	armv5_urel
+/epoc32/release/armv5/lib/touchfeedback{000a0000}.dso	build	armv5_udeb
+/epoc32/release/armv5/lib/touchfeedback{000a0000}.dso	build	armv5_urel
+/epoc32/release/armv5/udeb/tacticon.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticon.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonactionplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonactionplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonhapticsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonhapticsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonpluginfw.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonpluginfw.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonserver.exe	build	armv5_udeb
+/epoc32/release/armv5/udeb/tacticonserver.exe.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileactionplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileactionplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilearearegistry.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilearearegistry.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileaudioplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileaudioplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileclickplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactileclickplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilefeedbackresolver.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilefeedbackresolver.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilehapticsplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilehapticsplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactiletoneplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactiletoneplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilevibraplugin.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/tactilevibraplugin.dll.map	build	armv5_udeb
+/epoc32/release/armv5/udeb/touchfeedback.dll	build	armv5_udeb
+/epoc32/release/armv5/udeb/touchfeedback.dll.map	build	armv5_udeb
+/epoc32/release/armv5/urel/tacticon.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tacticon.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonactionplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonactionplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonhapticsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonhapticsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonpluginfw.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonpluginfw.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonserver.exe	build	armv5_urel
+/epoc32/release/armv5/urel/tacticonserver.exe.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactileactionplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactileactionplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactilearearegistry.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactilearearegistry.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactileaudioplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactileaudioplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactileclickplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactileclickplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactilefeedbackresolver.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactilefeedbackresolver.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactilehapticsplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactilehapticsplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactiletoneplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactiletoneplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/tactilevibraplugin.dll	build	armv5_urel
+/epoc32/release/armv5/urel/tactilevibraplugin.dll.map	build	armv5_urel
+/epoc32/release/armv5/urel/touchfeedback.dll	build	armv5_urel
+/epoc32/release/armv5/urel/touchfeedback.dll.map	build	armv5_urel
+/epoc32/release/winscw/udeb/Z/System/Sounds/Digital/tacticons.ivt	export	
+/epoc32/release/winscw/udeb/Z/private/10003B20/10.1_TactileFeedbackLevel1_A.ivt	export	
+/epoc32/release/winscw/udeb/Z/private/10003B20/10.1_TactileFeedbackLevel2_A.ivt	export	
+/epoc32/release/winscw/udeb/Z/private/10003B20/10.1_TactileFeedbackLevel3_A.ivt	export	
+/epoc32/release/winscw/udeb/Z/private/10003B20/10.1_TactileFeedbackLevel4_A.ivt	export	
+/epoc32/release/winscw/udeb/Z/private/10003B20/10.1_TactileFeedbackLevel5_A.ivt	export	
+/epoc32/release/winscw/udeb/tacticon.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tacticon.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tacticonactionplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tacticonhapticsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tacticonpluginfw.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tacticonpluginfw.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tacticonserver.exe	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactileactionplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactilearearegistry.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactilearearegistry.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactileaudioplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactileclickplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactilefeedbackresolver.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactilefeedbackresolver.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactilehapticsplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactiletoneplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/tactilevibraplugin.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/touchfeedback.dll	build	winscw_udeb
+/epoc32/release/winscw/udeb/touchfeedback.lib	build	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tacticonactionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tacticonhapticsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tactileactionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tactileaudioplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tactilehapticsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tactiletoneplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/udeb/z/resource/plugins/tactilevibraplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/tacticon.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tacticon.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonactionplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonactionplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonhapticsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonhapticsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonpluginfw.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonpluginfw.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonserver.exe	build	winscw_urel
+/epoc32/release/winscw/urel/tacticonserver.exe.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactileactionplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactileactionplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactilearearegistry.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactilearearegistry.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactileaudioplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactileaudioplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactileclickplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactileclickplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactilefeedbackresolver.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactilefeedbackresolver.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactilehapticsplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactilehapticsplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactiletoneplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactiletoneplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/tactilevibraplugin.dll	build	winscw_urel
+/epoc32/release/winscw/urel/tactilevibraplugin.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/touchfeedback.dll	build	winscw_urel
+/epoc32/release/winscw/urel/touchfeedback.dll.map	build	winscw_urel
+/epoc32/release/winscw/urel/z/resource/plugins/tacticonactionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tacticonhapticsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tactileactionplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tactileaudioplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tactilehapticsplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tactiletoneplugin.rsc	resource	winscw_udeb
+/epoc32/release/winscw/urel/z/resource/plugins/tactilevibraplugin.rsc	resource	winscw_udeb
+/epoc32/rom/config/assets/s60/confml/tacticonhapticsplugin.confml	export	
+/epoc32/rom/config/assets/s60/confml/tacticonserver.confml	export	
+/epoc32/rom/config/assets/s60/confml/tactilefeedback.confml	export	
+/epoc32/rom/config/assets/s60/implml/tacticonhapticsplugin_2001FE52.crml	export	
+/epoc32/rom/config/assets/s60/implml/tacticonserver_2001FE4D.crml	export	
+/epoc32/rom/config/assets/s60/implml/tactilefeedback_2000B494.crml	export	
+/epoc32/rom/include/core/mw/tacticonactionplugin.iby	export	
+/epoc32/rom/include/core/mw/tacticonhapticsplugin.iby	export	
+/epoc32/rom/include/core/mw/tacticonserver.iby	export	
+/epoc32/rom/include/core/mw/tactileactionplugin.iby	export	
+/epoc32/rom/include/core/mw/tactileaudioplugin.iby	export	
+/epoc32/rom/include/core/mw/tactileclickplugin.iby	export	
+/epoc32/rom/include/core/mw/tactilefeedback.iby	export	
+/epoc32/rom/include/core/mw/tactilefeedbackresolver.iby	export	
+/epoc32/rom/include/core/mw/tactilehapticsplugin.iby	export	
+/epoc32/rom/include/core/mw/tactiletoneplugin.iby	export	
+/epoc32/rom/include/core/mw/tactilevibraplugin.iby	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactilearearegistry.h	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactilefeedbackdomaincrkeys.h	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactilefeedbackinternalpskeys.h	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactilefeedbackprivatecrkeys.h	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactilefeedbackresolver.h	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactileinternaldatatypes.h	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactilepropertyobserver.h	export	
+/sf/mw/hapticsservices/tactilefeedback/inc/tactilepropertywatcher.h	export	
